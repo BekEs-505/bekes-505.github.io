@@ -1,0 +1,8 @@
+Origin: A BekEs - بيكاس
+Label: [BK] بيكاس
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: BekEs Best Repo for all Packaging! Cydia + Sileo + Installer + Zebra!.
