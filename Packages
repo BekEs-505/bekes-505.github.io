@@ -14,3 +14,19 @@ Description: اداة وظيفتها : تغير خطوط الايفون الي �
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Font Rootless
 
+Package: com.bekes-505.github.io.anactualrootless
+Version: 0.1.0~beta2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: ./debs/com.bekes-505.github.io.anactuallygoodfilzaeditor_0.1.deb
+Size: 121152
+MD5sum: bb2b818c14cb59ce69f72452df4c69c5
+SHA1: d3a35c685256ad809c1df81ae8e435f4ab95b76d
+SHA256: ddc2a92c89c4275fcdc76d4d57639417f1624b4dad6952b99ea3eea286e24e97
+Section: Tweaks
+Description: اداة وظيفتها : لمحرر النصوص داخل فيلزا لكتابتة الاوامر وتسهليها في تقسيم
+Author: BekEs - بيكاس
+Name: AnActuallyGoodFilzaEditor Rootless
+
