@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>0.9.2</version>
-		<change>Made the H lowercased &amp; now it'll only appear after a respring for a few seconds to make more sense.</change>
-	</changes>
-</changelog>
