@@ -1,0 +1,82 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "",
+	"tintColor": "#77353D",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "FuckThatAnimation",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 2
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://github.com/Luki120/luki120.github.io/assets/27637025/971c3090-9474-46ee-b9fb-b021a97613a3"
+						},
+						{
+							"accessibilityText": "Screenshot1",
+							"url": "https://github.com/Luki120/luki120.github.io/assets/27637025/ef58a01c-bc48-4a01-8e1d-87d7bbf165d3"
+						}
+					]
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionMarkdownView",
+					"title": "markdown-description",
+					"markdown": "Removes the CC labels and fade out animation when toggling a CC toggle. \n* Handcrafted icon by @BenOwl3.",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "0.9.0",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "5/8/21",
+					"title": "Released",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Bruh",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Luki120",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				}
+			],
+			"tabname": "Details"
+		}
+	],
+	"class": "DepictionTabView"
+}

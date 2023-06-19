@@ -1,0 +1,78 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/Luki120/AesteaRevived/main/Prefs/Resources/Assets/Banner.png",
+	"tintColor": "#A3AAFF",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Aestea Revived",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "Colorize your connectivity toggles on the fly. \n* Features: \n* Color on enabled/disabled state. \n* Akara, Big Sur Center & Prysm support. \n* Really disable WiFi & Bluetooth toggles on tap.",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://twickd.com/images/c8577cb61e417dab355e253a0008628601232521.jpeg"
+						}
+					]
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionMarkdownView",
+					"title": "markdown-description",
+					"markdown": "",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "0.9.2",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "4/8/23",
+					"title": "Updated",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Bruh",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Luki120",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				}
+			],
+			"tabname": "Details"
+		}
+	],
+	"class": "DepictionTabView"
+}

@@ -1,0 +1,58 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "",
+	"tintColor": "#8B949E",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "ReachSpring",
+					"useBottomMargin": false
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionMarkdownView",
+					"title": "markdown-description",
+					"markdown": "\n* Trigger respring smoothly and with ease invoking the reachability gesture.",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "0.9.0",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "8/29/21",
+					"title": "Released",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Bruh",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Luki120",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				}
+			],
+			"tabname": "Details"
+		}
+	],
+	"class": "DepictionTabView"
+}

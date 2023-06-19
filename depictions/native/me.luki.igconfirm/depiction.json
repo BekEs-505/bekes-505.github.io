@@ -1,0 +1,59 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "",
+	"tintColor": "#8A3AB9",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "IGConfirm",
+					"useBottomMargin": false
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionMarkdownView",
+					"title": "markdown-description",
+					"markdown": "Prevent accidental likes or follows on Instagram by showing a popup confirmation.",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "0.9.0",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "10/25/21",
+					"title": "Released",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Bruh",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Luki120",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				}
+			],
+			"tabname": "Details"
+		}
+	],
+	"class": "DepictionTabView"
+}
+	

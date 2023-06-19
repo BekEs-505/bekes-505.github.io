@@ -1,0 +1,82 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amelija/AmelijaBanner.png",
+	"tintColor": "#77353D",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Amēlija",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://twickd.com/images/42323756ab240a13ad2e728b1bafdfa693fda5d0.jpeg"
+						},
+						{
+							"accessibilityText": "Screenshot1",
+							"url": "https://twickd.com/images/2fa38768da6b1c1f8c5fca84ccd5f8fbc8c6566a.jpeg"
+						}
+					]
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionMarkdownView",
+					"title": "markdown-description",
+					"markdown": "Take full control of your wallpapers on the fly.  \n* Features 8 different styles: \n* Epic. \n* Dark. \n* Light. \n* Adaptive. \n* Promiment. \n* System thin material. \n* System chrome material. \n* System ultra thin material.",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "2.0",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "5/6/23",
+					"title": "Released",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Bruh",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Luki120",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				}
+			],
+			"tabname": "Details"
+		}
+	],
+	"class": "DepictionTabView"
+}

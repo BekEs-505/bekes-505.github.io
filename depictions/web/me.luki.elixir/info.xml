@@ -1,0 +1,46 @@
+<package>
+	<id>me.luki.elixir</id>
+	<name>Elixir</name>
+	<version>0.9.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Tweak count at a glimpse.</shortDescription>
+	<descriptionlist>
+		<description>Tweak count right on your settings app. Supports Orion, Shuffle &amp; the app TweakSettings. NOTE: it ONLY counts tweaks with preference bundles, hence why it's located in the settings app. I didn't feel like bloating up the code counting the total number of packages or making filters. This gives a concise &amp; accurate count of the tweaks you have right there on the section you're standing. Handcrafted icon by @jam_minty.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>Elixir.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>Elixir2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>Elixir3.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added support for OneSettings &amp; fixed Shuffle.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/Apps/Elixir</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>

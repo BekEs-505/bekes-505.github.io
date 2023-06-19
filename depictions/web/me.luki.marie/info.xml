@@ -1,0 +1,48 @@
+<package>
+	<id>me.luki.marie</id>
+	<name>Marie</name>
+	<version>1.0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.mrgcgamer.libgcuniversal</package>
+	</dependencies>
+	<shortDescription>Put an image for the dialer, passcode or sharesheet background on the fly.</shortDescription>
+	<descriptionlist>
+		<description>Put an image for the dialer, passcode or sharesheet background on the fly. Logo from https://icons8.com/</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>MarieDialer.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>MariePasscode.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>MarieSharesheet.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>• Only fade in the passcode image once the transition to the keypad view finishes &amp; authenticating with FaceID wasn't possible.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/Marie</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>

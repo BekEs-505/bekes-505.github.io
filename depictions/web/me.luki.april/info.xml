@@ -1,0 +1,44 @@
+<package>
+	<id>me.luki.april</id>
+	<name>April</name>
+	<version>3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.mrgcgamer.libgcuniversal</package>
+	</dependencies>
+	<shortDescription>Augment your settings app aesthetics to the next level on the fly</shortDescription>
+	<descriptionlist>
+		<description>Augment your settings app aesthetics to the next level on the fly. Features custom dark &amp; light mode images, schedules images, light, dark, epic, adaptive, thin material &amp; gaussian blurs with custom intensity (alpha) and gradients with custom directions &amp; an optional animation.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>April.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>April.jpeg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added rootless support &amp; moved to my repository.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/April</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>

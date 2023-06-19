@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: Luki120
+Components: main
+Date: Mon, 19 Jun 2023 11:07:27 +0000
+Description: BekEs Best Repo for all Packaging! Cydia + Sileo + Installer + Zebra!.
+Label: [BK] بيكاس
+Origin: A BekEs - بيكاس
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 09847e44bf82569185b449a126bf8b9a            40419 Packages
+ 367269f9f4f452334b9e879b413d187d            10001 Packages.bz2
+ 60f5223a6998bf503f1714d1324ef799            11033 Packages.gz
+ 24e6075a39dbb3a41c3fe67de8d4539d             9776 Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages.zst
+ d211bf933a9bd62b31ff0b76203b8358              279 Release
+SHA1:
+ 81052fa6aa2218811871ffbad5db2a51a03fcd28            40419 Packages
+ 7ed204b5c0f2eb671a033a58d695b05f95ef4a6d            10001 Packages.bz2
+ 4da5c368826e4d5b86b0194aeda420da6e83324f            11033 Packages.gz
+ 471ba6ccc5c7e1ceac385355cdeeadcfe68bba29             9776 Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages.zst
+ d5016d1e5abd7869224eada26c0726785e79b543              279 Release
+SHA256:
+ ee87973ff25f69e3690c5b47d411aa4fc79b3efa3541c0fa6b162886f8596866            40419 Packages
+ 0393b362f5bcd0bed1b4e1cfa800730613daaa8f7d63179ec02248cb1ac8286b            10001 Packages.bz2
+ 22175afb468a105f7f295f8dea7b383a641fcbe41567a05494acd81d7a9a4186            11033 Packages.gz
+ f41813b9f2b5573a3d718198352d76ec66b4f236d11baaf5aeb1c6f0b988bde8             9776 Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages.zst
+ 1237dba1175edfa682671e8ca2669d04bc82f18bd011dd500c588fb3afcf2a47              279 Release
+SHA512:
+ 6972b2c4072e358c6c39a2a76a6199b5fcb49ecc6e5d2fa8a1cb37165d76d71dd03f57828cc47a4eb3f5265234050aa7f861fe6be63ea9445f39c6ec6299f009            40419 Packages
+ fb358496e22ff0b82788953935ff56823337353a64ccb2e7de2ee5edbaddee1315c7c55e7cc1a5f643c8be24eb8fb433cd5f31115253fb032ee15fadc3f83ce5            10001 Packages.bz2
+ afc8283f5e383af2cbcda33ad4732208fc1c163fb902e9aa4c4f4fcdd08f6fb61e54e3702da6fdd0ad9344c4de4153595a199cad8111c4e4508d0640cb83e7fc            11033 Packages.gz
+ 7a8570037a1bce617e58b395effa678373f3808ec77a0eba3d66339219015dbdd2f4e533e981f5538668045e07e0601e3b11690932fa05a06be2ad4757d838e2             9776 Packages.xz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages.zst
+ f311100e956553632a4fdc234d830c306c1616100ef1d0b96f8921364a4b27cc555a4cc4fab6c9a4c267b496e342f4b1eeae04428149a936dada374fc3638001              279 Release

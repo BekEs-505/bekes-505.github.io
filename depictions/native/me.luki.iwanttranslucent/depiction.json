@@ -1,0 +1,82 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "",
+	"tintColor": "#92B8C9",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "IWantTranslucent",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://github.com/Luki120/luki120.github.io/assets/27637025/2c0bca5f-969f-405c-ace0-fd8a80ba84a2"
+						},
+						{
+							"accessibilityText": "Screenshot1",
+							"url": "https://github.com/Luki120/luki120.github.io/assets/27637025/eb7e0aa6-bd50-4308-a7fa-4ff41a08bdd3"
+						}
+					]
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionMarkdownView",
+					"title": "markdown-description",
+					"markdown": "Replace the ugly effects on the 3D Touch context menu for a clean translucent look. \n* Original tweak idea by @iCrazeiOS, updated for iOS 14+ by @Lukii120. \n* Handcrafted icon by @BenOwl3.",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "0.9.2",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "4/1/23",
+					"title": "Updated",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Bruh",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Luki120",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				}
+			],
+			"tabname": "Details"
+		}
+	],
+	"class": "DepictionTabView"
+}
