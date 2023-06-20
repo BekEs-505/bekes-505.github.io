@@ -47,3 +47,23 @@ Description: اداة وظيفتها : فتح اكثر من حساب في تطب
 Author: BekEs - بيكاس
 Name: Crane rootless
 
+Package: com.bekes-505.github.io.shufflerootless
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1484
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.bekes-505.github.io.shufflerootless_1.6.2_iphoneos-arm64.deb
+Size: 355306
+MD5sum: 86aebddcf9ed960bf1f83aec1fd80f71
+SHA1: c8a20b9c014f20cef155b933aa8f388e90cf8a67
+SHA256: 037e7986a6d5758f86abf0d35b9cff5df28f53391ce6ef18089bb5a682b418ae
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من ترتيب اعدادات الجهاز مثل الادوات في قسم والتطبيقات في قسم وتطبيقات النظام في قسم لتسهيل الوصول لها وايضاً تمكنك من تعطيل الادوات من اللاعدادات، وعرض سورساتها ونسخها
+Tag: purpose::extension, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: Shuffle Rootless
+
