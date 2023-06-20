@@ -14,6 +14,22 @@ Description: اداة وظيفتها : تغير خطوط الايفون الي �
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Font Rootless
 
+Package: com.bekes-505.github.io.amberrootless
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 368
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debs/com.bekes-505.github.io.amberrootless_1.2.0_iphoneos-arm64.deb
+Size: 18050
+MD5sum: 6837e61e311ef890d493c69af6f918d0
+SHA1: 503951cbcb178901d212f404dd280be52d7fdbbc
+SHA256: 897600dff9e67aa16eedd8fbb5fda5cabc45f120f973ae95a2bd155b0a7146ae
+Section: Tweaks
+Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
+Author: PoomSmart
+Name: Amber Rootless
+
 Package: com.bekes-505.github.io.anactualrootless
 Version: 0.1.0~beta2
 Architecture: iphoneos-arm64
