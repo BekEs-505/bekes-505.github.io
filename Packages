@@ -46,6 +46,22 @@ Description: اداة وظيفتها : لمحرر النصوص داخل فيلز
 Author: BekEs - بيكاس
 Name: AnActuallyGoodFilzaEditor Rootless
 
+Package: com.bekes-505.github.io.bhtwitterrotless
+Version: 3.9.1
+Architecture: iphoneos-arm64
+Maintainer: B6_7E
+Installed-Size: 3752
+Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
+Filename: ./debs/com.bekes-505.github.io.bhtwitterrootless_3.9.deb
+Size: 1358158
+MD5sum: 8064d926e3bcc790230ab1e625260811
+SHA1: e1e89d1848cd5a217ba8bfff7fd833fe04b523c3
+SHA256: 8334c3b277a1da6aa6e57e2ddfb8de848ac168e5928f1b488c828c22dde4ea6f
+Section: Tweaks
+Description: اداة وظيفتها : تويتر بلس مميزاته تتيح لك امكانية تحميل الفيديوهات من التغريدة حتى لو كان الحساب برايفت و فتح ميزة التغريد بالتسجيل الصوتي لتويتر في الخاص والعام
+Author: BekEs - بيكاس
+Name: BHTwitter Rootless
+
 Package: com.bekes-505.github.io.byehomerotless
 Version: 1.3.4-1
 Architecture: iphoneos-arm64
