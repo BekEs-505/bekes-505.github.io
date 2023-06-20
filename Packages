@@ -83,6 +83,21 @@ Description: اداة وظيفتها : فتح اكثر من حساب في تطب
 Author: BekEs - بيكاس
 Name: Crane rootless
 
+Package: com.bekes-505.github.io.ikeywi4rootless
+Version: 4.2.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), com.opa334.altlist
+Filename: ./debs/com.bekes-505.github.io.ikeywi4rootless_4.2.deb
+Size: 383344
+MD5sum: 63d96f06998973cc55c2ff0d14b60ada
+SHA1: 0a60c9e9b38467bf5a3cb4db066b902d1928e3e5
+SHA256: af68f463138ac97a715c1a9c21056c21237b99ff2f58bccb00498349a96159ae
+Section: Tweaks
+Description: اداة وظيفتها : إضافة صف أرقام للوحة المفاتيح أو إظهارها كما في الـ iPad بشكل ثانوي، مع إمكانية تخصيص مفاتيح هذا الصف
+Author: BekEs - بيكاس
+Name: iKeywi 4 Rootless
+
 Package: com.bekes-505.github.io.injectiparotless
 Version: 1.3-6
 Architecture: iphoneos-arm64
