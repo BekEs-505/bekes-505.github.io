@@ -83,6 +83,22 @@ Description: اداة وظيفتها : فتح اكثر من حساب في تطب
 Author: BekEs - بيكاس
 Name: Crane rootless
 
+Package: com.bekes-505.github.io.injectiparotless
+Version: 1.3-6
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 28260
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.bekes-505.github.io.injectiparootless_1.deb
+Size: 8750860
+MD5sum: 868f88eb96d47cfee63781d9b415c4f0
+SHA1: 378d3b05aab7bb3c52635ba9f0810e25e2b46821
+SHA256: 07235462faa8b1d697f3e461866c5000646f94a5b323b10c8832a63e814ab289
+Section: Tweaks
+Description: اداة وظيفتها : دمج ملف dylib في ipa بواسطة NewTerm
+Author: BekEs - بيكاس
+Name: injectipa Rootless
+
 Package: com.bekes-505.github.io.shufflerootless
 Version: 1.6.2
 Architecture: iphoneos-arm64
