@@ -5,10 +5,10 @@ Maintainer: Baw Appie <pp121324@gmail.com>
 Installed-Size: 2476
 Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
 Filename: ./debs/com.bekes-505.github.io.a-fontrootless_1.9.3_iphoneos-arm64.deb
-Size: 12640004
-MD5sum: efe7d93941cc17e7ba680aa71df44ce8
-SHA1: 96bef3ccd548a86c57310233b37f10e939ebad40
-SHA256: 78fcfc6fdf791c38143cbac1f91e8f0bedf19d9aed03ce7786575ae2b0e30442
+Size: 11292780
+MD5sum: 9ffacbe232aabc845aa158a0c9dc456c
+SHA1: 075e391561785889d111fa9435d6042ddebfcab2
+SHA256: a84029989eaf5cf17a489877fd596c0dfe34c46d943fe36c10ae026702630b61
 Section: Tweaks
 Description: اداة وظيفتها : تغير خطوط الايفون الي خطوط كثير ومدموجه معها
 Author: Baw Appie <pp121324@gmail.com>
