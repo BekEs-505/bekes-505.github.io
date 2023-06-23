@@ -289,17 +289,17 @@ Dev: ahmadmokaddam
 Name: Whatsapp Revael Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.bekes-505.github.io.wickedfr33
+Package: dev.zero.wickedfr33
 Version: 2.0.3a
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate
 Conflicts: dev.zero.wicked
-Filename: ./debs/com.bekes-505.github.io.wickedfr33_2.0.3a_iphoneos-arm64.deb
-Size: 3909266
-MD5sum: 1bd319fb366817937772fc29341067f6
-SHA1: e9d81d545efe7fcd38badd1d05b76623eb623451
-SHA256: 1c2e396120c66a419abf3d991c1cef4286e94f32fc4dd8017d6334ac9318ff41
+Filename: ./debs/dev.zero.wickedfr33_2.0.3.a_iphoneos-arm64.deb
+Size: 3909248
+MD5sum: be8bb95e9f3b9edd73ad6eb6b1fd5100
+SHA1: 27a7d4645914e902c9702450b48af23f7293da38
+SHA256: baeef150ab33c0bc4e25bcb40aa11ecf1a38c1da8f4b6fc4103e93401970fd15
 Section: Development
 Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخفي في الدردشة وتغير الموقع
 Author: BekEs - بيكاس
