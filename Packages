@@ -217,6 +217,24 @@ Tag: purpose::extension, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: Shuffle Rootless
 
+Package: com.bekes-505.github.io.uyourootless
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 31200
+Depends: firmware (>=13.0), mobilesubstrate
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debs/com.bekes-505.github.io.uyourootless_3.0_iphoneos-arm64.deb
+Size: 14862280
+MD5sum: 88b6603c03e4261bfa790a6555ce370e
+SHA1: 7576fac9469e2f0429b9fb9e71bf825a9fecba6e
+SHA256: 21c533dcaf1f560f207998b69dd257edfad9b45687138e922418289efb8220af
+Section: Tweaks
+Description: اداة وظيفتها : تغيير طريقة عرض المشغل لليوتيوب و مكتبة تنزيلات و امكانية تصدير الفيديوهات و دمج مشغل الجهاز داخل التطبيق وتنزيل المقاطع بصيغات مختلفھ وحذف اعلانات
+Tag: purpose::extension, compatible_min::ios13
+Author: BekEs - بيكاس
+Name: uYou Rootless
+
 Package: com.bekes-505.github.io.watusi3rootless
 Version: 1.1.62
 Architecture: iphoneos-arm64
