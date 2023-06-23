@@ -166,6 +166,23 @@ Tag: purpose::extension, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: Shuffle Rootless
 
+Package: com.bekes-505.github.io.watusi3rootless
+Version: 1.1.62
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 6480
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.bekes-505.github.io.watusi3rootless_1.1.62_iphoneos-arm64.deb
+Size: 12033824
+MD5sum: a0a639703143a80d4c1b1b88b7ba7b86
+SHA1: c9ba7664ce0b06a9cef060ecec3dbeaf2658dbca
+SHA256: 68f78fdc7096943ab36f849a4964de045310cb0a0c718c59a778f5fc1cda1f76
+Section: Tweaks
+Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
+Author: BekEs - بيكاس
+Name: Watusi 3 for WhatsApp Rootless
+
 Package: com.bekes-505.github.io.whatsrevrotless
 Version: 10.17
 Architecture: iphoneos-arm64
@@ -174,12 +191,12 @@ Installed-Size: 6123
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.bekes-505.github.io.whatsrevrotless
 Filename: ./debs/com.bekes-505.github.io.whatsrevrotless_10.17_iphoneos-arm64.deb
-Size: 3121390
-MD5sum: cb8bc24407a2745bd3c54f6ccad99aa5
-SHA1: 46fc889e67695dadabeb923b95fc781e6edbb94d
-SHA256: 4b37600e1153c6d0b107e4c1ee78d20e8329f875b056891bedfdc69586ef677f
+Size: 3121528
+MD5sum: c07502770b6a2dd6d45f40c4faad668b
+SHA1: 913161808c301ae4b2d6cd57f2f09e4f21abc95c
+SHA256: f982bde50b0dc5bb9705c3c9865ec1174a0bfb8ec2484963e32826ba296662d4
 Section: Tweaks
-Description: Many features of the WhatsApp application
+Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
 Author: BekEs - بيكاس
 Dev: ahmadmokaddam
