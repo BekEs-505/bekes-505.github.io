@@ -132,6 +132,23 @@ Description: اداه وظيفتها : لتصفح ملفات الايفون وا
 Author: BekEs -بيكاس
 Name: Filza File Manager 64-bit Rootless
 
+Package: com.bekes-505.github.io.filzarootless
+Version: 4.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 34948
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/com.bekes-505.github.io.filzarootless_4.0.1-2_iphoneos-arm64.deb
+Size: 13936084
+MD5sum: b4a90255612b1f90dc76b5b4818eea5d
+SHA1: cc44199d3d9bf4ded10f540b657a420367b129bb
+SHA256: efa37237bb6a42788f65b188a64f022dfcc2e7d4f1248cb84cd6f84158e99442
+Section: Utilities
+Description: اداه وظيفتها : لتصفح ملفات الايفون والوصول لي اي ملف ولا اداة في الجهاز وفك الضغط وتعديل على الادوات والملفات والتطبيقات
+Author: BekEs - بيكاس
+Name: Filza File Manager Rootless
+
 Package: com.bekes-505.github.io.ikeywi4rootless
 Version: 4.2.1
 Architecture: iphoneos-arm64
