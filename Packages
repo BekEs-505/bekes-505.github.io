@@ -46,6 +46,22 @@ Description: اداة وظيفتها : لمحرر النصوص داخل فيلز
 Author: BekEs - بيكاس
 Name: AnActuallyGoodFilzaEditor Rootless
 
+Package: com.bekes-505.github.io.appdatarootless
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 2412
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bekes-505.github.io.appdatarootless_1.4.deb
+Size: 995356
+MD5sum: 07f05269fd888b61aeb5a703802b7588
+SHA1: 2132cb203671a72753c1fdee4d471443129b0eed
+SHA256: d291fd2e7b00b0a3a9b8ce5a8c228526d54fc6c50ad1a0d330c5b0b1c4ae898e
+Section: Tweaks
+Description: اداة وظيفتها : ارجاع اصدارات التطبيقات و تنظيف ملفات الكاش وحذف الاشعارات والدخول لمسارات التطبيق بسهوله وغيره،تضغط ضغطه مطوله على التطبيق وتختار AppData وتظهرلك الخيارات
+Author: BekEs - بيكاس
+Name: AppData Rootless
+
 Package: com.bekes-505.github.io.bhtwitterrotless
 Version: 3.9.1
 Architecture: iphoneos-arm64
