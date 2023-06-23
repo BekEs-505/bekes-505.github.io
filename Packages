@@ -197,6 +197,23 @@ Description: اداة وظيفتها : دمج ملف dylib في ipa بواسطة
 Author: BekEs - بيكاس
 Name: injectipa Rootless
 
+Package: com.bekes-505.github.io.rocketrootless
+Version: 3.8.8
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 6504
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/com.bekes-505.github.io.rocketrootless.deb
+Size: 2246286
+MD5sum: 14c0edd57f7e212dc74a1ce369843f4a
+SHA1: 8cfbc8a06639b8510e653bf14b1ad4473a41e36a
+SHA256: 903fd4ab11b40c7483685cf4f6ca01d1668b3a8ed38f3f427fd48e88af448d74
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
+Author: BekEs - بيكاس
+Name: Rocket for Instagram Rootless
+
 Package: com.bekes-505.github.io.shufflerootless
 Version: 1.6.2
 Architecture: iphoneos-arm64
