@@ -203,11 +203,11 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6504
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/com.bekes-505.github.io.deb
-Size: 2261088
-MD5sum: 76c2c462e2818188e477046fc8c27cd3
-SHA1: 9da6c3d2e42fc08ce610ced0b2680832021b1c95
-SHA256: f9115cbfa7f2c1a1b94c21ef869c434b5fbb33800bbcdde209325932fc6ee4f0
+Filename: ./debs/com.bekes-505.github.io.rocketrootless.deb
+Size: 2246286
+MD5sum: 14c0edd57f7e212dc74a1ce369843f4a
+SHA1: 8cfbc8a06639b8510e653bf14b1ad4473a41e36a
+SHA256: 903fd4ab11b40c7483685cf4f6ca01d1668b3a8ed38f3f427fd48e88af448d74
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
