@@ -115,6 +115,23 @@ Description: اداة وظيفتها : فتح اكثر من حساب في تطب
 Author: BekEs - بيكاس
 Name: Crane rootless
 
+Package: com.bekes-505.github.io.filza64bitrotless
+Version: 4.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/com.bekes-505.github.io.filza64bitrotless_4.0.1-4_iphoneos-arm64.deb
+Size: 8707336
+MD5sum: 35340f7aff872958c9a27c6d9a9056a1
+SHA1: 2099bde322360714749982cd2f36418f2d0812cf
+SHA256: 4b8f581d2ac1bc35b14ba9246236ea3abea3f5bf217821bbf2c026a5e2692143
+Section: Utilities
+Description: اداه وظيفتها : لتصفح ملفات الايفون والوصول لي اي ملف ولا اداة في الجهاز وفك الضغط وتعديل على الادوات والملفات والتطبيقات
+Author: BekEs -بيكاس
+Name: Filza File Manager 64-bit Rootless
+
 Package: com.bekes-505.github.io.ikeywi4rootless
 Version: 4.2.1
 Architecture: iphoneos-arm64
