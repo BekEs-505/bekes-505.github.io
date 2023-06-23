@@ -166,3 +166,23 @@ Tag: purpose::extension, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: Shuffle Rootless
 
+Package: com.bekes-505.github.io.whatsrevrotless
+Version: 10.17
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 6123
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.bekes-505.github.io.whatsrevrotless
+Filename: ./debs/com.bekes-505.github.io.whatsrevrotless_10.17_iphoneos-arm64.deb
+Size: 3121390
+MD5sum: cb8bc24407a2745bd3c54f6ccad99aa5
+SHA1: 46fc889e67695dadabeb923b95fc781e6edbb94d
+SHA256: 4b37600e1153c6d0b107e4c1ee78d20e8329f875b056891bedfdc69586ef677f
+Section: Tweaks
+Description: Many features of the WhatsApp application
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: ahmadmokaddam
+Name: Whatsapp Revael Rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+
