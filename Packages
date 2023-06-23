@@ -243,10 +243,10 @@ Installed-Size: 6480
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/com.bekes-505.github.io.watusi3rootless_1.1.62_iphoneos-arm64.deb
-Size: 12033824
-MD5sum: a0a639703143a80d4c1b1b88b7ba7b86
-SHA1: c9ba7664ce0b06a9cef060ecec3dbeaf2658dbca
-SHA256: 68f78fdc7096943ab36f849a4964de045310cb0a0c718c59a778f5fc1cda1f76
+Size: 12013878
+MD5sum: 01b02d35edae35902e783f400e150104
+SHA1: 23acfed78393d5a660d7fcb62cffc5aae6e5a635
+SHA256: c82b260ba80fbd855b1a7fddd3bc4edf4abf483ea32ebc49ac2a3742199d3af1
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
