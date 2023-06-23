@@ -149,6 +149,23 @@ Description: اداه وظيفتها : لتصفح ملفات الايفون وا
 Author: BekEs - بيكاس
 Name: Filza File Manager Rootless
 
+Package: com.bekes-505.github.io.icleanerrootless
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.bekes-505.github.io.icleanerrootless_7.10.0_iphoneos-arm64.deb
+Size: 1405670
+MD5sum: c80a1457d85cef06b9d75c2c67d9b3db
+SHA1: 2f3f971c28248dcbfee8fd3acb58d578964807c2
+SHA256: fc1ba5c1885c315f29bbded5eb735072b70715932c4ee021ec5f315af04b9917
+Section: Utilities
+Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
+Author: BekEs - بيكاس
+Name: iCleaner Pro Rootless
+
 Package: com.bekes-505.github.io.ikeywi4rootless
 Version: 4.2.1
 Architecture: iphoneos-arm64
