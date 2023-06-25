@@ -1,3 +1,19 @@
+Package: com.bekes-505.github.io.a-font
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2380
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.bekes-505.github.io.a-font_1.9.6_iphoneos-arm.deb
+Size: 4110282
+MD5sum: e8ba76c91c62ad83e8674ca51127ca33
+SHA1: aeb71cec4f3acb7b746f6828641b298ea2d7fe1e
+SHA256: 9fcd994f10d2037009030496737550d92c0a77ca07509bcec67c19dbca8277b0
+Section: Tweaks
+Description: اداة وظيفتها : تغير خطوط الايفون الي خطوط كثير ومدموجه معها
+Author: BekEs - بيكاس
+Name: A-Font
+
 Package: com.bekes-505.github.io.a-fontrootless
 Version: 1.9.3
 Architecture: iphoneos-arm64
