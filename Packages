@@ -230,6 +230,26 @@ Description: اداة وظيفتها : انستقرام بلس لتحميل وح
 Author: BekEs - بيكاس
 Name: Rocket for Instagram Rootless
 
+Package: com.bekes-505.github.io.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2416
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.bekes-505.github.io.shuffle_1.6.2_iphoneos-arm.deb
+Size: 605656
+MD5sum: 7c2e0c6cbac68acfa90d41e76f7deb4c
+SHA1: 9d0d801f1f3df1ec4db4475209cafd1a6d98b5d3
+SHA256: 6e58998704f95a976e058fd7fb170023613e85ddcd4d5797443903cac3615c0f
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من ترتيب اعدادات الجهاز مثل الادوات في قسم والتطبيقات في قسم وتطبيقات النظام في قسم لتسهيل الوصول لها وايضاً تمكنك من تعطيل الادوات من اللاعدادات، وعرض سورساتها ونسخها
+Tag: purpose::extension, compatible_min::ios10
+Author: BekEs - بيكاس
+Name: Shuffle
+
 Package: com.bekes-505.github.io.shufflerootless
 Version: 1.6.2
 Architecture: iphoneos-arm64
