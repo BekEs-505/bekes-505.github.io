@@ -303,6 +303,22 @@ Tag: purpose::extension, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: Shuffle Rootless
 
+Package: com.bekes-505.github.io.tiktokdark
+Version: 1.87.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.bekes-505.github.io.tiktokdark.deb
+Size: 135552
+MD5sum: 08eef248a757311cdc775ad3bb54ce20
+SHA1: c54230119809f5ec1f845bfc82cc3aa37995b73a
+SHA256: 7922b95a606896bd3337d758f46266245427930818bb7d2384af4638bc5e8473
+Section: Tweaks
+Description: اداة وظيفتها : تحميل الفيديوهات من التيكتوك بدون علامة مائية, تشغيل تلقائي للفيديو التالي, حذف الاعلانات, تغيير الموقع واخفاء الكتابة على الشاشة, تفعيل دقة HD, والكثير
+Author: BekEs - بيكاس
+Depiction: TiktokDark
+Name: TikTok Dark
+
 Package: com.bekes-505.github.io.tiktokdarkrotles
 Version: 1.87.1
 Architecture: iphoneos-arm64
