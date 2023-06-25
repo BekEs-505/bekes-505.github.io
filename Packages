@@ -197,17 +197,33 @@ Description: اداة وظيفتها : إضافة صف أرقام للوحة ا�
 Author: BekEs - بيكاس
 Name: iKeywi 4 Rootless
 
+Package: com.bekes-505.github.io.injectipa
+Version: 1.3-7
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 29244
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.bekes-505.github.io.injectipa.deb
+Size: 8956838
+MD5sum: 82af42fdf8b7885f9cdbf926e0fdd7c6
+SHA1: adcdd192ef9d701cc08f881ee1ae9caa9349b7a8
+SHA256: c75c6c385ed01e2007ee5a26fbc83016ea09f5c0aabc4a2045092128ee0f8877
+Section: Tweaks
+Description: اداة وظيفتها : دمج ملف dylib في ipa بواسطة NewTerm
+Author: BekEs - بيكاس
+Name: injectipa
+
 Package: com.bekes-505.github.io.injectiparotless
-Version: 1.3-6
+Version: 1.3-7
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 28260
+Installed-Size: 28712
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.bekes-505.github.io.injectiparootless_1.deb
-Size: 8750860
-MD5sum: 868f88eb96d47cfee63781d9b415c4f0
-SHA1: 378d3b05aab7bb3c52635ba9f0810e25e2b46821
-SHA256: 07235462faa8b1d697f3e461866c5000646f94a5b323b10c8832a63e814ab289
+Filename: ./debs/com.bekes-505.github.io.injectiparootless.deb
+Size: 8850352
+MD5sum: 011b70f35f3a889f3bcceb4ad5378361
+SHA1: 3b4c81b4d5c8dfaf5f8f65e08286b966e5084816
+SHA256: 7dd8790e9e4574446202746b5694a7ecc58e604e0d3be12e45ef6abbb77c790a
 Section: Tweaks
 Description: اداة وظيفتها : دمج ملف dylib في ipa بواسطة NewTerm
 Author: BekEs - بيكاس
