@@ -246,17 +246,17 @@ Description: اداة وظيفتها : انستقرام بلس لتحميل وح
 Author: BekEs - بيكاس
 Name: Rocket for Instagram
 
-Package: com.bekes-505.github.io.rocketrootless
+Package: com.bekes-505.github.io.rocketrootles
 Version: 3.8.9
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6504
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/com.bekes-505.github.io.deb
-Size: 2247206
-MD5sum: 2a4091eb07a9dfe0174e0953ac572be3
-SHA1: ceb674dad7f6cc13cdf0978c7c999e563c973ac0
-SHA256: 430a55f53c00dfcc91b0458b3ba7a127a59fd8de410bae92595c49f840914b49
+Filename: ./debs/com.bekes-505.github.io.rocketrootless.deb
+Size: 2247184
+MD5sum: 9d19016ca3458ebb4b9a02772b34a181
+SHA1: d9a6517ec3b4a4831beefc1dc4af786b754e0a2e
+SHA256: 2b26ba73af5a77a8eadc6d40a88ca820fd9d19b771277669c2a9c3a843cc1035
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
