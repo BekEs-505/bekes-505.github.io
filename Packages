@@ -78,6 +78,23 @@ Description: اداة وظيفتها : ارجاع اصدارات التطبيق�
 Author: BekEs - بيكاس
 Name: AppData Rootless
 
+Package: com.bekes-505.github.io.appstorerootless
+Version: 0.10.1-5
+Architecture: iphoneos-arm64
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/com.bekes-505.github.io.appstorerootless_0.10.deb
+Size: 4621696
+MD5sum: 534f5b297edad5fb5bd59c02c619ce3b
+SHA1: 3946e3a4e038de20967d568b758fd54149b35ebb
+SHA256: 65e19371bd1f4c99df58d896180d31798c1e32c39cacfba6b6855894f97713f2
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Author: CokePokes
+Name: AppStore++ Rootless
+
 Package: com.bekes-505.github.io.bhtwitterrotless
 Version: 3.9.1
 Architecture: iphoneos-arm64
