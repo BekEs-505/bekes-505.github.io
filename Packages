@@ -406,3 +406,19 @@ Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخف�
 Author: BekEs - بيكاس
 Name: wicked Rootless
 
+Package: dev.zero.wickedfr333
+Version: 2.0.3a
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Conflicts: dev.zero.wicked
+Filename: ./debs/dev.zero.wickedfr333_2.0.3a_iphoneos-arm.deb
+Size: 4329340
+MD5sum: ab7e749e901c7b0c967eb165e7d432e2
+SHA1: d578ec44c038d384817f081fb5ad400537e36efc
+SHA256: a32e7bc540f3a3925bf26a7c7bf55f5ca9d7479346f399ce885a0096f307897e
+Section: Development
+Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخفي في الدردشة وتغير الموقع
+Author: BekEs - بيكاس
+Name: wicked
+
