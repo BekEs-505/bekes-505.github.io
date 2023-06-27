@@ -1,3 +1,19 @@
+Package: com.bekes-505.github.io.BHTwitter
+Version: 3.9.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.bekes-505.github.io.BHTwitter_3.9.1_iphoneos-arm.deb
+Size: 1135628
+MD5sum: 22f5c6a58c09deac56f9126e966ffe4c
+SHA1: d14c00ba89919917c10c1b16044cd69430a22107
+SHA256: 073f04139f14df0640a90c13bc640fb2492cd5caa699779b24df16a74cade691
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : تويتر بلس مميزاته تتيح لك امكانية تحميل الفيديوهات من التغريدة حتى لو كان الحساب برايفت و فتح ميزة التغريد بالتسجيل الصوتي لتويتر في الخاص والعام
+Author: BekEs - بيكاس
+Name: BHTwitter
+
 Package: com.bekes-505.github.io.a-font
 Version: 1.9.6
 Architecture: iphoneos-arm
@@ -30,6 +46,22 @@ Description: اداة وظيفتها : تغير خطوط الايفون الي �
 Author: Baw Appie <pp121324@gmail.com>
 Name: A-Font Rootless
 
+Package: com.bekes-505.github.io.amber
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 368
+Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
+Filename: ./debs/com.bekes-505.github.io.amber_1.2.0_iphoneos-arm.deb
+Size: 17866
+MD5sum: 48f269437807cf6eddf97b616ff90f60
+SHA1: 3d8baf3d36fbedf39f6c1abd2249efd6e5b16d16
+SHA256: 5fac914c19383196b9a6a7e6c358688c85100bfa6e0c193e8f210310051949fc
+Section: Tweaks
+Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
+Author: BekEs - بيكاس
+Name: Amber
+
 Package: com.bekes-505.github.io.amberrootless
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -46,6 +78,22 @@ Description: اداة وظيفتها : تغيير لون الفلاش الاصف
 Author: PoomSmart
 Name: Amber Rootless
 
+Package: com.bekes-505.github.io.anactuallygood
+Version: 0.1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: ./debs/com.bekes-505.github.io.anactuallygood_0.1.0~beta1_iphoneos-arm.deb
+Size: 120476
+MD5sum: 356871a842cd6046bfb72b7c4dd0b463
+SHA1: bc21028574ada3b9a77643cb7eaa1457c2bd6bd7
+SHA256: 55b11352d7082a97ad890848ecbaf5c2a7c1aa702789ae72b5d87fc82dfb583e
+Section: Tweaks
+Description: اداة وظيفتها : اضافة لي فيلزا عمل القوائم بسرعه وسهوله يدويا كتطبيق Text editor سهل واقوى
+Author: BekEs - بيكاس
+Name: AnActuallyGoodFilzaEditor
+
 Package: com.bekes-505.github.io.anactualrootless
 Version: 0.1.0~beta2
 Architecture: iphoneos-arm64
@@ -61,6 +109,22 @@ Section: Tweaks
 Description: اداة وظيفتها : لمحرر النصوص داخل فيلزا لكتابتة الاوامر وتسهليها في تقسيم
 Author: BekEs - بيكاس
 Name: AnActuallyGoodFilzaEditor Rootless
+
+Package: com.bekes-505.github.io.appdata
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 776
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.bekes-505.github.io.appdata_1.4.0_iphoneos-arm.deb
+Size: 204676
+MD5sum: f6609f32ba2c0be9b7246cfbc73f43a0
+SHA1: b774a6bdaf8f9ced1c2db76444c28c60118cb246
+SHA256: 8896a578c8869baf27abc33739eeed80c435314683f51bdde2bef01fc7b1a0a0
+Section: Tweaks
+Description: اداة وظيفتها : ارجاع اصدارات التطبيقات و تنظيف ملفات الكاش وحذف الاشعارات والدخول لمسارات التطبيق بسهوله وغيره،تضغط ضغطه مطوله على التطبيق وتختار AppData وتظهرلك الخيارات
+Author: BekEs - بيكاس
+Name: AppData
 
 Package: com.bekes-505.github.io.appdatarootless
 Version: 1.4.0
