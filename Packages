@@ -1,21 +1,3 @@
-Package: apt.cydiakk.icleanerpro
-Version: 7.10.0
-Architecture: iphoneos-arm
-Maintainer: @B6_7E
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/apt.cydiakk.icleanerpro_7.10.deb
-Size: 2551916
-MD5sum: cce42247bc7dc268d79e23b706389741
-SHA1: 2daa363b46a9823f9da0dcd59fa2dd4038b233dd
-SHA256: 2fb400d83d18b618e8636b3147db88ef54936b2fcd24f1121fa5c344ec35b8c6
-Section: Utilities
-Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
-Author: BekEs - بيكاس
-Name: iCleaner Pro
-Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
-
 Package: com.bekes-505.github.io.BHTwitter
 Version: 3.9.1
 Architecture: iphoneos-arm
@@ -267,6 +249,23 @@ Description: اداه وظيفتها : لتصفح ملفات الايفون وا
 Author: BekEs - بيكاس
 Name: Filza File Manager Rootless
 
+Package: com.bekes-505.github.io.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.bekes-505.github.io.icleanerpro_7.10.0_iphoneos-arm.deb
+Size: 3430166
+MD5sum: ca87c9cfd2d5e41ce924ae2b9a9afc13
+SHA1: 67f9a6b62253f3125e9c0074b26fbb931a607478
+SHA256: 22b08624f3fec2dbd96e11ff5ac12c877f30263f23305eb1e35316a5d09c8bbe
+Section: Utilities
+Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
+Author: BekEs - بيكاس
+Name: iCleaner Pro
+
 Package: com.bekes-505.github.io.icleanerrootless
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -275,10 +274,10 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/com.bekes-505.github.io.icleanerrootless_7.10.0_iphoneos-arm64.deb
-Size: 1405670
-MD5sum: c80a1457d85cef06b9d75c2c67d9b3db
-SHA1: 2f3f971c28248dcbfee8fd3acb58d578964807c2
-SHA256: fc1ba5c1885c315f29bbded5eb735072b70715932c4ee021ec5f315af04b9917
+Size: 1392842
+MD5sum: 9bf2db736e2cfaa6ef55c60aa5c23f2e
+SHA1: 425e3ebde107040553258cf726aea89caa530d63
+SHA256: d44188a7ba0aa8005a7fa294791bf604a5c00c8c2aab6c435f0d03733935c429
 Section: Utilities
 Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
 Author: BekEs - بيكاس
