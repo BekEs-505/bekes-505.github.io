@@ -488,6 +488,26 @@ Description: اداة وظيفتها : واتسي وات ساب بلس فيها 
 Author: BekEs - بيكاس
 Name: Watusi 3 for WhatsApp Rootless
 
+Package: com.bekes-505.github.io.whatsapprevael
+Version: 10.17
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 6144
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.whatsapprevaelrootless
+Filename: ./debs/com.bekes-505.github.io.whatsapprevael_10.17_iphoneos-arm.deb
+Size: 3150472
+MD5sum: 904a5ef6c8dc749937d602519074b3a5
+SHA1: a379213ccb708b98fb00ffd6d749595ff45ba6e8
+SHA256: 42ba7995ff6343462622809cd39189176cccaf3ce6717890d368c4da94277909
+Section: Tweaks
+Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: ahmadmokaddam
+Name: Whatsapp Revael
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.bekes-505.github.io.whatsrevrotless
 Version: 10.17
 Architecture: iphoneos-arm64
