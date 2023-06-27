@@ -223,10 +223,10 @@ Installed-Size: 34948
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
 Filename: ./debs/com.bekes-505.github.io.filza_4.0.1-2_iphoneos-arm.deb
-Size: 13935854
-MD5sum: 42d4e3dc30ec3cd204d42549788211d8
-SHA1: c2e91e357578c6e9d461e9aae7e77ccd70e53fe4
-SHA256: ae077b83694d6acc9cda55b223a090067591599264af313c9b10b615c2011728
+Size: 13962548
+MD5sum: 711534bd6cb411f056f24ea963824e95
+SHA1: ff1cc518a227d5a57d48b7e2564659ccaf17f421
+SHA256: 72ce9f410f92df8594f5dff6b5810e8fd112820a765013c07912c1183a793e52
 Section: Utilities
 Description: اداه وظيفتها : لتصفح ملفات الايفون والوصول لي اي ملف ولا اداة في الجهاز وفك الضغط وتعديل على الادوات والملفات والتطبيقات
 Author: BekEs - بيكاس
