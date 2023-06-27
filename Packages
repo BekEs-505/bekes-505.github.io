@@ -249,23 +249,6 @@ Description: اداه وظيفتها : لتصفح ملفات الايفون وا
 Author: BekEs - بيكاس
 Name: Filza File Manager Rootless
 
-Package: com.bekes-505.github.io.icleanerpro
-Version: 7.10.0
-Architecture: iphoneos-arm
-Maintainer: @B6_7E
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.bekes-505.github.io.icleanerpro_7.10.0_iphoneos-arm.deb
-Size: 3430184
-MD5sum: ff5bf7ddf719d77582cd223280f8437b
-SHA1: 609fbd57bdd84839dca8f0e4749ef9c155edfcbd
-SHA256: f48e344e9af9aef978f3f9a9dc50c2d4120ff7c54df70058df59912b5649839a
-Section: Utilities
-Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
-Author: BekEs - بيكاس
-Name: iCleaner Pro
-
 Package: com.bekes-505.github.io.icleanerrootless
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -490,6 +473,26 @@ Author: BekEs - بيكاس
 Dev: ahmadmokaddam
 Name: Whatsapp Revael Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm (1).deb
+Size: 3455586
+MD5sum: 44f3e5fc1efb9fdbde0c4df3c20b0fa5
+SHA1: 7e659e4f1a008de34e5434bd4ab98a2d98358aa2
+SHA256: 57767a734a7827b1c2c06531a41abe408e4fb0bec45dd53b6a8bcf8e474365fb
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
 
 Package: dev.zero.wickedfr33
 Version: 2.0.3a
