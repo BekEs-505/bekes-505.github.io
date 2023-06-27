@@ -453,24 +453,6 @@ Author: BekEs - بيكاس
 Depiction: TiktokDark
 Name: TikTok Dark Rootless
 
-Package: com.bekes-505.github.io.uyourootless
-Version: 3.0
-Architecture: iphoneos-arm64
-Maintainer: @B6_7E
-Installed-Size: 31200
-Depends: firmware (>=13.0), mobilesubstrate
-Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
-Filename: ./debs/com.bekes-505.github.io.uyourootless_3.0_iphoneos-arm64.deb
-Size: 15059634
-MD5sum: ebd0259826547a9d6a1a94d68a527e9c
-SHA1: 40363317691f4ed9e05a5711cf9bcd2e04cc7e73
-SHA256: ed57ec2f469cf352c3ea572a7f1d5cd0766972ce33949d937d1c03c177499089
-Section: Tweaks
-Description: اداة وظيفتها : تغيير طريقة عرض المشغل لليوتيوب و مكتبة تنزيلات و امكانية تصدير الفيديوهات و دمج مشغل الجهاز داخل التطبيق وتنزيل المقاطع بصيغات مختلفھ وحذف اعلانات
-Tag: purpose::extension, compatible_min::ios13
-Author: BekEs - بيكاس
-Name: uYou Rootless
-
 Package: com.bekes-505.github.io.watusi3
 Version: 1.1.62
 Architecture: iphoneos-arm
