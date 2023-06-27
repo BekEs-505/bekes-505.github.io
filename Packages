@@ -284,17 +284,19 @@ Author: BekEs - بيكاس
 Name: iCleaner Pro Rootless
 
 Package: com.bekes-505.github.io.ikeywi4
-Version: 4.2.1
+Version: 4.2.1k
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
+Installed-Size: 884
 Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), com.opa334.altlist
-Filename: ./debs/com.bekes-505.github.io.ikeywi4_4.2.deb
-Size: 383262
-MD5sum: e1fc9bc957100ffbac46ed8e9e4a3d03
-SHA1: 633e3ed213ff61b3eeb6ddc20661c9b43f783ab1
-SHA256: b91a680c3df795a4d91dcb3e47ef77832e5b63a97018470efc330c5358cd4be7
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, tw.hiraku.ikeywi3, tw.hiraku.ikeywi3p, com.tw3pole.exkey, gsc.ipad
+Filename: ./debs/com.bekes-505.github.io.ikeywi4_4.2.1k_iphoneos-arm.deb
+Size: 423724
+MD5sum: 5de99bacce4e84c586850ee280b35885
+SHA1: d18f5547a3ad7fc678ad41b6620893db6570a7fa
+SHA256: d1c51939d193ae4de1f4f1eaa2ce4a46054cd45cd7954e0ec84e64558bcae584
 Section: Tweaks
-Description: اداة إضافة صف للوحة المفاتيح يتم فيه إضافة الأرقام مع إمكانية تخصيص مفاتيح هذا الصف
+Description: اداة وظيفتها : إضافة صف أرقام للوحة المفاتيح أو إظهارها كما في الـ iPad بشكل ثانوي، مع إمكانية تخصيص مفاتيح هذا الصف
 Author: BekEs - بيكاس
 Name: iKeywi 4
 
