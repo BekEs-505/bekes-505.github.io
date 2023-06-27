@@ -471,6 +471,23 @@ Tag: purpose::extension, compatible_min::ios13
 Author: BekEs - بيكاس
 Name: uYou Rootless
 
+Package: com.bekes-505.github.io.watusi3
+Version: 1.1.62
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 6660
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.9), com.muirey03.libmryipc
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.bekes-505.github.io.watusi3_1.1.62_iphoneos-arm.deb
+Size: 11530132
+MD5sum: 7b5329f14228f5c7ba0f6f638fa36842
+SHA1: 0f14637aa6075453b004007f238ffbc965592e48
+SHA256: ca02789f711da0875363a2e10cb80566531a77cf74a3d7b0206f0091b1e5a553
+Section: Tweaks
+Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
+Author: BekEs - بيكاس
+Name: Watusi 3 for WhatsApp
+
 Package: com.bekes-505.github.io.watusi3rootless
 Version: 1.1.62
 Architecture: iphoneos-arm64
