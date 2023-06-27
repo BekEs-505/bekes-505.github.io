@@ -215,6 +215,40 @@ Description: اداة وظيفتها : فتح اكثر من حساب في تطب
 Author: BekEs - بيكاس
 Name: Crane rootless
 
+Package: com.bekes-505.github.io.filza
+Version: 4.0.1-2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 34948
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/com.bekes-505.github.io.filza_4.0.1-2_iphoneos-arm.deb
+Size: 13935854
+MD5sum: 42d4e3dc30ec3cd204d42549788211d8
+SHA1: c2e91e357578c6e9d461e9aae7e77ccd70e53fe4
+SHA256: ae077b83694d6acc9cda55b223a090067591599264af313c9b10b615c2011728
+Section: Utilities
+Description: اداه وظيفتها : لتصفح ملفات الايفون والوصول لي اي ملف ولا اداة في الجهاز وفك الضغط وتعديل على الادوات والملفات والتطبيقات
+Author: BekEs - بيكاس
+Name: Filza File Manager
+
+Package: com.bekes-505.github.io.filza64bit
+Version: 4.0.1-4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/com.bekes-505.github.io.filza64bit_4.0.1-4_iphoneos-arm.deb
+Size: 8707418
+MD5sum: 8f42f2b22cb2a3de18db5169d81efbb4
+SHA1: b79549ca3fc042992d46c311d4b58c879382638b
+SHA256: 3f09bb50f19b8270a61c222d20ed43e323acb4e69245545c9a245314e154a0b5
+Section: Utilities
+Description: اداه وظيفتها : لتصفح ملفات الايفون والوصول لي اي ملف ولا اداة في الجهاز وفك الضغط وتعديل على الادوات والملفات والتطبيقات
+Author: BekEs - بيكاس
+Name: Filza File Manager 64-bit
+
 Package: com.bekes-505.github.io.filza64bitrotless
 Version: 4.0.1-4
 Architecture: iphoneos-arm64
