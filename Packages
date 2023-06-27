@@ -158,17 +158,37 @@ Description: اداة وظيفتها : تويتر بلس مميزاته تتيح
 Author: BekEs - بيكاس
 Name: BHTwitter Rootless
 
-Package: com.bekes-505.github.io.byehomerotless
-Version: 1.3.4-1
+Package: com.bekes-505.github.io.byehomebot
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 537
+Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
+Filename: ./debs/com.bekes-505.github.io.byehomebot_1.3.5_iphoneos-arm.deb
+Size: 118674
+MD5sum: 6088fe1fb1a797f3a42b288cc9490585
+SHA1: 0eb35af9fb38ae7ef65cbed175d7901e188877bb
+SHA256: daf249acb31a7850e94a0eb55289c49e7f79481a5abc6b301c6a11224e11dbd5
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : تضيف لك مميزات كثيرة لاجهزة ايفون X واحدث مثل اخفاء شريط الهوم  اخفاء الكاميرا والفلاش والكثير
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lucaluca86
+Name: ByeHomeBottomBarX
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.bekes-505.github.io.byehomerootles
+Version: 1.3.5
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 557
+Installed-Size: 558
 Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
-Filename: ./debs/com.bekes-505.github.io.byehomerotless_1.3.4-1_iphoneos-arm64.deb
-Size: 118402
-MD5sum: 13fe90336800ca107e00ff19c9c1ffee
-SHA1: 11e13402b62c3b890d3577fc67ac4925c9497c17
-SHA256: 58168feeabcdb45f80111441dff6bd76be733186522c65293fc8c3c995ff4c25
+Filename: ./debs/com.bekes-505.github.io.byehomerootles_1.3.5_iphoneos-arm64.deb
+Size: 118410
+MD5sum: 6cc72bf8a4f38c44b26637a0590ae5d3
+SHA1: 6f8550ace955d143346e9bb327b6358c6c5cee49
+SHA256: e27c19ea29d25f32fc2b61442a6c7247a3059f16f893d83e9fd8483ac9c9f78f
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : تضيف لك مميزات كثيرة لاجهزة ايفون X واحدث مثل اخفاء شريط الهوم  اخفاء الكاميرا والفلاش والكثير
