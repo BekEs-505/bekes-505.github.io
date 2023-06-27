@@ -257,10 +257,10 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/com.bekes-505.github.io.icleanerpro_7.10.0_iphoneos-arm.deb
-Size: 3443026
-MD5sum: 22ad5ce0e9ea72c30daa6b85fff0c9ef
-SHA1: 1f4d5804bd5f1d7e0df69b8f5daccd7e99ce8f33
-SHA256: 6a1ead9a0cd0ac7e411a128d907a76a0f1eb8464816e989845775d2a1a8da78c
+Size: 3430184
+MD5sum: ff5bf7ddf719d77582cd223280f8437b
+SHA1: 609fbd57bdd84839dca8f0e4749ef9c155edfcbd
+SHA256: f48e344e9af9aef978f3f9a9dc50c2d4120ff7c54df70058df59912b5649839a
 Section: Utilities
 Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
 Author: BekEs - بيكاس
