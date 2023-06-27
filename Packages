@@ -249,6 +249,23 @@ Description: اداه وظيفتها : لتصفح ملفات الايفون وا
 Author: BekEs - بيكاس
 Name: Filza File Manager Rootless
 
+Package: com.bekes-505.github.io.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.bekes-505.github.io.icleanerpro_7.10.0_iphoneos-arm.deb
+Size: 3443026
+MD5sum: 22ad5ce0e9ea72c30daa6b85fff0c9ef
+SHA1: 1f4d5804bd5f1d7e0df69b8f5daccd7e99ce8f33
+SHA256: 6a1ead9a0cd0ac7e411a128d907a76a0f1eb8464816e989845775d2a1a8da78c
+Section: Utilities
+Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
+Author: BekEs - بيكاس
+Name: iCleaner Pro
+
 Package: com.bekes-505.github.io.icleanerrootless
 Version: 7.10.0
 Architecture: iphoneos-arm64
