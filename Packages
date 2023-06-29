@@ -3,7 +3,7 @@ Version: 3.9.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
-Filename: ./debs/com.bekes-505.github.io.BHTwitter_3.9.1_iphoneos-arm.deb
+Filename: ./debs/BHTwitter.deb
 Size: 1135628
 MD5sum: 22f5c6a58c09deac56f9126e966ffe4c
 SHA1: d14c00ba89919917c10c1b16044cd69430a22107
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2380
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.bekes-505.github.io.a-font_1.9.6_iphoneos-arm.deb
+Filename: ./debs/A-Font.deb
 Size: 4110282
 MD5sum: e8ba76c91c62ad83e8674ca51127ca33
 SHA1: aeb71cec4f3acb7b746f6828641b298ea2d7fe1e
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm64
 Maintainer: Baw Appie <pp121324@gmail.com>
 Installed-Size: 2476
 Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: ./debs/com.bekes-505.github.io.a-fontrootless_1.9.3_iphoneos-arm64.deb
+Filename: ./debs/A-FontRootless.deb
 Size: 1621936
 MD5sum: 2cfa91d767b7cf446f88d8f89aa5c655
 SHA1: dc8d34126a0cff92dbe82c5c639adcee79983462
@@ -52,7 +52,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 368
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
-Filename: ./debs/com.bekes-505.github.io.amber_1.2.0_iphoneos-arm.deb
+Filename: ./debs/Amber.deb
 Size: 17866
 MD5sum: 48f269437807cf6eddf97b616ff90f60
 SHA1: 3d8baf3d36fbedf39f6c1abd2249efd6e5b16d16
@@ -68,7 +68,7 @@ Architecture: iphoneos-arm64
 Maintainer: PoomSmart
 Installed-Size: 368
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
-Filename: ./debs/com.bekes-505.github.io.amberrootless_1.2.0_iphoneos-arm64.deb
+Filename: ./debs/AmberRootless.deb
 Size: 18050
 MD5sum: 6837e61e311ef890d493c69af6f918d0
 SHA1: 503951cbcb178901d212f404dd280be52d7fdbbc
@@ -84,7 +84,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 620
 Depends: mobilesubstrate
-Filename: ./debs/com.bekes-505.github.io.anactuallygood_0.1.0~beta1_iphoneos-arm.deb
+Filename: ./debs/AnActuallyGoodFilzaEditor.deb
 Size: 120476
 MD5sum: 356871a842cd6046bfb72b7c4dd0b463
 SHA1: bc21028574ada3b9a77643cb7eaa1457c2bd6bd7
@@ -100,7 +100,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 620
 Depends: mobilesubstrate
-Filename: ./debs/com.bekes-505.github.io.anactuallygoodfilzaeditor_0.1.deb
+Filename: ./debs/AnActuallyGoodFilzaEditorRootless.deb
 Size: 121152
 MD5sum: bb2b818c14cb59ce69f72452df4c69c5
 SHA1: d3a35c685256ad809c1df81ae8e435f4ab95b76d
@@ -116,7 +116,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 776
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.bekes-505.github.io.appdata_1.4.0_iphoneos-arm.deb
+Filename: ./debs/AppData.deb
 Size: 204676
 MD5sum: f6609f32ba2c0be9b7246cfbc73f43a0
 SHA1: b774a6bdaf8f9ced1c2db76444c28c60118cb246
@@ -132,7 +132,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 2412
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.bekes-505.github.io.appdatarootless_1.4.deb
+Filename: ./debs/AppDataRootless.deb
 Size: 995356
 MD5sum: 07f05269fd888b61aeb5a703802b7588
 SHA1: 2132cb203671a72753c1fdee4d471443129b0eed
@@ -148,7 +148,7 @@ Architecture: iphoneos-arm64
 Maintainer: B6_7E
 Installed-Size: 3752
 Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
-Filename: ./debs/com.bekes-505.github.io.bhtwitterrootless_3.9.deb
+Filename: ./debs/BHTwitterRootless.deb
 Size: 1358158
 MD5sum: 8064d926e3bcc790230ab1e625260811
 SHA1: e1e89d1848cd5a217ba8bfff7fd833fe04b523c3
@@ -164,7 +164,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 537
 Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
-Filename: ./debs/com.bekes-505.github.io.byehomebot_1.3.5_iphoneos-arm.deb
+Filename: ./debs/ByeHomeBottomBarX.deb
 Size: 118674
 MD5sum: 6088fe1fb1a797f3a42b288cc9490585
 SHA1: 0eb35af9fb38ae7ef65cbed175d7901e188877bb
@@ -184,7 +184,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 558
 Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
-Filename: ./debs/com.bekes-505.github.io.byehomerootles_1.3.5_iphoneos-arm64.deb
+Filename: ./debs/ByeHomeBottomBarXRootless.deb
 Size: 118410
 MD5sum: 6cc72bf8a4f38c44b26637a0590ae5d3
 SHA1: 6f8550ace955d143346e9bb327b6358c6c5cee49
@@ -205,7 +205,7 @@ Maintainer: @B6_7E
 Installed-Size: 3060
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/com.bekes-505.github.io.cranerootless_1.3.deb
+Filename: ./debs/Cranerootless.deb
 Size: 864592
 MD5sum: f7b3aebc8087629979a5f5c3d04db8e9
 SHA1: 7da71279d93c7780c24d603d28d52cef6ec9b5b1
@@ -222,7 +222,7 @@ Maintainer: @B6_7E
 Installed-Size: 34948
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
-Filename: ./debs/com.bekes-505.github.io.filza_4.0.1-2_iphoneos-arm.deb
+Filename: ./debs/FilzaFileManager.deb
 Size: 13962548
 MD5sum: 711534bd6cb411f056f24ea963824e95
 SHA1: ff1cc518a227d5a57d48b7e2564659ccaf17f421
@@ -239,7 +239,7 @@ Maintainer: @B6_7E
 Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./debs/com.bekes-505.github.io.filza64bit_4.0.1-4_iphoneos-arm.deb
+Filename: ./debs/FilzaFileManager64-bit.deb
 Size: 8734286
 MD5sum: 31e71392e28d33be0a30e3b5bb567d4f
 SHA1: b0b9beea101ce83307526975efe5736e8daafe00
@@ -256,7 +256,7 @@ Maintainer: @B6_7E
 Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./debs/com.bekes-505.github.io.filza64bitrotless_4.0.1-4_iphoneos-arm64.deb
+Filename: ./debs/FilzaFileManager64-bitRotles.deb
 Size: 8707336
 MD5sum: 35340f7aff872958c9a27c6d9a9056a1
 SHA1: 2099bde322360714749982cd2f36418f2d0812cf
@@ -273,7 +273,7 @@ Maintainer: @B6_7E
 Installed-Size: 34948
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
-Filename: ./debs/com.bekes-505.github.io.filzarootless_4.0.1-2_iphoneos-arm64.deb
+Filename: ./debs/FilzaFileManagerRootless.deb
 Size: 13936084
 MD5sum: b4a90255612b1f90dc76b5b4818eea5d
 SHA1: cc44199d3d9bf4ded10f540b657a420367b129bb
@@ -290,7 +290,7 @@ Maintainer: @B6_7E
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.bekes-505.github.io.icleanerpro_7.10.0_iphoneos-arm.deb
+Filename: ./debs/iCleanerPro.deb
 Size: 3430166
 MD5sum: ca87c9cfd2d5e41ce924ae2b9a9afc13
 SHA1: 67f9a6b62253f3125e9c0074b26fbb931a607478
@@ -307,7 +307,7 @@ Maintainer: @B6_7E
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.bekes-505.github.io.icleanerrootless_7.10.0_iphoneos-arm64.deb
+Filename: ./debs/iCleanerProRootless.deb
 Size: 1392842
 MD5sum: 9bf2db736e2cfaa6ef55c60aa5c23f2e
 SHA1: 425e3ebde107040553258cf726aea89caa530d63
@@ -324,7 +324,7 @@ Maintainer: @B6_7E
 Installed-Size: 884
 Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), com.opa334.altlist
 Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, tw.hiraku.ikeywi3, tw.hiraku.ikeywi3p, com.tw3pole.exkey, gsc.ipad
-Filename: ./debs/com.bekes-505.github.io.ikeywi4_4.2.1k_iphoneos-arm.deb
+Filename: ./debs/iKeywi4.deb
 Size: 423724
 MD5sum: 5de99bacce4e84c586850ee280b35885
 SHA1: d18f5547a3ad7fc678ad41b6620893db6570a7fa
@@ -339,7 +339,7 @@ Version: 4.2.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), com.opa334.altlist
-Filename: ./debs/com.bekes-505.github.io.ikeywi4rootless_4.2.deb
+Filename: ./debs/iKeywi4Rootless.deb
 Size: 383344
 MD5sum: 63d96f06998973cc55c2ff0d14b60ada
 SHA1: 0a60c9e9b38467bf5a3cb4db066b902d1928e3e5
@@ -355,7 +355,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 29244
 Depends: firmware (>= 11.0)
-Filename: ./debs/com.bekes-505.github.io.injectipa.deb
+Filename: ./debs/injectipa.deb
 Size: 8956838
 MD5sum: 82af42fdf8b7885f9cdbf926e0fdd7c6
 SHA1: adcdd192ef9d701cc08f881ee1ae9caa9349b7a8
@@ -371,7 +371,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 28712
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.bekes-505.github.io.injectiparootless.deb
+Filename: ./debs/injectipaRootless.deb
 Size: 8850352
 MD5sum: 011b70f35f3a889f3bcceb4ad5378361
 SHA1: 3b4c81b4d5c8dfaf5f8f65e08286b966e5084816
@@ -387,7 +387,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6504
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/com.bekes-505.github.io.rocket_3.8.9_iphoneos-arm.deb
+Filename: ./debs/RocketforInstagram.deb
 Size: 2260848
 MD5sum: 5db49436838343d61a089f9e79bb7950
 SHA1: 13eecc0cfaa97a8317bca1572670a9f8c5bbe7ce
@@ -404,7 +404,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6504
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/com.bekes-505.github.io.rocketrootless.deb
+Filename: ./debs/RocketforInstagramRootless.deb
 Size: 2247184
 MD5sum: 9d19016ca3458ebb4b9a02772b34a181
 SHA1: d9a6517ec3b4a4831beefc1dc4af786b754e0a2e
@@ -424,7 +424,7 @@ Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | 
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/com.bekes-505.github.io.shuffle_1.6.2_iphoneos-arm.deb
+Filename: ./debs/Shuffle.deb
 Size: 605656
 MD5sum: 7c2e0c6cbac68acfa90d41e76f7deb4c
 SHA1: 9d0d801f1f3df1ec4db4475209cafd1a6d98b5d3
@@ -444,7 +444,7 @@ Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | 
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/com.bekes-505.github.io.shufflerootless_1.6.2_iphoneos-arm64.deb
+Filename: ./debs/ShuffleRootless.deb
 Size: 355306
 MD5sum: 86aebddcf9ed960bf1f83aec1fd80f71
 SHA1: c8a20b9c014f20cef155b933aa8f388e90cf8a67
@@ -460,7 +460,7 @@ Version: 1.87.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.bekes-505.github.io.tiktokdark.deb
+Filename: ./debs/TikTokDark.deb
 Size: 211644
 MD5sum: b1ba3796debf0d03e9ab321f95a92713
 SHA1: 5454216143fc90da24bba905582b798213130b67
@@ -476,7 +476,7 @@ Version: 1.87.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.bekes-505.github.io.tiktokdarkrootless_1.87.deb
+Filename: ./debs/TikTokDarkRootless.deb
 Size: 211702
 MD5sum: 33417b80da98eab3625f68852f14f00c
 SHA1: a8700570801d0e9bf500e459273e4117712586ac
@@ -494,7 +494,7 @@ Maintainer: @B6_7E
 Installed-Size: 6660
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.9), com.muirey03.libmryipc
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/com.bekes-505.github.io.watusi3_1.1.62_iphoneos-arm.deb
+Filename: ./debs/Watusi3forWhatsApp.deb
 Size: 11530132
 MD5sum: 7b5329f14228f5c7ba0f6f638fa36842
 SHA1: 0f14637aa6075453b004007f238ffbc965592e48
@@ -511,7 +511,7 @@ Maintainer: @B6_7E
 Installed-Size: 6480
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/com.bekes-505.github.io.watusi3rootless_1.1.62_iphoneos-arm64.deb
+Filename: ./debs/Watusi3forWhatsAppRootless.deb
 Size: 12013878
 MD5sum: 01b02d35edae35902e783f400e150104
 SHA1: 23acfed78393d5a660d7fcb62cffc5aae6e5a635
@@ -528,7 +528,7 @@ Maintainer: @B6_7E
 Installed-Size: 6144
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
-Filename: ./debs/com.bekes-505.github.io.whatsapprevael_10.17_iphoneos-arm.deb
+Filename: ./debs/WhatsappRevael.deb
 Size: 3150472
 MD5sum: 904a5ef6c8dc749937d602519074b3a5
 SHA1: a379213ccb708b98fb00ffd6d749595ff45ba6e8
@@ -548,7 +548,7 @@ Maintainer: @B6_7E
 Installed-Size: 6123
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.bekes-505.github.io.whatsrevrotless
-Filename: ./debs/com.bekes-505.github.io.whatsrevrotless_10.17_iphoneos-arm64.deb
+Filename: ./debs/WhatsappRevaelRootless.deb
 Size: 3121528
 MD5sum: c07502770b6a2dd6d45f40c4faad668b
 SHA1: 913161808c301ae4b2d6cd57f2f09e4f21abc95c
@@ -567,7 +567,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate
 Conflicts: dev.zero.wicked
-Filename: ./debs/dev.zero.wickedfr33_2.0.3.a_iphoneos-arm64.deb
+Filename: ./debs/wickedRootless.deb
 Size: 3909248
 MD5sum: be8bb95e9f3b9edd73ad6eb6b1fd5100
 SHA1: 27a7d4645914e902c9702450b48af23f7293da38
@@ -583,7 +583,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate
 Conflicts: dev.zero.wicked
-Filename: ./debs/dev.zero.wickedfr333_2.0.3a_iphoneos-arm.deb
+Filename: ./debs/wicked.deb
 Size: 4329340
 MD5sum: ab7e749e901c7b0c967eb165e7d432e2
 SHA1: d578ec44c038d384817f081fb5ad400537e36efc
@@ -600,7 +600,7 @@ Maintainer: @B6_7E
 Installed-Size: 3340
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/org.mr.crane_1.3.deb
+Filename: ./debs/crane.deb
 Size: 1105688
 MD5sum: 005f777894002276d6079aeb2b46bc4b
 SHA1: 78806f0568047329da542fd7f27dd931739fa023
