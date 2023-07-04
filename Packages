@@ -15,32 +15,32 @@ Author: BekEs - بيكاس
 Name: BHTwitter
 
 Package: com.bekes-505.github.io.a-font
-Version: 1.9.6
+Version: 1.10
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2380
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/A-Font.deb
-Size: 4110282
-MD5sum: e8ba76c91c62ad83e8674ca51127ca33
-SHA1: aeb71cec4f3acb7b746f6828641b298ea2d7fe1e
-SHA256: 9fcd994f10d2037009030496737550d92c0a77ca07509bcec67c19dbca8277b0
+Size: 4109602
+MD5sum: 5495d3603629730bad8e86949aa55849
+SHA1: 609fc87e0029e18d2d93fbe4701871196ec2d851
+SHA256: db8195b984976ec5d45b12ff55b2956675ff18f4a4c9edd42dc1a3fe90ad7a67
 Section: Tweaks
 Description: اداة وظيفتها : تغير خطوط الايفون الي خطوط كثير ومدموجه معها
 Author: BekEs - بيكاس
 Name: A-Font
 
 Package: com.bekes-505.github.io.a-fontrootless
-Version: 1.9.3
+Version: 1.10
 Architecture: iphoneos-arm64
 Maintainer: Baw Appie <pp121324@gmail.com>
 Installed-Size: 2476
 Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
 Filename: ./debs/A-FontRootless.deb
-Size: 1621936
-MD5sum: 2cfa91d767b7cf446f88d8f89aa5c655
-SHA1: dc8d34126a0cff92dbe82c5c639adcee79983462
-SHA256: c26ff1257f8389357abed91180340e663caf07bc6706f4866c6e41b539120904
+Size: 1614132
+MD5sum: 45e145c98227bb263abd92bc6bdf9256
+SHA1: 15f5440f8435632b503669cc0e701d004a688e56
+SHA256: bcd11108b15df520cd955bc117e38dd85bcdfb1bb57eb0b4382edf0bbb0ba16b
 Section: Tweaks
 Description: اداة وظيفتها : تغير خطوط الايفون الي خطوط كثير ومدموجه معها
 Author: Baw Appie <pp121324@gmail.com>
@@ -542,17 +542,17 @@ Name: Whatsapp Revael
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.whatsrevrotless
-Version: 10.17
+Version: 10.18-1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6123
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.bekes-505.github.io.whatsrevrotless
 Filename: ./debs/WhatsappRevaelRootless.deb
-Size: 3121528
-MD5sum: c07502770b6a2dd6d45f40c4faad668b
-SHA1: 913161808c301ae4b2d6cd57f2f09e4f21abc95c
-SHA256: f982bde50b0dc5bb9705c3c9865ec1174a0bfb8ec2484963e32826ba296662d4
+Size: 3110232
+MD5sum: ac9095de8c710c73724566c95abd24a6
+SHA1: 800c8a523e3a6edf534706bd9ae56903c9328b2e
+SHA256: 5d83270e742aca741138b3bd00a580f823e5d6035afa9344e2851c198b5a22d5
 Section: Tweaks
 Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
