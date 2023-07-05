@@ -215,6 +215,40 @@ Description: اداة وظيفتها : فتح اكثر من حساب في تطب
 Author: BekEs - بيكاس
 Name: Crane rootless
 
+Package: com.bekes-505.github.io.eneko
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 400
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.eneko
+Filename: ./debs/Eneko.deb
+Size: 156132
+MD5sum: 131941f4ef16bbf4257e0a8cbaf12cfe
+SHA1: b3780d6892e3be81d2624d2f0b6e850fa073658b
+SHA256: 8e37b446b0ec000966bf032b535673d3105da9eea3fb8369fb0aaecb46135878
+Section: Tweaks
+Description: اداة وظيفتها: تعيين مقطع فيديو كخلفية للشاشة القفل والشاشة الرئيسية ومركز التحكم
+Author: BekEs - بيكاس
+Name: Eneko
+
+Package: com.bekes-505.github.io.enekorootless
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 400
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.eneko
+Filename: ./debs/EnekoRootless.deb
+Size: 120824
+MD5sum: a7537622c00a33208b29454800a853bb
+SHA1: a552434cb31fc5c503151bb120ac347f7577c904
+SHA256: c4bf674830d6fe2dc3b7c664c54dd1a822c7710a5b9869bb11fdeec9c464b06b
+Section: Tweaks
+Description: اداة وظيفتها: تعيين مقطع فيديو كخلفية للشاشة القفل والشاشة الرئيسية ومركز التحكم
+Author: BekEs - بيكاس
+Name: Eneko Rootless
+
 Package: com.bekes-505.github.io.filza
 Version: 4.0.1-2
 Architecture: iphoneos-arm
