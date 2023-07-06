@@ -31,19 +31,19 @@ Author: BekEs - بيكاس
 Name: A-Font
 
 Package: com.bekes-505.github.io.a-fontrootless
-Version: 1.10
+Version: 1.9.3
 Architecture: iphoneos-arm64
-Maintainer: Baw Appie <pp121324@gmail.com>
+Maintainer: @B6_7E
 Installed-Size: 2476
 Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
 Filename: ./debs/A-FontRootless.deb
-Size: 1614132
-MD5sum: 45e145c98227bb263abd92bc6bdf9256
-SHA1: 15f5440f8435632b503669cc0e701d004a688e56
-SHA256: bcd11108b15df520cd955bc117e38dd85bcdfb1bb57eb0b4382edf0bbb0ba16b
+Size: 1621940
+MD5sum: 79da18011a5cbf640b2af05491aed37e
+SHA1: 298f9bd2f75e1e5bb4b65dc006d1b429d41c417f
+SHA256: 316b27f27c91e332e1c0578eb560aa57581130021c224f59e12dc16bb4a4c869
 Section: Tweaks
 Description: اداة وظيفتها : تغير خطوط الايفون الي خطوط كثير ومدموجه معها
-Author: Baw Appie <pp121324@gmail.com>
+Author: BekEs - بيكاس
 Name: A-Font Rootless
 
 Package: com.bekes-505.github.io.amber
@@ -554,34 +554,34 @@ Depiction: TiktokDark
 Name: TikTok Dark Rootless
 
 Package: com.bekes-505.github.io.watusi3
-Version: 1.1.62
+Version: 1.1.63
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6660
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.9), com.muirey03.libmryipc
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.muirey03.libmryipc
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsApp.deb
-Size: 11530132
-MD5sum: 7b5329f14228f5c7ba0f6f638fa36842
-SHA1: 0f14637aa6075453b004007f238ffbc965592e48
-SHA256: ca02789f711da0875363a2e10cb80566531a77cf74a3d7b0206f0091b1e5a553
+Size: 11547954
+MD5sum: 6cd4ebfd993ae8b4f7f6a806ad8cbced
+SHA1: 03925b0dca8adc682e0137649aa8eedf855fd4a3
+SHA256: 805ff548812e0a033b619fa2cbf0d24dc1e53cc6a449a151f8e806345975a322
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
 Name: Watusi 3 for WhatsApp
 
 Package: com.bekes-505.github.io.watusi3rootless
-Version: 1.1.62
+Version: 1.1.63
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6480
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsAppRootless.deb
-Size: 12013878
-MD5sum: 01b02d35edae35902e783f400e150104
-SHA1: 23acfed78393d5a660d7fcb62cffc5aae6e5a635
-SHA256: c82b260ba80fbd855b1a7fddd3bc4edf4abf483ea32ebc49ac2a3742199d3af1
+Size: 12037874
+MD5sum: 06fb2a4ce300ba615096ec9cbaac8459
+SHA1: ee26c825cfff91f0ce25b9e22453add3b828939b
+SHA256: d7d50f251e6ba0fc2e93eefef8b2b09fe410a4599d42cf130afbf9c02d72a719
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
