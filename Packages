@@ -767,10 +767,10 @@ Maintainer: @B6_7E
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Filename: ./debs/YouTubeX.deb
-Size: 14963982
-MD5sum: a3d3672c022cc9144cdb2990854fe7bb
-SHA1: e6d15fb1f52a92998625c1cc1d000e3310eed15e
-SHA256: 216a74e5211ed4441590306042a0f70336fb0fa28283bdb5a45583e04b051db9
+Size: 89324
+MD5sum: b819c6f4f45578131e25dae308963fa4
+SHA1: c3f53f18be3628a018e095ae0669e4a1acb48081
+SHA256: 28888fdf051d3f7045734c4206c7c4b187dbc40c90f38633e31895320698eea8
 Section: Tweaks
 Description: اداة وظيفتها : الغاء الاعلانات.تشغيل اليوتيوب في الخلفية تشغيل دائما بدقة HD منع التعليقات الايك الاشتراك
 Author: BekEs - بيكاس
