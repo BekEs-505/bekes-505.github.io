@@ -206,13 +206,12 @@ Installed-Size: 7156
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
 Filename: ./debs/CarBridge.deb
-Size: 1868678
-MD5sum: f6d4bc8b0c60c52f9e648710634d8cdc
-SHA1: d35df90abedc8ca0caa8dc5a541b44f3f53fd88a
-SHA256: 8953ebf01c6d2ab5aece8600e35218847d1cb7f6a1a91261c80d5b939da12384
+Size: 1868666
+MD5sum: bafc36162cf40916249808ebd95dd9e9
+SHA1: 2121e3b10af6964ea22c9afb0b5982d3e794c1b5
+SHA256: 6bdbc4e8cbcf2bd474d2a85cc59f7ae89f6f34e2ddc8703694b23d3d90cab2f6
 Section: Tweaks
 Description: اداة وظيفتها : تمكن عرض شاشة جهازك على شاشة السيارة CarPlay تعرض لك التطبيقات، والتحكم بالالعاب على شاشة السياره
-Tag: cydia::commercial
 Author: BekEs - بيكاس
 Name: CarBridge
 
