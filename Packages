@@ -604,6 +604,40 @@ Tag: purpose::extension, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: Shuffle Rootless
 
+Package: com.bekes-505.github.io.snapper2
+Version: 2.7.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1840
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/Snapper2.deb
+Size: 706708
+MD5sum: daf59f5cdc04cafdfef715755a044246
+SHA1: ee695c143121e820693554e65a2ae9c176afd7ce
+SHA256: 7b0c7a717dbbd4e90e5d90c5c8da6d7ded132310c5df8d846f175cc160bde3bb
+Section: Tweaks
+Description: اداة وظيفتها : تحديد جزء معين من الشاشة واقتطاعه كصورة، مع إمكانية الإحتفاظ به على الشاشة واستخدام الجهاز أو حفظه إلى تطبيق الصور مباشرة، أو استخراج النص المكتوب أو تجاهله
+Author: BekEs - بيكاس
+Name: Snapper 2
+
+Package: com.bekes-505.github.io.snapper2rootles
+Version: 2.7.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1840
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/Snapper2Rootless.deb
+Size: 715564
+MD5sum: 2a82af727b8cbefe73511124b8de603a
+SHA1: 5914b64dea945d13cc808af4ffed32fef6186190
+SHA256: 2316f34d9789fdabd528db46866443b8e890b374ac396a1959beba2ca6b9b511
+Section: Tweaks
+Description: اداة وظيفتها : تحديد جزء معين من الشاشة واقتطاعه كصورة، مع إمكانية الإحتفاظ به على الشاشة واستخدام الجهاز أو حفظه إلى تطبيق الصور مباشرة، أو استخراج النص المكتوب أو تجاهله
+Author: BekEs - بيكاس
+Name: Snapper 2 Rootless
+
 Package: com.bekes-505.github.io.tiktokdark
 Version: 1.87.1
 Architecture: iphoneos-arm
