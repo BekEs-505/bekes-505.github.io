@@ -266,6 +266,38 @@ Description: اداة وظيفتها: تعيين مقطع فيديو كخلفي�
 Author: BekEs - بيكاس
 Name: Eneko Rootless
 
+Package: com.bekes-505.github.io.erika
+Version: 1.13.3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 408
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: ./debs/Erika.deb
+Size: 141760
+MD5sum: f6d455c1559589cb1fd8389e27c386df
+SHA1: a54817f81864a34ece0f698958ec7a4fd58b4c82
+SHA256: a0501efa711fea2c8549967a274d65ff489dec99b765f8f855f3d2ddc5e9d019
+Section: Tweaks (Piracy)
+Description: اداة وظيفتها : تمكنك من تحميل الادوات المدفوعه بشكل مجاني "قم بالضغط على صورة الاداة داخل الوصف لتثبيتها
+Author: BekEs - بيكاس
+Name: Erika
+
+Package: com.bekes-505.github.io.erikarootless
+Version: 1.13.3
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 368
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: ./debs/ErikaRootless.deb
+Size: 128620
+MD5sum: 68d40458013d4a6d068cd3db50ae0995
+SHA1: 5ea004ad4540859b37c436326d544d5283d679d9
+SHA256: fd95b39c3594f9298b6091d3bbcb848cd6f3832434ea0b24a5f5f442ea61373e
+Section: Tweaks (Piracy)
+Description: اداة وظيفتها : تمكنك من تحميل الادوات المدفوعه بشكل مجاني "قم بالضغط على صورة الاداة داخل الوصف لتثبيتها
+Author: BekEs - بيكاس
+Name: Erika Rootless
+
 Package: com.bekes-505.github.io.filza
 Version: 4.0.1-2
 Architecture: iphoneos-arm
