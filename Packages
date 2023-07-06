@@ -744,6 +744,22 @@ Dev: ahmadmokaddam
 Name: Whatsapp Revael Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.xinamine
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 564
+Depends: ellekit, file, odcctools, ldid, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: ./debs/Xinamine.deb
+Size: 119772
+MD5sum: c51dd7067caca7d42d6d1d21a87eaf61
+SHA1: 12607c2a8b20fbbfbbc1e5354b9b415a07c4b2b0
+SHA256: e98a13567ac462c693d9e1201b276eb0a193d792b27d07c62d0fbc0dbe1de24c
+Section: System
+Description: اداة وظيفتها : تحويل الادوات الى روثليس لتدعم جلبريك الروثليس
+Author: BekEs - بيكاس
+Name: Xinamine
+
 Package: dev.zero.wickedfr33
 Version: 2.0.3a
 Architecture: iphoneos-arm64
