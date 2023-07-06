@@ -760,6 +760,22 @@ Description: اداة وظيفتها : تحويل الادوات الى روثل
 Author: BekEs - بيكاس
 Name: Xinamine
 
+Package: com.bekes-505.github.io.ytx
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/YouTubeX.deb
+Size: 256142
+MD5sum: f978387412bfff0bb1c48ee2395eb40c
+SHA1: 78c43b1328d3692018a7be85e8ab2a85ab139762
+SHA256: 9931d0594bdc0a707fab3d09649f76438a57f599c57df62268bb295ede13f789
+Section: Tweaks
+Description: اداة وظيفتها : الغاء الاعلانات.تشغيل اليوتيوب في الخلفية تشغيل دائما بدقة HD منع التعليقات الايك الاشتراك
+Author: BekEs - بيكاس
+Name: YouTube X
+
 Package: dev.zero.wickedfr33
 Version: 2.0.3a
 Architecture: iphoneos-arm64
