@@ -198,6 +198,41 @@ Dev: lucaluca86
 Name: ByeHomeBottomBarX Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.carbridge
+Version: 2.0.10
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 7156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/CarBridge.deb
+Size: 1868678
+MD5sum: f6d4bc8b0c60c52f9e648710634d8cdc
+SHA1: d35df90abedc8ca0caa8dc5a541b44f3f53fd88a
+SHA256: 8953ebf01c6d2ab5aece8600e35218847d1cb7f6a1a91261c80d5b939da12384
+Section: Tweaks
+Description: اداة وظيفتها : تمكن عرض شاشة جهازك على شاشة السيارة CarPlay تعرض لك التطبيقات، والتحكم بالالعاب على شاشة السياره
+Tag: cydia::commercial
+Author: BekEs - بيكاس
+Name: CarBridge
+
+Package: com.bekes-505.github.io.carbridgerootles
+Version: 2.0.12
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 7344
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/CarBridgeRootless.deb
+Size: 1874320
+MD5sum: 7b31b041adb73a79c55235a12820f512
+SHA1: 803deb7a03de21f57916912d39243c28e562c280
+SHA256: 280b045a2911ae11b7c9e01858687bc444a5af4dab5e095a2a699ee2467b255f
+Section: Tweaks
+Description: اداة وظيفتها : تمكن عرض شاشة جهازك على شاشة السيارة CarPlay تعرض لك التطبيقات، والتحكم بالالعاب على شاشة السياره
+Author: BekEs - بيكاس
+Name: CarBridge Rootless
+
 Package: com.bekes-505.github.io.crane
 Version: 1.3.11-2
 Architecture: iphoneos-arm
