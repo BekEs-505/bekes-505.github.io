@@ -415,6 +415,38 @@ Description: اداة وظيفتها : دمج ملف dylib في ipa بواسطة
 Author: BekEs - بيكاس
 Name: injectipa Rootless
 
+Package: com.bekes-505.github.io.kayoko
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 924
+Depends: firmware (>= 13.0), firmware (<< 16.4), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/Kayoko.deb
+Size: 173198
+MD5sum: 4b4453985e689c771a590d31bf6f0eb4
+SHA1: 5338987e6decfbc7b8fc8c7e52d065f83aebb245
+SHA256: 01577300b9e0f44cdd2a5237c6a3f6b8783f0315144dbfcfe4bd78937b45ea98
+Section: Tweaks
+Description: اداة وظيفتها : نسخ النصوص المتعدد مع امكانية الرجوع لها او حفظها في حافظة خاصه للرجوع لها في وقت لاحق
+Author: BekEs - بيكاس
+Name: Kayoko
+
+Package: com.bekes-505.github.io.kayokorootless
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 956
+Depends: firmware (>= 13.0), firmware (<< 16.4), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/KayokoRootless.deb
+Size: 162710
+MD5sum: 80544cc1f2ff8d4614f54de81ff9e19a
+SHA1: a370d99fa8cc4defe03ad3695593a5c3221db217
+SHA256: 25df400edbeae6c024189d3f2d087f7efe4d8091bcf8699912a584f96c604fa4
+Section: Tweaks
+Description: اداة وظيفتها : نسخ النصوص المتعدد مع امكانية الرجوع لها او حفظها في حافظة خاصه للرجوع لها في وقت لاحق
+Author: BekEs - بيكاس
+Name: Kayoko Rootless
+
 Package: com.bekes-505.github.io.rocket
 Version: 3.8.9
 Architecture: iphoneos-arm
