@@ -142,6 +142,22 @@ Description: اداة وظيفتها : ارجاع اصدارات التطبيق�
 Author: BekEs - بيكاس
 Name: AppData Rootless
 
+Package: com.bekes-505.github.io.apphack
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 10500
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
+Filename: ./debs/AppHack.deb
+Size: 10410478
+MD5sum: 406f32973c5b510b37a975ff47e12a52
+SHA1: a48476455c6b9ba615199030307c1a7981e1949d
+SHA256: 7604ea22412a12cd1ac91e3d977d876d8cbdce1df1e8553065afb968c5055be6
+Section: Tweaks
+Description: اداة وظيفتها : تهكير التطبيقات وفتح مميزات البرو ادوات مجمعه
+Author: BekEs - بيكاس
+Name: APP HACK
+
 Package: com.bekes-505.github.io.bhtwitterrotless
 Version: 3.9.1
 Architecture: iphoneos-arm64
