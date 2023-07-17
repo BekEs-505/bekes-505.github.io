@@ -158,6 +158,22 @@ Description: اداة وظيفتها : تهكير التطبيقات وفتح م
 Author: BekEs - بيكاس
 Name: APP HACK
 
+Package: com.bekes-505.github.io.appstv
+Version: 6.1.1
+Architecture: iphoneos-arm
+Maintainer: BekEs - بيكاس
+Depends: firmware (>=10.0)
+Filename: ./debs/AppsTv.deb
+Size: 79796244
+MD5sum: 68825334b192f45833ce3626fcc1e254
+SHA1: 5c30424c50592b4c52a306a3d4ed6b230cbe8f63
+SHA256: 98b04318bf0964972cb30277f708e9f6e870aa076583100dcb9dddef79b5d4c8
+Section: Tweaks
+Description: تطبيقات افلام ومسلسلات مجمعه في اداة واحدة
+Author: @B6_7E
+Name: Apps Tv
+Tags: compatible_min::ios10.0
+
 Package: com.bekes-505.github.io.bhinsta
 Version: 0.0.1
 Architecture: iphoneos-arm
