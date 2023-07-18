@@ -1,1 +1,1 @@
-# BekEs Best Repo for all Packaging Rootful - Rootleass! Cydia + Sileo + Saily + Installer + Zebra!.
+# BekEs Best Repo for all Packaging Rootful And  Rootless! Cydia + Sileo + Saily + Installer + Zebra!.
