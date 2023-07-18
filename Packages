@@ -164,10 +164,10 @@ Architecture: iphoneos-arm
 Maintainer: BekEs - بيكاس
 Depends: firmware (>=10.0)
 Filename: ./debs/AppsTv.deb
-Size: 97201684
-MD5sum: 03b368366cf5c863c27472c1a9d96c1c
-SHA1: 0a52e896dac6026e427a154cb4eff0d41ec2c3e3
-SHA256: 57e918e723fa9660657471615a5bd83c0615552609db7df7b9c139a5a46dab66
+Size: 97202244
+MD5sum: 8f2f8fab6546d872d1f665f73a6c0b29
+SHA1: 1edda5b2b5b9db00be17a4bf669a460817a201c5
+SHA256: 58779a0504e61790247419a36822e6247aaa6ffecec78a895725a8a20d9f47d6
 Section: Tweaks
 Description: تطبيقات افلام ومسلسلات مجمعه في اداة واحدة
 Author: @B6_7E
