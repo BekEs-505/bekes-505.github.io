@@ -207,34 +207,34 @@ Author: BekEs - بيكاس
 Name: BHInsta Rootless
 
 Package: com.bekes-505.github.io.bhtiktok
-Version: 0.0.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 488
+Installed-Size: 412
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/BHtiktok.deb
-Size: 142058
-MD5sum: 169826fa40ce196b9a87871c265015d3
-SHA1: 44a7851ef97df43508ecdf1bcfe37bebe453b471
-SHA256: 1ecc00f82b5aac4d659a5a1e37b115e2cac5869a95fc15216db81dc82ee94cba
+Filename: ./debs/BHTikTok.deb
+Size: 125426
+MD5sum: 68a58ed61d05d484d21f904776634c14
+SHA1: 1f4c6ba73298a97a1acda2770757452736749ed7
+SHA256: 5861738a99f1168305769974f28825562a5ce5c0e30d5c39f7926dfa73fe62e0
 Section: Tweaks
-Description: اداة وظيفتها : تيك توك بلس اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف و زيادة احرف التعليقات الى 240 حرف و تأكيد الاعجاب/عدم الاعجاب و تأكيد التعليق و تأكيد المتابعة و تغيير المنطقة و خيارات مزيفة مثل التوثيق والمتابعين و فتح الروابط بمتصفح سفاري و قفل التطبيق بكلمة مرور
+Description: اداة وظيفتها : تيك توك بلس اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف
 Author: BekEs - بيكاس
 Name: BHTikTok
 
 Package: com.bekes-505.github.io.bhtiktokrootless
-Version: 0.0.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 488
+Installed-Size: 412
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/BHtiktokRootless.deb
-Size: 142188
-MD5sum: cd4ef9f16cadd7681d10f8921219088a
-SHA1: a9dac53bcb65f5b7ed542f1a78c4ea5d80b9cd07
-SHA256: e1588a3374bd8141fc573f5c45089b70de22484b5712c38b3ce71a16f75833cf
+Filename: ./debs/BHTikTokRootless.deb
+Size: 125512
+MD5sum: 4a5695633fe07dbeceaedc7755ad81ed
+SHA1: fd756c9c3dcd9b160a67be94c1b10ecc19ca52e2
+SHA256: 5f7deffc5ab1fb4c90e184ad7f05108320bbebdeb74e4876aea4af433ebfe5db
 Section: Tweaks
-Description: اداة وظيفتها : تيك توك بلس اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف و زيادة احرف التعليقات الى 240 حرف و تأكيد الاعجاب/عدم الاعجاب و تأكيد التعليق و تأكيد المتابعة و تغيير المنطقة و خيارات مزيفة مثل التوثيق والمتابعين و فتح الروابط بمتصفح سفاري و قفل التطبيق بكلمة مرو
+Description: اداة وظيفتها : تيك توك بلس اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف
 Author: BekEs - بيكاس
 Name: BHTikTok Rootless
 
