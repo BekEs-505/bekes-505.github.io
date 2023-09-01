@@ -1,13 +1,13 @@
 Package: com.bekes-505.github.io.BHTwitter
-Version: 3.9.1
+Version: 4.0
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Depends: firmware (>= 14.0), mobilesubstrate, ws.hbang.common (>= 1.17)
 Filename: ./debs/BHTwitter.deb
-Size: 1135628
-MD5sum: 22f5c6a58c09deac56f9126e966ffe4c
-SHA1: d14c00ba89919917c10c1b16044cd69430a22107
-SHA256: 073f04139f14df0640a90c13bc640fb2492cd5caa699779b24df16a74cade691
+Size: 1140114
+MD5sum: 4ceb5e112105c21feea66a2fb6d278ef
+SHA1: 5c2f4bcd36d3643c0f2a4c2bc084cc2cdb67e726
+SHA256: acffc37497c52e3624b15cc9d4a3a69bb8ded74fd1f01b4108a7bdee0e265050
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : تويتر بلس مميزاته تتيح لك امكانية تحميل الفيديوهات من التغريدة حتى لو كان الحساب برايفت و فتح ميزة التغريد بالتسجيل الصوتي لتويتر في الخاص والعام
@@ -303,17 +303,17 @@ Description: اداة وظيفتها : تيك توك بلس اخفاء الاع�
 Author: BekEs - بيكاس
 Name: BHTikTok Rootless
 
-Package: com.bekes-505.github.io.bhtwitterrotless
-Version: 3.9.1
+Package: com.bekes-505.github.io.bhtwitterrotles
+Version: 4.0
 Architecture: iphoneos-arm64
-Maintainer: B6_7E
-Installed-Size: 3752
+Maintainer: @B6_7E
+Installed-Size: 3780
 Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
 Filename: ./debs/BHTwitterRootless.deb
-Size: 1358158
-MD5sum: 8064d926e3bcc790230ab1e625260811
-SHA1: e1e89d1848cd5a217ba8bfff7fd833fe04b523c3
-SHA256: 8334c3b277a1da6aa6e57e2ddfb8de848ac168e5928f1b488c828c22dde4ea6f
+Size: 1365204
+MD5sum: c56820d85fe2977d15983dff3c55b50f
+SHA1: 7b2046b8860d6b120c532ad1516dbb5e654c8b19
+SHA256: f78e961084d4aeb59df746b6486fc3f62385b99a5080028b5f4d934d021384fe
 Section: Tweaks
 Description: اداة وظيفتها : تويتر بلس مميزاته تتيح لك امكانية تحميل الفيديوهات من التغريدة حتى لو كان الحساب برايفت و فتح ميزة التغريد بالتسجيل الصوتي لتويتر في الخاص والعام
 Author: BekEs - بيكاس
