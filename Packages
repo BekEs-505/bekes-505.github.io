@@ -174,6 +174,38 @@ Description: اداة وظيفتها : تهكير التطبيقات وفتح م
 Author: BekEs - بيكاس
 Name: APP HACK
 
+Package: com.bekes-505.github.io.apppad
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 220
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Filename: ./debs/AppPad.deb
+Size: 9662
+MD5sum: e83a97354df123379548bd4f6f3d5564
+SHA1: 31f8bce289d85f86fa20a5307658dc1db337c76b
+SHA256: 65f84dbdad30daf1b4b4d87eac9091356b9d2b7458ee9d91cb6aae49c348543e
+Section: Tweaks
+Description: اداة وظيفتها : خاصه بالايباد لجعل التطبيقات تقبل كامل الشاشه وتقبل الدوران
+Author: BekEs - بيكاس
+Name: AppPad
+
+Package: com.bekes-505.github.io.apppadrootless
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 172
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
+Filename: ./debs/AppPadRootless.deb
+Size: 6936
+MD5sum: 0daeeb73dcafa72f49234b5d885e980e
+SHA1: 93e6730b5891e6e917069b58e48cd5952fccc7cc
+SHA256: 89f59cacd98d40b4fdb86ddb4fe0e1f6ddc87ffd21ffd0dd8e4bbc0665ba448d
+Section: Tweaks
+Description: اداة وظيفتها : خاصه بالايباد لجعل التطبيقات تقبل كامل الشاشه وتقبل الدوران
+Author: BekEs - بيكاس
+Name: AppPad Rootless
+
 Package: com.bekes-505.github.io.appstoreplusplus
 Version: 0.10.1-5
 Architecture: iphoneos-arm
