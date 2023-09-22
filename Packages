@@ -883,6 +883,24 @@ Description: اداة وظيفتها : تحديد جزء معين من الشا�
 Author: BekEs - بيكاس
 Name: Snapper 2 Rootless
 
+Package: com.bekes-505.github.io.snowboardrotles
+Version: 1.5.21-Beta3-rootless
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 3188
+Depends: mobilesubstrate, preferenceloader
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/SnowboardRootless.deb
+Size: 97069626
+MD5sum: d203cc7645dfe528612bf41f503c4517
+SHA1: 94f276160c7ff61135ce66b544bda2af864305ae
+SHA256: 030230c34d23e3fcd36e6bb3c07861ff86264ca67422fdd7a8aca5c3a5dace87
+Section: Tweaks
+Description: اداة وظيفتها : تغير ثيمات التطبيقات وتزين الجوال والايقونات والكثير
+Author: BekEs - بيكاس
+Name: SnowBoard Rootless
+
 Package: com.bekes-505.github.io.tiktokdark
 Version: 1.87.1
 Architecture: iphoneos-arm
