@@ -272,36 +272,36 @@ Author: BekEs - بيكاس
 Name: BHInsta Rootless
 
 Package: com.bekes-505.github.io.bhtiktok
-Version: 1.2
+Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 412
-Depends: mobilesubstrate, ws.hbang.common
+Installed-Size: 1408
+Depends: mobilesubstrate
 Filename: ./debs/BHTikTok.deb
-Size: 125426
-MD5sum: 68a58ed61d05d484d21f904776634c14
-SHA1: 1f4c6ba73298a97a1acda2770757452736749ed7
-SHA256: 5861738a99f1168305769974f28825562a5ce5c0e30d5c39f7926dfa73fe62e0
+Size: 590660
+MD5sum: d49b1e29df1d87e7294c2de52f1881d4
+SHA1: f01d472cac634eb1f272f9a3955f63cca4e54aac
+SHA256: c02be0f3c4aa16c49ac8ee8e7b463f87cd87ed1781b5f5e45da2cfd482d20a66
 Section: Tweaks
-Description: اداة وظيفتها : تيك توك بلس اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف
+Description: اداة وظيفتها : اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف
 Author: BekEs - بيكاس
-Name: BHTikTok
+Name: BHTikTok Plus
 
 Package: com.bekes-505.github.io.bhtiktokrootless
-Version: 1.2
+Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 412
-Depends: mobilesubstrate, ws.hbang.common
+Installed-Size: 1408
+Depends: mobilesubstrate
 Filename: ./debs/BHTikTokRootless.deb
-Size: 125512
-MD5sum: 4a5695633fe07dbeceaedc7755ad81ed
-SHA1: fd756c9c3dcd9b160a67be94c1b10ecc19ca52e2
-SHA256: 5f7deffc5ab1fb4c90e184ad7f05108320bbebdeb74e4876aea4af433ebfe5db
+Size: 590740
+MD5sum: 84b811555818b1737ce0f7e484c511ad
+SHA1: ff2bbf8dcf5d32585082c410fdbb2dd9de4c1cd4
+SHA256: ee88d1852a6484a5f8c0d9b00c0c61871f23579e81808d40bb00de4c1a873a76
 Section: Tweaks
-Description: اداة وظيفتها : تيك توك بلس اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف
+Description: اداة وظيفتها : اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف
 Author: BekEs - بيكاس
-Name: BHTikTok Rootless
+Name: BHTikTok Plus Rootless
 
 Package: com.bekes-505.github.io.bhtwitterrotles
 Version: 4.0
@@ -915,18 +915,53 @@ Author: BekEs - بيكاس
 Depiction: TiktokDark
 Name: TikTok Dark Rootless
 
-Package: com.bekes-505.github.io.watusi3
-Version: 1.1.63
+Package: com.bekes-505.github.io.uyou
+Version: 3.0.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 6660
+Installed-Size: 31200
+Depends: firmware (>=13.0), mobilesubstrate
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./debs/uYou.deb
+Size: 14875644
+MD5sum: 0a5eb7b5d55ff3ffeb7de9376ed3f8b0
+SHA1: 2a223c0f7d57f29891c0b5bef19f5139db6e6fad
+SHA256: 2302abfd126630d0837f1f0d00879113bad8f2471d49f6081e80de6c83036af0
+Section: Tweaks
+Description: اداة وظيفتها : تحميل من اليوتيوب وتحويله الى صوت و تشغيل المقاطع المحفوظة بمشغل جميل و مشاركة و تصدير للمقاطع المحفوظة لأي تطبيق اخر و تشغيل مقاطع اليوتيوب في الخلفية و ازالة الاعلانات
+Tag: purpose::extension, compatible_min::ios13
+Author: BekEs - بيكاس
+Name: uYou
+
+Package: com.bekes-505.github.io.uyourootless
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 31200
+Depends: firmware (>=13.0), mobilesubstrate
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyou
+Filename: ./debs/uYouRootless.deb
+Size: 14865382
+MD5sum: 90ba6f619286b99851464d3202a3205e
+SHA1: 850b6c96c009060322dc8f8fceedb385d7ce24e8
+SHA256: 38d9d7c247db7dd4dbd47cc3e89061ae3d13ab0a15b020d41e2d2a3f8c35dd88
+Section: Tweaks
+Description: تحميل من اليوتيوب وتحويله الى صوت و تشغيل المقاطع المحفوظة بمشغل جميل و مشاركة/وتصدير للمقاطع المحفوظة لأي تطبيق اخر و تشغيل مقاطع اليوتيوب في الخلفية و ازالة الاعلانات
+Tag: purpose::extension, compatible_min::ios13
+Author: BekEs - بيكاس
+Name: uYou Rootless
+
+Package: com.bekes-505.github.io.watusi3
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 6772
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.muirey03.libmryipc
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsApp.deb
-Size: 11547954
-MD5sum: 6cd4ebfd993ae8b4f7f6a806ad8cbced
-SHA1: 03925b0dca8adc682e0137649aa8eedf855fd4a3
-SHA256: 805ff548812e0a033b619fa2cbf0d24dc1e53cc6a449a151f8e806345975a322
+Size: 9031666
+MD5sum: 2acb0f5fe13672116bfb21e5f55ddced
+SHA1: 7beb402aa6c2143da07e4efb949b59e717102fcb
+SHA256: 159d0ca6b25cf0556afff56f9c4ea848b855d71e64d48ec79eb18de4a166fca7
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
@@ -938,12 +973,11 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6480
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsAppRootless.deb
-Size: 12037874
-MD5sum: 06fb2a4ce300ba615096ec9cbaac8459
-SHA1: ee26c825cfff91f0ce25b9e22453add3b828939b
-SHA256: d7d50f251e6ba0fc2e93eefef8b2b09fe410a4599d42cf130afbf9c02d72a719
+Size: 9009530
+MD5sum: 2ed6fd5e1d55ba2c39785449c5aeb343
+SHA1: f0daa284a085eb4fa0ac362782de25ca66ce9d96
+SHA256: e5974aaac6e2c6181275a755ae5f0a1d8ba30f9c8449d8278e1fcbb997cf5cd4
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
@@ -1020,22 +1054,6 @@ Section: System
 Description: اداة وظيفتها : تحويل الادوات الى روثليس لتدعم جلبريك الروثليس
 Author: BekEs - بيكاس
 Name: Xinamine
-
-Package: com.bekes-505.github.io.ytx
-Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: @B6_7E
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs/YouTubeX.deb
-Size: 89324
-MD5sum: b819c6f4f45578131e25dae308963fa4
-SHA1: c3f53f18be3628a018e095ae0669e4a1acb48081
-SHA256: 28888fdf051d3f7045734c4206c7c4b187dbc40c90f38633e31895320698eea8
-Section: Tweaks
-Description: اداة وظيفتها : الغاء الاعلانات.تشغيل اليوتيوب في الخلفية تشغيل دائما بدقة HD منع التعليقات الايك الاشتراك
-Author: BekEs - بيكاس
-Name: YouTube X
 
 Package: dev.zero.wickedfr33
 Version: 2.0.3a
