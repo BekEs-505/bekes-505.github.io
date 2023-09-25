@@ -974,12 +974,12 @@ Version: 1.2.5
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6772
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.muirey03.libmryipc
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/Watusi3forWhatsApp.deb
-Size: 9031666
-MD5sum: 2acb0f5fe13672116bfb21e5f55ddced
-SHA1: 7beb402aa6c2143da07e4efb949b59e717102fcb
-SHA256: 159d0ca6b25cf0556afff56f9c4ea848b855d71e64d48ec79eb18de4a166fca7
+Size: 9031648
+MD5sum: 83a0ae098d0c4b0572d3bf0617452026
+SHA1: abc11f7f78fe5a521f17bb7866c3f45b9a932915
+SHA256: 741ae4794bbfec6fac3579a70819156f3b7887ffe4874fe899ed8ee3997f430d
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
