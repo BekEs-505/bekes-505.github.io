@@ -1073,6 +1073,44 @@ Description: اداة وظيفتها : تحويل الادوات الى روثل
 Author: BekEs - بيكاس
 Name: Xinamine
 
+Package: com.bekes-505.github.io.youtubereborn
+Version: 4.1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 24784
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debs/YouTubeReborn.deb
+Size: 11990354
+MD5sum: 249fe1e00f8ba51994a3c1b3c9332e84
+SHA1: d7df88784a077f6075b8ec068b98c7ceb76277dd
+SHA256: 7bd4e39cb26e13785b1abe94d1141d4512c39004ff66342240dcb7a9f30d364b
+Section: Tweaks
+Description: اداة وظيفتها : يوتيوب بلس لحذف الاعلانات والتشغيل في الخلفية وتحميل والحفظ
+Author: BekEs - بيكاس
+Name: YouTube Reborn
+
+Package: com.bekes-505.github.io.youtuberootless
+Version: 4.1.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 24784
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debs/YouTubeRebornRootless.deb
+Size: 11990406
+MD5sum: e03ffea7de5372015cb2736e586616cb
+SHA1: 6c7d31da882f654e4779818cbabfcd24c4a2e434
+SHA256: 944364c6648fba921259a8e785d44e50d61fa764dcc2dde4a7ace3e2f214c7b5
+Section: Tweaks
+Description: اداة وظيفتها : يوتيوب بلس لتحميل وحذف الاعلانات وتشغيل في الخلفية
+Author: BekEs - بيكاس
+Name: YouTube Reborn Rootless
+
 Package: dev.zero.wickedfr33
 Version: 2.0.3a
 Architecture: iphoneos-arm64
