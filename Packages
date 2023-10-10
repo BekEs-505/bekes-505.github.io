@@ -970,32 +970,35 @@ Author: BekEs - بيكاس
 Name: uYou Rootless
 
 Package: com.bekes-505.github.io.watusi3
-Version: 1.2.5
+Version: 1.2.8
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6772
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.14), com.muirey03.libmryipc
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsApp.deb
-Size: 9031648
-MD5sum: 83a0ae098d0c4b0572d3bf0617452026
-SHA1: abc11f7f78fe5a521f17bb7866c3f45b9a932915
-SHA256: 741ae4794bbfec6fac3579a70819156f3b7887ffe4874fe899ed8ee3997f430d
+Size: 2641294
+MD5sum: 169ab305a37b3d2f65e12b4687993443
+SHA1: 3bbea286f6f2a31ed14de67048a519cf75f4b97d
+SHA256: 244cd12e825cc66bdd57a6534033a7cdb10e0f4c3f94e157cfd2b8d7cd9a3293
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 
 Package: com.bekes-505.github.io.watusi3rootless
-Version: 1.1.63
+Version: 1.2.8
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 6480
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Installed-Size: 6604
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.14)
+Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsAppRootless.deb
-Size: 9009530
-MD5sum: 2ed6fd5e1d55ba2c39785449c5aeb343
-SHA1: f0daa284a085eb4fa0ac362782de25ca66ce9d96
-SHA256: e5974aaac6e2c6181275a755ae5f0a1d8ba30f9c8449d8278e1fcbb997cf5cd4
+Size: 2568360
+MD5sum: 02cb2977cd0aacd9a552706aa768ab8a
+SHA1: 50b5d2e09ad13c236edaa4dca8162d09f5e0ef34
+SHA256: 76ed9b8d882828bd451a27ba67f49c977f6a389eba88df192ef1d86b5876404a
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
@@ -1110,6 +1113,23 @@ Section: Tweaks
 Description: اداة وظيفتها : يوتيوب بلس لتحميل وحذف الاعلانات وتشغيل في الخلفية
 Author: BekEs - بيكاس
 Name: YouTube Reborn Rootless
+
+Package: com.f0u4d.watusitools
+Version: 2.4.14
+Architecture: iphoneos-arm64
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 10.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/WatusiToolsRootless.deb
+Size: 4630504
+MD5sum: d904c97e9ce0bf41a421423d6f0fe559
+SHA1: 63b00f85759e2dd4044f65c110af9004e67999c1
+SHA256: 48a65c35420b9c28551fcfdc521ba5b0e6e5de5ae1df631cc02fb57358a0b538
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools
 
 Package: dev.zero.wickedfr33
 Version: 2.0.3a
