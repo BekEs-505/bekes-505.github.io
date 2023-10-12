@@ -411,18 +411,48 @@ Description: اداة وظيفتها : تمكن عرض شاشة جهازك عل�
 Author: BekEs - بيكاس
 Name: CarBridge Rootless
 
+Package: com.bekes-505.github.io.cracktool4
+Version: 4.0~beta10b
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./debs/CrackTool4.deb
+Size: 2957400
+MD5sum: 5442f599867c64f10782e1714f837daf
+SHA1: 527301a5864fb76d7c9ab8de5d5de63411161eb0
+SHA256: 2692f4d4116d482785d7b6d87cc8f71223c5d7cd801df938650e288f036f30ae
+Section: Utilities
+Description: اداة وظيفتها : تمكنك من تكريك الادوات المدفوعة المختارة وحذف الاعلانات
+Author: BekEs - بيكاس
+Name: CrackTool4 (iOS 9 - 14)
+
+Package: com.bekes-505.github.io.cracktool5rotles
+Version: 5.0~beta0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./debs/CrackTool5Rootless.deb
+Size: 1287920
+MD5sum: 435d7b1a63819be2395b1b802f528cd6
+SHA1: e6f70d5acefabba0c51e1d322b5ed9113183db9b
+SHA256: 13269767426618be9fa33fd7a45854151e2eb6cbfd48ad0337f36c854a638213
+Section: Utilities
+Description: اداة وظيفتها : تمكنك من تكريك الادوات المدفوعة المختارة وحذف الاعلانات
+Author: BekEs - بيكاس
+Name: CrackTool5 (iOS 15 - 16 ) Rootless
+
 Package: com.bekes-505.github.io.crane
-Version: 1.3.11-2
+Version: 1.3.12
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 3340
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debs/Crane.deb
-Size: 1105720
-MD5sum: bf840fbd150a20297fd6a4ae01695deb
-SHA1: 9ba4546110af136c4f7dc2eb7f001601bea927dc
-SHA256: f7bc9bfeb86f8bc1613829ff38cafa44d190076e56dcd605265aa944e54d573e
+Size: 1107046
+MD5sum: 281e8c9f674b87981eccf9fc152950c6
+SHA1: 00d982c486b29e4488aee00c1cffbf3201103b20
+SHA256: 49600fb73c8d5a6ddf606a3bdf40eb8473062a4d75be04c18b0eb35cdd1c375d
 Section: Tweaks
 Description: اداة وظيفتها : فتح اكثر من حساب في تطبيق واحد والتبديل بينهم عبر الضغط على التطبيق يضهر لك عدد الحسابات المضافة وتختار اي حساب
 Author: BekEs - بيكاس
@@ -646,32 +676,32 @@ Author: BekEs - بيكاس
 Name: iKeywi 4 Rootless
 
 Package: com.bekes-505.github.io.injectipa
-Version: 1.3-7
+Version: 1.4-4
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 29244
+Installed-Size: 3492
 Depends: firmware (>= 11.0)
 Filename: ./debs/injectipa.deb
-Size: 8956838
-MD5sum: 82af42fdf8b7885f9cdbf926e0fdd7c6
-SHA1: adcdd192ef9d701cc08f881ee1ae9caa9349b7a8
-SHA256: c75c6c385ed01e2007ee5a26fbc83016ea09f5c0aabc4a2045092128ee0f8877
+Size: 1338536
+MD5sum: 2cf17f630d3d37432d5ed59f487add52
+SHA1: dc3bab4ea142d506ab249d53e427311a71c5fab2
+SHA256: 3da9b7ffa6aec34044418e972c900498753b984cbcd2ee779163a8f429ee9a75
 Section: Tweaks
 Description: اداة وظيفتها : دمج ملف dylib في ipa بواسطة NewTerm
 Author: BekEs - بيكاس
 Name: injectipa
 
-Package: com.bekes-505.github.io.injectiparotless
-Version: 1.3-7
+Package: com.bekes-505.github.io.injectiparotles
+Version: 1.4-4
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 28712
+Installed-Size: 3508
 Depends: firmware (>= 15.0)
 Filename: ./debs/injectipaRootless.deb
-Size: 8850352
-MD5sum: 011b70f35f3a889f3bcceb4ad5378361
-SHA1: 3b4c81b4d5c8dfaf5f8f65e08286b966e5084816
-SHA256: 7dd8790e9e4574446202746b5694a7ecc58e604e0d3be12e45ef6abbb77c790a
+Size: 1361916
+MD5sum: 93b962cb53f7980d64f4f69b21ff5b38
+SHA1: f87f933aed9648d4a0ee4ecc7e7655bb459b12c5
+SHA256: 61b6752ccb9e3894c3dcb8f96d2dd2fef9068a203278a1accd9465cf36788543
 Section: Tweaks
 Description: اداة وظيفتها : دمج ملف dylib في ipa بواسطة NewTerm
 Author: BekEs - بيكاس
@@ -694,33 +724,17 @@ Description: اداة وظيفتها : سناب بلس لتحميل ورفع ا�
 Author: BekEs - بيكاس
 Name: iota
 
-Package: com.bekes-505.github.io.kayoko
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: @B6_7E
-Installed-Size: 924
-Depends: firmware (>= 13.0), firmware (<< 16.4), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/Kayoko.deb
-Size: 173198
-MD5sum: 4b4453985e689c771a590d31bf6f0eb4
-SHA1: 5338987e6decfbc7b8fc8c7e52d065f83aebb245
-SHA256: 01577300b9e0f44cdd2a5237c6a3f6b8783f0315144dbfcfe4bd78937b45ea98
-Section: Tweaks
-Description: اداة وظيفتها : نسخ النصوص المتعدد مع امكانية الرجوع لها او حفظها في حافظة خاصه للرجوع لها في وقت لاحق
-Author: BekEs - بيكاس
-Name: Kayoko
-
 Package: com.bekes-505.github.io.kayokorootless
-Version: 1.4
+Version: 1.4.2
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 956
-Depends: firmware (>= 13.0), firmware (<< 16.4), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/KayokoRootless.deb
-Size: 162710
-MD5sum: 80544cc1f2ff8d4614f54de81ff9e19a
-SHA1: a370d99fa8cc4defe03ad3695593a5c3221db217
-SHA256: 25df400edbeae6c024189d3f2d087f7efe4d8091bcf8699912a584f96c604fa4
+Size: 163918
+MD5sum: 987e6b160e4b268418109b436f531c89
+SHA1: ef712ce7182b2a9220d650916610612df139169d
+SHA256: a0cfdc571731140ffc0926c15c8a9cf4d191b45023785292a046ef3f1e53de2b
 Section: Tweaks
 Description: اداة وظيفتها : نسخ النصوص المتعدد مع امكانية الرجوع لها او حفظها في حافظة خاصه للرجوع لها في وقت لاحق
 Author: BekEs - بيكاس
@@ -744,33 +758,33 @@ Author: BekEs - بيكاس
 Name: relicloader
 
 Package: com.bekes-505.github.io.rocket
-Version: 3.8.9
+Version: 3.8.15
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 6504
+Installed-Size: 6552
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagram.deb
-Size: 2260848
-MD5sum: 5db49436838343d61a089f9e79bb7950
-SHA1: 13eecc0cfaa97a8317bca1572670a9f8c5bbe7ce
-SHA256: e26640df3a694639c73a48c361a19068261bf9831cfdd50751c0187f6332128f
+Size: 2288830
+MD5sum: 687088d5f115075c9e400cfc7ff66f6b
+SHA1: 13b88c3d583ae496937baf847bf1b760a46deca8
+SHA256: 97719302272af4fc6c6356631378299105b89666a52ab0e3eb4ce99189429723
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
 Author: BekEs - بيكاس
 Name: Rocket for Instagram
 
-Package: com.bekes-505.github.io.rocketrootles
-Version: 3.8.9
+Package: com.bekes-505.github.io.rocketrootless
+Version: 3.8.15
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 6504
+Installed-Size: 6552
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagramRootless.deb
-Size: 2247184
-MD5sum: 9d19016ca3458ebb4b9a02772b34a181
-SHA1: d9a6517ec3b4a4831beefc1dc4af786b754e0a2e
-SHA256: 2b26ba73af5a77a8eadc6d40a88ca820fd9d19b771277669c2a9c3a843cc1035
+Size: 2289682
+MD5sum: bcb848d9c4140c979d993c669d49e23a
+SHA1: d968c2d23aa833187ed10ee172079571851afa2c
+SHA256: 77e964054a9871c6a021b76229617bb61768a5d7096e4c652ac54058337556db
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -882,6 +896,25 @@ Section: Tweaks
 Description: اداة وظيفتها : تحديد جزء معين من الشاشة واقتطاعه كصورة، مع إمكانية الإحتفاظ به على الشاشة واستخدام الجهاز أو حفظه إلى تطبيق الصور مباشرة، أو استخراج النص المكتوب أو تجاهله
 Author: BekEs - بيكاس
 Name: Snapper 2 Rootless
+
+Package: com.bekes-505.github.io.snowboard
+Version: 1.5.21-Beta3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 4260
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/Snowboard.deb
+Size: 89898610
+MD5sum: 3260aee73ab61722896e44e6e07b921c
+SHA1: d46995972ed6d7fed5e3619b7f17bd6230f706a7
+SHA256: c5ba0f57d5441599169f887802fe40ae9d93afc2be53f69a698c161677629af6
+Section: Tweaks
+Description: اداة وظيفتها : تغير ثيمات التطبيقات وتزين الجوال والايقونات والكثير
+Author: BekEs - بيكاس
+Name: SnowBoard
 
 Package: com.bekes-505.github.io.snowboardrotles
 Version: 1.5.21-Beta3-rootless
@@ -1130,6 +1163,22 @@ Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Name: WatusiTools
+
+Package: dev.bekes-505.github.io.kayoko
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 924
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/Kayoko.deb
+Size: 174436
+MD5sum: dc894fcb081c5ccd8b6da2528ff2e3ea
+SHA1: de5aff2646415f7cd451f3c14d5e924a7a1c07cc
+SHA256: abb84d4b45682992167c18e742eef2c814c0d8dc2739982de11429a15bb4a291
+Section: Tweaks
+Description: اداة وظيفتها : نسخ النصوص المتعدد مع امكانية الرجوع لها او حفظها في حافظة خاصه للرجوع لها في وقت لاحق
+Author: BekEs - بيكاس
+Name: Kayoko
 
 Package: dev.zero.wickedfr33
 Version: 2.0.3a
