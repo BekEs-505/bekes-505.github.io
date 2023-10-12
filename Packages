@@ -1147,6 +1147,38 @@ Description: اداة وظيفتها : يوتيوب بلس لتحميل وحذف
 Author: BekEs - بيكاس
 Name: YouTube Reborn Rootless
 
+Package: com.bekes-505.github.io.ytx
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/YouTubeX.deb
+Size: 6804
+MD5sum: acd5fcc227c10cd8f419468249292432
+SHA1: 0cf6dfbe2321453976a599c7974bdc3c2a931fa0
+SHA256: 1996fe608db747adc470ed9c743e3aa7b00d7b3bf1bdb797bc3462010c3db9bd
+Section: Tweaks
+Description: اداة وظيفتها : حذف الاعلانات من اليوتيوب وتشغيل في الخلفية
+Author: BekEs - بيكاس
+Name: YouTube X
+
+Package: com.bekes-505.github.io.ytxrootless
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/YouTubeXRootless.deb
+Size: 6896
+MD5sum: b667b9426983480ca29d6337a07d558e
+SHA1: bedc7345e29d28f4ce609f7dea4c25e69a955a7a
+SHA256: 825b42fba2fe519d34b9827ec4a24dc1a45d749aff553241d7189da3ca5e2ea9
+Section: Tweaks
+Description: اداة وظيفتها : حذف الاعلانات من اليوتيوب وتشغيل في الخلفية
+Author: BekEs - بيكاس
+Name: YouTube X Rootless
+
 Package: com.f0u4d.watusitools
 Version: 2.4.14
 Architecture: iphoneos-arm64
