@@ -272,36 +272,20 @@ Author: BekEs - بيكاس
 Name: BHInsta Rootless
 
 Package: com.bekes-505.github.io.bhtiktok
-Version: 2.2
+Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 1408
+Installed-Size: 1480
 Depends: mobilesubstrate
 Filename: ./debs/BHTikTok.deb
-Size: 590660
-MD5sum: d49b1e29df1d87e7294c2de52f1881d4
-SHA1: f01d472cac634eb1f272f9a3955f63cca4e54aac
-SHA256: c02be0f3c4aa16c49ac8ee8e7b463f87cd87ed1781b5f5e45da2cfd482d20a66
+Size: 624942
+MD5sum: 9171b43bf011827262930f2492184ce7
+SHA1: a1447bc00d0a32f99043a2dd3341c02887787d67
+SHA256: a71bd2f3265f8fe45dd44f02ab653b5a672ef3067133ee6d99b5339143039770
 Section: Tweaks
-Description: اداة وظيفتها : اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف
+Description: اداة وظيفتها : اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف .
 Author: BekEs - بيكاس
 Name: BHTikTok Plus
-
-Package: com.bekes-505.github.io.bhtiktokrootless
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: @B6_7E
-Installed-Size: 1408
-Depends: mobilesubstrate
-Filename: ./debs/BHTikTokRootless.deb
-Size: 590740
-MD5sum: 84b811555818b1737ce0f7e484c511ad
-SHA1: ff2bbf8dcf5d32585082c410fdbb2dd9de4c1cd4
-SHA256: ee88d1852a6484a5f8c0d9b00c0c61871f23579e81808d40bb00de4c1a873a76
-Section: Tweaks
-Description: اداة وظيفتها : اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء/اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف
-Author: BekEs - بيكاس
-Name: BHTikTok Plus Rootless
 
 Package: com.bekes-505.github.io.bhtwitterrotles
 Version: 4.0
@@ -1038,42 +1022,38 @@ Author: BekEs - بيكاس
 Name: Watusi 3 for WhatsApp Rootless
 
 Package: com.bekes-505.github.io.whatsapprevael
-Version: 10.18-1
+Version: 10.20-1+debug
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 6144
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/WhatsappRevael.deb
-Size: 3138948
-MD5sum: 2a3c6f14310eb07fc17bfdf3adfa2477
-SHA1: 0c51b7f44f7dab8625d75f2afc4b94b0adcf4947
-SHA256: 4c9af25090e85f83d547657df666884fea46c6ab7eed20dbc9a083615dc0177b
+Size: 1311470
+MD5sum: 88dcf5bf7f0149a92bf93f81061745aa
+SHA1: 50d882b490f0f14760e5027424a5e14f0d231e84
+SHA256: e8e32cfd00c595095ca1590559daff4bac5da1276dadc92230b849623c864701
 Section: Tweaks
 Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
 Author: BekEs - بيكاس
-Dev: ahmadmokaddam
 Name: Whatsapp Revael
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.bekes-505.github.io.whatsrevrotless
-Version: 10.18-1
+Package: com.bekes-505.github.io.whatsapprotless
+Version: 10.20-1+debug
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 6123
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: com.bekes-505.github.io.whatsrevrotless
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/WhatsappRevaelRootless.deb
-Size: 3110232
-MD5sum: ac9095de8c710c73724566c95abd24a6
-SHA1: 800c8a523e3a6edf534706bd9ae56903c9328b2e
-SHA256: 5d83270e742aca741138b3bd00a580f823e5d6035afa9344e2851c198b5a22d5
+Size: 1311622
+MD5sum: c7fdb279b280bb48e791795ed9b65679
+SHA1: 9a0b099f3ed51adc13a1eed306c01bc682c62e34
+SHA256: 62f9501a4d5c3979344457e3ee5a2407e8691d5f14bdca4491442eb8e9fe220f
 Section: Tweaks
 Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
 Author: BekEs - بيكاس
-Dev: ahmadmokaddam
 Name: Whatsapp Revael Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -1178,6 +1158,22 @@ Section: Tweaks
 Description: اداة وظيفتها : حذف الاعلانات من اليوتيوب وتشغيل في الخلفية
 Author: BekEs - بيكاس
 Name: YouTube X Rootless
+
+Package: com.bekes.firepo.me.bhtiktokrootless
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1480
+Depends: mobilesubstrate
+Filename: ./debs/BHTikTokRootless.deb
+Size: 625054
+MD5sum: d64fc5bbfbd01b9069c4e5e506e46ed8
+SHA1: 49ff8f902fc687caa196c27388bd21837e46c6a2
+SHA256: 84aba41c970acf97b1f8b0d751d11ff78e7561d24aab6b7845986cfc561ce3a5
+Section: Tweaks
+Description: اداة وظيفتها : اخفاء الاعلانات و تحميل مقاطع الفيديو بدون علامة مائية و تحميل للموسيقى و اخفاء و اظهار زر الواجهه الرئيسية و نسخ نص الفيديو و نسخ رابط الفيديو و نسخ رابط الموسيقى و تشغيل تلقائي للفيديو التالي و حفظ صورة البروفايل و نسخ بايو البروفايل و زيادة احرف البايو الى 222 حرف .
+Author: BekEs - بيكاس
+Name: BHTikTok Plus Rootless
 
 Package: com.f0u4d.watusitools
 Version: 2.4.14
