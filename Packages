@@ -1022,16 +1022,16 @@ Author: BekEs - بيكاس
 Name: Watusi 3 for WhatsApp Rootless
 
 Package: com.bekes-505.github.io.whatsapprevael
-Version: 10.20-1+debug
+Version: 10.21-0+debug
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/WhatsappRevael.deb
-Size: 1311470
-MD5sum: 88dcf5bf7f0149a92bf93f81061745aa
-SHA1: 50d882b490f0f14760e5027424a5e14f0d231e84
-SHA256: e8e32cfd00c595095ca1590559daff4bac5da1276dadc92230b849623c864701
+Size: 1296922
+MD5sum: bf58d3adc3256f959331a109bea17b14
+SHA1: 92c6a85f30dc12993026be5cd2b729f04594d099
+SHA256: 32c6340bd34196d61f98fa9787278272e223783f7db50b2064197cd1297276aa
 Section: Tweaks
 Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
@@ -1040,16 +1040,16 @@ Name: Whatsapp Revael
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.whatsapprotless
-Version: 10.20-1+debug
+Version: 10.21-0+debug
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/WhatsappRevaelRootless.deb
-Size: 1311622
-MD5sum: c7fdb279b280bb48e791795ed9b65679
-SHA1: 9a0b099f3ed51adc13a1eed306c01bc682c62e34
-SHA256: 62f9501a4d5c3979344457e3ee5a2407e8691d5f14bdca4491442eb8e9fe220f
+Size: 1296986
+MD5sum: 48605dd20db5b9be18bef52931aea9f3
+SHA1: 2b4495fc0a664e47d3e12843c0aa401188f1bfa9
+SHA256: 7351d5f2bb9748364b7590beb21f9def7861cf885d1afd57a5346d522d7c1f41
 Section: Tweaks
 Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
