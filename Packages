@@ -1172,6 +1172,36 @@ Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخف�
 Author: BekEs - بيكاس
 Name: wicked OLD
 
+Package: com.bekes-505.github.io.wikplus
+Version: 12.0.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Filename: ./debs/WikPlus.deb
+Size: 175326
+MD5sum: 4bf6cf9e94d80df9408e5b5f416b7978
+SHA1: dbdbc691810b2c8411a8396dc5a13f3491659ff0
+SHA256: 105bb3fe7beb7393036dd39098363272c28dda81c1c5c6e1f19d1516854408c2
+Section: Tweaks
+Description: اداة وظيفتها : رفع الصور والفيديو من الالبوم توافق حتى اخر اصدار سناب شات والاصدارات السابقة وحفظ فيديو من محادثة الخاص وحفظ الصور من الخاص
+Author: BekEs - بيكاس
+Name: WikPlus
+
+Package: com.bekes-505.github.io.wikplusrootless
+Version: 12.0.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Filename: ./debs/WikPlusRootless.deb
+Size: 172604
+MD5sum: 51c65745aed87da6145c879fb773b16c
+SHA1: b7ce70409c35e505684cf9b4f95721afe0f6e259
+SHA256: 2902bd2e5da62f6a6bdb6b40d5698514a2b8a0f1374fc9791d17a3a52c674973
+Section: Tweaks
+Description: اداة وظيفتها : رفع الصور والفيديو من الالبوم توافق حتى اخر اصدار سناب شات والاصدارات السابقة وحفظ فيديو من محادثة الخاص وحفظ الصور من الخاص
+Author: BekEs - بيكاس
+Name: WikPlus Rootless
+
 Package: com.bekes-505.github.io.xinamine
 Version: 0.0.5
 Architecture: iphoneos-arm64
