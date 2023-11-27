@@ -322,19 +322,19 @@ Name: AdBlocker
 Sponsor: thebigboss.org
 
 Package: com.bekes-505.github.io.byehomebot
-Version: 1.3.5
+Version: 1.3.6
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 537
+Installed-Size: 538
 Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
 Filename: ./debs/ByeHomeBottomBarX.deb
-Size: 118674
-MD5sum: 6088fe1fb1a797f3a42b288cc9490585
-SHA1: 0eb35af9fb38ae7ef65cbed175d7901e188877bb
-SHA256: daf249acb31a7850e94a0eb55289c49e7f79481a5abc6b301c6a11224e11dbd5
+Size: 118970
+MD5sum: 1b1f5e7d3ecc644b5ecfc4e7af299a9d
+SHA1: 5d1cee2664ef8d3d8aaa897b87f31ba513ffdcb3
+SHA256: b3e20cd145fb8a1894381c3537ece90921d297198190af4db2e4d7d4dc4b4051
 Section: Tweaks
 Priority: optional
-Description: اداة وظيفتها : تضيف لك مميزات كثيرة لاجهزة ايفون X واحدث مثل اخفاء شريط الهوم  اخفاء الكاميرا والفلاش والكثير
+Description: اداة وظيفتها : تضيف لك مميزات كثيرة لاجهزة ايفون اكس واحدث مثل اخفاء شريط الهوم اخفاء الكاميرا والفلاش والكثير
 Tag: purpose::extension
 Author: BekEs - بيكاس
 Dev: lucaluca86
@@ -342,19 +342,19 @@ Name: ByeHomeBottomBarX
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.byehomerootles
-Version: 1.3.5
+Version: 1.3.6
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 558
+Installed-Size: 701
 Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
 Filename: ./debs/ByeHomeBottomBarXRootless.deb
-Size: 118410
-MD5sum: 6cc72bf8a4f38c44b26637a0590ae5d3
-SHA1: 6f8550ace955d143346e9bb327b6358c6c5cee49
-SHA256: e27c19ea29d25f32fc2b61442a6c7247a3059f16f893d83e9fd8483ac9c9f78f
+Size: 145468
+MD5sum: a3a5374b5373cd5f7f44e97f2c585e06
+SHA1: 0dc5a84b65021c913d1d74d81650f03585526e71
+SHA256: 949f0ad71c2498724ddcbb7dc57ec494b00b09b24c7da2c167e92c25e57e9a54
 Section: Tweaks
 Priority: optional
-Description: اداة وظيفتها : تضيف لك مميزات كثيرة لاجهزة ايفون X واحدث مثل اخفاء شريط الهوم  اخفاء الكاميرا والفلاش والكثير
+Description: اداة وظيفتها : تضيف لك مميزات كثيرة لاجهزة ايفون اكس واحدث مثل اخفاء شريط الهوم اخفاء الكاميرا والفلاش والكثير
 Tag: purpose::extension
 Author: BekEs - بيكاس
 Dev: lucaluca86
@@ -395,6 +395,56 @@ Description: اداة وظيفتها : تمكن عرض شاشة جهازك عل�
 Author: BekEs - بيكاس
 Name: CarBridge Rootless
 
+Package: com.bekes-505.github.io.ccvibration
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 150
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/CCVibration.deb
+Size: 17756
+MD5sum: b58ec23cd70ea86724298042aaba5119
+SHA1: 3ad98c763944921b908ddb4464097419f56c2f71
+SHA256: fa6b658d02c32dfcabefe7c2b1ef4abd688b3599d42e84c55cfa61c177039343
+Section: Tweaks
+Description: اداة وظيفتها : اضافة اختصار تفعيل و تعطيل الاهتزاز في مركز التحكم
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: kingpuffdaddi
+Name: CCVibration
+
+Package: com.bekes-505.github.io.choicy
+Version: 1.4.10-3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1092
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/Choicy.deb
+Size: 261702
+MD5sum: bf7e3256be98d63a103dd290aade3d18
+SHA1: 505756b990dbce4145bda8efa477342b0b32b0d9
+SHA256: e09aa601e9888e5bee0b19c47d6d63d60a95c6d92e71044288a262c05fed3154
+Section: Tweaks
+Description: اداة وظيفتها : تعطيل ادوات من تطبيقات تقوم اختيار الاداه من تطبيق ويتم تعطيل الاداة ولا يمكن تشغيل داخل تطبيق
+Author: BekEs - بيكاس
+Name: Choicy
+
+Package: com.bekes-505.github.io.choicyrootless
+Version: 1.4.10-3
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/ChoicyRootless.deb
+Size: 169284
+MD5sum: 3295dc9f2d97f34a68518bcd45cdf0ff
+SHA1: fe650a7e9ecfa7e0fec39d285ee2c41895e45c13
+SHA256: 0ab219fb12783909a3778f30c37a5eb5cd6f47f24320b362eb8910037629eb82
+Section: Tweaks
+Description: اداة وظيفتها : تعطيل ادوات من تطبيقات تقوم اختيار الاداه من تطبيق ويتم تعطيل الاداة ولا يمكن تشغيل داخل تطبيق
+Author: BekEs - بيكاس
+Name: Choicy Rootless
+
 Package: com.bekes-505.github.io.cracktool4
 Version: 4.0~beta10b
 Architecture: iphoneos-arm
@@ -426,17 +476,17 @@ Author: BekEs - بيكاس
 Name: CrackTool5 (iOS 15 - 16 ) Rootless
 
 Package: com.bekes-505.github.io.crane
-Version: 1.3.12
+Version: 1.3.14
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 3340
+Installed-Size: 3356
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debs/Crane.deb
-Size: 1107046
-MD5sum: 281e8c9f674b87981eccf9fc152950c6
-SHA1: 00d982c486b29e4488aee00c1cffbf3201103b20
-SHA256: 49600fb73c8d5a6ddf606a3bdf40eb8473062a4d75be04c18b0eb35cdd1c375d
+Size: 1110318
+MD5sum: f997c847002dd7bd7b9f2de92a9f1ef2
+SHA1: f54465297ab3147d1541d60084a7ec8ec5266bb8
+SHA256: f6ed038687d4caac7830ceae922fb0b939ce8571c593f1ffad86914c03382430
 Section: Tweaks
 Description: اداة وظيفتها : فتح اكثر من حساب في تطبيق واحد والتبديل بينهم عبر الضغط على التطبيق يضهر لك عدد الحسابات المضافة وتختار اي حساب
 Author: BekEs - بيكاس
@@ -458,6 +508,24 @@ Section: Tweaks
 Description: اداة وظيفتها : فتح اكثر من حساب في تطبيق واحد والتبديل بينهم عبر الضغط على التطبيق يضهر لك عدد الحسابات المضافة وتختار اي حساب
 Author: BekEs - بيكاس
 Name: Crane rootless
+
+Package: com.bekes-505.github.io.cvibrationrotles
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 150
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/CCVibrationRootless.deb
+Size: 18368
+MD5sum: 8c6dfffc63f22f472fd2573538a0d0fb
+SHA1: 34473e73fff60a7fea299dd32be0e88703993167
+SHA256: 433a562f85f63f30f9b5544cf1c28da5e0d86bbcd30fbcad46a1bc7b60aea543
+Section: Tweaks
+Description: اداة وظيفتها : اضافة اختصار تفعيل و تعطيل الاهتزاز في مركز التحكم
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: kingpuffdaddi
+Name: CCVibration Rootless
 
 Package: com.bekes-505.github.io.eneko
 Version: 1.4
@@ -524,6 +592,38 @@ Section: Tweaks (Piracy)
 Description: اداة وظيفتها : تمكنك من تحميل الادوات المدفوعه بشكل مجاني "قم بالضغط على صورة الاداة داخل الوصف لتثبيتها
 Author: BekEs - بيكاس
 Name: Erika Rootless
+
+Package: com.bekes-505.github.io.ersatz
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 472
+Depends: mobilesubstrate
+Filename: ./debs/Ersatz.deb
+Size: 70986
+MD5sum: b4026307a3d6179faf83d3d24575dcc9
+SHA1: 94f68c32482dcafe6578f9dc66056a37ccd4db93
+SHA256: 135bd23f92a23bdb56a494a96c77522669f61955b47b827451258253ac42f7aa
+Section: Tweaks
+Description: اداة وظيفتها : تغير اي كلمه في النظام بالكلمه الي انت تختارها وتكتبها
+Author: BekEs - بيكاس
+Name: Ersatz
+
+Package: com.bekes-505.github.io.ersatzrootless
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/ErsatzRootless.deb
+Size: 74986
+MD5sum: d38dd6ffb3cb83123623cffa9061eff1
+SHA1: 61d6b14c43917fd6c1c2aa02a3122d1f3ae0e0b3
+SHA256: 44f5a580cb576fb9d32f1874d1f457d25ff70d44cf35de03ce37ee0b6934339b
+Section: Tweaks
+Description: اداة وظيفتها : تغير اي كلمه في النظام بالكلمه الي انت تختارها وتكتبها
+Author: BekEs - بيكاس
+Name: Ersatz Rootless
 
 Package: com.bekes-505.github.io.filza
 Version: 4.0.1-2
@@ -742,16 +842,16 @@ Author: BekEs - بيكاس
 Name: relicloader
 
 Package: com.bekes-505.github.io.rocket
-Version: 3.8.15
+Version: 3.8.17
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6552
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagram.deb
-Size: 2288830
-MD5sum: 687088d5f115075c9e400cfc7ff66f6b
-SHA1: 13b88c3d583ae496937baf847bf1b760a46deca8
-SHA256: 97719302272af4fc6c6356631378299105b89666a52ab0e3eb4ce99189429723
+Size: 2290454
+MD5sum: 3152310f54470d740812604cfb18c99f
+SHA1: e0cb36cdce8c0e10219fe81c7e9f8d07afa04883
+SHA256: 6d70d867c375b2ffd17a03794a677995f119cba11c8b72284c9b131a4981ea93
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -759,16 +859,16 @@ Author: BekEs - بيكاس
 Name: Rocket for Instagram
 
 Package: com.bekes-505.github.io.rocketrootless
-Version: 3.8.15
+Version: 3.8.17
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6552
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagramRootless.deb
-Size: 2289682
-MD5sum: bcb848d9c4140c979d993c669d49e23a
-SHA1: d968c2d23aa833187ed10ee172079571851afa2c
-SHA256: 77e964054a9871c6a021b76229617bb61768a5d7096e4c652ac54058337556db
+Size: 2291248
+MD5sum: 20ebd453bce6582203c34f4cdc9f5879
+SHA1: 5b4ec18062b98f4473e6a2348eb20b11299bac0f
+SHA256: 6e99b548fa63ae9793ea3ce55e2ec81f114ceeddd6d0a2d14eddffa0dffc1bc8
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -987,35 +1087,34 @@ Author: BekEs - بيكاس
 Name: uYou Rootless
 
 Package: com.bekes-505.github.io.watusi3
-Version: 1.2.8
+Version: 1.2.11
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6772
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.14), com.muirey03.libmryipc
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.17), com.muirey03.libmryipc
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsApp.deb
-Size: 2641294
-MD5sum: 169ab305a37b3d2f65e12b4687993443
-SHA1: 3bbea286f6f2a31ed14de67048a519cf75f4b97d
-SHA256: 244cd12e825cc66bdd57a6534033a7cdb10e0f4c3f94e157cfd2b8d7cd9a3293
+Size: 2641942
+MD5sum: f7bebf1c3a80890bc51e1185f0282cb0
+SHA1: f97136b17a5a6bfef304bc64c2c8688d9712bb81
+SHA256: 7839d6784fc5c53234016e1911a0532d88015f18afe96f0279b29cc38668ff0e
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
 Name: Watusi 3 for WhatsApp
 
 Package: com.bekes-505.github.io.watusi3rootless
-Version: 1.2.8
+Version: 1.2.11
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6604
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.14)
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.17)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsAppRootless.deb
-Size: 2568360
-MD5sum: 02cb2977cd0aacd9a552706aa768ab8a
-SHA1: 50b5d2e09ad13c236edaa4dca8162d09f5e0ef34
-SHA256: 76ed9b8d882828bd451a27ba67f49c977f6a389eba88df192ef1d86b5876404a
+Size: 2568786
+MD5sum: 71b061a10f25ead19d49ec27323af8a3
+SHA1: d5bee4f2604a8c841f7e88a6fb9a34541a0853af
+SHA256: 7c80261bd692544ef462904eef6e266cac98712ef9ceadfbdc0fcc5f5b194d8f
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
@@ -1080,48 +1179,48 @@ Maintainer: @B6_7E
 Installed-Size: 564
 Depends: ellekit, file, odcctools, ldid, oldabi | cy+cpu.arm64, firmware (>= 15.0)
 Filename: ./debs/Xinamine.deb
-Size: 119772
-MD5sum: c51dd7067caca7d42d6d1d21a87eaf61
-SHA1: 12607c2a8b20fbbfbbc1e5354b9b415a07c4b2b0
-SHA256: e98a13567ac462c693d9e1201b276eb0a193d792b27d07c62d0fbc0dbe1de24c
+Size: 119782
+MD5sum: ca1758e24c8434f87e45d10163283e51
+SHA1: 7278b7e3d89755ae48bbd000b6e8d7a1d28edb4c
+SHA256: 6815bc99e1100dd8d5ac41dc2b07ed40b0f4d338c3297f105039ef86d2ba6108
 Section: System
 Description: اداة وظيفتها : تحويل الادوات الى روثليس لتدعم جلبريك الروثليس
 Author: BekEs - بيكاس
 Name: Xinamine
 
 Package: com.bekes-505.github.io.youtubereborn
-Version: 4.1.0
+Version: 4.1.2
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 24784
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Filename: ./debs/YouTubeReborn.deb
-Size: 11990354
-MD5sum: 249fe1e00f8ba51994a3c1b3c9332e84
-SHA1: d7df88784a077f6075b8ec068b98c7ceb76277dd
-SHA256: 7bd4e39cb26e13785b1abe94d1141d4512c39004ff66342240dcb7a9f30d364b
+Size: 11988178
+MD5sum: b7ef908c0aa0a66865315692c93dbe95
+SHA1: d08786254793d8dba040784c89d7252775aff2a0
+SHA256: b09a5834826b097db385c530acf9b46567c0267691b759d5b4cf9768006339e2
 Section: Tweaks
 Description: اداة وظيفتها : يوتيوب بلس لحذف الاعلانات والتشغيل في الخلفية وتحميل والحفظ
 Author: BekEs - بيكاس
 Name: YouTube Reborn
 
 Package: com.bekes-505.github.io.youtuberootless
-Version: 4.1.0
+Version: 4.1.2
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 24784
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Filename: ./debs/YouTubeRebornRootless.deb
-Size: 11990406
-MD5sum: e03ffea7de5372015cb2736e586616cb
-SHA1: 6c7d31da882f654e4779818cbabfcd24c4a2e434
-SHA256: 944364c6648fba921259a8e785d44e50d61fa764dcc2dde4a7ace3e2f214c7b5
+Size: 11988212
+MD5sum: e9be724d702b0c2d8e35d80b77b31911
+SHA1: a0123325136a583580c74ac64a54b5e317b5f6b9
+SHA256: a911b79a93f5741cabd21def2018897a1cc8c8fbca67b21f10f09cbcca2b7451
 Section: Tweaks
 Description: اداة وظيفتها : يوتيوب بلس لتحميل وحذف الاعلانات وتشغيل في الخلفية
 Author: BekEs - بيكاس
@@ -1176,16 +1275,16 @@ Author: BekEs - بيكاس
 Name: BHTikTok Plus Rootless
 
 Package: com.f0u4d.watusitools
-Version: 2.4.14
+Version: 2.4.17
 Architecture: iphoneos-arm64
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 10.0), darwintools
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
 Filename: ./debs/WatusiToolsRootless.deb
-Size: 4630504
-MD5sum: d904c97e9ce0bf41a421423d6f0fe559
-SHA1: 63b00f85759e2dd4044f65c110af9004e67999c1
-SHA256: 48a65c35420b9c28551fcfdc521ba5b0e6e5de5ae1df631cc02fb57358a0b538
+Size: 4636000
+MD5sum: 039afcc32f7f77771998f7ea2db5a2c4
+SHA1: d426387c2505410165c45b325bdc6e5f102db105
+SHA256: c17a72ea9af8400a20b9d9db25c7972a0081d6d145f4d0b48709d68af372d7e3
 Section: Development
 Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
