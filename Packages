@@ -824,6 +824,38 @@ Description: اداة وظيفتها : نسخ النصوص المتعدد مع �
 Author: BekEs - بيكاس
 Name: Kayoko Rootless
 
+Package: com.bekes-505.github.io.laetus
+Version: 3.4.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1804
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Filename: ./debs/Laetus.deb
+Size: 93139214
+MD5sum: df6a19ea64bef2454265b4d4d5c41c1c
+SHA1: 6edd90f0f614df8bb73ea2cdde10fc701448e7db
+SHA256: 3d1882fc17d985d0c9b3f4d53a85311342b19b05938d1f8f27571f6d234a9095
+Section: Tweaks
+Description: اداة وظيفتها : تلوين الكيبورد بكل سهولة وايضا تقدر تختار خلفية للكيبورد
+Author: BekEs - بيكاس
+Name: Laetus
+
+Package: com.bekes-505.github.io.laetusrootless
+Version: 3.5.1-rootless
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1828
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Filename: ./debs/LaetusRootless.deb
+Size: 93128912
+MD5sum: bf3e3a00e278758f4562b223a618e29b
+SHA1: ae74793a253582d85a68b42b87d5ced8809c889b
+SHA256: f550e37516730ffa73ccca4ba2bf7257ae1a5b4f91e842ac6cd4f8b5b956d346
+Section: Tweaks
+Description: اداة وظيفتها : تلوين الكيبورد بكل سهولة وايضا تقدر تختار خلفية للكيبورد
+Author: BekEs - بيكاس
+Name: Laetus Rootless
+
 Package: com.bekes-505.github.io.mterminal
 Version: 1.6
 Architecture: iphoneos-arm
