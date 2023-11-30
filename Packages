@@ -808,6 +808,38 @@ Description: اداة وظيفتها : سناب بلس لتحميل ورفع ا�
 Author: BekEs - بيكاس
 Name: iota
 
+Package: com.bekes-505.github.io.jodelemproved
+Version: 1.1.8
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/JodelEmproved.deb
+Size: 47458
+MD5sum: b2d0d3011f27e8c4997050c7a44ccf97
+SHA1: a4afdac83fa8aee38298c33b725f48ca08ef5559
+SHA256: dcd56c98865eb9b6baf1e1af3ef293c97837a829d2fca23c5307f1c66437f4c5
+Section: Tweaks
+Description: اداة وظيفتها : يودل بلس و نسخ ولصق و رفع وتحميل الصور و تغيير الموقع و التخفي عند تصوير الشاشة
+Author: BekEs - بيكاس
+Name: Jodel EMPROVED
+
+Package: com.bekes-505.github.io.jodelrootless
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/JodelEmprovedRootless.deb
+Size: 47544
+MD5sum: a7fdb3b80bb4f62bfa8a48db9a11c7c8
+SHA1: a92e476df745fb03c01200a829113a2d0ecf7c78
+SHA256: cf9a8bb380929ebcbc0d098ea76fb3f772c73743c0078fe3de78a3bbb1f11d6f
+Section: Tweaks
+Description: اداة وظيفتها : يودل بلس و نسخ ولصق و رفع وتحميل الصور و تغيير الموقع و التخفي عند تصوير الشاشة
+Author: BekEs - بيكاس
+Name: Jodel EMPROVED Rootless
+
 Package: com.bekes-505.github.io.kayokorootless
 Version: 1.4.2
 Architecture: iphoneos-arm64
