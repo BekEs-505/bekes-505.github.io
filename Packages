@@ -46,6 +46,46 @@ Description: اداة وظيفتها : تغير خطوط الايفون الي �
 Author: BekEs - بيكاس
 Name: A-Font Rootless
 
+Package: com.bekes-505.github.io.abttwhatsapp
+Version: 1.6.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 775
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/ABetterPrivacyforWhatsApp.deb
+Size: 155498
+MD5sum: 657900699fa3a0f7dace48b01085c3ab
+SHA1: c460987b4dbc803889e0be94e45024384a6e3f6e
+SHA256: 8245bb15091ba3f29676a04a1ca19d97e618fcf37c327826c7075e25b11fd45f
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : اضافة مميزات كثير لتطبيق الواتساب مثل اخفاء متصل الان اخفاء انك شفت الرساله واخفاء انك شفت الحاله، والتحكم في لون المحادثات مميزات كثيرھ مرھ للوات ساب
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lucaluca86
+Name: ABetterPrivacyforWhatsApp
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.bekes-505.github.io.abwhatsapprootless
+Version: 1.6.4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 721
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/ABetterPrivacyforWhatsAppRootless.deb
+Size: 146136
+MD5sum: 89fb87f63e68f42267f2f42190b10064
+SHA1: 673806ffa68ce1e5ba7cb3f873d2735c305fe9fe
+SHA256: 2891696a56dadf674c31f61aa0d4d76e0f48b352950ce04696b0be3e0b16b2d6
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : اضافة مميزات كثير لتطبيق الواتساب مثل اخفاء متصل الان اخفاء انك شفت الرساله واخفاء انك شفت الحاله، والتحكم في لون المحادثات مميزات كثيرھ مرھ للوات ساب
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lucaluca86
+Name: ABetterPrivacyforWhatsApp Rootless
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.bekes-505.github.io.amber
 Version: 1.2.0
 Architecture: iphoneos-arm
