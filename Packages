@@ -1,15 +1,15 @@
 Package: com.bekes-505.github.io.BHTwitter
-Version: 4.0
+Version: 4.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Depends: firmware (>= 14.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Installed-Size: 23836
+Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/BHTwitter.deb
-Size: 1140114
-MD5sum: 4ceb5e112105c21feea66a2fb6d278ef
-SHA1: 5c2f4bcd36d3643c0f2a4c2bc084cc2cdb67e726
-SHA256: acffc37497c52e3624b15cc9d4a3a69bb8ded74fd1f01b4108a7bdee0e265050
+Size: 10496794
+MD5sum: 964b617eb5bef9495d12f9ea975819f3
+SHA1: 9b403030c7591e103579d4ca059588ea2d7f89b4
+SHA256: e99bfecbbdfc8cbf64640c58ef589463d502d9d7355feeb9bf1dceb49a5ce005
 Section: Tweaks
-Priority: optional
 Description: اداة وظيفتها : تويتر بلس مميزاته تتيح لك امكانية تحميل الفيديوهات من التغريدة حتى لو كان الحساب برايفت و فتح ميزة التغريد بالتسجيل الصوتي لتويتر في الخاص والعام
 Author: BekEs - بيكاس
 Name: BHTwitter
