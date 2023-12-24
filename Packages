@@ -928,6 +928,25 @@ Description: اداة وظيفتها : تلوين الكيبورد بكل سهو
 Author: BekEs - بيكاس
 Name: Laetus Rootless
 
+Package: com.bekes-505.github.io.little12
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1028
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Filename: ./debs/Little12.deb
+Size: 439348
+MD5sum: 23affa73ae313f42bd713af393d11658
+SHA1: c809b68ebf2f2c63bc76e2c3e291b1b079270de4
+SHA256: b9712dfbc792a40e5ce75147a5722141f8eb0f2297a3d0ef8d3553f167e84c55
+Section: Tweaks
+Description: اداة ‏وظيفتها : تجلب لك ايمائات ايفون اكس الى باقي الاجهزة مثل شكل الكيبورد و الشاشة و شاشة القفل و الكنترول سنتر والكثير
+Author: BekEs - بيكاس
+Name: Little12
+
 Package: com.bekes-505.github.io.mterminal
 Version: 1.6
 Architecture: iphoneos-arm
@@ -978,16 +997,16 @@ Author: BekEs - بيكاس
 Name: relicloader
 
 Package: com.bekes-505.github.io.rocket
-Version: 3.8.17
+Version: 3.8.19
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 6552
+Installed-Size: 6620
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagram.deb
-Size: 2290454
-MD5sum: 3152310f54470d740812604cfb18c99f
-SHA1: e0cb36cdce8c0e10219fe81c7e9f8d07afa04883
-SHA256: 6d70d867c375b2ffd17a03794a677995f119cba11c8b72284c9b131a4981ea93
+Size: 2270240
+MD5sum: d0c3242e6cf8029236981c54329da0a1
+SHA1: 07cc53edba5b162d0f89c6ff9cb84123428209ef
+SHA256: d6bb723944e8b48bc7a5ef9d61a4c85dfc9306881a0fb7f591e8f962c670552e
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -995,21 +1014,21 @@ Author: BekEs - بيكاس
 Name: Rocket for Instagram
 
 Package: com.bekes-505.github.io.rocketrootless
-Version: 3.8.17
+Version: 3.8.19
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 6552
+Installed-Size: 6620
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagramRootless.deb
-Size: 2291248
-MD5sum: 20ebd453bce6582203c34f4cdc9f5879
-SHA1: 5b4ec18062b98f4473e6a2348eb20b11299bac0f
-SHA256: 6e99b548fa63ae9793ea3ce55e2ec81f114ceeddd6d0a2d14eddffa0dffc1bc8
+Size: 2270870
+MD5sum: 43d2881a25490d986c7232949c245b71
+SHA1: 2eb623f7ef8e30ea75e7f710cabd0e6823c2ecaf
+SHA256: 30512926a89357d19b2d0564b233676431d11c321a2872ebc31937e3b531e3b1
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
 Author: BekEs - بيكاس
-Name: Rocket for Instagram Rootless
+Name: Rocket for Instagram
 
 Package: com.bekes-505.github.io.shadowx
 Version: 2.0.2
