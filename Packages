@@ -1003,10 +1003,10 @@ Maintainer: @B6_7E
 Installed-Size: 6620
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagram.deb
-Size: 2270240
-MD5sum: d0c3242e6cf8029236981c54329da0a1
-SHA1: 07cc53edba5b162d0f89c6ff9cb84123428209ef
-SHA256: d6bb723944e8b48bc7a5ef9d61a4c85dfc9306881a0fb7f591e8f962c670552e
+Size: 2296554
+MD5sum: 3aa36c4521d44df9b7161f99823bd434
+SHA1: 74bee0926a2607fef9a3e7a03aa345542682531b
+SHA256: b24aa629f9b28af05c62440903bc1f1ae58ac7058afd499757d499fc926c56c7
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -1020,10 +1020,10 @@ Maintainer: @B6_7E
 Installed-Size: 6620
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagramRootless.deb
-Size: 2270870
-MD5sum: 43d2881a25490d986c7232949c245b71
-SHA1: 2eb623f7ef8e30ea75e7f710cabd0e6823c2ecaf
-SHA256: 30512926a89357d19b2d0564b233676431d11c321a2872ebc31937e3b531e3b1
+Size: 2297206
+MD5sum: 89b0b1e108db4ca4360a07c3af8b5b59
+SHA1: 416c5f76dcb78052f00f576485b5097bf0fcd289
+SHA256: b66ab4ca9ccdf3ad591b4d884f77a4d01db1a292e2093682fd08ed385768699c
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
