@@ -1242,34 +1242,34 @@ Author: BekEs - بيكاس
 Name: uYou Rootless
 
 Package: com.bekes-505.github.io.watusi3
-Version: 1.2.11
+Version: 1.2.14
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6772
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.17), com.muirey03.libmryipc
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsApp.deb
-Size: 2641942
-MD5sum: f7bebf1c3a80890bc51e1185f0282cb0
-SHA1: f97136b17a5a6bfef304bc64c2c8688d9712bb81
-SHA256: 7839d6784fc5c53234016e1911a0532d88015f18afe96f0279b29cc38668ff0e
+Size: 2647488
+MD5sum: 95308b16d534345d247e6383986dcdfd
+SHA1: bdbaa3a01a799948e0f2e4fb01404a7e510a5f33
+SHA256: 7d00233c702f43df7ac3fb49c99858798bc08c0dfd86749c32bab78212833b55
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
 Name: Watusi 3 for WhatsApp
 
 Package: com.bekes-505.github.io.watusi3rootless
-Version: 1.2.11
+Version: 1.2.14
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6604
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.17)
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitoolsrootless (>= 2.4.17)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/Watusi3forWhatsAppRootless.deb
-Size: 2568786
-MD5sum: 71b061a10f25ead19d49ec27323af8a3
-SHA1: d5bee4f2604a8c841f7e88a6fb9a34541a0853af
-SHA256: 7c80261bd692544ef462904eef6e266cac98712ef9ceadfbdc0fcc5f5b194d8f
+Size: 2572846
+MD5sum: fc4440c9b2e9a55247b2fde1549767b4
+SHA1: 5fa8852527b69622dba700076b2e5f31092c3e51
+SHA256: aa53c3fc4eb83d447888aad90c744e29f4f5c8c897a40158c66475ae45bc55d7
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
@@ -1460,21 +1460,38 @@ Author: BekEs - بيكاس
 Name: BHTikTok Plus Rootless
 
 Package: com.f0u4d.watusitools
-Version: 2.4.17
-Architecture: iphoneos-arm64
+Version: 2.4.18
+Architecture: iphoneos-arm
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 10.0), darwintools
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
-Filename: ./debs/WatusiToolsRootless.deb
-Size: 4636000
-MD5sum: 039afcc32f7f77771998f7ea2db5a2c4
-SHA1: d426387c2505410165c45b325bdc6e5f102db105
-SHA256: c17a72ea9af8400a20b9d9db25c7972a0081d6d145f4d0b48709d68af372d7e3
+Filename: ./debs/WatusiTools.deb
+Size: 6021760
+MD5sum: 3cb72821f6dd7e5e0c9013e78c7973b9
+SHA1: 12d510565a5d01aefa39160cd60552d5fe497e5c
+SHA256: 66bbda6902c71e899363ddd3c2e6daea625cd3da5232211669db7b1b88a7d843
 Section: Development
 Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Name: WatusiTools
+
+Package: com.f0u4d.watusitoolsrootless
+Version: 2.4.18
+Architecture: iphoneos-arm64
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 10.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/WatusiToolsRootless.deb
+Size: 6028144
+MD5sum: 6e4399fb2854fd4ca5ddce2e9c8c5003
+SHA1: a38b085945c0793c5edc62282170d64b3497183a
+SHA256: 01c2d696d9c0ecb8da4f5ba41ce30e10aee2cd35e8bb48b2bacbf4b779dddae0
+Section: Development
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Name: WatusiTools Rootless
 
 Package: dev.bekes-505.github.io.kayoko
 Version: 1.4.2
