@@ -605,11 +605,11 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
 Filename: ./debs/CrackTool4.deb
-Size: 2957400
-MD5sum: 5442f599867c64f10782e1714f837daf
-SHA1: 527301a5864fb76d7c9ab8de5d5de63411161eb0
-SHA256: 2692f4d4116d482785d7b6d87cc8f71223c5d7cd801df938650e288f036f30ae
-Section: Utilities
+Size: 2957396
+MD5sum: c26c50f10eae71a424728b2e7fd25b96
+SHA1: 3d1c45cdeeb88fc6f05a382938b9660434671a14
+SHA256: 5a6d334f65beb616ad4da075c2a4e32e505f9722e9e2f624daeaa4ef57fa5770
+Section: Tweaks
 Description: اداة وظيفتها : تمكنك من تكريك الادوات المدفوعة المختارة وحذف الاعلانات
 Author: BekEs - بيكاس
 Name: CrackTool4 (iOS 9 - 14)
@@ -620,11 +620,11 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
 Filename: ./debs/CrackTool5Rootless.deb
-Size: 1287920
-MD5sum: 435d7b1a63819be2395b1b802f528cd6
-SHA1: e6f70d5acefabba0c51e1d322b5ed9113183db9b
-SHA256: 13269767426618be9fa33fd7a45854151e2eb6cbfd48ad0337f36c854a638213
-Section: Utilities
+Size: 1287916
+MD5sum: d5b4ff1699a56649091336c59642bbec
+SHA1: 26bccff7c5a5800a3673b3a41efe7bfb1395bdac
+SHA256: 5599ec22e9b1b18b0a3788dadad54c4950d8663e5502d41aff4316bf09be2776
+Section: Tweaks
 Description: اداة وظيفتها : تمكنك من تكريك الادوات المدفوعة المختارة وحذف الاعلانات
 Author: BekEs - بيكاس
 Name: CrackTool5 (iOS 15 - 16 ) Rootless
@@ -904,11 +904,11 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/iCleanerPro.deb
-Size: 3430166
-MD5sum: ca87c9cfd2d5e41ce924ae2b9a9afc13
-SHA1: 67f9a6b62253f3125e9c0074b26fbb931a607478
-SHA256: 22b08624f3fec2dbd96e11ff5ac12c877f30263f23305eb1e35316a5d09c8bbe
-Section: Utilities
+Size: 3430154
+MD5sum: 82f2008e60f86e91f96673d56d0c37d7
+SHA1: 6890df2142e5e7ef67457f92bf23a352ef1470a0
+SHA256: 1e6409313aa8c5b79f927a862c76278c28ad6c32c5e6fe6987b2be3a64eae023
+Section: Tweaks
 Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
 Author: BekEs - بيكاس
 Name: iCleaner Pro
@@ -921,11 +921,11 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/iCleanerProRootless.deb
-Size: 1392842
-MD5sum: 9bf2db736e2cfaa6ef55c60aa5c23f2e
-SHA1: 425e3ebde107040553258cf726aea89caa530d63
-SHA256: d44188a7ba0aa8005a7fa294791bf604a5c00c8c2aab6c435f0d03733935c429
-Section: Utilities
+Size: 1392858
+MD5sum: 69822336a3de13df106b39de24b793f3
+SHA1: 577510c2b0b0932dafd179c2156b77590fd4108d
+SHA256: fcc91af75f246f27b9d7d69e05a0cee09994cb5e29a72ddab282378765ef092d
+Section: Tweaks
 Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذف الملفات الكاش والملفات التالفة الاداة تحتوي على العديد من الخيارات ايقاف التحديث التلقائي ايقاف عمل بعض الادوات والعديد من الخيارات
 Author: BekEs - بيكاس
 Name: iCleaner Pro Rootless
@@ -1595,15 +1595,15 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 7296
 Depends: mobilesubstrate
-Filename: ./debs/WickedOld.deb
-Size: 3964328
-MD5sum: 43226c5d0bc415644c3a363752024747
-SHA1: 6dd9b4bddb2e0db7a30e667e7fd7ce2ea5ac4701
-SHA256: 33177f1a644d0ec02c8c45b291d03644696a2db5c0028211b5724f4e20d3d96a
+Filename: ./debs/wickedOld.deb
+Size: 3964330
+MD5sum: 90d76c0282d84bb18504ad21e6e1814f
+SHA1: a2163f286583573200ac456c0bf9337d2cfb4b4f
+SHA256: 98a1b408698c5bc60eebec0d0bafb7adaf02937eec5b050e7d1c182f30c061d9
 Section: Tweaks
 Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخفي في الدردشة وتغير الموقع  ‏
 Author: BekEs - بيكاس
-Name: wicked OLD
+Name: wicked Old
 
 Package: com.bekes-505.github.io.wikplus
 Version: 12.0.1
@@ -1642,11 +1642,11 @@ Maintainer: @B6_7E
 Installed-Size: 564
 Depends: ellekit, file, odcctools, ldid, oldabi | cy+cpu.arm64, firmware (>= 15.0)
 Filename: ./debs/Xinamine.deb
-Size: 119782
-MD5sum: ca1758e24c8434f87e45d10163283e51
-SHA1: 7278b7e3d89755ae48bbd000b6e8d7a1d28edb4c
-SHA256: 6815bc99e1100dd8d5ac41dc2b07ed40b0f4d338c3297f105039ef86d2ba6108
-Section: System
+Size: 119784
+MD5sum: 2faa432af928c805fba1e148af4cd249
+SHA1: c9a3f6b88f226f26c57435c2cb72f0d69fdc18e0
+SHA256: c4582cc3aec81e9464f2e752176cbfe437b0fc88229d85359010fd65d4cc5ca1
+Section: Tweaks
 Description: اداة وظيفتها : تحويل الادوات الى روثليس لتدعم جلبريك الروثليس
 Author: BekEs - بيكاس
 Name: Xinamine
@@ -1829,11 +1829,11 @@ Maintainer: @B6_7E
 Depends: mobilesubstrate
 Conflicts: dev.zero.wicked
 Filename: ./debs/wickedRootless.deb
-Size: 3909248
-MD5sum: be8bb95e9f3b9edd73ad6eb6b1fd5100
-SHA1: 27a7d4645914e902c9702450b48af23f7293da38
-SHA256: baeef150ab33c0bc4e25bcb40aa11ecf1a38c1da8f4b6fc4103e93401970fd15
-Section: Development
+Size: 3909276
+MD5sum: f0bf68e9d46fca6267f1d623d216d983
+SHA1: e296e6d9c7dcce88c83c8c2b66d7e3a0bb1ad398
+SHA256: 1105ad5789c66afabe8f9dc13a87a57563a2ac96ff200d188487ae4999963e42
+Section: Tweaks
 Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخفي في الدردشة وتغير الموقع
 Author: BekEs - بيكاس
 Name: wicked Rootless
@@ -1845,11 +1845,11 @@ Maintainer: @B6_7E
 Depends: mobilesubstrate
 Conflicts: dev.zero.wicked
 Filename: ./debs/wicked.deb
-Size: 4329340
-MD5sum: ab7e749e901c7b0c967eb165e7d432e2
-SHA1: d578ec44c038d384817f081fb5ad400537e36efc
-SHA256: a32e7bc540f3a3925bf26a7c7bf55f5ca9d7479346f399ce885a0096f307897e
-Section: Development
+Size: 4329354
+MD5sum: 521e19b836f72edf12e47e864a4df1b4
+SHA1: 1a845d00623b41979810bc3de932357db94da63e
+SHA256: 93b60b055f310154953d959749d1c56eccf8fe513fa2333dd7135d1194339895
+Section: Tweaks
 Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخفي في الدردشة وتغير الموقع
 Author: BekEs - بيكاس
 Name: wicked
