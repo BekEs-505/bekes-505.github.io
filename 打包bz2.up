@@ -1,0 +1,2 @@
+bash -c "cd /var/mobile/bekes-505.github.io; ./update.sh;"
+exit
