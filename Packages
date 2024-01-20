@@ -86,6 +86,24 @@ Dev: lucaluca86
 Name: ABetterPrivacyforWhatsApp Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.addsource
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1094
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/AddSource.deb
+Size: 407278
+MD5sum: 7c1b7a1d9b296fd9ae88f7aa83f47dd8
+SHA1: 6803c7bac3108d0c8fa200f742162b2a0e02f082
+SHA256: 9c7ab7887fccb31c3a04188f8afb2345025b2fd49b49bb360e977ed3422fd090
+Section: Tweaks
+Description: اداة وظيفتها : اضافة العديد من السورسات في وقت واحد و نسخ السورس واضافته بسرعه و حذف عدة سورسات مره واحدة و تحديث السورسات في الخلفية و تسريع السيديا
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: yuosaf01
+Name: AddSource
+
 Package: com.bekes-505.github.io.afsound
 Version: 1.0-14
 Architecture: iphoneos-arm
