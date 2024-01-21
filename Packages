@@ -1750,11 +1750,11 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 10.0), darwintools
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
 Filename: ./debs/WatusiTools.deb
-Size: 6021760
-MD5sum: 3cb72821f6dd7e5e0c9013e78c7973b9
-SHA1: 12d510565a5d01aefa39160cd60552d5fe497e5c
-SHA256: 66bbda6902c71e899363ddd3c2e6daea625cd3da5232211669db7b1b88a7d843
-Section: Development
+Size: 5979310
+MD5sum: 28b35f8f449d98066336011f7d6a3c03
+SHA1: 3cc3d0ee433a2e115b5407c4e33f8fd4aea7dd38
+SHA256: 6a65c884ccb95d47243bd906b4d4c484ea07988ffbe02f2c2673efa5b838102b
+Section: Tweaks
 Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
@@ -1767,11 +1767,11 @@ Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 10.0), darwintools
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
 Filename: ./debs/WatusiToolsRootless.deb
-Size: 6028144
-MD5sum: 6e4399fb2854fd4ca5ddce2e9c8c5003
-SHA1: a38b085945c0793c5edc62282170d64b3497183a
-SHA256: 01c2d696d9c0ecb8da4f5ba41ce30e10aee2cd35e8bb48b2bacbf4b779dddae0
-Section: Development
+Size: 6028136
+MD5sum: d02e3f9f0f92d8eee530891418748c65
+SHA1: 9b861c8cba277de2005f05abd4bcd73d313d1fb1
+SHA256: f2ef1e7e2aa81c87ef58db74bbcd94502a284ce1310c93bdaaaa162e65dc062d
+Section: Tweaks
 Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
