@@ -789,11 +789,11 @@ Maintainer: @B6_7E
 Installed-Size: 408
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: ./debs/Erika.deb
-Size: 141760
-MD5sum: f6d455c1559589cb1fd8389e27c386df
-SHA1: a54817f81864a34ece0f698958ec7a4fd58b4c82
-SHA256: a0501efa711fea2c8549967a274d65ff489dec99b765f8f855f3d2ddc5e9d019
-Section: Tweaks (Piracy)
+Size: 141754
+MD5sum: 6ad34ab97dca0ae8baf300f4a708994a
+SHA1: 51de0ab6118169d03b1bc8a7eab09f4eaa9f4281
+SHA256: ce6dba9ec065acf1d47d65b7b88d5ce58b1ad456a18a469717774af10df8a3c1
+Section: Tweaks
 Description: اداة وظيفتها : تمكنك من تحميل الادوات المدفوعه بشكل مجاني "قم بالضغط على صورة الاداة داخل الوصف لتثبيتها
 Author: BekEs - بيكاس
 Name: Erika
@@ -805,11 +805,11 @@ Maintainer: @B6_7E
 Installed-Size: 368
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
 Filename: ./debs/ErikaRootless.deb
-Size: 128620
-MD5sum: 68d40458013d4a6d068cd3db50ae0995
-SHA1: 5ea004ad4540859b37c436326d544d5283d679d9
-SHA256: fd95b39c3594f9298b6091d3bbcb848cd6f3832434ea0b24a5f5f442ea61373e
-Section: Tweaks (Piracy)
+Size: 128614
+MD5sum: f533e9380621f46dc832eb0c42c642f6
+SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
+SHA256: 64b39100fde13b1751f7fafc19c04cb34405e8ac458a59748ca431bb51d946a5
+Section: Tweaks
 Description: اداة وظيفتها : تمكنك من تحميل الادوات المدفوعه بشكل مجاني "قم بالضغط على صورة الاداة داخل الوصف لتثبيتها
 Author: BekEs - بيكاس
 Name: Erika Rootless
@@ -847,21 +847,25 @@ Author: BekEs - بيكاس
 Name: Ersatz Rootless
 
 Package: com.bekes-505.github.io.filza
-Version: 4.0.1-2
+Version: 4.0.1-3
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 34948
-Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Installed-Size: 31815
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
 Filename: ./debs/FilzaFileManager.deb
-Size: 13962548
-MD5sum: 711534bd6cb411f056f24ea963824e95
-SHA1: ff1cc518a227d5a57d48b7e2564659ccaf17f421
-SHA256: 72ce9f410f92df8594f5dff6b5810e8fd112820a765013c07912c1183a793e52
-Section: Utilities
+Size: 13910282
+MD5sum: 2d118a7a3bfbec76d89ae36c4469f44e
+SHA1: ddad3e0db0107557405d46ba1bddc8f3ee27feea
+SHA256: e65e6569a89ffff857ecec108212b4468a37100b6783184867afc4faeff5a2cc
+Section: Tweaks
+Priority: optional
 Description: اداه وظيفتها : لتصفح ملفات الايفون والوصول لي اي ملف ولا اداة في الجهاز وفك الضغط وتعديل على الادوات والملفات والتطبيقات
+Tag: purpose::uikit
 Author: BekEs - بيكاس
+Dev: satashi2009
 Name: Filza File Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.filza64bit
 Version: 4.0.1-4
@@ -871,11 +875,11 @@ Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Filename: ./debs/FilzaFileManager64-bit.deb
-Size: 8734286
-MD5sum: 31e71392e28d33be0a30e3b5bb567d4f
-SHA1: b0b9beea101ce83307526975efe5736e8daafe00
-SHA256: 081b03d74992adedcc30d152ca7094631cee74d558f485787e6006ae68272448
-Section: Utilities
+Size: 8734244
+MD5sum: acf2df2c29c0ad70e7f146476bc73e54
+SHA1: 4e61c04be5aa38d117e7918f9fd9e97702f8f793
+SHA256: ec1096b0fd247bc691378ddfa83888bb0c6f51564707d805e5d5f39d7332e32b
+Section: Tweaks
 Description: اداه وظيفتها : لتصفح ملفات الايفون والوصول لي اي ملف ولا اداة في الجهاز وفك الضغط وتعديل على الادوات والملفات والتطبيقات
 Author: BekEs - بيكاس
 Name: Filza File Manager 64-bit
@@ -888,17 +892,17 @@ Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Filename: ./debs/FilzaFileManager64-bitRotles.deb
-Size: 8707336
-MD5sum: 35340f7aff872958c9a27c6d9a9056a1
-SHA1: 2099bde322360714749982cd2f36418f2d0812cf
-SHA256: 4b8f581d2ac1bc35b14ba9246236ea3abea3f5bf217821bbf2c026a5e2692143
-Section: Utilities
+Size: 8707346
+MD5sum: cabd6bd87d80c22cf8fa8efa36abe58e
+SHA1: 156ee1a2e43fb467dbcecae577e79caf919792cd
+SHA256: 070fb93b01d03ebd2e52de8301196ac79f87bd3871fd6e144591dd57cd132a0e
+Section: Tweaks
 Description: اداه وظيفتها : لتصفح ملفات الايفون والوصول لي اي ملف ولا اداة في الجهاز وفك الضغط وتعديل على الادوات والملفات والتطبيقات
-Author: BekEs -بيكاس
+Author: BekEs - بيكاس
 Name: Filza File Manager 64-bit Rootless
 
 Package: com.bekes-505.github.io.filzarootless
-Version: 4.0.1-2
+Version: 4.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 34948
@@ -906,10 +910,10 @@ Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
 Filename: ./debs/FilzaFileManagerRootless.deb
 Size: 13936084
-MD5sum: b4a90255612b1f90dc76b5b4818eea5d
-SHA1: cc44199d3d9bf4ded10f540b657a420367b129bb
-SHA256: efa37237bb6a42788f65b188a64f022dfcc2e7d4f1248cb84cd6f84158e99442
-Section: Utilities
+MD5sum: 06a61bda3a172a3e30f979b1f9913acb
+SHA1: 67c85cd230dee8f32965bcab4158bb5078acc1f3
+SHA256: 04792da1b2d7bc83fd2e610b69bec38106b2d91997ccbb8937cffa71737989f9
+Section: Tweaks
 Description: اداه وظيفتها : لتصفح ملفات الايفون والوصول لي اي ملف ولا اداة في الجهاز وفك الضغط وتعديل على الادوات والملفات والتطبيقات
 Author: BekEs - بيكاس
 Name: Filza File Manager Rootless
@@ -1335,26 +1339,6 @@ Section: Tweaks
 Description: اداة وظيفتها : سناب شادو بلس اضافة ميزات لسناب منها رفع وحفظ من الخاص والعام وتخفي عند مشاهدة الخاص والاستوري لاصدار 12 اصدار السناب 11.65♡♡ ‏♯̶!.
 Author: BekEs -بيكاس
 Name: Shadow X (iOS 12)
-
-Package: com.bekes-505.github.io.shuffle
-Version: 1.6.2
-Architecture: iphoneos-arm64
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 1484
-Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
-Depends: com.creaturecoding.libcspreferences
-Conflicts: com.cpdigitaldarkroom.placeholder
-Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/ShuffleBootstrap.deb
-Size: 355134
-MD5sum: 7f30e77019d3ccdf02ce419bfe2a3e2b
-SHA1: e18360fff558342a1c766e8b46df8e878f4cb8a4
-SHA256: b31a8f7f95d1749139e51d3e9fde22e97fff986071c5f33d4cd326b9433c56ae
-Section: Tweaks
-Description: Organize your settings
-Tag: purpose::extension, compatible_min::ios10
-Author: CreatureSurvive <support@creaturecoding.com>
-Name: Shuffle Bootstrap
 
 Package: com.bekes-505.github.io.shuffle
 Version: 1.6.2
