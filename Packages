@@ -1446,6 +1446,22 @@ Description: اداة وظيفتها : تحديد جزء معين من الشا�
 Author: BekEs - بيكاس
 Name: Snapper 2 Rootless
 
+Package: com.bekes-505.github.io.snapsniper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 676
+Depends: mobilesubstrate
+Filename: ./debs/SnapSniper.deb
+Size: 320398
+MD5sum: a0389e0671b29ee329b9392a527ba21f
+SHA1: 56e53181ae60ac7c4861c12456d2260f95e9a5c9
+SHA256: 62c53ab95c775323fefe61c9a8104d92cc768d225b3ca97781af1e8f8ba190b2
+Section: Tweaks
+Description: اداة وظيفتها : سناب بلس حفظ رفع فتح مميزات المدفوعه وتغير الموقع والكثير
+Author: BekEs - بيكاس
+Name: SnapSniper
+
 Package: com.bekes-505.github.io.spy2
 Version: 1.3-1
 Architecture: iphoneos-arm
