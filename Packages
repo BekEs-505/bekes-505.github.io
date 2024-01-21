@@ -1338,6 +1338,26 @@ Name: Shadow X (iOS 12)
 
 Package: com.bekes-505.github.io.shuffle
 Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1484
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/ShuffleBootstrap.deb
+Size: 355134
+MD5sum: 7f30e77019d3ccdf02ce419bfe2a3e2b
+SHA1: e18360fff558342a1c766e8b46df8e878f4cb8a4
+SHA256: b31a8f7f95d1749139e51d3e9fde22e97fff986071c5f33d4cd326b9433c56ae
+Section: Tweaks
+Description: Organize your settings
+Tag: purpose::extension, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Name: Shuffle Bootstrap
+
+Package: com.bekes-505.github.io.shuffle
+Version: 1.6.2
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2416
