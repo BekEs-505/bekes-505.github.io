@@ -1218,6 +1218,22 @@ Description: اداة وظيفتها : نسخ النصوص المتعدد مع �
 Author: BekEs - بيكاس
 Name: Kayoko Rootless
 
+Package: com.bekes-505.github.io.kbpro
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 980
+Depends: dev.theos.orion14, firmware (>= 14.0), com.ginsu.libgscommon, ws.hbang.alderis (>= 1.1), preferenceloader
+Filename: ./debs/KBPro.deb
+Size: 211066
+MD5sum: f1e1d101759752ecddfacec8a4a59882
+SHA1: fd598898c464fa02eb090ab753c8d1bc417f628e
+SHA256: 1b5a76dfb83229212f3a256d889b4f4fb2898d1c2054213c75d6de44399dd082
+Section: Tweaks
+Description: اداة وظيفتها : تستغل المساحة الفارغة في اسفل لوحة المفاتيح بإضافة الاختصارات تحديد و لصق و نسخ للنص 
+Author: BekEs - بيكاس
+Name: KBPro
+
 Package: com.bekes-505.github.io.little12
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1236,6 +1252,58 @@ Section: Tweaks
 Description: اداة ‏وظيفتها : تجلب لك ايمائات ايفون اكس الى باقي الاجهزة مثل شكل الكيبورد و الشاشة و شاشة القفل و الكنترول سنتر والكثير
 Author: BekEs - بيكاس
 Name: Little12
+
+Package: com.bekes-505.github.io.longkeys
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/LongKeys.deb
+Size: 6726
+MD5sum: 5f203d2942c5da2a4dc1971c1e25eea2
+SHA1: 6ad07013ec94ef2796106cb6cd03d4b8b48ac9d0
+SHA256: 046abb5f5284bca7455331245f45b352e9d0f2374c888b2a629dc8042c5ca551
+Section: Tweaks
+Description: اداة وظيفتها : ضغطه مطولة على اي فيس ايموجي يرسله بشكل متكرر وبسرعه دون الحاجة للضغط المتكرر
+Author: BekEs - بيكاس
+Name: LongKeys
+
+Package: com.bekes-505.github.io.minotaur
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Minotaur.deb
+Size: 224870
+MD5sum: ec92dd4fe64220ccfb4fcfd34c8f91cf
+SHA1: 050eca5debc1bb8bc58733aea52aada6cf2a6cca
+SHA256: d69c92e92142c4473bfb8fddf62802530371f2743c42aa2ebdd6b93abbc8ac74
+Section: Tweaks
+Description: اداة وظيفتها : لعرض الاشعارات بشكل حلو عن طريقة اضافة جرس جنب ايقونة البطاريه
+Author: BekEs - بيكاس
+Name: Minotaur
+
+Package: com.bekes-505.github.io.morelinesnoti
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 297
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs/MoreLinesNotifications.deb
+Size: 14026
+MD5sum: fe32f47ddd7a23335ab52da86a24b52a
+SHA1: 93f7df4eb6211ecdaeb550d6e49f3a6d4bc3fef5
+SHA256: 3381ec841407bf55c75cc65f345689185eb641962119c95a6bbae0aab0681091
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : عرض الإشعار في شاشة القفل ومركز الإشعارات بكامل محتواه
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lucaluca86
+Name: MoreLinesNotifications
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.mterminal
 Version: 1.6
@@ -1338,6 +1406,88 @@ Dev: ikghd
 Name: PMP
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.powerrootless
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 2212
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/PowerSelectorRootless.deb
+Size: 358664
+MD5sum: 7b43438570438cb70b057a3f77fef678
+SHA1: 85cc9ea61e91b9071e9d9c9635e60e2aec5aaac9
+SHA256: ee748315d72c22f4b0d71eca0fb6806b4d71b7b385ab042057823c92a45190c0
+Section: Tweaks
+Description: اداة وظيفتها : ايقاف تشغيل الجهاز و اعادة تشغيل الجهاز مع ايقاف الجلبريك و ريسبرينق و سيف مود و اعادة تشغيل الجهاز بدون ايقاف الجلبريك و تنظيف ملفات الكاش
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
+Author: BekEs - بيكاس
+Dev: ichitaso
+Name: PowerSelector Rootless
+
+Package: com.bekes-505.github.io.powerselector11
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2052
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/PowerSelector.deb
+Size: 374682
+MD5sum: 03cae95eff5fb4570b9d9fcb2074355e
+SHA1: 59d93be1add7bceea3a4eee8c44676de941b83af
+SHA256: b4afe10f9f5ed1dcdf46cd77b495cc9667148e6db035ad8356655dcedbfaf113
+Section: Tweaks
+Description: اداة وظيفتها : ايقاف تشغيل الجهاز و اعادة تشغيل الجهاز مع ايقاف الجلبريك و ريسبرينق و سيف مود و اعادة تشغيل الجهاز بدون ايقاف الجلبريك و تنظيف ملفات الكاش
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios17.1.2
+Author: BekEs - بيكاس
+Dev: ichitaso
+Name: PowerSelector
+
+Package: com.bekes-505.github.io.primalfolder2
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 464
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder2
+Filename: ./debs/PrimalFolder2.deb
+Size: 73534
+MD5sum: 2479dba43cae885ffab118f56f663cdf
+SHA1: 74cd36691000fcbed75addca4ee825f5da4a431f
+SHA256: 5b2a14f0d18972d52b25b1b7a40b68646af5bff16c8673ac256142b0b04095d9
+Section: Tweaks
+Description: اداة وظيفتها : جعل الشكل الخارجي لي المجلدات بشكل اول تطبيق كنه تطبيق من برا تدخل تحصله مجلد حلوه للي حق ثيمات وترتيب ولا الي مايبي احد يعرف انه عنده مجلدات
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios16.4
+Author: BekEs - بيكاس
+Dev: ichitaso
+Name: PrimalFolder 2
+
+Package: com.bekes-505.github.io.primalfoldrotles
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 464
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Replaces: com.ichitaso.primalfolder2
+Filename: ./debs/PrimalFolder2Rootless.deb
+Size: 70176
+MD5sum: 511e67486b3b5e2f64aba08e70ec3fff
+SHA1: cce5a26150f9199e5c8e78f58e6aba3f0af930b4
+SHA256: 979bfb7cf28b5ff10c4f9f7e41da156c5623e1842f2ed50045adb120b56de0c1
+Section: Tweaks
+Description: اداة وظيفتها : جعل الشكل الخارجي لي المجلدات بشكل اول تطبيق كنه تطبيق من برا تدخل تحصله مجلد حلوه للي حق ثيمات وترتيب ولا الي مايبي احد يعرف انه عنده مجلدات
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios16.4
+Author: BekEs - بيكاس
+Dev: ichitaso
+Name: PrimalFolder 2 Rootless
+
 Package: com.bekes-505.github.io.relicloader
 Version: 3.3.3
 Architecture: iphoneos-arm
@@ -1407,6 +1557,22 @@ Description: اداة وظيفتها : انستقرام بلس لتحميل وح
 Author: BekEs - بيكاس
 Name: Rocket for Instagram
 
+Package: com.bekes-505.github.io.sentinel
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 752
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
+Filename: ./debs/Sentinel.deb
+Size: 96654
+MD5sum: 59ce042b7cb32b5250d4a96bc12d791e
+SHA1: 1d8cae0ec780e3ce6fcb67e07701640f90d80912
+SHA256: bbde83d4e7ce0a9f790efa01978341f1ee2e9098fb50eb27945866d55ae4a4d7
+Section: Tweaks
+Description: اداة وظيفتها : امكانية الحفاظ على الجيلبريك بحيث يتم ادخال الجهاز في وضع السكون من خلال نسبة يتم تحديدها من الاعدادات ‏٣ضغطات على زر رفع الصوت للخروج من وضع السكون
+Author: BekEs - بيكاس
+Name: Sentinel
+
 Package: com.bekes-505.github.io.shadow
 Version: 3.7.6
 Architecture: iphoneos-arm
@@ -1460,6 +1626,38 @@ Section: Tweaks
 Description: اداة وظيفتها : سناب شادو بلس اضافة ميزات لسناب منها رفع وحفظ من الخاص والعام وتخفي عند مشاهدة الخاص والاستوري لاصدار 12 اصدار السناب 11.65♡♡ ‏♯̶!.
 Author: BekEs -بيكاس
 Name: Shadow X (iOS 12)
+
+Package: com.bekes-505.github.io.shortlook
+Version: 1.0.23
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2128
+Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
+Filename: ./debs/ShortLook.deb
+Size: 1367840
+MD5sum: 0cf8e8fc045248884abef9152a726c1d
+SHA1: 58c89a64c8d2f86858d21e93ec3802980e669db1
+SHA256: 2548ce9e0d4b3ba87c968f22d693961fcd4087595d90da0063f203ed62fb9ce6
+Section: Tweaks
+Description: اداة وظيفتها : وصول الاشعارات على شاشة القفل بشكل جميل بدون تشغيل اضاءة الشاشة بالكامل
+Author: BekEs - بيكاس
+Name: ShortLook
+
+Package: com.bekes-505.github.io.shortlookrootles
+Version: 1.0.23
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 2128
+Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
+Filename: ./debs/ShortLookRootless.deb
+Size: 1364532
+MD5sum: 14e28957f0734409bcadb98bcb8fbb00
+SHA1: e23cf257032b5700ec9d4fd07ae84158ecab4a53
+SHA256: b326cab3cc19879efcd76664774a5d14f43b995ef44aed3378ecbe5f4ed805e8
+Section: Tweaks
+Description: اداة وظيفتها : وصول الاشعارات على شاشة القفل بشكل جميل بدون تشغيل اضاءة الشاشة بالكامل
+Author: BekEs - بيكاس
+Name: ShortLook Rootless
 
 Package: com.bekes-505.github.io.shuffle
 Version: 1.6.2
