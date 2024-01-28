@@ -330,6 +330,36 @@ Description: اداة وظيفتها : ابل ستور بلس لارجاع ال�
 Author: BekEs - بيكاس
 Name: AppStore++
 
+Package: com.bekes-505.github.io.autoscroll
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Filename: ./debs/AutoScroll.deb
+Size: 34256
+MD5sum: 1f94dc8fac05ad09009d03a02bfb9874
+SHA1: 803b78e7929d175b2abe65b87f83a02b50db7169
+SHA256: d254bdbc11b2664f210987a08ca5e0c81533ac589bc1c200af5ed2dddaf74ecb
+Section: Tweaks
+Description: اداة وظيفتها : تحريك الصفحة بدون وضع الاصبع و بعد تحريك الاصبع لختيار سرعة التصفح يتم التحريك بشكل تلقائي
+Author: BekEs - بيكاس
+Name: AutoScroll
+
+Package: com.bekes-505.github.io.autoscrollrotles
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Filename: ./debs/AutoScrollRootless.deb
+Size: 8230
+MD5sum: 579796f52bdbd7f9fefdb45ff7773347
+SHA1: d232047bfeeb2d3fca88ee0a59bc98684f62729e
+SHA256: 24eaccf2e32fc4ecb3d6673dd66175601ecf9ea53ff77bd8c3188a6a6bcb7a4d
+Section: Tweaks
+Description: اداة وظيفتها : تحريك الصفحة بدون وضع الاصبع و بعد تحريك الاصبع لختيار سرعة التصفح يتم التحريك بشكل تلقائي
+Author: BekEs - بيكاس
+Name: AutoScroll Rootless
+
 Package: com.bekes-505.github.io.avtools
 Version: 1.2
 Architecture: iphoneos-arm
@@ -570,6 +600,22 @@ Description: اداة وظيفتها : تغيير شكل تصميم السيدي
 Author: BekEs - بيكاس
 Name: CellDia
 
+Package: com.bekes-505.github.io.central
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 708
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Filename: ./debs/Central.deb
+Size: 388056
+MD5sum: 53ebe8458fbaadf6be7920683f921fea
+SHA1: fa9646274a18fb91c2af8c3e436d851cffcdb0d2
+SHA256: ee63f7fd20223ce9e939cd91e716aa1d8e2b2db57f55baa08675278e996fd22f
+Section: Tweaks
+Description: اداة وظيفتها : توسيط الصف الاخير من الايقونات لديك في الشاشة الرئيسية تلقائياً
+Author: BekEs - بيكاس
+Name: Central
+
 Package: com.bekes-505.github.io.choicy
 Version: 1.4.10-3
 Architecture: iphoneos-arm
@@ -732,6 +778,22 @@ Description: اداة وظيفتها : تمنحك خيار جديد لحذف ا�
 Author: BekEs - بيكاس
 Name: DeleteForeverXS
 
+Package: com.bekes-505.github.io.docksearch
+Version: 2.1.3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1248
+Depends: dev.theos.orion14, firmware (>= 14.0), com.ginsu.libgscommon, preferenceloader
+Filename: ./debs/DockSearch.deb
+Size: 234672
+MD5sum: 6c6e3b34d121ecf2b26e93c9e732b9b8
+SHA1: 1c8b84e0e68df07003b2eab0cbc6136dd5f1bbdd
+SHA256: 75dc8558ab6feb3a3974ababfb3dd36f5264d9fd03a7558e2d30354a5b9dedce
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك شريط في الدوك السفلي من خلاله تقدر تبحث بقوقل و يوتيوب وتقدر تحدد المتصفح
+Author: BekEs - بيكاس
+Name: DockSearch
+
 Package: com.bekes-505.github.io.dr4w
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -845,6 +907,23 @@ Section: Tweaks
 Description: اداة وظيفتها : تغير اي كلمه في النظام بالكلمه الي انت تختارها وتكتبها
 Author: BekEs - بيكاس
 Name: Ersatz Rootless
+
+Package: com.bekes-505.github.io.fancyselection
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2148
+Depends: firmware (>=13.4), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/FancySelection.deb
+Size: 624918
+MD5sum: 7fcb6af8094a4f594c18b59c959c7e34
+SHA1: f2933c021b73506e42b14aa28730e54bf04bf708
+SHA256: 09dcd36ca730ed2be724e3c2718de727a4ce40848fb6f18f9e1b378b312986e5
+Section: Tweaks
+Description: اداة وظيفتها : تغير وتصميم قايمة التحديد النسخ والصق عن الشكل التقليدي، واضافة تصميم جميل والتحكم بالالوان واضافة اختصارات خط عريض ومائل وغيرها، ايضاً بامكانك اخفاء اي شي من القائمة
+Tag: purpose::extension, compatible_min::ios13.4, compatible_max::ios14
+Author: BekEs - بيكاس
+Name: FancySelection
 
 Package: com.bekes-505.github.io.filza
 Version: 4.0.1-3
