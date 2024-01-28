@@ -1031,6 +1031,28 @@ Description: اداة وظيفتها :  بعمل تنظيف للجهاز وحذ�
 Author: BekEs - بيكاس
 Name: iCleaner Pro Rootless
 
+Package: com.bekes-505.github.io.iconanus
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 136
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix
+Filename: ./debs/IconAnus.deb
+Size: 10434
+MD5sum: 65ce26ba1f631d7809ac8c6ae34523a6
+SHA1: 6ea7633580de8760e731721069a417051b262479
+SHA256: b495861295a4fdf5cb96b5f4d77508f10fbf2c57bb6217e037daa34ad513d55c
+Section: Tweaks
+Description: اداة وظيفتها : الحفظ على ترتيب الايقونات حتى بعد تفعيل واغلاق الجلبريك
+Tag: purpose::extension, compatible::ios13, compatible::ios14
+Author: BekEs - بيكاس
+Dev: ichitaso
+Name: IconAnus
+
 Package: com.bekes-505.github.io.ikeywi4
 Version: 4.2.1k
 Architecture: iphoneos-arm
@@ -1111,6 +1133,26 @@ Section: Tweaks
 Description: اداة وظيفتها : سناب بلس لتحميل ورفع الفيدوهات وتخفي ووميزات كثير تدعم الاصدار الاخير ♡♡ ‏♯̶!.
 Author: BekEs - بيكاس
 Name: iota
+
+Package: com.bekes-505.github.io.iridium
+Version: 1.2.15
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 15312
+Depends: firmware (>= 13.5)
+Filename: ./debs/iRidium.deb
+Size: 6658254
+MD5sum: 3a743266a4796737d97874ad05fc98e8
+SHA1: f1f30f3fea777924dbaf46e8423fc05d19f4bac0
+SHA256: 7bd287fa0b30b0de08b19b4c37794be0e1791311930d8d2fe6a66f363f0e854c
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : تمكنك من سحب التطبيقات وتحويلها الى ipa للتعديل عليها او مشاركتها
+Tag: purpose::uikit
+Author: BekEs - بيكاس
+Dev: lakraream
+Name: iRidium
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.isnake
 Version: 2.0.0
