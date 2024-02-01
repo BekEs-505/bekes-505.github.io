@@ -104,6 +104,24 @@ Author: BekEs - بيكاس
 Dev: yuosaf01
 Name: AddSource
 
+Package: com.bekes-505.github.io.afsocial2
+Version: 1.0k
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 5452
+Depends: mobilesubstrate, org.mr.azflibrary (>= 3.1)
+Conflicts: co.azozzalfiras.afsocial, org.mr.afsocial
+Filename: ./debs/AFSocial2.deb
+Size: 2777446
+MD5sum: 09d7c6159c45e2df56dc3ec99ab83597
+SHA1: b44edc5a00c2ab8ccbe20e981a4d468cf11e720e
+SHA256: ec360ca177d563ff04f516df70cb6efa36f5402d56991fc7b8cd5444ce708835
+Section: Tweaks
+Description: اداة وظيفتها : التحميل من تطبيقات التواصل الاجتماعي
+Tag: cydia::commercial
+Author: BekEs - بيكاس
+Name: AFSocial 2
+
 Package: com.bekes-505.github.io.afsound
 Version: 1.0-14
 Architecture: iphoneos-arm
@@ -216,6 +234,22 @@ Section: Tweaks
 Description: اداة وظيفتها : لمحرر النصوص داخل فيلزا لكتابتة الاوامر وتسهليها في تقسيم
 Author: BekEs - بيكاس
 Name: AnActuallyGoodFilzaEditor Rootless
+
+Package: com.bekes-505.github.io.androbar
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2820
+Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.altlist, preferenceloader, com.ginsu.libgscommon
+Filename: ./debs/AndroBar.deb
+Size: 585096
+MD5sum: 24ff34ba47ad52a95d8781c5f1b05c6f
+SHA1: 6f824811f44b504572ffb19e0f4a415b1a153e66
+SHA256: b8507dfea65aaa8bb278f933cc90b2654e553c0e749a9c06d519d289d8fc19d5
+Section: Tweaks
+Description: اداة وظيفتها : الاضافة شريط في الاسفل لتنقل او التبديل مثل نظام الاندرويد
+Author: BekEs - بيكاس
+Name: AndroBar
 
 Package: com.bekes-505.github.io.anne
 Version: 1.0.1
