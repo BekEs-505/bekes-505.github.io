@@ -997,6 +997,21 @@ Description: اداه وظيفتها : لتصفح ملفات الايفون وا
 Author: BekEs - بيكاس
 Name: Filza File Manager Rootless
 
+Package: com.bekes-505.github.io.gravitation
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Filename: ./debs/Gravitation.deb
+Size: 104918
+MD5sum: 83c4ac70a745b523e5ead82d42ed5fca
+SHA1: 478da6ef5353e82b9a6d0e62bc79644c51300fce
+SHA256: fc6801a5f51950480c0224299544d8e119ce4b4500cc6e873ead8eceb4632c8b
+Section: Tweaks
+Description: اداة وظيفتها : هز الجوال جعل ايقونات الشاشة الرئيسية تتحرك
+Author: BekEs - بيكاس
+Name: Gravitation
+
 Package: com.bekes-505.github.io.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm
@@ -1495,10 +1510,10 @@ Maintainer: @B6_7E
 Installed-Size: 3232
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Filename: ./debs/Prysm.deb
-Size: 17415710
-MD5sum: d16ead20ae31befab339b21f30535d71
-SHA1: 5b4ef09dd11496476cbc7762b2fe92dc915373d7
-SHA256: be4a9b9a4fe6c6e596f6104526d6efa9ffef3baa0828e19ea60c9f09af9d23dd
+Size: 17415804
+MD5sum: 9f37f06893732e77d51cadba0aa1c060
+SHA1: c7e252a48598fe1545e31d7c1dfd9dfcfa47d960
+SHA256: 6dc9f4ddf32a93ff79cce46e42a8fc17bfb0ff35a57a868eff8a027343d13b5c
 Section: Tweaks
 Description: اداة وظيفتها : تغيير شكل مركز التحكم الى شكل جميل وأنيق وعصري
 Author: BekEs - بيكاس
