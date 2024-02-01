@@ -1488,6 +1488,22 @@ Author: BekEs - بيكاس
 Dev: ichitaso
 Name: PrimalFolder 2 Rootless
 
+Package: com.bekes-505.github.io.prysm
+Version: 1.9.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 3232
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./debs/Prysm.deb
+Size: 17415710
+MD5sum: d16ead20ae31befab339b21f30535d71
+SHA1: 5b4ef09dd11496476cbc7762b2fe92dc915373d7
+SHA256: be4a9b9a4fe6c6e596f6104526d6efa9ffef3baa0828e19ea60c9f09af9d23dd
+Section: Tweaks
+Description: اداة وظيفتها : تغيير شكل مركز التحكم الى شكل جميل وأنيق وعصري
+Author: BekEs - بيكاس
+Name: Prysm
+
 Package: com.bekes-505.github.io.relicloader
 Version: 3.3.3
 Architecture: iphoneos-arm
@@ -1813,6 +1829,23 @@ Description: اداة وظيفتها : عبارة عن صفحة نوت صغير�
 Author: BekEs - بيكاس
 Name: StickyNote
 
+Package: com.bekes-505.github.io.textyle
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 556
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.rpetrich.rocketbootstrap, firmware (>=13.0)
+Conflicts: com.d11z.textyle
+Filename: ./debs/Textyle2.deb
+Size: 117046
+MD5sum: 7293e00d4505ab8c24406f0908e60e86
+SHA1: aaa1ef6475f234bc847ba8bce7a817187a3a88b8
+SHA256: b7d0d074140497993a7e05076f97d003094c9bd168b4f040c502eda9b0dce761
+Section: Tweaks
+Description: اداة وظيفتها : اضافه اختصار في الكيبورد يسمح لك بتغير شكل لاحرف الى زخرفه واشكال عديده
+Author: BekEs - بيكاس
+Name: Textyle 2
+
 Package: com.bekes-505.github.io.tiktokdark
 Version: 1.87.1
 Architecture: iphoneos-arm
@@ -1844,6 +1877,37 @@ Description: اداة وظيفتها : تحميل الفيديوهات من ال
 Author: BekEs - بيكاس
 Depiction: TiktokDark
 Name: TikTok Dark Rootless
+
+Package: com.bekes-505.github.io.tranzlo
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.17), com.creaturesurvive.libcscolorpicker
+Conflicts: com.miro.tranzlo
+Filename: ./debs/Tranzlo.deb
+Size: 2557928
+MD5sum: 1cac3dc9848d9bb46947f80dd4179beb
+SHA1: b11cdaaaf626c1d4421a6cdc308cb00004c9dc59
+SHA256: 4d3564f3054db59ce64ad84bb7bba0e72a22bf835b46b3ddbcb426d41fa03c7d
+Section: Tweaks
+Description: اداة وظيفتها : ترجمة النصوص الى اي لغة بطريقة مباشرة و امكانية اختار لغة الترجمة بين عدة لغات كثيرة
+Author: BekEs - بيكاس
+Name: Tranzlo
+
+Package: com.bekes-505.github.io.tranzlo12
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker | com.hackyouriphone.libcscolorpicker
+Filename: ./debs/TranzloOld.deb
+Size: 1456548
+MD5sum: 03662426b06e06b477c66537b4f3e7a9
+SHA1: 2f28e9662398540a59daa698b8fb8dd0d58fa6ac
+SHA256: 8f8a522353232c994be06de4fae16de7f8540bd2e54589dbed6a02cca6d22468
+Section: Tweaks
+Description: اداة وظيفتها : ترجمة النصوص الى اي لغة بطريقة مباشرة و امكانية اختار لغة الترجمة بين عدة لغات كثيرة تشتغل على اصدار 12
+Author: BekEs - بيكاس
+Name: Tranzlo Old
 
 Package: com.bekes-505.github.io.trollstorehelper
 Version: 2.0.9
