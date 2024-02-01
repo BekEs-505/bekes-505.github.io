@@ -1416,6 +1416,38 @@ Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Author: BekEs - بيكاس
 Name: PerfectCalc
 
+Package: com.bekes-505.github.io.pfpviewer
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 624
+Depends: mobilesubstrate
+Filename: ./debs/PFPViewer.deb
+Size: 271730
+MD5sum: f9630b34ab351c443c811935fa9d81c8
+SHA1: 55223121f34ed1d0f6b9cd3b4948ff588730804b
+SHA256: 905b500f49a5b429c1bff7f4a52f78fa46681ed49f6987743926bd2fc792f5d7
+Section: Tweaks
+Description: اداة وظيفتها : عرض الصوره الشخصيه في اي تطبيق تواصل اجتماعي وبمكانك حفظها بغطه المطوله ليظهر لك خيار الحفظ
+Author: BekEs - بيكاس
+Name: PFPViewer
+
+Package: com.bekes-505.github.io.pfpviewerrotles
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 624
+Depends: mobilesubstrate
+Filename: ./debs/PFPViewerRootless.deb
+Size: 271818
+MD5sum: 16da7695d998d46d4d107608f5e4d7b7
+SHA1: c506ca40429265378b768087819f4b708e6fdbf0
+SHA256: d68ff76d298be58ad41c1725efa6d1dbce3409b72591e6f9fac07ad77aeef77d
+Section: Tweaks
+Description: اداة وظيفتها : عرض الصوره الشخصيه في اي تطبيق تواصل اجتماعي وبمكانك حفظها بغطه المطوله ليظهر لك خيار الحفظ
+Author: BekEs - بيكاس
+Name: PFPViewer Rootless
+
 Package: com.bekes-505.github.io.pmp
 Version: 1.1.5
 Architecture: iphoneos-arm
