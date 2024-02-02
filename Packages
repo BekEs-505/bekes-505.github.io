@@ -281,6 +281,21 @@ Description: اداة وظيفتها : ارجاع اصدارات التطبيق�
 Author: BekEs - بيكاس
 Name: AppData Rootless
 
+Package: com.bekes-505.github.io.appeditor
+Version: 3.6.9.5k
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, ldid, com.cokepokes.libnotifications
+Filename: ./debs/AppEditor.deb
+Size: 3937484
+MD5sum: 1f442bfb87dcd01b118fdbbd09f7f1d4
+SHA1: 7c50e0642893f5753c1b29d360e0becd70221ac7
+SHA256: 2efe3a1c1d3d9fec8b6c283ca26f7e9eb2b575b4415160cf43f36d1e2d0831da
+Section: Tweaks
+Description: اداة وظيفتها : تمنحك العديد من المميزات للتطبيقات في الصفحه الرئيسية و اعادة تسمية التطبيقات و اشعارات وهمية و تنظيف الcache و تغيير لغة التطبيق تكرار التطبيقات و قفل التطبيقات و ‏عمل نسخة احتياطية لتطبيق و ‏حذف الملفات المؤقتة للتطبيق و أكثر من 30+ ميزة في الاداة
+Author: BekEs - بيكاس
+Name: AppEditor
+
 Package: com.bekes-505.github.io.apphack
 Version: 3.0
 Architecture: iphoneos-arm
