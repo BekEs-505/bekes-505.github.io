@@ -564,6 +564,22 @@ Dev: lucaluca86
 Name: ByeHomeBottomBarX Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.cacloudrootless
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: @B6_7E
+Installed-Size: 1044
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/CACloudRootless.deb
+Size: 239214
+MD5sum: 9326743288dc5ff99c7c7fb701860a8e
+SHA1: 6cc9d288540c56ab5c60849182ecea7b60938d13
+SHA256: 1ca51e5663abbcb0046d545d3ea9ee0d570728dcb8a888f1a4f79f67a1478f57
+Section: Tweaks
+Description: اداة وظيفتها : حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل‬
+Author: BekEs - بيكاس
+Name: CACloud Rootless
+
 Package: com.bekes-505.github.io.carbridge
 Version: 2.0.10
 Architecture: iphoneos-arm
@@ -2017,6 +2033,26 @@ Section: Tweaks
 Description: اداة وظيفتها : الوضع ليلي لي السيديا وجعله بشكل جميل
 Author: BekEs - بيكاس
 Name: Turkey
+
+Package: com.bekes-505.github.io.userscriptmanag
+Version: 0.0.3-2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 406
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: ./debs/UserscriptManager.deb
+Size: 38570
+MD5sum: 392736d701dd7cb058a0a7a361c7f09d
+SHA1: 162ef521644bfe16c01618372bac8067954e770a
+SHA256: c7a9defbebead877b8a54f7e54cd7de929f83d698ebcbfc24ca549389341728a
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : تحمل السكربتات للمتصفحات وللتطبيقات وتشغيلهم
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: teunstrik
+Name: Userscript Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.watusi3
 Version: 1.2.14
