@@ -1,3 +1,19 @@
+Package: com.bekes-505.github.io.AlDente
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 5.0)
+Filename: ./debs/AlDente.deb
+Size: 2448216
+MD5sum: bc274d9a8becc90a19475fb541cd32b0
+SHA1: 00d2d3650edc3837a7825fbfc07d68744513f59c
+SHA256: 1d2a1c8fd411c03a7d21447f885b711aadf6e2887648186a267f07837bd65e2d
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : وقوف الشحن عند نسبة معينة لتجنب نقص عمر البطارية و تزيد في عمر البطارية
+Author: BekEs - بيكاس
+Name: AlDente
+
 Package: com.bekes-505.github.io.BHTwitter
 Version: 4.2-1+debug
 Architecture: iphoneos-arm
@@ -1331,6 +1347,22 @@ Description: اداة وظيفتها : ضغطه مطولة على اي فيس ا
 Author: BekEs - بيكاس
 Name: LongKeys
 
+Package: com.bekes-505.github.io.lynxtwo
+Version: 2.4.7
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2420
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/Lynx2.deb
+Size: 764168
+MD5sum: 128f7396ca5f91252d0abf81edb0ccf9
+SHA1: e514384882d02ea9918e68464586232b7fd298e1
+SHA256: 4cbb3e8939ad0dcee978845276c57196bdb4b191d1c25a091da518ea8f77c44c
+Section: Tweaks
+Description: اداة وظيفتها: تتيح لك خيارات تحكم عديدة للواجهه الرئيسيه و شاشة القفل و الاعدادات و قوائم اليوتيوب و الانستجرام ،، وغيره
+Author: BekEs - بيكاس
+Name: Lynx 2
+
 Package: com.bekes-505.github.io.minotaur
 Version: 1.2.1
 Architecture: iphoneos-arm
@@ -2017,6 +2049,23 @@ Section: Tweaks
 Description: ادوات وظيفتها : توقيع التطبيقات بشهادة لا نهايه مدى الحياة
 Author: BekEs - بيكاس
 Name: TrollStore Helper
+
+Package: com.bekes-505.github.io.tsssaver
+Version: 2.0.5-1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 232
+Depends: dimentio (>=99) | com.0x7ff.dimentio (>=2.0.0)
+Conflicts: co.dynastic.TSSsaver
+Filename: ./debs/TSSSaver.deb
+Size: 65906
+MD5sum: e8cac32868b415e571fb6cde582fea18
+SHA1: 17d120c37fa475c758546e5d91cba16612dd398c
+SHA256: 550ed67d824af1ab0001a82cf8663e56c20ab768b1ef439a76be148c17ffb9c1
+Section: Tweaks
+Description: اداة وظيفتها : حفظ ملفات الـSHSH يعني حفظ ملفات اصدارك بمعنى لو حدثت لاي اصدار وما اعجبك تقدر ترجع لاصدارك الي حفظته عبر الاداة
+Author: BekEs - بيكاس
+Name: TSS Saver
 
 Package: com.bekes-505.github.io.turkey
 Version: 0.0.1
