@@ -1108,6 +1108,42 @@ Description: اداة وظيفتها : هز الجوال جعل ايقونات �
 Author: BekEs - بيكاس
 Name: Gravitation
 
+Package: com.bekes-505.github.io.harbor10
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 576
+Depends: mobilesubstrate
+Conflicts: com.eswick.harbor10
+Filename: ./debs/Harbor.deb
+Size: 126128
+MD5sum: 6ffb20fa9139e859084a9a75e78395a0
+SHA1: 458977f9e309867eb78fdaaa704cb1a3fae5f943
+SHA256: fa306d9567b618124e44c7bef2b924df38c69f249053d625c46d0ed7f05d9790
+Section: Tweaks
+Description: اداة وظيفتها : جعل مظهر الدوك السفلي بشكل مشابه لنظام الماك عند عرض التطبيقات او تحريك للاحتيار مع امكانية وضع عدد تطبيقات لامحدود
+Author: BekEs - بيكاس
+Name: Harbor
+
+Package: com.bekes-505.github.io.harbor2
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 202
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/Harbor2.deb
+Size: 40596
+MD5sum: d975a16ee923a4d3c71d3cc1e8a8deff
+SHA1: 87e1e4f2a817831a466017ec60cf102d0ef38feb
+SHA256: 58cd9cf20d22992b1e15d5647b9fe74b36523a32e4c4caf6d9a980e415593f8f
+Section: Tweaks
+Description: اداة وظيفتها : جعل مظهر الدوك السفلي بشكل مشابه لنظام الماك عند عرض التطبيقات او تحريك للاحتيار مع امكانية وضع عدد تطبيقات لامحدود
+Tag: purpose::extension, compatible::ios12
+Author: BekEs - بيكاس
+Dev: eswick
+Name: Harbor 2
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.bekes-505.github.io.harbor3
 Version: 1.1.1-8
 Architecture: iphoneos-arm
