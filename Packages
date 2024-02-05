@@ -444,6 +444,21 @@ Dev: crazymind90
 Name: AVTools
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.backrunner
+Version: 0.1.7
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
+Filename: ./debs/BackRunner.deb
+Size: 16356
+MD5sum: e1a1f8b9818b8922263041afde45f3cc
+SHA1: c55bf158588d051def662986e2eba35fca00fd09
+SHA256: 9b5ca9d1dd0523593da051218045cc39175b55f8d363c685de0a9b2530edf514
+Section: Tweaks
+Description: اداة وظيفتها : جعل التطبيقات تعمل بالخلفية بدون ماتققفل حتى لو رحت تطبيقات ثانيه ترجع تحصل التطبيق شغال على اخر شي دخلت عليه
+Author: BekEs - بيكاس
+Name: BackRunner
+
 Package: com.bekes-505.github.io.bfdecrypt
 Version: 1.3.3-1
 Architecture: iphoneos-arm
@@ -1092,6 +1107,43 @@ Section: Tweaks
 Description: اداة وظيفتها : هز الجوال جعل ايقونات الشاشة الرئيسية تتحرك
 Author: BekEs - بيكاس
 Name: Gravitation
+
+Package: com.bekes-505.github.io.harbor3
+Version: 1.1.1-8
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 395
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Recommends: com.eswick.iconlayoutmanager
+Conflicts: com.eswick.harbor2
+Filename: ./debs/Harbor3.deb
+Size: 59510
+MD5sum: 7d33f5988e95f1f5d06993dc8d1055da
+SHA1: 3be69fe38fd0d3a6f3e776a529db7c2e47a91848
+SHA256: 7061ef6a0112d087c54e3c09c552d4a2f5551811022a51a58c1a36d91956cc0e
+Section: Tweaks
+Description: اداة وظيفتها : جعل مظهر الدوك السفلي بشكل مشابه لنظام الماك عند عرض التطبيقات او تحريك للاحتيار مع امكانية وضع عدد تطبيقات لامحدود
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: eswick
+Name: Harbor 3
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.bekes-505.github.io.honey
+Version: 2.0-2k
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), ws.hbang.common
+Conflicts: com.blakeboxberger.dockremover
+Filename: ./debs/Honey.deb
+Size: 65532
+MD5sum: 09e0bd5ec3115aac1ac58a802ac4e7ac
+SHA1: 3ab5e4feb29cc2fb8181f737d693513f7e87961b
+SHA256: 3a28fe40e35875e80be4ee05c2beaa406d988e95fb8de48544847693b9627aed
+Section: Tweaks
+Description: اداة وظيفتها : جلب شكل التطبيقات في ساعة ابل واتش الي الايفون وعرض التطبيقات مثل عرض التطبيقات في ساعة ابل
+Author: BekEs - بيكاس
+Name: Honey
 
 Package: com.bekes-505.github.io.icleanerpro
 Version: 7.10.0
