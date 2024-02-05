@@ -152,6 +152,24 @@ Description: اداة وظيفتها: تطبيق وهمي على شكل متصف
 Author: BekEs - بيكاس
 Name: AgentCamera
 
+Package: com.bekes-505.github.io.ahahah
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 6772
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Conflicts: com.sticktron.ahahah
+Provides: com.sticktron.ahahah
+Filename: ./debs/Ah!Ah!Ah!.deb
+Size: 5571112
+MD5sum: fbb8c1c36fc830b8477051d47856eb90
+SHA1: 4ac0fb1797795c420dfbde11b8443747a56666a3
+SHA256: bb6113060adada1acf214de1adeb6fa7dcbaf51a5522611af5aba3dcb60d9cb8
+Section: Tweaks
+Description: اداة وظيفتها : اي واحد يكتب باسورد الجهاز خطا يشتغل فيديو من اختيارك واذا تبي توقفه لازم تستخدم البصمه او زر اغلاق الشاشة
+Author: BekEs - بيكاس
+Name: Ah! Ah! Ah! (iOS 6 to 14.0)
+
 Package: com.bekes-505.github.io.aimpro
 Version: 1.0.3
 Architecture: iphoneos-arm

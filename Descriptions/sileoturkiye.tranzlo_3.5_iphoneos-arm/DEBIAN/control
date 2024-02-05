@@ -1,0 +1,10 @@
+Package: sileoturkiye.tranzlo
+Name: Tranzlo
+Version: 3.5
+Architecture: iphoneos-arm
+Description: İstediğiniz herhangi bir dilde kolaylıkla sohbet etmenize olanak tanır.
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.17), com.creaturesurvive.libcscolorpicker
+Conflicts: com.miro.tranzlo
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Author: MiRO
+Section: TR - TR Yama
