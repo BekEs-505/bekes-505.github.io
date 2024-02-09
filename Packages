@@ -2110,6 +2110,22 @@ Author: BekEs - بيكاس
 Depiction: TiktokDark
 Name: TikTok Dark Rootless
 
+Package: com.bekes-505.github.io.tiktokgod
+Version: 4.0.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debs/TikTokGod.deb
+Size: 86430
+MD5sum: b91c4dea78c6f3050da4bf3140b97886
+SHA1: 5098b49b3223ba6064b2edac859f15b92b370618
+SHA256: ff621426cf55e7ccd022d41b4d47c314a1ad39c27cb089e237736a8cdcb17dfb
+Section: Tweaks
+Description: اداة وظيفتها : تيك توك بلس لحذف الاعلانات وحفظ الفيدوهات بدون علامات المائية
+Author: BekEs - بيكاس
+Name: TikTok God
+
 Package: com.bekes-505.github.io.tranzlo
 Version: 3.5
 Architecture: iphoneos-arm
@@ -2444,6 +2460,22 @@ Description: Library for Watusi and WhatsApp tweaks
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 Name: WatusiTools Rootless
+
+Package: com.haoict.libhdev
+Version: 4.8.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: ./debs/libhdev.deb
+Size: 76748
+MD5sum: 1ad3b18aa6fbddde14ae485cef667a17
+SHA1: ee0dfd098b418df5ce41ee48411372a6fc6ae0d3
+SHA256: 0083c5a1d9dea3af0341ca3a22e747468b9a6d19659236cdb5a3e426d76b337b
+Section: Tweaks
+Tag: role::developer
+Author: BekEs - بيكاس
+Name: Z.libhdev
 
 Package: com.platykor.escape
 Version: 2.5.6
