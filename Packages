@@ -1,3 +1,19 @@
+Package: com.bandarhl.bhtwitter
+Version: 4.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/BHTwitter.deb
+Size: 10502488
+MD5sum: 1a6ddefe1a02b6b82e76c9bac61f6912
+SHA1: 439d72ca42e49f58f3ddd8cd10519f5758fe2076
+SHA256: 307ede673b8c5e24dca1a5363e1c6c118ea19ae1699bf27e5ecc6bae9560a414
+Section: Tweaks
+Description: اداة وظيفتها : تويتر بلس مميزاته تتيح لك امكانية تحميل الفيديوهات من التغريدة حتى لو كان الحساب برايفت و فتح ميزة التغريد بالتسجيل الصوتي لتويتر في الخاص والعام
+Author: BekEs - بيكاس
+Name: BHTwitter
+
 Package: com.bekes-505.github.io.AlDente
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -13,22 +29,6 @@ Priority: optional
 Description: اداة وظيفتها : وقوف الشحن عند نسبة معينة لتجنب نقص عمر البطارية و تزيد في عمر البطارية
 Author: BekEs - بيكاس
 Name: AlDente
-
-Package: com.bekes-505.github.io.BHTwitter
-Version: 4.2-1+debug
-Architecture: iphoneos-arm
-Maintainer: @B6_7E
-Installed-Size: 23836
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/BHTwitter.deb
-Size: 10496794
-MD5sum: 964b617eb5bef9495d12f9ea975819f3
-SHA1: 9b403030c7591e103579d4ca059588ea2d7f89b4
-SHA256: e99bfecbbdfc8cbf64640c58ef589463d502d9d7355feeb9bf1dceb49a5ce005
-Section: Tweaks
-Description: اداة وظيفتها : تويتر بلس مميزاته تتيح لك امكانية تحميل الفيديوهات من التغريدة حتى لو كان الحساب برايفت و فتح ميزة التغريد بالتسجيل الصوتي لتويتر في الخاص والعام
-Author: BekEs - بيكاس
-Name: BHTwitter
 
 Package: com.bekes-505.github.io.a-font
 Version: 1.10
@@ -540,16 +540,16 @@ Author: BekEs - بيكاس
 Name: BHTikTok Plus
 
 Package: com.bekes-505.github.io.bhtwitterrotles
-Version: 4.0
+Version: 4.3-1+debug
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 3780
-Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/BHTwitterRootless.deb
-Size: 1365204
-MD5sum: c56820d85fe2977d15983dff3c55b50f
-SHA1: 7b2046b8860d6b120c532ad1516dbb5e654c8b19
-SHA256: f78e961084d4aeb59df746b6486fc3f62385b99a5080028b5f4d934d021384fe
+Size: 10502606
+MD5sum: bfa77018a9983103e50ee772f6eb58e6
+SHA1: dd557e8b0f2d37aa805f223936d882c3193f0609
+SHA256: bc9283fa6126e480bf44dfd14d0eb78f20cd30af4524382f0d5bd08792988c3e
 Section: Tweaks
 Description: اداة وظيفتها : تويتر بلس مميزاته تتيح لك امكانية تحميل الفيديوهات من التغريدة حتى لو كان الحساب برايفت و فتح ميزة التغريد بالتسجيل الصوتي لتويتر في الخاص والعام
 Author: BekEs - بيكاس
