@@ -1093,6 +1093,38 @@ Description: اداه وظيفتها : لتصفح ملفات الايفون وا
 Author: BekEs - بيكاس
 Name: Filza File Manager Rootless
 
+Package: com.bekes-505.github.io.floatingdockxvi
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./debs/FloatingDockXVI.deb
+Size: 415444
+MD5sum: ba9b736ad2772a2abe661742338a4184
+SHA1: 8d23f48add8c6268de989f2809359142dac05012
+SHA256: ee0d52899829f746bfb77a2e683be5ea39cb60350c2761711a2cd3216c7868cf
+Section: Tweaks
+Description: اداة وظيفتها : جلب ميزة وشكل الدوك السفلي الموجود في اجهزة الايباد الى الايفون
+Author: BekEs - بيكاس
+Name: FloatingDockXVI
+
+Package: com.bekes-505.github.io.floatingrootless
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 812
+Depends: preferenceloader
+Filename: ./debs/FloatingDockXVIRootless.deb
+Size: 415586
+MD5sum: 09e5fa4deb07e110297d378af009fdec
+SHA1: f6f2d354caa4b860f9e395d0007c3c8fc55cce95
+SHA256: 4107ba1d76223699c0368378cf03f6311287a3f70da003b219d185b44d66fa39
+Section: Tweaks
+Description: اداة وظيفتها : جلب ميزة وشكل الدوك السفلي الموجود في اجهزة الايباد الى الايفون
+Author: BekEs - بيكاس
+Name: FloatingDockXVI Rootless
+
 Package: com.bekes-505.github.io.gravitation
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -1107,6 +1139,21 @@ Section: Tweaks
 Description: اداة وظيفتها : هز الجوال جعل ايقونات الشاشة الرئيسية تتحرك
 Author: BekEs - بيكاس
 Name: Gravitation
+
+Package: com.bekes-505.github.io.gravity
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Gravity.deb
+Size: 223624
+MD5sum: 7b3f0a92cc40d9ae16d9cc4ed5588c4a
+SHA1: 577a2209c170245799a5a9f96d2c7c90543aedbc
+SHA256: 461e78108b1878813cb66d574562624aab87e10ef4bb7501fc130cdd6352bab7
+Section: Tweaks
+Description: اداة وظيفتها : هز الجوال جعل ايقونات الشاشة الرئيسية تتحرك
+Author: BekEs - بيكاس
+Name: Gravity
 
 Package: com.bekes-505.github.io.harbor10
 Version: 1.1.6
@@ -1180,6 +1227,26 @@ Section: Tweaks
 Description: اداة وظيفتها : جلب شكل التطبيقات في ساعة ابل واتش الي الايفون وعرض التطبيقات مثل عرض التطبيقات في ساعة ابل
 Author: BekEs - بيكاس
 Name: Honey
+
+Package: com.bekes-505.github.io.huebatterybar
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1323
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/hueBatterybar.deb
+Size: 271862
+MD5sum: 31e0d62bc4fcdee7523cd513ec041fbe
+SHA1: 85651b208aa8d4d5e3517d59027e39d872f98406
+SHA256: 4c0c369b417dfa23cd1056520839748a745600787275172cf2181b5687cd59ed
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : تخص البار العلوي مثل تلوين الخيارات كاملة واخفاء اي شي تبيه و تغيير اسم الشبكة تلوين الشبكة و اخفاء النوتش و مميزات كثيرة
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lucaluca86
+Name: hueBatterybar
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.icleanerpro
 Version: 7.10.0
@@ -1300,6 +1367,23 @@ Section: Tweaks
 Description: اداة وظيفتها : دمج ملف dylib في ipa بواسطة NewTerm
 Author: BekEs - بيكاس
 Name: injectipa Rootless
+
+Package: com.bekes-505.github.io.instalauncher2
+Version: 1.8.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1148
+Depends: mobilesubstrate, preferenceloader, applist(>=1.5.15), firmware(>=12.1)
+Conflicts: com.jontelang.instalauncher2.beta
+Filename: ./debs/InstaLauncher2.deb
+Size: 371496
+MD5sum: b168950ef822b202aa13272f4ad03ce8
+SHA1: 658d4243b720985bcf4a07c7c600072382112333
+SHA256: 241b38282a8da7fbdd246a46683967b62fea11c7b2896bf0779d58299cd237ff
+Section: Tweaks
+Description: اداة وظيفتها : الوصول السريع إلى التطبيقات عبر قائمة جميلة وأنيقة تظهر بإيماء معين
+Author: BekEs - بيكاس
+Name: InstaLauncher 2
 
 Package: com.bekes-505.github.io.iota
 Version: 2.2
@@ -1437,6 +1521,38 @@ Description: اداة ‏وظيفتها : تجلب لك ايمائات ايفو�
 Author: BekEs - بيكاس
 Name: Little12
 
+Package: com.bekes-505.github.io.lockmaster
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/LockMaster.deb
+Size: 121182
+MD5sum: 25b9741d183b9eae6adacb9f55051c8f
+SHA1: 3fc874eb01f83e628c0bc8341482dfc77138195b
+SHA256: 470efd19b8750ffef8be8c963d85a10d18ed190f7e00e0f9089808b8df13c3b2
+Section: Tweaks
+Description: اداة وظيفتها : تخصيص اشكال عند قفل الشاشة
+Author: BekEs - بيكاس
+Name: Lock Master
+
+Package: com.bekes-505.github.io.lockmasterotles
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/LockMasterRootless.deb
+Size: 121346
+MD5sum: e5f66db59ead10e1553c24e644bdc5e3
+SHA1: 9668b5425f901c2ad9af2fedef1ddedd9876cc0d
+SHA256: a916e327aed5b4f5ad693f587ac25f442a8e72628c2e3a274f3dcda90a60c101
+Section: Tweaks
+Description: اداة وظيفتها : تخصيص اشكال عند قفل الشاشة
+Author: BekEs - بيكاس
+Name: Lock Master Rootless
+
 Package: com.bekes-505.github.io.longkeys
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1452,6 +1568,22 @@ Section: Tweaks
 Description: اداة وظيفتها : ضغطه مطولة على اي فيس ايموجي يرسله بشكل متكرر وبسرعه دون الحاجة للضغط المتكرر
 Author: BekEs - بيكاس
 Name: LongKeys
+
+Package: com.bekes-505.github.io.lynx
+Version: 1.9.7.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2840
+Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./debs/Lynx.deb
+Size: 1647874
+MD5sum: ffcb419b59bd0ed5aab25140ecdcc5e3
+SHA1: 234e114e26b5824d9cf3845ff22a81df6c323ce6
+SHA256: f6985f3a15d7c4a9e37ccd5041d61fb22b840a2abe4f2ad88d3eb55799db5f0b
+Section: Tweaks
+Description: اداة وظيفتها: تتيح لك خيارات تحكم عديدة للواجهه الرئيسيه و شاشة القفل و الاعدادات و قوائم اليوتيوب و الانستجرام ،، وغيره
+Author: BekEs - بيكاس
+Name: Lynx
 
 Package: com.bekes-505.github.io.lynxtwo
 Version: 2.4.7
@@ -1617,6 +1749,38 @@ Description: اداة وظيفتها : عرض الصوره الشخصيه في �
 Author: BekEs - بيكاس
 Name: PFPViewer Rootless
 
+Package: com.bekes-505.github.io.pinanim
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 604
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/PinAnim.deb
+Size: 133438
+MD5sum: 844bd6d3bd4c6339712e4318371eac20
+SHA1: f5e8f2b4f6c60836e161307596a868c5d2c553eb
+SHA256: 74962d5a6ffa3358de567f28be584d7c520424010c6c8b978dc18114aaca29c0
+Section: Tweaks
+Description: اداة وظيفتها : خفيفة وجميلة وبسيطة تعطي لك انميشن للنقاط الخاصة في باس قفل الشاشة  تخصيص سرعة الفتح وسرعة الانميشن و الكثير
+Author: BekEs - بيكاس
+Name: PinAnim
+
+Package: com.bekes-505.github.io.pinanimrootless
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 604
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/PinAnimRootless.deb
+Size: 133552
+MD5sum: c295fcdcd1371bc25df9ee4d303e0ce6
+SHA1: 729536f88214fc29a1bfc09a1f285d654b23cc7f
+SHA256: 326b70a946b79cfe18df0dd1ec2ff7fe18106bc33b65a338791794a348baa175
+Section: Tweaks
+Description: اداة وظيفتها : خفيفة وجميلة وبسيطة تعطي لك انميشن للنقاط الخاصة في باس قفل الشاشة  تخصيص سرعة الفتح وسرعة الانميشن و الكثير
+Author: BekEs - بيكاس
+Name: PinAnim Rootless
+
 Package: com.bekes-505.github.io.pmp
 Version: 1.1.5
 Architecture: iphoneos-arm
@@ -1720,6 +1884,24 @@ Author: BekEs - بيكاس
 Dev: ichitaso
 Name: PrimalFolder 2 Rootless
 
+Package: com.bekes-505.github.io.prokeys
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: xyz.royalapps.realkeys
+Filename: ./debs/ProKeys.deb
+Size: 133386
+MD5sum: 933f2e172e88a75775c3139ef53e7287
+SHA1: 4ebc7910490861bea21ee4aa7081a25f2e057e15
+SHA256: 014fcd5f831cdd7f67e911186d9e0db32ff43673e523a74f5bcbc0e25f90a900
+Section: Tweaks
+Description: اداة وظيفتها : اضافة الوان مختلفة للكيبورد و اضافة الوان عند الضغط على الحروف واشكال وانميشن لضغط
+Tag: cydia::commercial, compatible_min::ios13.0
+Author: BekEs - بيكاس
+Name: ProKeys
+
 Package: com.bekes-505.github.io.prysm
 Version: 1.9.1
 Architecture: iphoneos-arm
@@ -1804,6 +1986,38 @@ Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
 Author: BekEs - بيكاس
 Name: Rocket for Instagram
+
+Package: com.bekes-505.github.io.satella
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debs/Satella.deb
+Size: 147392
+MD5sum: a246ced6d9a9d566bfb2ab4c4cb3c32d
+SHA1: ec90cbd4e4e9083034acea30c440d4fb2fce2a59
+SHA256: b78a2c57f50e4a1b0d1b13e953f1216d6b2ac98980390a0db702024fd10b08d4
+Section: Tweaks
+Description: اداة وظيفتها : الشراء من داخل التطبيقات والالعاب
+Author: BekEs - بيكاس
+Name: Satella
+
+Package: com.bekes-505.github.io.satellarootless
+Version: 1.8.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 488
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: ./debs/SatellaRootless.deb
+Size: 141112
+MD5sum: 6f016d5e31d8e03516b083e4d79e8d86
+SHA1: a5b9c2262b2fee4197c16a2476103d27d43e6162
+SHA256: c9aa342f3d8444c9c4f5935eb973138b752f990ef83c328db2b665b59228db51
+Section: Tweaks
+Description: اداة وظيفتها : الشراء من داخل التطبيقات والالعاب
+Author: BekEs - بيكاس
+Name: Satella Rootless
 
 Package: com.bekes-505.github.io.sentinel
 Version: 1.3.2
@@ -1963,6 +2177,42 @@ Description: اداة وظيفتها : تضيف لك خيار البحث في ق
 Author: BekEs - بيكاس
 Name: SITUM Pro
 
+Package: com.bekes-505.github.io.sixls
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2200
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), firmware(>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debs/Six(LS).deb
+Size: 1588302
+MD5sum: 7d42c9f94b97a82303039622702f26d6
+SHA1: ed1e66c11d786c795a5777f4f14df3dbcc61b418
+SHA256: 5443f362b68ca3f1242308b01abcae3a46de23720957416fbeb9c803bbfc9473
+Section: Tweaks
+Description: اداة وظيفتها : لجلب شكل شاشة القفل ايفون 4 الي الايفونات الحديثه
+Author: BekEs - بيكاس
+Name: Six (LS)
+
+Package: com.bekes-505.github.io.skinnysettings
+Version: 1.6.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1115
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/SkinnySettings.deb
+Size: 211952
+MD5sum: a452d0b9c1550eb705ab8e79511dc699
+SHA1: ff27917dc9c71a34ab6aeafafa2e541e04fee3b9
+SHA256: f7723393d2f29b1547801031ec1f1a4016c0aa5f09d8ef5d4db5a832c3339878
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : مميزات عدة لتطبيق الإعدادات مثل إخفاء الأيقونات والنصوص و إخفاء الفواصل، إخفاء خانة البحث و تعطيل العنوان الكبير و الكثير
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lucaluca86
+Name: SkinnySettings
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.bekes-505.github.io.slowmo
 Version: 1.1
 Architecture: iphoneos-arm
@@ -2029,6 +2279,26 @@ Description: اداة وظيفتها : سناب بلس حفظ رفع فتح مم
 Author: BekEs - بيكاس
 Name: SnapSniper
 
+Package: com.bekes-505.github.io.springanimation
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 682
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/SpringAnimations.deb
+Size: 95470
+MD5sum: a7c81c65e3cdd3f6d030ad369009395e
+SHA1: fa4d4b0b63910c20dd04fce524afb7a560f98d61
+SHA256: ba8009c1a69e17d323a19a051660a4183ad55a642d3730c4f0f7de900f575b69
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : تحديد تأثير حركي يحدث عند فتح التطبيقات والخروج منها
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lucaluca86
+Name: SpringAnimations
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.bekes-505.github.io.spy2
 Version: 1.3-1
 Architecture: iphoneos-arm
@@ -2060,6 +2330,38 @@ Section: Tweaks
 Description: اداة وظيفتها : عبارة عن صفحة نوت صغيرة  في قفل الشاشة تقدر من خلالها تكتب اي موعد و تحذف النوت و ايضا اخفاء النوت عبر الورقة اسفل الشاشة
 Author: BekEs - بيكاس
 Name: StickyNote
+
+Package: com.bekes-505.github.io.swipeextenderx
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 656
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/SwipeExtenderX.deb
+Size: 138060
+MD5sum: ddce9d397d34c4e3a96f3ca0d8ab1e60
+SHA1: 9079e8d8ce20e2686d5eaf57e115ea084e24733f
+SHA256: 086f17b3ac63fce740ee009208e101c1aab51e9c7738fc2ae75d21c80f0ae17d
+Section: Tweaks
+Description: اداة وظيفتها : تنسيق واضافة اختصارات زي ما تحب داخل احرف الكيبورد مثل اضافة الارقام او اي اختصار اخرى
+Author: BekEs - بيكاس
+Name: SwipeExtenderX
+
+Package: com.bekes-505.github.io.swiperootless
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 656
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/SwipeExtenderXRootless.deb
+Size: 144912
+MD5sum: 5e476d06a959d8ea573d3f02f8cad481
+SHA1: dd00e8a234f19093570166b5ec2da3fd7719b007
+SHA256: c0ac36e84108ef16150a841f6fc07c6a43b18aeaef654dfc9fa779ec93c3159f
+Section: Tweaks
+Description: اداة وظيفتها : تنسيق واضافة اختصارات زي ما تحب داخل احرف الكيبورد مثل اضافة الارقام او اي اختصار اخرى
+Author: BekEs - بيكاس
+Name: SwipeExtenderX Rootless
 
 Package: com.bekes-505.github.io.textyle
 Version: 1.0.1
@@ -2204,6 +2506,40 @@ Section: Tweaks
 Description: اداة وظيفتها : الوضع ليلي لي السيديا وجعله بشكل جميل
 Author: BekEs - بيكاس
 Name: Turkey
+
+Package: com.bekes-505.github.io.underdock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 528
+Depends: mobilesubstrate
+Conflicts: com.restiveconch.actionbar,com.udevs.dockx
+Filename: ./debs/UnderDock.deb
+Size: 81128
+MD5sum: 46b3a1643ed4686a560dca037b68b364
+SHA1: 700805bc96339e1635ada62212227be1492d2992
+SHA256: fd3aea7d66ab7c49486d278e168c70b16ded8845e04bb6e32cd360d2398f5a5f
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بأضافة اختصارات في المساحة الخالية في الكيبورد لتضيف خيارات النسخ واللصق وازاز الرجوع والمشاركة والتقديم والترجيع.اضافة اختصارات للكلام و الكثير
+Author: BekEs - بيكاس
+Name: UnderDock
+
+Package: com.bekes-505.github.io.underdockrotles
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 528
+Depends: mobilesubstrate
+Conflicts: com.restiveconch.actionbar,com.udevs.dockx
+Filename: ./debs/UnderDockRootless.deb
+Size: 81284
+MD5sum: 2b0142818a66016fe15bae62b1e71c02
+SHA1: 0113b91a570fc86bfcfa5c12e1578cabf00cde5d
+SHA256: a51171d178c3e4b534dcd4a566d6b8567d617ff4c72cb07bef3c48e68ac5b932
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بأضافة اختصارات في المساحة الخالية في الكيبورد لتضيف خيارات النسخ واللصق وازاز الرجوع والمشاركة والتقديم والترجيع.اضافة اختصارات للكلام و الكثير
+Author: BekEs - بيكاس
+Name: UnderDock Rootless
 
 Package: com.bekes-505.github.io.userscriptmanag
 Version: 0.0.3-2
