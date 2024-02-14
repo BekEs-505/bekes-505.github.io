@@ -283,6 +283,22 @@ Author: BekEs - بيكاس
 Name: Anne
 Tags: compatible_min::ios13, compatible_max::ios15
 
+Package: com.bekes-505.github.io.appaze2
+Version: 1.4.1k
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Conflicts: com.anthopak.appaze2
+Filename: ./debs/Appaze2.deb
+Size: 957784
+MD5sum: 26d52e07fd54f37bd1fba8c763ed0bec
+SHA1: 7d9f179521444b1edfea2dfe9db3b3217bb49e4d
+SHA256: e9814110c7d2b85bbede21d7a8d9461e4e66f66132c4b235348fb345f187eb4b
+Section: Tweaks
+Description: اداة وظيفتها : تحديد اعدادات مخصصه للتطبيق مثل قطع الواي فاي عنه او البيانات او تغيير مستوى الصوت والسطوع للتطبيق وغيره كثير
+Author: BekEs - بيكاس
+Name: Appaze 2
+
 Package: com.bekes-505.github.io.appdata
 Version: 1.4.0
 Architecture: iphoneos-arm
@@ -378,6 +394,25 @@ Description: اداة وظيفتها : خاصه بالايباد لجعل الت
 Author: BekEs - بيكاس
 Name: AppPad Rootless
 
+Package: com.bekes-505.github.io.appshide
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 424
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: ./debs/AppsHide.deb
+Size: 106958
+MD5sum: a64de6f2a2b1d9643cf792b534addbfc
+SHA1: 4242484ff26bf3426d751394abad8397fde3869b
+SHA256: 677aed6cfad7735317166fb0f6fc1e07a566a3e842c04470ed34474dddd014d6
+Section: Tweaks
+Description: اداة وظيفتها : اخفاء التطبيقات من الشاشه الرئيسية ومن ومركز البحث
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: netskao
+Name: AppsHide
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.bekes-505.github.io.appstoreplusplus
 Version: 0.10.1-5
 Architecture: iphoneos-arm
@@ -394,6 +429,58 @@ Priority: optional
 Description: اداة وظيفتها : ابل ستور بلس لارجاع التطبيقات على اصدارات قديمھ ♡♡ ‏♯̶!.
 Author: BekEs - بيكاس
 Name: AppStore++
+
+Package: com.bekes-505.github.io.astolfo
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2336
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/Astolfo.deb
+Size: 1974606
+MD5sum: ae6409e945d12f5b11f2b51187ec85a6
+SHA1: 2cc3b1e5e6301994a34ad19504ab77c4fa144dce
+SHA256: f5c4ba52c404cfcd1e6289dbc30648e5170f06d96b7af63a0b84ebb49cd7b7f4
+Section: Tweaks
+Description: اداة وظيفتها : تغير شكل صفحة سيري باشكال جميله مع التعديل عليها
+Author: BekEs - بيكاس
+Name: Astolfo
+
+Package: com.bekes-505.github.io.atria
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 877
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debs/Atria.deb
+Size: 317716
+MD5sum: 35b8f08c6538fe11c5434e8389028215
+SHA1: 9c588950bf3be5d754fcb8ad1020442f8e7dfaea
+SHA256: c49188733fa3da08002382e68b75a2845f7ee23fd083e90f0f71e2e6803d893e
+Section: Tweaks
+Description: اداة وظيفتها : تغيير ترتيب صفوف واعمدة ايقونات التطبيقات و الويدجت بشكل سهل واضافة اسمك وتغير حجم الايقونات
+Tag: compatible_min::ios13.0
+Author: BekEs - بيكاس
+Name: Atria
+
+Package: com.bekes-505.github.io.atriarootless
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 886
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debs/AtriaRootless.deb
+Size: 304220
+MD5sum: d434f932be5c1755157620395a44d728
+SHA1: 1e65d5f52ada2f77262fc8c22ef77e6a5e8884b5
+SHA256: 23412015be72c4834cc999774cfb6741a91a197b71b66bb892b08134a320f2d7
+Section: Tweaks
+Description: A proper homescreen layout editor for iOS 13-16
+Tag: compatible_min::ios13.0
+Author: BekEs - بيكاس
+Name: Atria Rootless
 
 Package: com.bekes-505.github.io.autoscroll
 Version: 1.0.0
@@ -613,19 +700,35 @@ Dev: lucaluca86
 Name: ByeHomeBottomBarX Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.bekes-505.github.io.cacloudrootless
-Version: 2.0
-Architecture: iphoneos-arm64e
+Package: com.bekes-505.github.io.cacloud
+Version: 2.1
+Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 1044
+Installed-Size: 1116
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/CACloud.deb
+Size: 237852
+MD5sum: ccb14e1af6102946edfb5892aada187c
+SHA1: 7b9c6d49a8486a3c2358854e2af5d968e5c8fa8c
+SHA256: 625e115ba8df3774f7fd7bbae2de33e104577146d9ff155ee4069228c9a3b176
+Section: Tweaks
+Description: اداة وظيفتها : حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
+Author: BekEs - بيكاس
+Name: CACloud
+
+Package: com.bekes-505.github.io.cacloudrootless
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1116
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/CACloudRootless.deb
-Size: 239214
-MD5sum: 9326743288dc5ff99c7c7fb701860a8e
-SHA1: 6cc9d288540c56ab5c60849182ecea7b60938d13
-SHA256: 1ca51e5663abbcb0046d545d3ea9ee0d570728dcb8a888f1a4f79f67a1478f57
+Size: 237946
+MD5sum: 88a78c3240930bd4ba843e9ede60d8f2
+SHA1: d6824a230408e5c11c02f86865b2e91b428c76a6
+SHA256: 5ff8eb6ec0743b885835d90c9f022d1ad2b87844ba368a9132abf954813d2e30
 Section: Tweaks
-Description: اداة وظيفتها : حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل‬
+Description: اداة وظيفتها : حذف الأعلانات لتطبيق انمي كلاود وتسريع عمل الحلقة اظهار زر المشاهدة والتحميل
 Author: BekEs - بيكاس
 Name: CACloud Rootless
 
@@ -906,6 +1009,23 @@ Description: اداة وظيفتها : رسم في اي مكان عند تصوي
 Author: BekEs - بيكاس
 Name: Dr4w
 
+Package: com.bekes-505.github.io.edge
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1180
+Depends: mobilesubstrate, firmware (>=11.0), org.thebigboss.libcolorpicker, com.opa334.ccsupport, xyz.itznebbs.libnebbs (>=1.6), ws.hbang.common
+Conflicts: com.junesiphone.lockpluspro
+Filename: ./debs/Edge.deb
+Size: 649210
+MD5sum: eb0fa3c32e91db1da48ae76b9af97df3
+SHA1: 9f19d5a20f68a7df4f0962a0ee1a78f386976901
+SHA256: cd279205d2e592f23c9d4866e16cf97549173e9c72dbf1bee7872039a78f5af2
+Section: Tweaks
+Description: اداة وظيفتها : تعطيك خط ملون على اطراف الشاشه مع مكانية تغير حجمه والالوان تتغير بشكل عشوائي
+Author: BekEs - بيكاس
+Name: Edge
+
 Package: com.bekes-505.github.io.eneko
 Version: 1.4
 Architecture: iphoneos-arm
@@ -939,6 +1059,22 @@ Section: Tweaks
 Description: اداة وظيفتها: تعيين مقطع فيديو كخلفية للشاشة القفل والشاشة الرئيسية ومركز التحكم
 Author: BekEs - بيكاس
 Name: Eneko Rootless
+
+Package: com.bekes-505.github.io.enhancement
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 8452
+Depends: mobilesubstrate, opencv
+Filename: ./debs/Enlighten.deb
+Size: 3281688
+MD5sum: 12ac59abaf63f6e550c2aae476727150
+SHA1: d2b1c0448e03704cedb830c261b6546e5579bc19
+SHA256: c5cd718b8209ee5b846237a7121074046eb79dd53b5fad1922b35b9bf12d3f68
+Section: Tweaks
+Description: اداة وظيفتها : تفعيل وضع التصوير الليلي لي للايفون بما في ذلك وضع التصوير
+Author: BekEs - بيكاس
+Name: Enlighten
 
 Package: com.bekes-505.github.io.erika
 Version: 1.13.3
@@ -1124,6 +1260,23 @@ Section: Tweaks
 Description: اداة وظيفتها : جلب ميزة وشكل الدوك السفلي الموجود في اجهزة الايباد الى الايفون
 Author: BekEs - بيكاس
 Name: FloatingDockXVI Rootless
+
+Package: com.bekes-505.github.io.gif2ani2
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 252
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Provides: com.aditkamath.springy
+Filename: ./debs/Gif2AniV2.deb
+Size: 39604
+MD5sum: 61dbe72d8e1e958d73ea9b04868dbb84
+SHA1: 61ec257fbc5d1b11e8c37ec55a5e80caa3bd816d
+SHA256: 06a30beb4ca756d98f5993b01bab3fc49ee8d066766cb3f7551f14bca624684c
+Section: Tweaks
+Description: اداة وظيفتها : تحط اي صوره متحركه وتخليها عند عمل رسبرينق للجهاز
+Author: BekEs - بيكاس
+Name: Gif2Ani V2
 
 Package: com.bekes-505.github.io.gravitation
 Version: 0.1.0
@@ -1918,6 +2071,40 @@ Description: اداة وظيفتها : تغيير شكل مركز التحكم �
 Author: BekEs - بيكاس
 Name: Prysm
 
+Package: com.bekes-505.github.io.recordpause
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/RecordPause.deb
+Size: 19300
+MD5sum: 0828e3eaf18f38e9a4ed4274f20f484b
+SHA1: b87cfac5462234938d96b8de641ecf496e039a1e
+SHA256: 454d0ae6ac472eb63fe7155050a2730e9229121b7d142a92449aaaeb23c09858
+Section: Tweaks
+Description: اداة وظيفتها : تتيح لك امكانية عمل ايقاف مؤقت و إستئناف اثناء تصوير الفيديو عن طريق الضغط بشكل مطول على علامة التسجيل
+Author: BekEs - بيكاس
+Name: RecordPause
+
+Package: com.bekes-505.github.io.recordpausrotles
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/RecordPauseRootless.deb
+Size: 12978
+MD5sum: 2d567d94d07084f7c6fbdec2a129422c
+SHA1: 1b03bff0a4fa2e920277cd5f536cefe403c666b8
+SHA256: bae3d42fb6b521f4b382a8c8818f7f616ab90ef5f875f5badbf5ff8237827407
+Section: Tweaks
+Description: اداة وظيفتها : تتيح لك امكانية عمل ايقاف مؤقت و إستئناف اثناء تصوير الفيديو عن طريق الضغط
+Author: BekEs - بيكاس
+Name: RecordPause Rootless
+
 Package: com.bekes-505.github.io.relicloader
 Version: 3.3.3
 Architecture: iphoneos-arm
@@ -2278,6 +2465,39 @@ Section: Tweaks
 Description: اداة وظيفتها : سناب بلس حفظ رفع فتح مميزات المدفوعه وتغير الموقع والكثير
 Author: BekEs - بيكاس
 Name: SnapSniper
+
+Package: com.bekes-505.github.io.sneakycam
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/SneakyCam.deb
+Size: 143226
+MD5sum: 051f0e2fedcb10bba4814be90410932c
+SHA1: b221ff64b94b2190b78dec600211b106deb33553
+SHA256: 5e0745616aaf8239820e99e385c42d882f785a483162df16ebbca9c8fb465f37
+Section: Tweaks
+Description: اداة وظيفتها : تصوير الخفي بدون علم الاشخاص ويمكن ان تشتغل في اي مكان في الجهاز صورة و فيديو ضغطتين على خفض الصوت يصور ضغطتين على رفع الصوت يصور فيديو حتى لو كانت الشاشه مغلق
+Author: BekEs - بيكاس
+Name: SneakyCam
+
+Package: com.bekes-505.github.io.spore
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 700
+Depends: mobilesubstrate (>= 0.9.5000), com.spark.libsparkapplist, ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.devvix.nicho1asdev.spore
+Filename: ./debs/Spore.deb
+Size: 227812
+MD5sum: 549ccb6cff910aeb91bdfd92ed1991df
+SHA1: 13df8c22fb2d6f84b17c991e6b911b3b8f76711d
+SHA256: 0c00c57911f969d3f947971096811dfd7b4989b9ad44d87647f9a492cebc22cc
+Section: Tweaks
+Description: ‫اداة وظيفتها : ‫ااخفاء التطبيقات من الشاشة الرئيسية و مركز بحث الايفون و سيري و ايضاً اخفائه من متجر التطبيقات‬ اسحب بإصبعك الثنين للداخل لاخفاء اي تطبيق‬‬
+Author: BekEs - بيكاس
+Name: Spore
 
 Package: com.bekes-505.github.io.springanimation
 Version: 1.1.2
@@ -2746,6 +2966,22 @@ Section: Tweaks
 Description: اداة وظيفتها : يوتيوب بلس لتحميل وحذف الاعلانات وتشغيل في الخلفية
 Author: BekEs - بيكاس
 Name: YouTube Reborn Rootless
+
+Package: com.bekes.firepo.me.ants
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 728
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/Ants.deb
+Size: 124590
+MD5sum: 2fadfd5961c326c165d68e736c239ed0
+SHA1: 0426121e82cc642f602b91ba36070106bb1317a1
+SHA256: 586ac6a30366199e6dc81ac059c06773546afe11e4c09612c9cc76b631efc182
+Section: Tweaks
+Description: اداة وظيفتها : تأثير حركي لنمل على الشاشة
+Author: BekEs - بيكاس
+Name: Ants
 
 Package: com.bekes.firepo.me.bhtiktokrootless
 Version: 2.3
