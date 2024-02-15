@@ -120,6 +120,21 @@ Author: BekEs - بيكاس
 Dev: yuosaf01
 Name: AddSource
 
+Package: com.bekes-505.github.io.addtofolder
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/AddToFolder.deb
+Size: 141148
+MD5sum: 1dc2f0c958d886d9528ea293614aef09
+SHA1: d53522531f6747610e18a5eff7ac755fdbd30100
+SHA256: 0a872ae4a5ca48a6401cc63bfd26a23688e761547e99deaf70ed60071503f872
+Section: Tweaks
+Description: اداة وظيفتها : يقوم بنقل التطبيق المحدد  الى اي مجلد تريده عن طريق اختيار اسم المجلد
+Author: BekEs - بيكاس
+Name: AddToFolder
+
 Package: com.bekes-505.github.io.afsound
 Version: 1.0-14
 Architecture: iphoneos-arm
