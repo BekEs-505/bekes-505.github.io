@@ -1837,6 +1837,22 @@ Description: اداة وظيفتها : تسمح لك من خلالها كتاب�
 Author: BekEs - بيكاس
 Name: MTerminal Rootless
 
+Package: com.bekes-505.github.io.notey
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1088
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis (>= 1.1), com.mrgcgamer.libgcuniversal
+Filename: ./debs/Notey.deb
+Size: 303550
+MD5sum: ad121574945149dee4f646efe1cc674a
+SHA1: e2e464f26d92180fafdbde2689e3af0997f4a41d
+SHA256: fe77321143cabe56d3509fcbd28d9a77991ba53bd95526a59ea487f87be15963
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك اختصار على شكل فنجان قهوة لكتابة ملاحظاتك بشكل سريع في اي مكان  في الجهاز هو بيكون تطبيق منفصل عن تطبيق ملاحظات ابل
+Author: BekEs - بيكاس
+Name: Notey
+
 Package: com.bekes-505.github.io.ohw2
 Version: 1.0.6
 Architecture: iphoneos-arm
