@@ -657,6 +657,22 @@ Description: اداة وظيفتها : تويتر بلس مميزاته تتيح
 Author: BekEs - بيكاس
 Name: BHTwitter Rootless
 
+Package: com.bekes-505.github.io.bigsurrootless
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1820
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
+Filename: ./debs/BigSurCenter.deb
+Size: 880350
+MD5sum: b6245974f378461df21b5fe5174289c7
+SHA1: 3b81c2d47dfd905fac6d4d78f4a4d0dc168d4778
+SHA256: 09f42c7f624869094963c5572794d98d472b54de3e0bdd773b1bc2616f4c9411
+Section: Tweaks
+Description: اداة وظيفتها : يستبدل مركز التحكم الافتراضي في ‏بمركز تحكم جديد وأنيق مستوحى من مركز التحكم الجديد في ماك بوك سور
+Author: BekEs - بيكاس
+Name: BigSurCenter Rootless
+
 Package: com.bekes-505.github.io.blockerads
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1669,6 +1685,39 @@ Section: Tweaks
 Description: اداة وظيفتها : تستغل المساحة الفارغة في اسفل لوحة المفاتيح بإضافة الاختصارات تحديد و لصق و نسخ للنص 
 Author: BekEs - بيكاس
 Name: KBPro
+
+Package: com.bekes-505.github.io.lastlookrootless
+Version: 3.6.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1365
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Filename: ./debs/LastLookRootless.deb
+Size: 501116
+MD5sum: f370bb54ee5b5b0e1dfac87f4f59d5bb
+SHA1: 6176e8642dc94c5ac0f4f1b1054bc5d2f7d93769
+SHA256: d446f28f718bb5886273de6eb98072e931721ef0763f037cd7117bb4572ed6b6
+Section: Tweaks
+Description: اداة وظيفتها : تعطيك ميزة عرض دائما ميزة تبقي الشاشة مضيئة بعد قفل الجهاز بنظام مثل نظام الاندرويد  لتتمكن من رؤية الاشعارات والوقت والتاريخ دون فتح القفل
+Tag: cydia::commercial, compatible_min::ios12.0
+Author: BekEs - بيكاس
+Name: LastLook Rootless
+
+Package: com.bekes-505.github.io.letmeknow
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/LetMeKnow.deb
+Size: 32564
+MD5sum: 32e1e254a13db1f6361e214b4edb1808
+SHA1: ff684cdcd708c2d49e7687c67f322ca948c950a4
+SHA256: a2e3820b4dcdf9e111a9bb9f2d07bf66151f7fdf3cb5e92acb8f6cd28eb5eaef
+Section: Tweaks
+Description: اداة وظيفتها : اذا اتصلت على اي احد ورد عليك تعطيك اهتزاز عشان انتبه للمكالمة، وبعد اذا انتهت المكالمة تعطيك اهتزاز
+Author: BekEs - بيكاس
+Name: LetMeKnow
 
 Package: com.bekes-505.github.io.little12
 Version: 1.0.1
