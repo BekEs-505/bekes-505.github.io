@@ -657,22 +657,6 @@ Description: اداة وظيفتها : تويتر بلس مميزاته تتيح
 Author: BekEs - بيكاس
 Name: BHTwitter Rootless
 
-Package: com.bekes-505.github.io.bigsurrootless
-Version: 1.4.4
-Architecture: iphoneos-arm64
-Maintainer: @B6_7E
-Installed-Size: 1820
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, ws.hbang.common (>= 1.17), ws.hbang.alderis (>= 1.2)
-Filename: ./debs/BigSurCenter.deb
-Size: 880350
-MD5sum: b6245974f378461df21b5fe5174289c7
-SHA1: 3b81c2d47dfd905fac6d4d78f4a4d0dc168d4778
-SHA256: 09f42c7f624869094963c5572794d98d472b54de3e0bdd773b1bc2616f4c9411
-Section: Tweaks
-Description: اداة وظيفتها : يستبدل مركز التحكم الافتراضي في ‏بمركز تحكم جديد وأنيق مستوحى من مركز التحكم الجديد في ماك بوك سور
-Author: BekEs - بيكاس
-Name: BigSurCenter Rootless
-
 Package: com.bekes-505.github.io.blockerads
 Version: 1.0
 Architecture: iphoneos-arm
