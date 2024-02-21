@@ -3031,6 +3031,38 @@ Description: اداة وظيفتها : يوتيوب بلس لتحميل وحذف
 Author: BekEs - بيكاس
 Name: YouTube Reborn Rootless
 
+Package: com.bekes-505.github.io.ytlite
+Version: 2.6.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs/YTLite.deb
+Size: 95800
+MD5sum: 7997953d20a89945912bbaff3ac945b4
+SHA1: ffbdd77fc6ed985b433e13a8ea3a9f5269e57c5f
+SHA256: 44c03fbfdfe696ec97fbff40bdf1b9ee3f821e6fbe0737b5829a02e41bdd6aa7
+Section: Tweaks
+Description: اداة وظيفتها : يوتيوب بلس حذف الاعلانات والتشغيل في الخلفيه ومميزات اخفاء وحفظ ونسخ
+Author: BekEs - بيكاس
+Name: YTLite
+
+Package: com.bekes-505.github.io.ytliterootless
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs/YTLiteRootless.deb
+Size: 95876
+MD5sum: 0819f45fba7c47293067ad146077f48d
+SHA1: 12f1f5d082cec8f9ba76e8066c6d08fce342443a
+SHA256: 355b1af3874710b6fc282e9aecfc445c4781adac44ac8e8e4b07e123adc3133c
+Section: Tweaks
+Description: اداة وظيفتها : يوتيوب بلس حذف الاعلانات والتشغيل في الخلفيه ومميزات اخفاء وحفظ ونسخ
+Author: BekEs - بيكاس
+Name: YTLite Rootless
+
 Package: com.bekes.firepo.me.ants
 Version: 1.0.4
 Architecture: iphoneos-arm
