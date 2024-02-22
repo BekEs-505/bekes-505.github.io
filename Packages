@@ -2108,10 +2108,11 @@ Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
 Conflicts: xyz.royalapps.realkeys
 Filename: ./debs/ProKeys.deb
-Size: 136004
-MD5sum: 1219fa98ffce2ed2914b38bb60b80407
-SHA1: bc2f2f62eabe97fbaeb7c7f825beeb156ba731d4
-SHA256: 7af6831878c8adc3b8c20c4de571b3f16ee3c4732538f3cb7e805bbed0d18b92
+Size: 136020
+MD5sum: 78444227190d65342a88895dbd07a726
+SHA1: bcba0c690c7d26cc3ef63f1954a5c7a239a5a5a6
+SHA256: 052cee91122c6128ddfd8a7f4531ffd2b524b2efa9cf322e3602f06835b5c0bc
+Section: Tweaks
 Description: اداة وظيفتها : اضافة الوان مختلفة للكيبورد و اضافة الوان عند الضغط على الحروف واشكال وانميشن لضغط
 Author: BekEs - بيكاس
 Name: ProKeys
@@ -2877,16 +2878,16 @@ Author: BekEs - بيكاس
 Name: Watusi 3 for WhatsApp Rootless
 
 Package: com.bekes-505.github.io.whatsapprevael
-Version: 10.21-0+debug
+Version: 10.22-1+debug
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/WhatsappRevael.deb
-Size: 1296922
-MD5sum: bf58d3adc3256f959331a109bea17b14
-SHA1: 92c6a85f30dc12993026be5cd2b729f04594d099
-SHA256: 32c6340bd34196d61f98fa9787278272e223783f7db50b2064197cd1297276aa
+Size: 1430752
+MD5sum: 525cf4dcca2c952db56fadda5bf2c1d1
+SHA1: 6ae611d6016a92057ecbab0adcd063d5b1dca5ed
+SHA256: a436bfa9a66e2567151d8d66fdd50cb256d390b44d5e31bbebe602cb3df645b4
 Section: Tweaks
 Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
@@ -2895,18 +2896,17 @@ Name: Whatsapp Revael
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.whatsapprotless
-Version: 10.21-0+debug
+Version: 10.22-1+debug
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/WhatsappRevaelRootless.deb
-Size: 1296986
-MD5sum: 48605dd20db5b9be18bef52931aea9f3
-SHA1: 2b4495fc0a664e47d3e12843c0aa401188f1bfa9
-SHA256: 7351d5f2bb9748364b7590beb21f9def7861cf885d1afd57a5346d522d7c1f41
+Size: 1430726
+MD5sum: f40f63889b4cd95f1639e5375f6efb2e
+SHA1: fde49c7d74d9f4e6ed2287bb8e36a32e04cb3c0f
+SHA256: 91fe5f2bddf3a16d81ddb3dd9931881683cc622085b43aa144fbd31b51b8b420
 Section: Tweaks
-Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
 Author: BekEs - بيكاس
 Name: Whatsapp Revael Rootless
