@@ -1088,6 +1088,23 @@ Tag: compatible_min::ios11.0
 Author: BekEs - بيكاس
 Name: Cylinder Reborn
 
+Package: com.bekes-505.github.io.cylinderootless
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1123
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader
+Filename: ./debs/CylinderRebornRootless.deb
+Size: 318652
+MD5sum: ef3860de78db4730232039de5f9de604
+SHA1: cc66deffa3626861c066ca20b4211edf6cd24c8b
+SHA256: 44f54629b0a309d813252bfec161355447123123d3231acc297f3a435d11f818
+Section: Tweaks
+Description: اداة وظيفتها : تغير طريقة حركة الايقونات عند التنقل بين الصفحات بحركات من اختيارك
+Tag: compatible_min::ios11.0
+Author: BekEs - بيكاس
+Name: Cylinder Reborn Rootless
+
 Package: com.bekes-505.github.io.deleteforeverxs
 Version: 1.1
 Architecture: iphoneos-arm
