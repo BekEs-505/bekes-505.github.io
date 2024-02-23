@@ -2224,6 +2224,25 @@ Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Author: BekEs - بيكاس
 Name: PerfectCalc
 
+Package: com.bekes-505.github.io.permasignerios
+Version: 0.2.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Pre-Depends: firmware (>= 14.0)
+Depends: firmware (>=14.0), dpkg, ldid , bash, plutil | com.bingner.plutil
+Filename: ./debs/PermaSigneriOS.deb
+Size: 4753084
+MD5sum: d0916099e7f730fd3e126ca6cd66d9a6
+SHA1: ccbd2621c4b879b1c3acdc2386e5f7f8de7ecde2
+SHA256: b475cce38535202078efbc9e58d746e6c4227187a4a0e32c651abccfff998fa3
+Section: Tweaks
+Description: اداة وظيفتها : توقيع التطبيقات وجعلها شغاله للابد بس لزم يكون عندك جلبريك وتوقعها وبعدها حتى لو طفى الجلبريك تكون شغاله
+Tag: role::enduser
+Author: BekEs - بيكاس
+Name: permasigneriOS
+Someotherentrytocontrol: True
+Tags: compatible_min::ios14.0, compatible_max::ios15.4.1
+
 Package: com.bekes-505.github.io.pfpviewer
 Version: 0.0.5
 Architecture: iphoneos-arm
@@ -3093,6 +3112,21 @@ Section: Tweaks
 Description: ادوات وظيفتها : توقيع التطبيقات بشهادة لا نهايه مدى الحياة
 Author: BekEs - بيكاس
 Name: TrollStore Helper
+
+Package: com.bekes-505.github.io.trollstorerotles
+Version: 2.0.9
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 4300
+Filename: ./debs/TrollStoreHelperRootless.deb
+Size: 2283896
+MD5sum: 97d836464f3103d633a8911847e969ab
+SHA1: 19bd178b4cbde7093ff8a8c1d5aa76efbbdbf6af
+SHA256: 4cf39e9f947975cc1689a92fd678076d35b641a31ae4790800563470b9087d50
+Section: Tweaks
+Description: ادوات وظيفتها : توقيع التطبيقات بشهادة لا نهايه مدى الحياة
+Author: BekEs - بيكاس
+Name: TrollStore Helper Rootless
 
 Package: com.bekes-505.github.io.tsssaver
 Version: 2.0.5-1
