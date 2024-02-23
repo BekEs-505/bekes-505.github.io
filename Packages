@@ -202,6 +202,22 @@ Description: اداة وظيفتها : جلب مميزات شاشة القفل �
 Author: BekEs - بيكاس
 Name: AIM Pro
 
+Package: com.bekes-505.github.io.akacia.ln
+Version: 1.0-475+debug
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 7096
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/Akacia.deb
+Size: 6593896
+MD5sum: e13e3dcce10a5c0ae919ad0a89fa744d
+SHA1: ea2289f00a30524a6d1378189ce79b111e14db89
+SHA256: 0f921d2b895884ce6b9e4eeb4d6518efecef1147e972d4ec8f3f3cc4397e6b9f
+Section: Tweaks
+Description: اداة وظيفتها : محاذاة التطبيقات في شاشة الرئسية والدوك والايقونات والسطور
+Author: BekEs - بيكاس
+Name: Akacia
+
 Package: com.bekes-505.github.io.amber
 Version: 1.2.0
 Architecture: iphoneos-arm
@@ -233,6 +249,22 @@ Section: Tweaks
 Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
 Author: PoomSmart
 Name: Amber Rootless
+
+Package: com.bekes-505.github.io.amonglock
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 23844
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/AmongLock.deb
+Size: 20770308
+MD5sum: 48ac9262dd946249b4cf9c44379bcab9
+SHA1: c238e21828464c00d233e87744079bd8b2353566
+SHA256: 76df3cc5ddba91475865610031cd30478d1065de45105ba964973f20cc394c7e
+Section: Tweaks
+Description: اداة وظيفتها : تغيير شكل شاشة رمز القفل الى شكل للعبة among (اللي تكتب رمز الجهاز فيها)
+Author: BekEs - بيكاس
+Name: AmongLock
 
 Package: com.bekes-505.github.io.anactuallygood
 Version: 0.1.0~beta1
@@ -527,6 +559,22 @@ Description: اداة وظيفتها : تحريك الصفحة بدون وضع �
 Author: BekEs - بيكاس
 Name: AutoScroll Rootless
 
+Package: com.bekes-505.github.io.avrora
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 740
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common(>= 1.14), firmware (>= 13.0), com.spark.libsparkapplist, com.peterdev.libpddokdo
+Filename: ./debs/Avrora.deb
+Size: 378388
+MD5sum: 596e0d3bf72d729486698a903a60c0c1
+SHA1: 6eb512c2b03e9733202859e2501a0622baf2dde7
+SHA256: a038ddf2ea631bf7df3d0d66a2f2fff119d496814f9100c1249144e21ed0ccdc
+Section: Tweaks
+Description: اداة وظيفتها : استبدال اسم تطبيق الطقس بدرجة الحرارة واستبدال اسم تطبيق الساعة بالوقت، واستبدال اسم التقويم باليوم
+Author: BekEs - بيكاس
+Name: Avrora
+
 Package: com.bekes-505.github.io.avtools
 Version: 1.2
 Architecture: iphoneos-arm
@@ -560,6 +608,22 @@ Section: Tweaks
 Description: اداة وظيفتها : جعل التطبيقات تعمل بالخلفية بدون ماتققفل حتى لو رحت تطبيقات ثانيه ترجع تحصل التطبيق شغال على اخر شي دخلت عليه
 Author: BekEs - بيكاس
 Name: BackRunner
+
+Package: com.bekes-505.github.io.ballet
+Version: 1.0-3+debug
+Architecture: appletvos-arm64
+Maintainer: @B6_7E
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Filename: ./debs/Ballet.deb
+Size: 264934
+MD5sum: 060bbc50cc6d2d8030a6f9a6a9854d7d
+SHA1: 9adf7e50a4b28b1ac6e4f41d88465279892da9a7
+SHA256: f5e5b2c98a0ff8269b1c4defc39b465f187419a025348a11b59eb258d46a0e5e
+Section: Tweaks
+Description: اداة وظيفتها : خلفيات خاصه فيك على ابل تي في
+Author: BekEs - بيكاس
+Name: Ballet
 
 Package: com.bekes-505.github.io.bfdecrypt
 Version: 1.3.3-1
@@ -674,6 +738,22 @@ Description: اداة وظيفتها : ازالة الاعلانات من تطب
 Author: BekEs - بيكاس
 Name: AdBlocker
 Sponsor: thebigboss.org
+
+Package: com.bekes-505.github.io.butterfly
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Filename: ./debs/Butterfly.deb
+Size: 365030
+MD5sum: 3188c12284f117c09220345fdbe4953c
+SHA1: cd039ae00cea8dd61aa4302246300153f779663f
+SHA256: f9e2ebcfc9bfc1f65d4949e96a93c620d1ef9375c55473c836f2efda24e9b6cd
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من تغيير لون المؤشر الخاص بالكتابة +التحكم بلون قائمة خيارات النسخ واللصق
+Author: BekEs - بيكاس
+Name: Butterfly
 
 Package: com.bekes-505.github.io.byehomebot
 Version: 1.3.6
@@ -862,6 +942,22 @@ Description: اداة وظيفتها : تعطيل ادوات من تطبيقات
 Author: BekEs - بيكاس
 Name: Choicy Rootless
 
+Package: com.bekes-505.github.io.copypasta
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 640
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.mrgcgamer.libgcuniversal, com.spark.libsparkapplist
+Filename: ./debs/Copypasta.deb
+Size: 257230
+MD5sum: b7454f58384fa021be70e5f416153bd7
+SHA1: 94f061946ac930c9b0105c7273c45b9ee36cac84
+SHA256: 83e04e85e2c5909b7b2506fe73d13e1a9d80b64595c6b9cf965cef7d6fb119e6
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من عمل نسخ متعدد للنصوص مع امكانية الرجوع إليها عند حاجتها بسحب الكيبور للاعلى ويظر لك ماتم نسخه
+Author: BekEs - بيكاس
+Name: Copypasta
+
 Package: com.bekes-505.github.io.crackerxi
 Version: 1.1.16
 Architecture: iphoneos-arm
@@ -941,6 +1037,22 @@ Description: اداة وظيفتها : فتح اكثر من حساب في تطب
 Author: BekEs - بيكاس
 Name: Crane rootless
 
+Package: com.bekes-505.github.io.crystal
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/Crystal.deb
+Size: 367914
+MD5sum: a304a869d5bdfdbc893910e489f78153
+SHA1: 204c1059ecfb7a6de09b621dfed8170729badbda
+SHA256: f99923275d5696733dbdcd7a6b5a0a099045fd11eb91a92c5a91f3976b7ee8ce
+Section: Tweaks
+Description: اداة وظيفتها : تمنحك تخصيصات مباشرة وتلقائية لسماعات الرأس
+Author: BekEs - بيكاس
+Name: Crystal
+
 Package: com.bekes-505.github.io.cvibrationrotles
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -992,6 +1104,23 @@ Description: اداة وظيفتها : تمنحك خيار جديد لحذف ا�
 Author: BekEs - بيكاس
 Name: DeleteForeverXS
 
+Package: com.bekes-505.github.io.diary
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 5800
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, com.trappledestek.libkitten
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures
+Filename: ./debs/Diary.deb
+Size: 3033510
+MD5sum: 32562e9480ef7e703ddb7b3a65ba50a2
+SHA1: 2d988bb465c66dbe6a84e5650b78cf6fde36fbed
+SHA256: 155aa6539a677f06534fe37e4f6346ebe46e88726ded762e148a669177ebde43
+Section: Tweaks
+Description: اداة وظيفتها : تغيير شكل شاشة القفل ‏و اضافة عين متحركة ورساله ترحيبية باسمك وجعل الساعه تحت بشكل جميل
+Author: BekEs - بيكاس
+Name: Diary
+
 Package: com.bekes-505.github.io.docksearch
 Version: 2.1.3
 Architecture: iphoneos-arm
@@ -1023,6 +1152,22 @@ Section: Tweaks
 Description: اداة وظيفتها : رسم في اي مكان عند تصوير الشاشة لي الشروحات
 Author: BekEs - بيكاس
 Name: Dr4w
+
+Package: com.bekes-505.github.io.dress
+Version: 2.5.10
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1048
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker
+Filename: ./debs/Dress.deb
+Size: 364426
+MD5sum: 8de3f52874e328c6f13730c33ddfa967
+SHA1: c662161bda9ea27f443ce64a4dea4a19c3ba2c19
+SHA256: 38b73f56289346c8b78bd47fc261569ef13873a8eb69a1eaedbd4cc6a019da64
+Section: Tweaks
+Description: اداة وظيفتها : مميزات عديدة لشاشة القفل تغير خط وحجم الساعه والتاريخ ومكانها، فيها اكثر من 50 ميزة
+Author: BekEs - بيكاس
+Name: Dress
 
 Package: com.bekes-505.github.io.edge
 Version: 3.0
@@ -1380,6 +1525,22 @@ Dev: eswick
 Name: Harbor 3
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.heartlines
+Version: 1.5.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1760
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0), com.trappledestek.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.mrgcgamer.libgcuniversal
+Filename: ./debs/Heartlines.deb
+Size: 1247508
+MD5sum: 79e9518a86d484d6a69d275e10c5f4cb
+SHA1: c95ce17f6e9bbf8fa79f8ec41999702255dd090b
+SHA256: 9460997a8e8236e025b1d3a5d1f15819f23f4850ca6ecee3a47ac8645deca680
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بتحديد مكان الساعة في شاشة القفل ومركز الاشعارات مع امكانية تغيير اللون واضافة بعض معلومات الطقس و التقويم
+Author: BekEs - بيكاس
+Name: Heartlines
+
 Package: com.bekes-505.github.io.honey
 Version: 2.0-2k
 Architecture: iphoneos-arm
@@ -1638,6 +1799,22 @@ Description: اداة وظيفتها : يودل بلس و نسخ ولصق و ر�
 Author: BekEs - بيكاس
 Name: Jodel EMPROVED Rootless
 
+Package: com.bekes-505.github.io.juin
+Version: 1.1-190+debug
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1568
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.rpetrich.rocketbootstrap
+Filename: ./debs/Juin.deb
+Size: 607170
+MD5sum: a65901d86f6f81255e748fc833fa9bde
+SHA1: 5b8b0dca6d3971e011b8d0dc65c8b0759a7cd70a
+SHA256: 156396ee78fea1a52f810ad68fb528722c2c8dbf493d5e92f365547ada639726
+Section: Tweaks
+Description: اداة وظيفتها ؛ تغيير شكل مشغل الموسيقى في شاشة القفل على شكل مستوحى وشبيهه بشكل تطبيق سبوتيفاي
+Author: BekEs - بيكاس
+Name: Juin
+
 Package: com.bekes-505.github.io.kayokorootless
 Version: 1.4.2
 Architecture: iphoneos-arm64
@@ -1669,6 +1846,22 @@ Section: Tweaks
 Description: اداة وظيفتها : تستغل المساحة الفارغة في اسفل لوحة المفاتيح بإضافة الاختصارات تحديد و لصق و نسخ للنص 
 Author: BekEs - بيكاس
 Name: KBPro
+
+Package: com.bekes-505.github.io.koi
+Version: 1.1.7-ok15
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1456
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), dev.traurige.libkitten (>= 1.4)
+Filename: ./debs/Koi.deb
+Size: 1071018
+MD5sum: eed04491ae484133f546158f31d8d673
+SHA1: baacd6d5c19a833220d8a80dc543e30ffa83fb9e
+SHA256: 920a832cececbe76f7b3931a52c5eeb9720ccfb3ce071475dd61bb0b6ac5f200
+Section: Tweaks
+Description: اداة وظيفتها : تغير لون ثري دي تاتش بنفس لون التطبيق
+Author: BekEs - بيكاس
+Name: Koi
 
 Package: com.bekes-505.github.io.lastlookrootless
 Version: 3.6.5
@@ -1703,6 +1896,38 @@ Description: اداة وظيفتها : اذا اتصلت على اي احد ور
 Author: BekEs - بيكاس
 Name: LetMeKnow
 
+Package: com.bekes-505.github.io.liddell
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1708
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.3), com.mrgcgamer.libgcuniversal
+Filename: ./debs/Liddell.deb
+Size: 1276014
+MD5sum: 025efb0657a260e8a424465f148e5b18
+SHA1: bfa218235d49df9770551b275364aad0a43d31da
+SHA256: b14598f4e56ea7aa6a5c3fd71e623f968cf93172c38f806c60124502582b0cda
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من التعديل على بانر اشعارات الرسائل و التحكم بلون الحواف وسمكها و التحكم بتلوين بانر الاشعار والمزيد
+Author: BekEs - بيكاس
+Name: Liddell
+
+Package: com.bekes-505.github.io.lisa
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 556
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/Lisa.deb
+Size: 139422
+MD5sum: dc362110d31d3443d9ae5e3273df00ea
+SHA1: 397dbd01c4dd756fb7aae38cbd78516453b86fa5
+SHA256: 79fdc1097bcc98c1f25198319ad98a8658c880c93ad2f6b107b546ffaf4fd84c
+Section: Tweaks
+Description: اداة وظيفتها : اظهار الوقت وترتيب وتخصيص اشعارات قفل الشاشة بشكل جميل وتوفير الطاقه اولد بمعنى لو وصل لك اشعار تكون الشاشة اضاتها خافته
+Author: BekEs - بيكاس
+Name: Lisa
+
 Package: com.bekes-505.github.io.little12
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1721,6 +1946,22 @@ Section: Tweaks
 Description: اداة ‏وظيفتها : تجلب لك ايمائات ايفون اكس الى باقي الاجهزة مثل شكل الكيبورد و الشاشة و شاشة القفل و الكنترول سنتر والكثير
 Author: BekEs - بيكاس
 Name: Little12
+
+Package: com.bekes-505.github.io.lobelias
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1052
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker, love.litten.libkitten (>= 1.1.1)
+Filename: ./debs/Lobelias.deb
+Size: 616046
+MD5sum: 0adcd1d90bbeec7121f0dc66cf3ee838
+SHA1: ab8a3e20e0c62c7c844c68f67796974a693243b2
+SHA256: 634ecea244f275eab8152dd450c0fe12c2dc3c1cb67df56b7755e214605414c2
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من تغير عرض مربع مشغل الموسيقى في شاشة الاشعارات او شاشة القفل مع امكانية التحكم باللون والجحم
+Author: BekEs - بيكاس
+Name: Lobelias
 
 Package: com.bekes-505.github.io.lockmaster
 Version: 1.2.0
@@ -1769,6 +2010,22 @@ Section: Tweaks
 Description: اداة وظيفتها : ضغطه مطولة على اي فيس ايموجي يرسله بشكل متكرر وبسرعه دون الحاجة للضغط المتكرر
 Author: BekEs - بيكاس
 Name: LongKeys
+
+Package: com.bekes-505.github.io.lune
+Version: 1.3.4-3+debug
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 720
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten (>= 1.1.1), com.spark.libsparkcolourpicker
+Filename: ./debs/Lune.deb
+Size: 304486
+MD5sum: 460d8984c0602e9648ae701f26e8c62a
+SHA1: ad78c03bc0b03e574c655e6c39ff7c845fd112f1
+SHA256: 907f4fab77105207027c425f4dc842f5e3b9aa9a562ffd3a63dfbcace801f911
+Section: Tweaks
+Description: اداة وظيفتها : شعار على شكل هلال في شاشة القفل ومركز الاشعارات عند تشغيل وضع عدم الازعاج
+Author: BekEs - بيكاس
+Name: Lune
 
 Package: com.bekes-505.github.io.lynx
 Version: 1.9.7.1
@@ -1869,6 +2126,22 @@ Section: Tweaks
 Description: اداة وظيفتها : تسمح لك من خلالها كتابة وادخال الاوامر وتنفيذها وحل معظم مشاكل الجهاز والجلبريك في جهازك
 Author: BekEs - بيكاس
 Name: MTerminal Rootless
+
+Package: com.bekes-505.github.io.nita
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1312
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
+Filename: ./debs/Nita.deb
+Size: 927092
+MD5sum: af77e70f6e3bd03d1ec13ab099ec8e01
+SHA1: 5e6902730fc16842717350a9de514161545405cd
+SHA256: 1abfd6c3918935ef33f1a1dee200713b636eda66e2e8ffba122e30798f3c44cd
+Section: Tweaks
+Description: اداة وظيفتها : استبدال اسم مشغل الشريحة باموجي حالة الطقس
+Author: BekEs - بيكاس
+Name: Nita
 
 Package: com.bekes-505.github.io.notey
 Version: 0.0.3
@@ -2133,6 +2406,22 @@ Description: اداة وظيفتها : تغيير شكل مركز التحكم �
 Author: BekEs - بيكاس
 Name: Prysm
 
+Package: com.bekes-505.github.io.puck
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2688
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./debs/Puck.deb
+Size: 1825814
+MD5sum: 09a0e22acc2599889228dd9c0ff916ed
+SHA1: cb145f2689fdf0a93dc7393ce873e69247644cab
+SHA256: 98e2de3fe829d2c77ce060d4845c75d8e9acce898fac8e81c3743fb1900a4c0d
+Section: Tweaks
+Description: اداة وظيفتها : ايقاف موقت بوقت محدد قبل ان تفرغ البطارية لتفادي اغلاق الجهاز ووضع الطاقه المنخفضه العميق لمنع الحاجه لاعادة تفعيل الجلبريك
+Author: BekEs - بيكاس
+Name: Puck
+
 Package: com.bekes-505.github.io.recordpause
 Version: 1.4.0
 Architecture: iphoneos-arm
@@ -2235,6 +2524,38 @@ Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
 Author: BekEs - بيكاس
 Name: Rocket for Instagram
+
+Package: com.bekes-505.github.io.rose
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2668
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/Rose.deb
+Size: 563694
+MD5sum: 67c414200256ceb57b78528d4a762f74
+SHA1: d2352ec8212ceea1e0c868b0b91dbb2ff84b9800
+SHA256: d9da3e9d03673be26d78835c8186dcfa539f7d8ed71ec72fdfc89eda166220f2
+Section: Tweaks
+Description: اداة وظيفتها : لنظام تغير الصوت واهتزاز عند اعادة التشغيل واغلاق الجهاز واغلاق التطبيقات الخلفية والكثير من التعديلات والاضافات للنظام والتعديل عليه
+Author: BekEs - بيكاس
+Name: Rose
+
+Package: com.bekes-505.github.io.safariwallpaper
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, love.litten.libkitten
+Filename: ./debs/SafariWallpaper.deb
+Size: 253028
+MD5sum: ba91ddc7aac55fdcf8cce15e3ce27c3a
+SHA1: fbd9bfbf3f4c9e10878b1d475635f1e581d3f4d2
+SHA256: 0c6d588aaeaae541fd9b4c27e6725f703560ebdb6f57d90e6abddf3d21ac4155
+Section: Tweaks
+Description: اداة وظيفتها : تتيح لك امكانية تعين صوره خلفية لمتصفح سفاري واختيار اي صوره لديك ووضعها
+Author: BekEs - بيكاس
+Name: SafariWallpaper
 
 Package: com.bekes-505.github.io.satella
 Version: 1.8.1
@@ -2843,6 +3164,22 @@ Dev: teunstrik
 Name: Userscript Manager
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.violet
+Version: 1.6-4+debug
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1416
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/Violet.deb
+Size: 424000
+MD5sum: 13d09161aef85462eeabd7a772d2f5c0
+SHA1: 53e021c1c26224d7598e28cc5cbca3f602c35a3d
+SHA256: af946574ace2e8b9087891eb67c91741a9861e32787498149f30aff69d081eac
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من عرض صورة الاغنية في مركز التحكم و شاشة القفل و الشاشة الرئيسية مع امكانية التحكم بها
+Author: BekEs - بيكاس
+Name: Violet
+
 Package: com.bekes-505.github.io.watusi3
 Version: 1.2.14
 Architecture: iphoneos-arm
@@ -3059,6 +3396,22 @@ Section: Tweaks
 Description: اداة وظيفتها : يوتيوب بلس حذف الاعلانات والتشغيل في الخلفيه ومميزات اخفاء وحفظ ونسخ
 Author: BekEs - بيكاس
 Name: YTLite Rootless
+
+Package: com.bekes-505.github.io.yuna
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 5280
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.peterdev.libpddokdo, com.mrgcgamer.libgcuniversal
+Filename: ./debs/Yuna.deb
+Size: 3544562
+MD5sum: ae9f645be289e4283e70bd5a80d2a42a
+SHA1: 44cf87be8d6610c91f820d8ad10e65c7ef44ddcd
+SHA256: 4669c57688b0a3f43609a9b8c53635eef29c635a0b67e83801a33ab7c11978e2
+Section: Tweaks
+Description: اداة وظيفتها : امكانية اضافة الطقس والملاحظات في مركز التحكم للوصول السريع لها للايباد
+Author: BekEs - بيكاس
+Name: Yuna
 
 Package: com.bekes.firepo.me.ants
 Version: 1.0.4
