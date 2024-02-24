@@ -1105,6 +1105,38 @@ Tag: compatible_min::ios11.0
 Author: BekEs - بيكاس
 Name: Cylinder Reborn Rootless
 
+Package: com.bekes-505.github.io.debstealer
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 8
+Depends: firmware (>= 11.0)
+Filename: ./debs/DebStealer.deb
+Size: 1022
+MD5sum: e0418f4ff3603a20cb87f4d6b51e0b8b
+SHA1: db701c07b35f35d653ad627ab880a824c3c3c43c
+SHA256: 70b00e21cad36ceeed6f1abca3774d06fd77dd918aaffdde20854fe05dd21696
+Section: Tweaks
+Description: اداة وظيفتها : تحفظ الادوات المثبتة في فيلزا بصيغة ديب
+Author: BekEs - بيكاس
+Name: DebStealer
+
+Package: com.bekes-505.github.io.debstealerootles
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 8
+Depends: firmware (>= 11.0)
+Filename: ./debs/DebStealerRootless.deb
+Size: 1040
+MD5sum: db29f7ec5ba23f111369f1b98dbeb913
+SHA1: ed347731808e8ef220207be90babb3e2097d0c7b
+SHA256: fc495401e570a6483d5ff49e5f005dc3ab6a3285a8e5ac21e13453a5faf777a8
+Section: Tweaks
+Description: اداة وظيفتها : تحفظ الادوات المثبتة في فيلزا بصيغة ديب
+Author: BekEs - بيكاس
+Name: DebStealer Rootless
+
 Package: com.bekes-505.github.io.deleteforeverxs
 Version: 1.1
 Architecture: iphoneos-arm
@@ -2091,6 +2123,22 @@ Section: Tweaks
 Description: اداة وظيفتها : لعرض الاشعارات بشكل حلو عن طريقة اضافة جرس جنب ايقونة البطاريه
 Author: BekEs - بيكاس
 Name: Minotaur
+
+Package: com.bekes-505.github.io.morecomplica
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: ./debs/MoreComplicationsRootless.deb
+Size: 62510
+MD5sum: 2803acbce0d36f906f106765ad9ada3a
+SHA1: f00fd871dc232ce97a5ef809cfde6e1a599f3fff
+SHA256: fb778471298a34dcde1f3656d49d4e831209f5d39e30f251a4ad8932cde86ddb
+Section: Tweaks
+Description: اداة وظيفتها : تضيف سطرين زيادة للويدجت في شاشة القفل
+Author: BekEs - بيكاس
+Name: MoreComplications Rootless
 
 Package: com.bekes-505.github.io.morelinesnoti
 Version: 1.0.4
@@ -3127,6 +3175,22 @@ Section: Tweaks
 Description: ادوات وظيفتها : توقيع التطبيقات بشهادة لا نهايه مدى الحياة
 Author: BekEs - بيكاس
 Name: TrollStore Helper Rootless
+
+Package: com.bekes-505.github.io.trustevaluator
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 136
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/TrustEvaluatorRootless.deb
+Size: 4332
+MD5sum: 7ded46e2ff62b7bbd56e3ace82914008
+SHA1: 8423937419f1c3db7ad069bd8ba30bd416b173d1
+SHA256: 6c4b9f2ca6c4af0fd3ae6f3ec24a09b8209ef5b3424832bd0dc228e2045539b5
+Section: Tweaks
+Description: اداة وظيفتها : تثبيت ملفات التعريف المنتهية صلاحيتها
+Author: BekEs - بيكاس
+Name: TrustEvaluator Rootless
 
 Package: com.bekes-505.github.io.tsssaver
 Version: 2.0.5-1
