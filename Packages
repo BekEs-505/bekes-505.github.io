@@ -1822,11 +1822,11 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs/JodelEmproved.deb
-Size: 47458
-MD5sum: b2d0d3011f27e8c4997050c7a44ccf97
-SHA1: a4afdac83fa8aee38298c33b725f48ca08ef5559
-SHA256: dcd56c98865eb9b6baf1e1af3ef293c97837a829d2fca23c5307f1c66437f4c5
+Filename: ./debs/JodelEMPROVED.deb
+Size: 47456
+MD5sum: 7b301067fef8cba503cc4f004e64b085
+SHA1: 30df60dd368ee5aeea1a8172b0470f2f5dd576e5
+SHA256: f69b7499cd618c4b2605fc124fc279db877d8ed25b7342c55902173409aec953
 Section: Tweaks
 Description: اداة وظيفتها : يودل بلس و نسخ ولصق و رفع وتحميل الصور و تغيير الموقع و التخفي عند تصوير الشاشة
 Author: BekEs - بيكاس
@@ -1838,11 +1838,11 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs/JodelEmprovedRootless.deb
-Size: 47544
-MD5sum: a7fdb3b80bb4f62bfa8a48db9a11c7c8
-SHA1: a92e476df745fb03c01200a829113a2d0ecf7c78
-SHA256: cf9a8bb380929ebcbc0d098ea76fb3f772c73743c0078fe3de78a3bbb1f11d6f
+Filename: ./debs/JodelEMPROVEDRootless.deb
+Size: 47542
+MD5sum: 3825058318923528e7897e609b74b1c5
+SHA1: 284309d213d859e7de9b2a73b512935ccee2695a
+SHA256: efde82e85e0b1c7a44eb7c9e23feaf94bfeebaa513952ff47327c8f992f08c1a
 Section: Tweaks
 Description: اداة وظيفتها : يودل بلس و نسخ ولصق و رفع وتحميل الصور و تغيير الموقع و التخفي عند تصوير الشاشة
 Author: BekEs - بيكاس
