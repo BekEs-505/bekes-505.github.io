@@ -1240,30 +1240,30 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 400
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.eneko
 Filename: ./debs/Eneko.deb
-Size: 156132
-MD5sum: 131941f4ef16bbf4257e0a8cbaf12cfe
-SHA1: b3780d6892e3be81d2624d2f0b6e850fa073658b
-SHA256: 8e37b446b0ec000966bf032b535673d3105da9eea3fb8369fb0aaecb46135878
+Size: 51202
+MD5sum: 715846b1a663724cd3d1abb0552c5354
+SHA1: 66b261afc68997cfc9fbd076aa4c0607ad3b8850
+SHA256: 99a806df5b5d5fc688290556b3887b27ba03d1823d9d241a67c4bd57392dace2
 Section: Tweaks
 Description: اداة وظيفتها: تعيين مقطع فيديو كخلفية للشاشة القفل والشاشة الرئيسية ومركز التحكم
 Author: BekEs - بيكاس
 Name: Eneko
 
-Package: com.bekes-505.github.io.enekorootless
+Package: com.bekes-505.github.io.enekoRootless
 Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 400
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.eneko
 Filename: ./debs/EnekoRootless.deb
-Size: 120824
-MD5sum: a7537622c00a33208b29454800a853bb
-SHA1: a552434cb31fc5c503151bb120ac347f7577c904
-SHA256: c4bf674830d6fe2dc3b7c664c54dd1a822c7710a5b9869bb11fdeec9c464b06b
+Size: 48846
+MD5sum: 235c8b15f7620698235600a061438e37
+SHA1: 2ea3cdf242c7991025680e0b8b88559b6154ce77
+SHA256: 7cc401d87db3fa76dd141eabd3593b556cb58b1a946be9ef115b1ddb56cc31c5
 Section: Tweaks
 Description: اداة وظيفتها: تعيين مقطع فيديو كخلفية للشاشة القفل والشاشة الرئيسية ومركز التحكم
 Author: BekEs - بيكاس
