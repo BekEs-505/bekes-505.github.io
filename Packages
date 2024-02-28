@@ -2376,6 +2376,25 @@ Dev: ikghd
 Name: PMP
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.pmprootless
+Version: 1.9
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 792
+Depends: mobilesubstrate, firmware(>= 15.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Filename: ./debs/PMPRootless.deb
+Size: 122666
+MD5sum: 910b29ff0c982cf6d8296c190c62589e
+SHA1: 1b98e297101b37cda39653b1fa6ea1568f876832
+SHA256: f1fcee8d37aaef655dfa595ec46208b660c89df27a16b3ac46744e8c4c717799
+Section: Tweaks
+Description: اداة وظيفتها : اخفاء جميع الصور في جميع الالبومات الي عندك في تطبيق الصور
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios17.8
+Author: BekEs - بيكاس
+Name: PMP Rootless
+
 Package: com.bekes-505.github.io.powerrootless
 Version: 1.4.0
 Architecture: iphoneos-arm64
@@ -2505,6 +2524,42 @@ Section: Tweaks
 Description: اداة وظيفتها : ايقاف موقت بوقت محدد قبل ان تفرغ البطارية لتفادي اغلاق الجهاز ووضع الطاقه المنخفضه العميق لمنع الحاجه لاعادة تفعيل الجلبريك
 Author: BekEs - بيكاس
 Name: Puck
+
+Package: com.bekes-505.github.io.reachplayer
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/ReachPlayer.deb
+Size: 152140
+MD5sum: 3df9dce17b5c7033f7163a67ed82fc0a
+SHA1: 66b75c306e685187676f4394d3b1ddb51fa40a62
+SHA256: a78c6407f73a3db5b23e77a934bb4b8e38b260ff3cccaf35a255cd9fff56c155
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك مشغل الموسيقى في الشاشة الفراغ في الاعلى تشغيل الاداة السحب اسفل زر الهوم ستجد ان الشاشة ظهرت و تحصل مشغل الموسيقى
+Tag: role::enduser
+Author: BekEs - بيكاس
+Name: ReachPlayer
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+
+Package: com.bekes-505.github.io.reachplayerotles
+Version: 2.6
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/ReachPlayerRootless.deb
+Size: 152316
+MD5sum: 078418d1aedd04874da753598a30d5f1
+SHA1: 2383ecf5708b3436b32e66302d3b66fa53b5d08a
+SHA256: 02a4adc589a1ca324d6d7037fe558044699c94396e981b88ec3cb8c9d5d99cc8
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك مشغل الموسيقى في الشاشة الفراغ في الاعلى تشغيل الاداة السحب اسفل زر الهوم ستجد ان الشاشة ظهرت و تحصل مشغل الموسيقى
+Tag: role::enduser
+Author: BekEs - بيكاس
+Name: ReachPlayer Rootless
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
 
 Package: com.bekes-505.github.io.recordpause
 Version: 1.4.0
