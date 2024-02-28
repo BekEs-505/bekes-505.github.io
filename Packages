@@ -1919,13 +1919,12 @@ Maintainer: @B6_7E
 Installed-Size: 1365
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
 Filename: ./debs/LastLookRootless.deb
-Size: 501116
-MD5sum: f370bb54ee5b5b0e1dfac87f4f59d5bb
-SHA1: 6176e8642dc94c5ac0f4f1b1054bc5d2f7d93769
-SHA256: d446f28f718bb5886273de6eb98072e931721ef0763f037cd7117bb4572ed6b6
+Size: 501098
+MD5sum: 948824d9abb5b7b3ffd779ba9b67a131
+SHA1: 9dc64b445969f18f5064851a330892ef917c3e89
+SHA256: 37a64f110c6012a632ff40ff143a39d7f80fb4ef3d88240f413fbdf230b44a3f
 Section: Tweaks
 Description: اداة وظيفتها : تعطيك ميزة عرض دائما ميزة تبقي الشاشة مضيئة بعد قفل الجهاز بنظام مثل نظام الاندرويد  لتتمكن من رؤية الاشعارات والوقت والتاريخ دون فتح القفل
-Tag: cydia::commercial, compatible_min::ios12.0
 Author: BekEs - بيكاس
 Name: LastLook Rootless
 
