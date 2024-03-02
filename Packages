@@ -3200,6 +3200,21 @@ Description: اداة وظيفتها : ترجمة النصوص الى اي لغ�
 Author: BekEs - بيكاس
 Name: Tranzlo Old
 
+Package: com.bekes-505.github.io.trollpadRootles
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/TrollPadRootless.deb
+Size: 9636
+MD5sum: eb952b370185ab387afcd28fe34c907d
+SHA1: bf4bf96ee6be50d20b8ae3eb5496a1d8cc16c341
+SHA256: fa4a2945fdc0a27bab9594d7c0abf99f715d85e9d4bce850f16a397477cdfe44
+Section: Tweaks
+Description: اداة وظيفتها : انعكاس شاشة الايفون على شاشة ايفون اخر او لاب توب او ماك بوك
+Author: BekEs - بيكاس
+Name: TrollPad Rootless
+
 Package: com.bekes-505.github.io.trollstorehelper
 Version: 2.0.9
 Architecture: iphoneos-arm
@@ -3463,6 +3478,26 @@ Section: Tweaks
 Description: اداة وظيفتها : رفع الصور والفيديو من الالبوم توافق حتى اخر اصدار سناب شات والاصدارات السابقة وحفظ فيديو من محادثة الخاص وحفظ الصور من الخاص
 Author: BekEs - بيكاس
 Name: WikPlus Rootless
+
+Package: com.bekes-505.github.io.wolf
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 12212
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debs/Wolf.deb
+Size: 3959248
+MD5sum: cd9f331ab6a2af8e3cb57558850fc564
+SHA1: f8343c302619106fab59db6bdde6cbeafdf46d72
+SHA256: 0bf07f8f45cb5c095c5f93f03916de8d97d586eb717d2927fc85d08ec59c8b60
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : فيسبوك بلس حفظ الفيديو والصور ومنع الاعلانات تعطيل انك شفت الخاص تعطيل معرفة انك تكتب، تعطيل انك ما شفت الاستوري، تعطيل التقدم التلقائي في الاستوري
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lema
+Name: Wolf
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.xinamine
 Version: 0.0.5
