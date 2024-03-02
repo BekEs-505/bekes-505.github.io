@@ -3206,12 +3206,12 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Filename: ./debs/TrollPadRootless.deb
-Size: 9636
-MD5sum: eb952b370185ab387afcd28fe34c907d
-SHA1: bf4bf96ee6be50d20b8ae3eb5496a1d8cc16c341
-SHA256: fa4a2945fdc0a27bab9594d7c0abf99f715d85e9d4bce850f16a397477cdfe44
+Size: 9714
+MD5sum: 98c924663f26a275c54e63c6be8d47f0
+SHA1: 516e62ee7e880cfead3166072ac55ab110eac139
+SHA256: 547be502301fce65f3da8e15451ee305b8d4caba5536f663daad43021d1b1f41
 Section: Tweaks
-Description: اداة وظيفتها : انعكاس شاشة الايفون على شاشة ايفون اخر او لاب توب او ماك بوك
+Description: اداة ‏وظيفتها : تجلب لك ايمائات ايفون اكس الى باقي الاجهزة مثل شكل الكيبورد و الشاشة و شاشة  القفل و الكنترول سنتر والكثير
 Author: BekEs - بيكاس
 Name: TrollPad Rootless
 
