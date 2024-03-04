@@ -3072,6 +3072,24 @@ Description: اداة وظيفتها : عبارة عن صفحة نوت صغير�
 Author: BekEs - بيكاس
 Name: StickyNote
 
+Package: com.bekes-505.github.io.substiarootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Filename: ./debs/SubstiaRootless.deb
+Size: 17994
+MD5sum: d0b065a758696fca47c9affb85e668c0
+SHA1: 31907e4c0b6a0b5f3bd75cd90baf7a7ecf2c5847
+SHA256: bc9ae738a7ce8d2ba75cfe00c3827e962301d03bdd08be29646921cdbe1e98cc
+Section: Tweaks
+Description: اداة وظيفتها :  تسمح لك بتعيين استبدال النصوص حدد النص الذي تريده ثم اختار الخيار في قايمة الاختصارات ثم قم بإنشاء اختصارك الخاص
+Tag: role::enduser
+Author: BekEs - بيكاس
+Name: Substia Rootless
+Someotherentrytocontrol: True
+Sponsor: SGWC <southerngirlwhocode@gmail.com>
+Tags: compatible_min::ios15.0, compatible_max::ios15.4.1
+
 Package: com.bekes-505.github.io.swipeextenderx
 Version: 1.6.1
 Architecture: iphoneos-arm
@@ -3364,6 +3382,54 @@ Description: اداة وظيفتها : تمكنك من عرض صورة الاغ�
 Author: BekEs - بيكاس
 Name: Violet
 
+Package: com.bekes-505.github.io.watched
+Version: 1.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/Watched.deb
+Size: 8902
+MD5sum: 0240edbf364a70a01559c9a9d0c76e80
+SHA1: 563fda1e58e6fd22f11ab664c382b9ae5e0a43c8
+SHA256: 75876f35307f040fc9acd538822bff48aca1876dc9c8156c8edb2c16e0430955
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بأقتران الساعة مع جهازك دون الحاجة لتحديثة او حذف الجلبريك تدعم اخر تحديث من الساعة
+Author: BekEs - بيكاس
+Name: Watched
+
+Package: com.bekes-505.github.io.watchedroothide
+Version: 1.1-10+debug
+Architecture: iphoneos-arm64e
+Maintainer: @B6_7E
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/WatchedRootHide.deb
+Size: 8932
+MD5sum: cf7bf0cdd94ca898a0654c709fa91f59
+SHA1: 9636951c241cd2dc91112d4465854a7b7df2332d
+SHA256: 0a2177afbfd6f0653b90a1bee41a783322350a3b6d1f0be832013887ad2317a3
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بأقتران الساعة مع جهازك دون الحاجة لتحديثة او حذف الجلبريك تدعم اخر تحديث من الساعة
+Author: BekEs - بيكاس
+Name: Watched RootHide
+
+Package: com.bekes-505.github.io.watchedrootless
+Version: 1.1-9+debug
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/WatchedRootless.deb
+Size: 8982
+MD5sum: c3cd4a19dc9f88da290944a27c16ab11
+SHA1: c4336aefcd432358f0735437e2b356b2c7ace53d
+SHA256: b2a18954a8a5ec5855c34693956d8993474d43f13caf6c532c1ad785a9627db1
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بأقتران الساعة مع جهازك دون الحاجة لتحديثة او حذف الجلبريك تدعم اخر تحديث من الساعة
+Author: BekEs - بيكاس
+Name: Watched Rootless
+
 Package: com.bekes-505.github.io.watusi3
 Version: 1.2.14
 Architecture: iphoneos-arm
@@ -3616,6 +3682,21 @@ Section: Tweaks
 Description: اداة وظيفتها : امكانية اضافة الطقس والملاحظات في مركز التحكم للوصول السريع لها للايباد
 Author: BekEs - بيكاس
 Name: Yuna
+
+Package: com.bekes-505.github.io.zomiglerootless
+Version: 0.1.0-beta1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>= 14.0)
+Filename: ./debs/ZomigleRootless.deb
+Size: 21016
+MD5sum: 1808e0723964543bfa5965795fcb0fe0
+SHA1: c947b473e5b165389b9d08c153d1a5d5717ea0a4
+SHA256: 2ecd2f7cc55f7ad357a053fba172a972289f9a282e15cba2353ef3e1bc2be017
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بأقتران ساعة ابل على اصدار جهازك دون الحاجة لتحديثة
+Author: BekEs - بيكاس
+Name: Zomigle Rootless
 
 Package: com.bekes.firepo.me.ants
 Version: 1.0.4
