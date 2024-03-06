@@ -2554,6 +2554,39 @@ Description: اداة وظيفتها : ايقاف موقت بوقت محدد ق�
 Author: BekEs - بيكاس
 Name: Puck
 
+Package: com.bekes-505.github.io.pulloverootless
+Version: 2.1.5-3
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 2440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/PullOverProRootless.deb
+Size: 974708
+MD5sum: 4176e6fc2f407cac01c2ff59f4067e94
+SHA1: fca673ad515b6d492e6d1666a3d0633bc1c2d533
+SHA256: 9a9f1f50bc231b1d233ff91168e329b0639344644fa402201a89b29a41669784
+Section: Tweaks
+Description: اداة وظيفتها : تخصيص تطبيقات يتم فتحها على الشاشة على شكل نوافذ بطريقة أنيقة
+Author: BekEs - بيكاس
+Name: PullOver Pro Rootless
+
+Package: com.bekes-505.github.io.pulloverpro
+Version: 2.1.4-1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/PullOverPro.deb
+Size: 495628
+MD5sum: c39e151371b2faf9be2a671e1cc7535f
+SHA1: 5274366b3761a8dd435814e3d947f31ace73bd43
+SHA256: 92ddf6b79d0ad7e72299afff401c5121317ee28aa6f17d3ab4c4c66d632002eb
+Section: Tweaks
+Description: اداة وظيفتها : تخصيص تطبيقات يتم فتحها على الشاشة على شكل نوافذ بطريقة أنيقة
+Author: BekEs - بيكاس
+Name: PullOver Pro
+
 Package: com.bekes-505.github.io.reachplayer
 Version: 2.6
 Architecture: iphoneos-arm
