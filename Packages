@@ -330,6 +330,40 @@ Author: BekEs - بيكاس
 Name: Anne
 Tags: compatible_min::ios13, compatible_max::ios15
 
+Package: com.bekes-505.github.io.answermachinex
+Version: 2.0-17
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2464
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158) ,  firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: ./debs/AnsweringMachineXS.deb
+Size: 751492
+MD5sum: 38b22a4d1932ea0f702e9cf1e3d06635
+SHA1: b380847dd69e431950ee8791e6c19783e7750daa
+SHA256: d0bdab5679603e9b067a4fd7007598a9d446009c65cfcee68d8382835c3ed1ec
+Section: Tweaks
+Description: اداة وظيفتها : الرد الآلي على المكالمات مع تخصيص رسالة صوتية بصوتك او بصوت آلي
+Author: BekEs - بيكاس
+Name: AnsweringMachine XS
+
+Package: com.bekes-505.github.io.answermachinexrotles
+Version: 2.0-2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 2464
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158) ,  firmware (>= 11.0)
+Conflicts: net.limneos.audiorecorder (<= 1.7-4)
+Filename: ./debs/AnsweringMachineXSRootless.deb
+Size: 750674
+MD5sum: ae584290b6e08a1310169c969ce94a63
+SHA1: 750826eed6c12e5fe0af32ba6135853438b6bef4
+SHA256: e3d0b64e407103e3de6a6461b6a0b5ff955c536d784a6d1e8bdd7a8d4896ce96
+Section: Tweaks
+Description: اداة وظيفتها : الرد الآلي على المكالمات مع تخصيص رسالة صوتية بصوتك او بصوت آلي
+Author: BekEs - بيكاس
+Name: AnsweringMachine XS Rootless
+
 Package: com.bekes-505.github.io.appaze2
 Version: 1.4.1k
 Architecture: iphoneos-arm
@@ -529,6 +563,44 @@ Tag: compatible_min::ios13.0
 Author: BekEs - بيكاس
 Name: Atria Rootless
 
+Package: com.bekes-505.github.io.audiorecorderxs
+Version: 5.0-17
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 5960
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/AudioRecorderXS.deb
+Size: 1862424
+MD5sum: d12868db27a6ecdf9e8f15197d1e7410
+SHA1: e1d10fc7d7c4638fdbc3b38dbb70d8de7fd31918
+SHA256: 275dce65b92ee0fbf149ba8657119a6f9ebca1af88e4df91aec796f685535ecb
+Section: Tweaks
+Description: اداة وظيفتها : تسجيل المكالمات اثناء الاتصال مع امكانية حفظ التسجيل او حذفه والمزيد من المميزات
+Author: BekEs - بيكاس
+Mainlibmd5: 2bd89895e747af47790b0eb2f6bac296
+Name: AudioRecorder XS
+
+Package: com.bekes-505.github.io.audiorecordrotles
+Version: 5.0-37
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 6072
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/AudioRecorderXSRootless.deb
+Size: 1851118
+MD5sum: a857fd6e21bda19228bc952e35413424
+SHA1: ca8294006d339fb0b2ca0713b8e537c63d736ac3
+SHA256: 18fe208dc637c01c9f8b02636f03b53fdbeb6443dceac672c8ef1b188d140888
+Section: Tweaks
+Description: اداة وظيفتها : تسجيل المكالمات اثناء الاتصال مع امكانية حفظ التسجيل او حذفه والمزيد من المميزات
+Author: BekEs - بيكاس
+Mainlibmd5: 2bd89895e747af47790b0eb2f6bac296
+Name: AudioRecorder XS Rootless
+
 Package: com.bekes-505.github.io.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -720,6 +792,42 @@ Section: Tweaks
 Description: اداة وظيفتها : تويتر بلس مميزاته تتيح لك امكانية تحميل الفيديوهات من التغريدة حتى لو كان الحساب برايفت و فتح ميزة التغريد بالتسجيل الصوتي لتويتر في الخاص والعام
 Author: BekEs - بيكاس
 Name: BHTwitter Rootless
+
+Package: com.bekes-505.github.io.bioprotectrotles
+Version: 4.6-35
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 2232
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/BioProtectRootless.deb
+Size: 794598
+MD5sum: 4c1d39a4d90f5b8554c084a7b0e43448
+SHA1: 08f38ea85bb55eecf67fd29150d49e7007ee7947
+SHA256: 17b65f8cd438a28a2c53710bc55181ce7fb9a5c058cd6d45699be7e95f05ccab
+Section: Tweaks
+Description: اداة وظيفتها : قفل التطبيقات والمجلدات وكل شي في النظام برمز ولا بالبصمه ولا بفيس ايدي
+Author: BekEs - بيكاس
+Mainlibmd5: 7bdaf787e1c074a02a711ece6529702b
+Name: BioProtect Rootless
+
+Package: com.bekes-505.github.io.bioprotectxs
+Version: 4.6-229
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 2232
+Depends: mobilesubstrate, preferenceloader
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/BioProtect.deb
+Size: 794160
+MD5sum: 0e40d458212f3e6f018be0f3dc0c979d
+SHA1: 9c928aa448bcdcae255b54cd170ef2caf58d703b
+SHA256: 1d5b3298af819089aa17fb0e87def8900a511dcf7e6aa4bd4201971418c183c8
+Section: Tweaks
+Description: اداة وظيفتها : قفل التطبيقات والمجلدات وكل شي في النظام برمز ولا بالبصمه ولا بفيس ايدي
+Author: BekEs - بيكاس
+Mainlibmd5: 33e4b2505823c57820011dd632700bb2
+Name: BioProtect
 
 Package: com.bekes-505.github.io.blockerads
 Version: 1.0
@@ -3444,6 +3552,42 @@ Section: Tweaks
 Description: اداة وظيفتها : تمكنك من عرض صورة الاغنية في مركز التحكم و شاشة القفل و الشاشة الرئيسية مع امكانية التحكم بها
 Author: BekEs - بيكاس
 Name: Violet
+
+Package: com.bekes-505.github.io.voicechangerotles
+Version: 2.4-3
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1420
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/VoiceChangerXSRootless.deb
+Size: 448050
+MD5sum: ca75f571ed48c64efc7e5034ab1d5675
+SHA1: abb1178ee11ec8475c609b3c29e455b96090abae
+SHA256: fb1d7b95b75d5c8f68867ecaf6a453f621303dc39c9664892ba13d97368b5bdd
+Section: Tweaks
+Description: اداة وظيفتها : تغيير صوتك أثناء المكالمة، وفي مواقع التواصل الاجتماعي و على منصات البث المباشر
+Author: BekEs - بيكاس
+Mainlibmd5: 8131809d9825837c841f8f54015f50b4
+Name: VoiceChanger XS Rootless
+
+Package: com.bekes-505.github.io.voicechangerx
+Version: 2.4-10
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1420
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/VoiceChangerXS.deb
+Size: 449788
+MD5sum: 1b50190e227305a36aa91773832826e8
+SHA1: 3a2c2b2693af8af0b9a494888654b0580f9f1095
+SHA256: f1a5b0c377d9cd086b8b711672a70d68b4752670671f66c4691b41e8cd449521
+Section: Tweaks
+Description: اداة وظيفتها : تغيير صوتك أثناء المكالمة، وفي مواقع التواصل الاجتماعي و على منصات البث
+Author: BekEs - بيكاس
+Mainlibmd5: 95b043ad4be47413b25c80f465cb2c32
+Name: VoiceChanger XS
 
 Package: com.bekes-505.github.io.watched
 Version: 1.1-8+debug
