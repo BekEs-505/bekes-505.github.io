@@ -1356,6 +1356,40 @@ Description: اداة وظيفتها : مميزات عديدة لشاشة الق
 Author: BekEs - بيكاس
 Name: Dress
 
+Package: com.bekes-505.github.io.dynamicpeninsula
+Version: 0.6-80
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0)
+Filename: ./debs/DynamicPeninsula.deb
+Size: 514610
+MD5sum: 0e8a9381fa8b58fd7840f01cf0e3646e
+SHA1: a2e1657aaf2bcb349bfd89787df2c31a595f21f8
+SHA256: 11ec0145fd30c6a6c1e790a83b886c4adca3c5b6283a0539eb9cb336784ec995
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك الجزيرة الخاصة بأجهزة ايفون 14 و 14 برو ماكس الى اجهزة اقل من جهاز ايفون اكس و ستعطيك الاداه عدة ميزات مثل البطارية والاتصال والشحن والموسيقى والكثير
+Author: BekEs - بيكاس
+Mainlibmd5: 2c6b794b51a7e5fcced0329b7dfb7150
+Name: DynamicPeninsula
+
+Package: com.bekes-505.github.io.dynamicpeninsularotles
+Version: 0.6-25
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1684
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0)
+Filename: ./debs/DynamicPeninsulaRootless.deb
+Size: 455020
+MD5sum: 62ce5a3e28aa90acfc60daec1a39d5fb
+SHA1: e5278f2b022ec212fd08595ae98bd473f6594fee
+SHA256: 7952b82bd795271f9546381dcfc1352e2f4e63251c572089c215d1213abbe236
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك الجزيرة الخاصة بأجهزة ايفون 14 و 14 برو ماكس الى اجهزة اقل من جهاز ايفون اكس و ستعطيك الاداه عدة ميزات مثل البطارية والاتصال والشحن والموسيقى والكثير
+Author: BekEs - بيكاس
+Mainlibmd5: 12fb8ae6a7b6448240b69c068e6b49d0
+Name: DynamicPeninsula Rootless
+
 Package: com.bekes-505.github.io.edge
 Version: 3.0
 Architecture: iphoneos-arm
@@ -2097,6 +2131,38 @@ Section: Tweaks
 Description: اداة وظيفتها : تمكنك من التعديل على بانر اشعارات الرسائل و التحكم بلون الحواف وسمكها و التحكم بتلوين بانر الاشعار والمزيد
 Author: BekEs - بيكاس
 Name: Liddell
+
+Package: com.bekes-505.github.io.limneos
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/LimneosCrack.deb
+Size: 7800
+MD5sum: 99f109bbc8fa762149f128afb8ebb162
+SHA1: 01d075b95010b828b52841c67538e43cec9d6060
+SHA256: f746138a101c63b913034bd218527a384a9652bd5ae90129c48df0d6d5e8ce00
+Section: Tweaks
+Description: اداة وظيفتها : تكريك ادوات تسجيل المكالمات والرد آلي وتغير الصوت وقفل التطبيقات وترجمة المكالمات
+Author: BekEs - بيكاس
+Name: Limneos Crack
+
+Package: com.bekes-505.github.io.limneosrootless
+Version: 3.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/LimneosCrackRootless.deb
+Size: 7932
+MD5sum: 9af2e19f19dbbbc835f53e2a2baab08b
+SHA1: a99058b05dd27c69875215df98d132f110d8fd09
+SHA256: c237ea769323ac5f40fe195d5ba630ee18fe3b61a93d8a0e437c442fefba4a3a
+Section: Tweaks
+Description: اداة وظيفتها : تكريك ادوات تسجيل المكالمات والرد آلي وتغير الصوت وقفل التطبيقات وترجمة المكالمات
+Author: BekEs - بيكاس
+Name: Limneos Crack Rootless
 
 Package: com.bekes-505.github.io.lisa
 Version: 1.4.1
@@ -4085,4 +4151,70 @@ Section: Tweaks
 Description: اداة وظيفتها : سناب بلس حفظ ورفع وتخفي في الدردشة وتغير الموقع
 Author: BekEs - بيكاس
 Name: wicked
+
+Package: net.limneos.libbulletin
+Version: 0.1-177
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 332
+Depends: mobilesubstrate
+Filename: ./debs/libbulletin.deb
+Size: 61140
+MD5sum: 7d60f99edd86c7e223f8439c4b2e5263
+SHA1: ea0972f94c94ea2d6b167743cfd107a8ea0aa27d
+SHA256: 7f5c1986061fdfc94644fc34b9d498f91ed0f130ac6a5254c584a0ea7147b054
+Section: Tweaks
+Description: Simple library that displays bulletins
+Author: BekEs - بيكاس
+Name: Z.libbulletin
+
+Package: net.limneos.libbulletin
+Version: 0.1-178
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/libbulletinRootless.deb
+Size: 57428
+MD5sum: 8057add76e7f8aa5d1bfd80af36aefc7
+SHA1: af971dd2e85ba7d23a98c302d3ad81c5003bdcf2
+SHA256: 209ddfa3e0f81f1ce147580a22acf170963d252cdfb65c45b4eb85aa9bd52062
+Section: Tweaks
+Description: Simple library that displays bulletins
+Author: BekEs - بيكاس
+Name: Z.libbulletin Rootless
+
+Package: net.limneos.simpleactivationactions
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/SimpleActivationActions.deb
+Size: 9424
+MD5sum: 2fd64b88944b8b35a379e3935c6b1706
+SHA1: 2970f10d052f17f2020e5b7e295e5a57df309a38
+SHA256: a7d15705088180aac5b95d3590ad48e3ec6d47c1ade243fd17a329ca7c363aa6
+Section: Tweaks
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Author: BekEs - بيكاس
+Name: Z.SimpleActivationActions
+
+Package: net.limneos.simpleactivationactions-rootless
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/SimpleActivationActionsRootless.deb
+Size: 10678
+MD5sum: 164bff0e68f202e1e0aa857bc8925519
+SHA1: 62ffb8355ee2e8ce82f72886e013c65994705413
+SHA256: d058eefd980176ba811ad8ab0b9402c4b5b70da9db16b2dda7eb1696126c21b1
+Section: Tweaks
+Description: Simple Activation Actions
+ Handles StatusBar actions for simple activation events
+Author: BekEs - بيكاس
+Name: Z.SimpleActivationActions Rootless
 
