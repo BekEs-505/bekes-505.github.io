@@ -1659,6 +1659,40 @@ Description: اداة وظيفتها : تحط اي صوره متحركه وتخ�
 Author: BekEs - بيكاس
 Name: Gif2Ani V2
 
+Package: com.bekes-505.github.io.glow
+Version: 0.6-3
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1008
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Filename: ./debs/Glow.deb
+Size: 345692
+MD5sum: 8802cb89c1da8ca3395ff59885b8efe1
+SHA1: e97fffa96b8eeb729ba283aee9ab3842596e9736
+SHA256: 841b46800b24602db130b64d836bebc69ceb739faa084750ac76207273d7f200
+Section: Tweaks
+Description: اداة وظيفتها : ‏تجلب لك ميزة الموجوده في نظام للاندرويد وهي ماتسمى بشاشة الخمول او التوقف ‏وتمنحك عدة تخصيصات لشاشة التوقف
+Author: BekEs - بيكاس
+Mainlibmd5: eec893f277d30c0773d1665287ed967e
+Name: Glow
+
+Package: com.bekes-505.github.io.glowrootless
+Version: 0.6-12
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1008
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
+Filename: ./debs/GlowRootless.deb
+Size: 345844
+MD5sum: 9c46c0692b2589049cd4da576ea24672
+SHA1: 43884eae13b3ed79388ce971ce73518b61413bb3
+SHA256: e502ef354764d0adb61b0e9ded767b9d820661bc1ef0d96de4c9681868aed62b
+Section: Tweaks
+Description: اداة وظيفتها : ‏تجلب لك ميزة الموجوده في نظام للاندرويد وهي ماتسمى بشاشة الخمول او التوقف ‏وتمنحك عدة تخصيصات لشاشة التوقف
+Author: BekEs - بيكاس
+Mainlibmd5: e3ff8fe0c7435fb119f47b6b046a2c96
+Name: Glow Rootless
+
 Package: com.bekes-505.github.io.gravitation
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -2198,6 +2232,40 @@ Section: Tweaks
 Description: اداة ‏وظيفتها : تجلب لك ايمائات ايفون اكس الى باقي الاجهزة مثل شكل الكيبورد و الشاشة و شاشة القفل و الكنترول سنتر والكثير
 Author: BekEs - بيكاس
 Name: Little12
+
+Package: com.bekes-505.github.io.livecallrootless
+Version: 0.1-61
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1816
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.pulandres.limneosos, ru.rejail.limneosos
+Filename: ./debs/LiveCallTranslatorRootless.deb
+Size: 493948
+MD5sum: 3bc9b2cffa5598d365cecdf0c2c787b7
+SHA1: af16261c7bb14721dc1cbaf9d2605309cac8dc5a
+SHA256: 55da8ed68a225d31ceabb947f014d031f1e89d0844892ed63c931dcec3a7424e
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بترجمة صوتك اثناء المكالمة يعني انت تختار ترجمة اثناء المكالمة وتتكلم عربي والاداه تترجم للشخص الاخر الكلام باللغة الي انت حددتها و يجب ان تكون مشغل التصحيح الاملائي
+Author: BekEs - بيكاس
+Name: Live Call Translator Rootless
+
+Package: com.bekes-505.github.io.livecalltranslator
+Version: 0.1-41
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 1696
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.pulandres.limneosos, ru.rejail.limneosos
+Filename: ./debs/LiveCallTranslator.deb
+Size: 531650
+MD5sum: 3bd6fc63ffe383b621a18ef17448d6db
+SHA1: fdcd3b05e19907300a081d4748c3f110145ee8ed
+SHA256: 45c2f588241f88a2a123480e50374cc41b7d4e22d4823da17119a760302ed764
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بترجمة صوتك اثناء المكالمة يعني انت تختار ترجمة اثناء المكالمة وتتكلم عربي والاداه تترجم للشخص الاخر الكلام باللغة الي انت حددتها و يجب ان تكون مشغل التصحيح الاملائي
+Author: BekEs - بيكاس
+Name: Live Call Translator
 
 Package: com.bekes-505.github.io.lobelias
 Version: 1.3
