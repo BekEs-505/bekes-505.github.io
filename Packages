@@ -4137,6 +4137,41 @@ Description: اداة وظيفتها : اخفاء الاعلانات و تحمي
 Author: BekEs - بيكاس
 Name: BHTikTok Plus Rootless
 
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 960
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debs/libcscolorpicker.deb
+Size: 306696
+MD5sum: 25ab7c0e7bf1cf06947ec59d43b9c2bb
+SHA1: e04d45d909396579167d136ea859e25a98fde684
+SHA256: 0b5f8d177b9f8ab24507c48c3bf3f00f7a568d0adb7823c3c1ff98195718ec11
+Section: Tweaks
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Author: BekEs - بيكاس
+Name: Z.libCSColorPicker
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>= 15.0), xyz.cypwn.xinam1ne
+Conflicts: com.creaturesurvive.libcscolorpicker
+Replaces: com.creaturesurvive.libcscolorpicker
+Provides: com.creaturesurvive.libcscolorpicker (= 1.0.6)
+Filename: ./debs/libcscolorpickerRootless.deb
+Size: 306820
+MD5sum: 02985c6fad9d675c7e57fec4ed96dc9f
+SHA1: 8bd2ce57092baa75ac012dd44e299437ff102ac1
+SHA256: 03c255bdec9b0ed7bff70f2605ca01c22a372d9140375da945dcaeac3140f2c0
+Section: Tweaks
+Description: A minimal color picker library for developers
+Author: BekEs - بيكاس
+Name: Z.libCSColorPicker
+
 Package: com.f0u4d.watusitools
 Version: 2.4.18
 Architecture: iphoneos-arm
