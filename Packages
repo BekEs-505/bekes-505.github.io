@@ -2934,6 +2934,38 @@ Author: BekEs - بيكاس
 Dev: Matt Clarke
 Name: ReProvision Reborn
 
+Package: com.bekes-505.github.io.rgboard
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 680
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/RGBoard.deb
+Size: 324730
+MD5sum: 8493d90198f6dcba705af552c3c036a9
+SHA1: 3e792c165d307028aa3503bf8e6a0a759a7daf25
+SHA256: 7bfb5bf11aa989be3c2bd95c91774002f81f30bddd4b41fbdae27c2a4955fb0f
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك اللوان ار جي بي  للكيبورد ووتغير تلقائي وكذالك تمكنك من تلوين الكيبورد ب أي لون تريده
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.6
+Author: BekEs - بيكاس
+Name: RGBoard
+
+Package: com.bekes-505.github.io.rgboardrootless
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/RGBoardRootless.deb
+Size: 326700
+MD5sum: d591622f2ce27f37166df5887ee8ce68
+SHA1: 7dc6eb1be9aa07117132574152dd55575fabed4b
+SHA256: e1c4d10cf7d25aec8a1a701720afe5b2ef9460592c67c2e0b166ac0e7052fd77
+Section: Tweaks
+Description: اداة وظيفتها : تضيف لك اللوان ار جي بي  للكيبورد ووتغير تلقائي وكذالك تمكنك من تلوين الكيبورد ب أي لون تريده
+Author: BekEs - بيكاس
+Name: RGBoard Rootless
+
 Package: com.bekes-505.github.io.rocket
 Version: 3.8.22
 Architecture: iphoneos-arm
@@ -4023,6 +4055,40 @@ Section: Tweaks
 Description: اداة وظيفتها : امكانية اضافة الطقس والملاحظات في مركز التحكم للوصول السريع لها للايباد
 Author: BekEs - بيكاس
 Name: Yuna
+
+Package: com.bekes-505.github.io.zetsu
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 10996
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/Zetsu.deb
+Size: 9989810
+MD5sum: abdba6060158c52e0d99724c89700b83
+SHA1: f7b40f65c10e476a233f520493bcaf7b8f08150d
+SHA256: 4dcadfb32dfa4f0c0784852af0023da341cb74bd1a8e2ab7a10c2f5345997e10
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من فتح اكثر من تطبيق على شكل نوافذ مع امكانية تصفحهم في وقت واحد
+Tag: compatible_min::ios15.0
+Author: BekEs - بيكاس
+Name: Zetsu
+
+Package: com.bekes-505.github.io.zetsurootless
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 11004
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/ZetsuRootless.deb
+Size: 9990186
+MD5sum: 6650a377e7af61240926ebd2f7abf152
+SHA1: b53b81573373cc0fd26f2079cbb4d26959b7969b
+SHA256: 02184b694ee67941f38be8ba55d72afa6a24fc7515c98edda8f6782165f104f4
+Section: Tweaks
+Description: اداة وظيفتها : تمكنك من فتح اكثر من تطبيق على شكل نوافذ مع امكانية تصفحهم في وقت واحد
+Tag: compatible_min::ios15.0
+Author: BekEs - بيكاس
+Name: Zetsu Rootless
 
 Package: com.bekes-505.github.io.zomiglerootless
 Version: 0.1.0-beta1
