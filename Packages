@@ -1278,6 +1278,38 @@ Description: اداة وظيفتها : تغيير شكل شاشة القفل ‏
 Author: BekEs - بيكاس
 Name: Diary
 
+Package: com.bekes-505.github.io.disablepastetips
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 168
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/DisablePasteTips.deb
+Size: 4726
+MD5sum: 30afab61c1d65795becee22ef53fd663
+SHA1: 1072ec61cd05bc92dd7b7be6283df25be7e54b8d
+SHA256: 429cc2efcbec83bff384fef8fd19403b27f5c02ca9a347fbe43f6494226c43b8
+Section: Tweaks
+Description: اداة وظيفتها : الغاء خاصية إشعار لافتات النسخ للنصوص تعمل بدون اعدادات
+Author: BekEs - بيكاس
+Name: DisablePasteTips
+
+Package: com.bekes-505.github.io.disablepastetipsrotles
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/DisablePasteTipsRootless.deb
+Size: 4672
+MD5sum: 67e5005c16382d0dba51b4a2951b50d6
+SHA1: 0660aad4f15a7a8b27f3cef6a1cb67adda78718d
+SHA256: 7c8ad24cc591ee6006f734b16a68438d92f25cd69d8452345a90ecfc6307f38e
+Section: Tweaks
+Description: اداة وظيفتها : الغاء خاصية إشعار لافتات النسخ للنصوص تعمل بدون اعدادات
+Author: BekEs - بيكاس
+Name: DisablePasteTips Rootless
+
 Package: com.bekes-505.github.io.dleasy
 Version: 2.14.4k
 Architecture: iphoneos-arm
@@ -2283,6 +2315,36 @@ Description: اداة وظيفتها : تمكنك من تغير عرض مربع 
 Author: BekEs - بيكاس
 Name: Lobelias
 
+Package: com.bekes-505.github.io.lockdroid
+Version: 0.0~beta8
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/LockDroid.deb
+Size: 203966
+MD5sum: 4894e306bda96241bbae365af20c059d
+SHA1: ae0a01c123c66a6270b44326211dc9dea952662b
+SHA256: 866b6759de7106a1a91d211ba2b0ae7a2f87721106829b36486de63ec25c30ae
+Section: Tweaks
+Description: اداة وظيفتها : جلب نمط قفل شاشة الاندرويد للايفون
+Author: BekEs - بيكاس
+Name: LockDroid
+
+Package: com.bekes-505.github.io.lockdroidrootles
+Version: 0.0~beta8
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: ./debs/LockDroidRootless.deb
+Size: 88492
+MD5sum: caa5ffec005d9ea5f5acdfacf232d0c4
+SHA1: e2f59fdf8b18ea4442e96d3e61581fe8e5d67829
+SHA256: fd1c5b16079c48efa2cd9df166be410cd52cc67491628e58f712baaa9471891b
+Section: Tweaks
+Description: اداة وظيفتها : جلب نمط قفل شاشة الاندرويد للايفون
+Author: BekEs - بيكاس
+Name: LockDroid Rootless
+
 Package: com.bekes-505.github.io.lockmaster
 Version: 1.2.0
 Architecture: iphoneos-arm
@@ -2942,9 +3004,9 @@ Installed-Size: 680
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
 Filename: ./debs/RGBoard.deb
 Size: 324730
-MD5sum: 8493d90198f6dcba705af552c3c036a9
-SHA1: 3e792c165d307028aa3503bf8e6a0a759a7daf25
-SHA256: 7bfb5bf11aa989be3c2bd95c91774002f81f30bddd4b41fbdae27c2a4955fb0f
+MD5sum: aceeb740c0d6ee66a7ef50fbce8e6210
+SHA1: 848f03c0f25e7b5fbb0740c97852f95a68a63893
+SHA256: 3144d99c025179abf7560d49298fb3d09253f5ceb48394bc56919303fcc867dc
 Section: Tweaks
 Description: اداة وظيفتها : تضيف لك اللوان ار جي بي  للكيبورد ووتغير تلقائي وكذالك تمكنك من تلوين الكيبورد ب أي لون تريده
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.6
@@ -2955,12 +3017,12 @@ Package: com.bekes-505.github.io.rgboardrootless
 Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debs/RGBoardRootless.deb
-Size: 326700
-MD5sum: d591622f2ce27f37166df5887ee8ce68
-SHA1: 7dc6eb1be9aa07117132574152dd55575fabed4b
-SHA256: e1c4d10cf7d25aec8a1a701720afe5b2ef9460592c67c2e0b166ac0e7052fd77
+Size: 633000
+MD5sum: ada8718003f30fdfbb02f8e38a9c72a6
+SHA1: b7e993fc66ddc3f4d03a0600fec909961e25e168
+SHA256: f3222cf0601f87cd703f1d10de82c9a308f5521da39a6bbe7d32bc34b236ccec
 Section: Tweaks
 Description: اداة وظيفتها : تضيف لك اللوان ار جي بي  للكيبورد ووتغير تلقائي وكذالك تمكنك من تلوين الكيبورد ب أي لون تريده
 Author: BekEs - بيكاس
@@ -4137,6 +4199,23 @@ Description: اداة وظيفتها : اخفاء الاعلانات و تحمي
 Author: BekEs - بيكاس
 Name: BHTikTok Plus Rootless
 
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 960
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debs/libcscolorpicker.deb
+Size: 306696
+MD5sum: 25ab7c0e7bf1cf06947ec59d43b9c2bb
+SHA1: e04d45d909396579167d136ea859e25a98fde684
+SHA256: 0b5f8d177b9f8ab24507c48c3bf3f00f7a568d0adb7823c3c1ff98195718ec11
+Section: Tweaks
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Author: BekEs - بيكاس
+Name: Z.libCSColorPicker
+
 Package: com.f0u4d.watusitools
 Version: 2.4.18
 Architecture: iphoneos-arm
@@ -4352,23 +4431,22 @@ Description: Simple Activation Actions
 Author: BekEs - بيكاس
 Name: Z.SimpleActivationActions Rootless
 
-Package: xyz.cypwn.libcscolorpicker
-Version: 1.0.6
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9.1
 Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>= 15.0), xyz.cypwn.xinam1ne
-Conflicts: com.creaturesurvive.libcscolorpicker
-Replaces: com.creaturesurvive.libcscolorpicker
-Provides: com.creaturesurvive.libcscolorpicker (= 1.0.6)
-Filename: ./debs/xyz.cypwn.libcscolorpicker_1.0.6_iphoneos-arm.deb
-Size: 306826
-MD5sum: 1a03b104ab506149ac2f028447f0182f
-SHA1: 0672263634bd3513dcaa83807d18bd8e5ae94f8a
-SHA256: 719673b3bb1e545052c03bb8339cedbd97f2acb3cafff0b70e652e43a9c5088d
+Maintainer: @B6_7E
+Installed-Size: 392
+Depends: firmware (>= 6.0)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: ./debs/libcolorpicker.deb
+Size: 112616
+MD5sum: 17cbc2a3376366becec4aa77077b254a
+SHA1: 765b09d981fa6b1f8a98a01801ece852df07d3b8
+SHA256: 8ef89b29149bebf56c4bee15bf807498eb55b45fce3271682629c46ed77f78dc
 Section: System
-Description: A minimal color picker library for developers
-Author: CreatureSurvive
-Depiction: https://repo.cypwn.xyz/depiction/1874
-Name: libCSColorPicker
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1874
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: BekEs - بيكاس
+Name: Z.libcolorpicker (Unofficial)
 
