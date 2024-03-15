@@ -969,6 +969,38 @@ Description: اداة وظيفتها : تمكن عرض شاشة جهازك عل�
 Author: BekEs - بيكاس
 Name: CarBridge Rootless
 
+Package: com.bekes-505.github.io.cardculator
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 920
+Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
+Filename: ./debs/Cardculator.deb
+Size: 223960
+MD5sum: b424f2c7b737ee39188a8ebf8d12e7fc
+SHA1: 0eb79d617f3e8092252234b1036c7b56581a62ea
+SHA256: 84918f23990e2e2ef96d56ae1ee4f566fb3ecbeac5ba4144b51f5f0fea3d5771
+Section: Tweaks
+Description: اداة وظيفتها : اضافة اختصار في مركز التحكم يفتح لك آله حاسبة مصغره دون الحاجه الى فتح التطبيق الخاص بالحاسبه
+Author: BekEs - بيكاس
+Name: Cardculator
+
+Package: com.bekes-505.github.io.cardculatorrootless
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 920
+Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
+Filename: ./debs/CardculatorRootless.deb
+Size: 223056
+MD5sum: 5c1451ef405801d491e77950a285b958
+SHA1: cdb07ee1be1c27976a660bba8f60bce4d7dd39d1
+SHA256: 01797e4e140e3d6c617202a9ce1a9e679a91601eda80bb28ca932de145509c80
+Section: Tweaks
+Description: اداة وظيفتها : اضافة اختصار في مركز التحكم يفتح لك آله حاسبة مصغره دون الحاجه الى فتح التطبيق الخاص بالحاسبه
+Author: BekEs - بيكاس
+Name: Cardculator Rootless
+
 Package: com.bekes-505.github.io.ccvibration
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -3029,16 +3061,16 @@ Author: BekEs - بيكاس
 Name: RGBoard Rootless
 
 Package: com.bekes-505.github.io.rocket
-Version: 3.8.22
+Version: 3.8.24
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagram.deb
-Size: 2289530
-MD5sum: 085ecf5c89aa777891ab6b15d527acca
-SHA1: 6fbe70a8fb2518195b6f7a11c23617c7321c7321
-SHA256: c4f40ed0d097154e75f517e76750f1ea174474c118b75e92db781a2ca24c5d6c
+Size: 2290778
+MD5sum: c81d15e56bb3e6d969a62d17ae57ef07
+SHA1: 474b1d9f38ddada81c8a1bbd951eaa37c7c1845e
+SHA256: b9aac4e4933dcbd50f3adefb49363e52e73ec4bff0021257d675cf5e7ae000e7
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -3046,16 +3078,16 @@ Author: BekEs - بيكاس
 Name: Rocket for Instagram
 
 Package: com.bekes-505.github.io.rocketrootless
-Version: 3.8.22
+Version: 3.8.24
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/RocketforInstagramRootless.deb
-Size: 2289840
-MD5sum: 2ae9f6ce3f45013dcc199fe7fad28edc
-SHA1: 969bf833a4fcd184485233feb2c108e2088ab693
-SHA256: 30a5e078f9777aa6bb67b5594dec77162a610cc389ca87a5c55c32b4370255c2
+Size: 2291664
+MD5sum: ea4cb87183176cc14c18afce06634a07
+SHA1: 7baad1af5c8e599d5bbecf9e2cfc29738219c2c2
+SHA256: 86affa2a7bd2538e6c2a09074e25886920ec9180114fcb4915687735915f218d
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -3401,6 +3433,24 @@ Section: Tweaks
 Description: اداة وظيفتها : تصوير الخفي بدون علم الاشخاص ويمكن ان تشتغل في اي مكان في الجهاز صورة و فيديو ضغطتين على خفض الصوت يصور ضغطتين على رفع الصوت يصور فيديو حتى لو كانت الشاشه مغلق
 Author: BekEs - بيكاس
 Name: SneakyCam
+
+Package: com.bekes-505.github.io.sneakycarotless
+Version: 2.0.7.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.bekes-505.github.io.sneakycam
+Filename: ./debs/SneakyCamRootless.deb
+Size: 138456
+MD5sum: 3ef6fa86163a530a300f202c8001bdf5
+SHA1: 9dd3deae87be85112f3b6561c31d46e4c6cb69af
+SHA256: db5b79dd25189b31c76cdc3f841632511e153798be620f11b69f475e2a423b9c
+Section: Tweaks
+Description: اداة وظيفتها : تصوير الخفي بدون علم الاشخاص ويمكن ان تشتغل في اي مكان في الجهاز صورة و فيديو ضغطتين على خفض الصوت يصور ضغطتين على رفع الصوت يصور فيديو حتى لو كانت الشاشه مغلق
+Author: BekEs - بيكاس
+Name: SneakyCam Rootless
+Sponsor: BekEs - بيكاس
 
 Package: com.bekes-505.github.io.spore
 Version: 1.0.2
@@ -3924,11 +3974,12 @@ Maintainer: @B6_7E
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/WhatsappRevaelRootless.deb
-Size: 1430726
-MD5sum: f40f63889b4cd95f1639e5375f6efb2e
-SHA1: fde49c7d74d9f4e6ed2287bb8e36a32e04cb3c0f
-SHA256: 91fe5f2bddf3a16d81ddb3dd9931881683cc622085b43aa144fbd31b51b8b420
+Size: 1430894
+MD5sum: edc4b8108ba1b87c84339d34d03018a7
+SHA1: be6afec61eb72a24c07d1dc22c2f2e8045bafd5f
+SHA256: b15a65ca5b5f287b94742f72e032c9b411e218009f66256e4e6af59c52a89929
 Section: Tweaks
+Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
 Author: BekEs - بيكاس
 Name: Whatsapp Revael Rootless
@@ -3951,34 +4002,36 @@ Author: BekEs - بيكاس
 Name: wicked Old
 
 Package: com.bekes-505.github.io.wikplus
-Version: 12.0.1
+Version: 12.77.0.42-1+debug
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate
 Filename: ./debs/WikPlus.deb
-Size: 175326
-MD5sum: 4bf6cf9e94d80df9408e5b5f416b7978
-SHA1: dbdbc691810b2c8411a8396dc5a13f3491659ff0
-SHA256: 105bb3fe7beb7393036dd39098363272c28dda81c1c5c6e1f19d1516854408c2
+Size: 358106
+MD5sum: 6ecbc69efd857b8a15e97d36a86024b0
+SHA1: 37f86b52e1d28654ee26ea06bf564f985b513526
+SHA256: c8028ddb38ce2f2add42776b7c96089159c33671843b02f484d34ff4c8853d2a
 Section: Tweaks
 Description: اداة وظيفتها : رفع الصور والفيديو من الالبوم توافق حتى اخر اصدار سناب شات والاصدارات السابقة وحفظ فيديو من محادثة الخاص وحفظ الصور من الخاص
 Author: BekEs - بيكاس
 Name: WikPlus
+Sponsor: wikplus store
 
 Package: com.bekes-505.github.io.wikplusrootless
-Version: 12.0.1
+Version: 12.77.0.42-1+debug
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate
 Filename: ./debs/WikPlusRootless.deb
-Size: 172604
-MD5sum: 51c65745aed87da6145c879fb773b16c
-SHA1: b7ce70409c35e505684cf9b4f95721afe0f6e259
-SHA256: 2902bd2e5da62f6a6bdb6b40d5698514a2b8a0f1374fc9791d17a3a52c674973
+Size: 351004
+MD5sum: 75754397eea09264bfb15b6905a5757d
+SHA1: 00a721f04f1bebe3f3b872ff0282db30bf59007a
+SHA256: f79b76e6381864f48252ca2aaa781d755291696be5ebbe2a2a5253490a1256f9
 Section: Tweaks
 Description: اداة وظيفتها : رفع الصور والفيديو من الالبوم توافق حتى اخر اصدار سناب شات والاصدارات السابقة وحفظ فيديو من محادثة الخاص وحفظ الصور من الخاص
 Author: BekEs - بيكاس
 Name: WikPlus Rootless
+Sponsor: wikplus store
 
 Package: com.bekes-505.github.io.wolf
 Version: 2.1
