@@ -3306,7 +3306,7 @@ Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | 
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/ShuffleRootless.deb
+Filename: ./debs/rootless/ShuffleRootless.deb
 Size: 355306
 MD5sum: 86aebddcf9ed960bf1f83aec1fd80f71
 SHA1: c8a20b9c014f20cef155b933aa8f388e90cf8a67
@@ -3409,7 +3409,7 @@ Maintainer: @B6_7E
 Installed-Size: 1840
 Depends: mobilesubstrate, firmware (>= 12.1)
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Filename: ./debs/Snapper2Rootless.deb
+Filename: ./debs/rootless/Snapper2Rootless.deb
 Size: 715564
 MD5sum: 2a82af727b8cbefe73511124b8de603a
 SHA1: 5914b64dea945d13cc808af4ffed32fef6186190
