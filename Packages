@@ -3174,6 +3174,23 @@ Description: اداة وظيفتها : امكانية الحفاظ على الج
 Author: BekEs - بيكاس
 Name: Sentinel
 
+Package: com.bekes-505.github.io.settingsrevamp
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/SettingsRevamp.deb
+Size: 139566
+MD5sum: f49b7e0d1901c655d9db0976f255dd6c
+SHA1: d836f2e0e3ff665c8b014be3b51dfe2a71cf359e
+SHA256: 5e16e118b0b652ec2e203ffd9bfcb90d6727ca952c6f5c8ff0ddf3672b249ab1
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بالتعديل على الاعدادات مثل ازالة الفواصل تقسيم ادوات الجلبريك وتطبيقات النظام ازالة حساب ايكلاود والكثير
+Author: BekEs - بيكاس
+Name: SettingsRevamp
+
 Package: com.bekes-505.github.io.shadow
 Version: 3.7.6
 Architecture: iphoneos-arm
@@ -3505,6 +3522,23 @@ Section: Tweaks
 Description: اداة وظيفتها : لقفل التطبيقات عن الملاقيف ووضع رقم سري وعباره وانذار عند الدخول على بعض التطبيقات المحدده وخيارات كثير
 Author: BekEs - بيكاس
 Name: Spy 2
+
+Package: com.bekes-505.github.io.srevamprootless
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/SettingsRevampRootless.deb
+Size: 139862
+MD5sum: 89e29d2963decfc1d154406f0030edf1
+SHA1: 8d7955f11c4c576e32c305319a196ca580a028ea
+SHA256: cbeb8026b8310bee024b745be0951d3a6a64eccdf830caf6157c14255a6e3787
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بالتعديل على الاعدادات مثل ازالة الفواصل تقسيم ادوات الجلبريك وتطبيقات النظام ازالة حساب ايكلاود والكثير
+Author: BekEs - بيكاس
+Name: SettingsRevamp Rootless
 
 Package: com.bekes-505.github.io.stickynote
 Version: 1.1.1
