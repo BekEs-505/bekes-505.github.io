@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 23840
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/BHTwitter.deb
+Filename: ./debs/rootful/BHTwitter.deb
 Size: 10502488
 MD5sum: 1a6ddefe1a02b6b82e76c9bac61f6912
 SHA1: 439d72ca42e49f58f3ddd8cd10519f5758fe2076
@@ -19,7 +19,7 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 5.0)
-Filename: ./debs/AlDente.deb
+Filename: ./debs/rootful/AlDente.deb
 Size: 2448216
 MD5sum: bc274d9a8becc90a19475fb541cd32b0
 SHA1: 00d2d3650edc3837a7825fbfc07d68744513f59c
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2380
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/A-Font.deb
+Filename: ./debs/rootful/A-Font.deb
 Size: 4109602
 MD5sum: 5495d3603629730bad8e86949aa55849
 SHA1: 609fc87e0029e18d2d93fbe4701871196ec2d851
@@ -52,7 +52,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 2476
 Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: ./debs/A-FontRootless.deb
+Filename: ./debs/rootless/A-FontRootless.deb
 Size: 1621940
 MD5sum: 79da18011a5cbf640b2af05491aed37e
 SHA1: 298f9bd2f75e1e5bb4b65dc006d1b429d41c417f
@@ -68,7 +68,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 775
 Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/ABetterPrivacyforWhatsApp.deb
+Filename: ./debs/rootful/ABetterPrivacyforWhatsApp.deb
 Size: 155498
 MD5sum: 657900699fa3a0f7dace48b01085c3ab
 SHA1: c460987b4dbc803889e0be94e45024384a6e3f6e
@@ -88,7 +88,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 721
 Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/ABetterPrivacyforWhatsAppRootless.deb
+Filename: ./debs/rootless/ABetterPrivacyforWhatsAppRootless.deb
 Size: 146136
 MD5sum: 89fb87f63e68f42267f2f42190b10064
 SHA1: 673806ffa68ce1e5ba7cb3f873d2735c305fe9fe
@@ -108,7 +108,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1094
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
-Filename: ./debs/AddSource.deb
+Filename: ./debs/rootful/AddSource.deb
 Size: 407278
 MD5sum: 7c1b7a1d9b296fd9ae88f7aa83f47dd8
 SHA1: 6803c7bac3108d0c8fa200f742162b2a0e02f082
@@ -125,7 +125,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/AddToFolder.deb
+Filename: ./debs/rootful/AddToFolder.deb
 Size: 141148
 MD5sum: 1dc2f0c958d886d9528ea293614aef09
 SHA1: d53522531f6747610e18a5eff7ac755fdbd30100
@@ -141,7 +141,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1288
 Depends: mobilesubstrate
-Filename: ./debs/AFSound.deb
+Filename: ./debs/rootful/AFSound.deb
 Size: 399056
 MD5sum: 02d2f978bebc7933971ae09c4dd7eb8d
 SHA1: 790b55431f1903b26b4d0f81196fadaf86dd7094
@@ -157,7 +157,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 281
 Depends: org.swift.libswift (>= 5.0)
-Filename: ./debs/AgentCamera.deb
+Filename: ./debs/rootful/AgentCamera.deb
 Size: 67504
 MD5sum: 8f36a82ba7c959eaf1f0f1cd75608a44
 SHA1: 3f046c2c300f5622dda3ce761032aa0e40a5288f
@@ -175,7 +175,7 @@ Installed-Size: 6772
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
 Conflicts: com.sticktron.ahahah
 Provides: com.sticktron.ahahah
-Filename: ./debs/Ah!Ah!Ah!.deb
+Filename: ./debs/rootful/Ah!Ah!Ah!.deb
 Size: 5571112
 MD5sum: fbb8c1c36fc830b8477051d47856eb90
 SHA1: 4ac0fb1797795c420dfbde11b8443747a56666a3
@@ -192,7 +192,7 @@ Maintainer: @B6_7E
 Installed-Size: 6172
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.icraze.nexus
-Filename: ./debs/AIMPro.deb
+Filename: ./debs/rootful/AIMPro.deb
 Size: 2954774
 MD5sum: a792b3b7965e35f880334aa7c3af42a8
 SHA1: 3460d9f6613827fb38e3e2be68daf057b1fd12df
@@ -208,7 +208,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 7096
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/Akacia.deb
+Filename: ./debs/rootful/Akacia.deb
 Size: 6593896
 MD5sum: e13e3dcce10a5c0ae919ad0a89fa744d
 SHA1: ea2289f00a30524a6d1378189ce79b111e14db89
@@ -224,7 +224,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 368
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
-Filename: ./debs/Amber.deb
+Filename: ./debs/rootful/Amber.deb
 Size: 17866
 MD5sum: 48f269437807cf6eddf97b616ff90f60
 SHA1: 3d8baf3d36fbedf39f6c1abd2249efd6e5b16d16
@@ -240,7 +240,7 @@ Architecture: iphoneos-arm64
 Maintainer: PoomSmart
 Installed-Size: 368
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
-Filename: ./debs/AmberRootless.deb
+Filename: ./debs/rootless/AmberRootless.deb
 Size: 18050
 MD5sum: 6837e61e311ef890d493c69af6f918d0
 SHA1: 503951cbcb178901d212f404dd280be52d7fdbbc
@@ -256,7 +256,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 23844
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/AmongLock.deb
+Filename: ./debs/rootful/AmongLock.deb
 Size: 20770308
 MD5sum: 48ac9262dd946249b4cf9c44379bcab9
 SHA1: c238e21828464c00d233e87744079bd8b2353566
@@ -272,7 +272,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 620
 Depends: mobilesubstrate
-Filename: ./debs/AnActuallyGoodFilzaEditor.deb
+Filename: ./debs/rootful/AnActuallyGoodFilzaEditor.deb
 Size: 120476
 MD5sum: 356871a842cd6046bfb72b7c4dd0b463
 SHA1: bc21028574ada3b9a77643cb7eaa1457c2bd6bd7
@@ -288,7 +288,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 620
 Depends: mobilesubstrate
-Filename: ./debs/AnActuallyGoodFilzaEditorRootless.deb
+Filename: ./debs/rootless/AnActuallyGoodFilzaEditorRootless.deb
 Size: 121152
 MD5sum: bb2b818c14cb59ce69f72452df4c69c5
 SHA1: d3a35c685256ad809c1df81ae8e435f4ab95b76d
@@ -304,7 +304,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2820
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.altlist, preferenceloader, com.ginsu.libgscommon
-Filename: ./debs/AndroBar.deb
+Filename: ./debs/rootful/AndroBar.deb
 Size: 585096
 MD5sum: 24ff34ba47ad52a95d8781c5f1b05c6f
 SHA1: 6f824811f44b504572ffb19e0f4a415b1a153e66
@@ -319,7 +319,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>=13), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/Anne.deb
+Filename: ./debs/rootful/Anne.deb
 Size: 13728
 MD5sum: fc75325ba36896f98e1e78589cb5c8c9
 SHA1: 81b3e0533433c327c77373a166188cf599da77e5
@@ -337,7 +337,7 @@ Maintainer: @B6_7E
 Installed-Size: 2464
 Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158) ,  firmware (>= 11.0)
 Conflicts: net.limneos.audiorecorder (<= 1.7-4)
-Filename: ./debs/AnsweringMachineXS.deb
+Filename: ./debs/rootful/AnsweringMachineXS.deb
 Size: 751492
 MD5sum: 38b22a4d1932ea0f702e9cf1e3d06635
 SHA1: b380847dd69e431950ee8791e6c19783e7750daa
@@ -354,7 +354,7 @@ Maintainer: @B6_7E
 Installed-Size: 2464
 Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-158) ,  firmware (>= 11.0)
 Conflicts: net.limneos.audiorecorder (<= 1.7-4)
-Filename: ./debs/AnsweringMachineXSRootless.deb
+Filename: ./debs/rootless/AnsweringMachineXSRootless.deb
 Size: 750674
 MD5sum: ae584290b6e08a1310169c969ce94a63
 SHA1: 750826eed6c12e5fe0af32ba6135853438b6bef4
@@ -370,7 +370,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
 Conflicts: com.anthopak.appaze2
-Filename: ./debs/Appaze2.deb
+Filename: ./debs/rootful/Appaze2.deb
 Size: 957784
 MD5sum: 26d52e07fd54f37bd1fba8c763ed0bec
 SHA1: 7d9f179521444b1edfea2dfe9db3b3217bb49e4d
@@ -386,7 +386,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 776
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/AppData.deb
+Filename: ./debs/rootful/AppData.deb
 Size: 204676
 MD5sum: f6609f32ba2c0be9b7246cfbc73f43a0
 SHA1: b774a6bdaf8f9ced1c2db76444c28c60118cb246
@@ -402,7 +402,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 2412
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/AppDataRootless.deb
+Filename: ./debs/rootless/AppDataRootless.deb
 Size: 995356
 MD5sum: 07f05269fd888b61aeb5a703802b7588
 SHA1: 2132cb203671a72753c1fdee4d471443129b0eed
@@ -417,7 +417,7 @@ Version: 3.6.9.5k
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, ldid, com.cokepokes.libnotifications
-Filename: ./debs/AppEditor.deb
+Filename: ./debs/rootful/AppEditor.deb
 Size: 3937484
 MD5sum: 1f442bfb87dcd01b118fdbbd09f7f1d4
 SHA1: 7c50e0642893f5753c1b29d360e0becd70221ac7
@@ -433,7 +433,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 10500
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0)
-Filename: ./debs/AppHack.deb
+Filename: ./debs/rootful/AppHack.deb
 Size: 10410478
 MD5sum: 406f32973c5b510b37a975ff47e12a52
 SHA1: a48476455c6b9ba615199030307c1a7981e1949d
@@ -449,7 +449,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 220
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
-Filename: ./debs/AppPad.deb
+Filename: ./debs/rootful/AppPad.deb
 Size: 9662
 MD5sum: e83a97354df123379548bd4f6f3d5564
 SHA1: 31f8bce289d85f86fa20a5307658dc1db337c76b
@@ -465,7 +465,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 172
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4), firmware (>= 9.0)
-Filename: ./debs/AppPadRootless.deb
+Filename: ./debs/rootless/AppPadRootless.deb
 Size: 6936
 MD5sum: 0daeeb73dcafa72f49234b5d885e980e
 SHA1: 93e6730b5891e6e917069b58e48cd5952fccc7cc
@@ -481,7 +481,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 424
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
-Filename: ./debs/AppsHide.deb
+Filename: ./debs/rootful/AppsHide.deb
 Size: 106958
 MD5sum: a64de6f2a2b1d9643cf792b534addbfc
 SHA1: 4242484ff26bf3426d751394abad8397fde3869b
@@ -500,7 +500,7 @@ Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debs/AppStorePlusPlus.deb
+Filename: ./debs/rootful/AppStorePlusPlus.deb
 Size: 4624234
 MD5sum: 5e4e7e610b3be3284179ec8dbb1d4463
 SHA1: b2c64d723aeb55b7fdeb3f216bed6da442884be0
@@ -517,7 +517,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2336
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
-Filename: ./debs/Astolfo.deb
+Filename: ./debs/rootful/Astolfo.deb
 Size: 1974606
 MD5sum: ae6409e945d12f5b11f2b51187ec85a6
 SHA1: 2cc3b1e5e6301994a34ad19504ab77c4fa144dce
@@ -534,7 +534,7 @@ Maintainer: @B6_7E
 Installed-Size: 877
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Filename: ./debs/Atria.deb
+Filename: ./debs/rootful/Atria.deb
 Size: 317716
 MD5sum: 35b8f08c6538fe11c5434e8389028215
 SHA1: 9c588950bf3be5d754fcb8ad1020442f8e7dfaea
@@ -552,7 +552,7 @@ Maintainer: @B6_7E
 Installed-Size: 886
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Filename: ./debs/AtriaRootless.deb
+Filename: ./debs/rootless/AtriaRootless.deb
 Size: 304220
 MD5sum: d434f932be5c1755157620395a44d728
 SHA1: 1e65d5f52ada2f77262fc8c22ef77e6a5e8884b5
@@ -571,7 +571,7 @@ Installed-Size: 5960
 Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
-Filename: ./debs/AudioRecorderXS.deb
+Filename: ./debs/rootful/AudioRecorderXS.deb
 Size: 1862424
 MD5sum: d12868db27a6ecdf9e8f15197d1e7410
 SHA1: e1d10fc7d7c4638fdbc3b38dbb70d8de7fd31918
@@ -590,7 +590,7 @@ Installed-Size: 6072
 Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-rootless, firmware(>=12.0)
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
-Filename: ./debs/AudioRecorderXSRootless.deb
+Filename: ./debs/rootless/AudioRecorderXSRootless.deb
 Size: 1851118
 MD5sum: a857fd6e21bda19228bc952e35413424
 SHA1: ca8294006d339fb0b2ca0713b8e537c63d736ac3
@@ -606,7 +606,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate
-Filename: ./debs/AutoScroll.deb
+Filename: ./debs/rootful/AutoScroll.deb
 Size: 34256
 MD5sum: 1f94dc8fac05ad09009d03a02bfb9874
 SHA1: 803b78e7929d175b2abe65b87f83a02b50db7169
@@ -621,7 +621,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate
-Filename: ./debs/AutoScrollRootless.deb
+Filename: ./debs/rootless/AutoScrollRootless.deb
 Size: 8230
 MD5sum: 579796f52bdbd7f9fefdb45ff7773347
 SHA1: d232047bfeeb2d3fca88ee0a59bc98684f62729e
@@ -637,7 +637,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 740
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common(>= 1.14), firmware (>= 13.0), com.spark.libsparkapplist, com.peterdev.libpddokdo
-Filename: ./debs/Avrora.deb
+Filename: ./debs/rootful/Avrora.deb
 Size: 378388
 MD5sum: 596e0d3bf72d729486698a903a60c0c1
 SHA1: 6eb512c2b03e9733202859e2501a0622baf2dde7
@@ -653,7 +653,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 221
 Depends: firmware (>= 13.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Filename: ./debs/AVTools.deb
+Filename: ./debs/rootful/AVTools.deb
 Size: 26138
 MD5sum: 80b6aa55e4def534a8743b0ec430a313
 SHA1: e7c8cc5638e9cde2f26144d97921ba650a696dce
@@ -671,7 +671,7 @@ Version: 0.1.7
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap
-Filename: ./debs/BackRunner.deb
+Filename: ./debs/rootful/BackRunner.deb
 Size: 16356
 MD5sum: e1a1f8b9818b8922263041afde45f3cc
 SHA1: c55bf158588d051def662986e2eba35fca00fd09
@@ -687,7 +687,7 @@ Architecture: appletvos-arm64
 Maintainer: @B6_7E
 Installed-Size: 584
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Filename: ./debs/Ballet.deb
+Filename: ./debs/rootful/Ballet.deb
 Size: 264934
 MD5sum: 060bbc50cc6d2d8030a6f9a6a9854d7d
 SHA1: 9adf7e50a4b28b1ac6e4f41d88465279892da9a7
@@ -703,7 +703,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 560
 Depends: firmware (>=11.0), preferenceloader, applist
-Filename: ./debs/Bfdecrypt.deb
+Filename: ./debs/rootful/Bfdecrypt.deb
 Size: 166716
 MD5sum: 1f89517fd599506cdb677bd4509845a2
 SHA1: 10f4382c7c785dbdb2357a492f0e1587fffadf03
@@ -719,7 +719,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 388
 Depends: mobilesubstrate, com.opa334.altlist, firmware (>= 11.0)
-Filename: ./debs/Bfdecrypt Rootless.deb
+Filename: ./debs/rootless/Bfdecrypt Rootless.deb
 Size: 122784
 MD5sum: a6ab03add8681b060a7f7eb960f4c001
 SHA1: 92319966a4db6f4594ac30634433bbfead9153cd
@@ -735,7 +735,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 408
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/BHinsta.deb
+Filename: ./debs/rootful/BHinsta.deb
 Size: 111896
 MD5sum: 601c67a10f244294bd43eacb292a0bd8
 SHA1: 4bac4baefe0ca89e3660f9c08d49c5570052e31a
@@ -751,7 +751,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 408
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/BHinstaRootless.deb
+Filename: ./debs/rootless/BHinstaRootless.deb
 Size: 111988
 MD5sum: 3ebdcaa42869f323eb4c3040cf7788e0
 SHA1: 7c02531087081ce819aab8f552294ab70744789b
@@ -767,7 +767,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1480
 Depends: mobilesubstrate
-Filename: ./debs/BHTikTok.deb
+Filename: ./debs/rootful/BHTikTok.deb
 Size: 624942
 MD5sum: 9171b43bf011827262930f2492184ce7
 SHA1: a1447bc00d0a32f99043a2dd3341c02887787d67
@@ -783,7 +783,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 23840
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/BHTwitterRootless.deb
+Filename: ./debs/rootless/BHTwitterRootless.deb
 Size: 10502606
 MD5sum: bfa77018a9983103e50ee772f6eb58e6
 SHA1: dd557e8b0f2d37aa805f223936d882c3193f0609
@@ -800,7 +800,7 @@ Maintainer: @B6_7E
 Installed-Size: 2232
 Depends: mobilesubstrate, preferenceloader
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/BioProtectRootless.deb
+Filename: ./debs/rootless/BioProtectRootless.deb
 Size: 794598
 MD5sum: 4c1d39a4d90f5b8554c084a7b0e43448
 SHA1: 08f38ea85bb55eecf67fd29150d49e7007ee7947
@@ -818,7 +818,7 @@ Maintainer: @B6_7E
 Installed-Size: 2232
 Depends: mobilesubstrate, preferenceloader
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/BioProtect.deb
+Filename: ./debs/rootful/BioProtect.deb
 Size: 794160
 MD5sum: 0e40d458212f3e6f018be0f3dc0c979d
 SHA1: 9c928aa448bcdcae255b54cd170ef2caf58d703b
@@ -836,7 +836,7 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1913
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware(>= 8.0), applist
 Conflicts: com.yllier.blocker
-Filename: ./debs/AdBlocker.deb
+Filename: ./debs/rootful/AdBlocker.deb
 Size: 665182
 MD5sum: c48a2e794b06d941f78c8f92f858176a
 SHA1: 3abd7cf8476efd8ede7f479d331399096e6d93ee
@@ -853,7 +853,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 680
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
-Filename: ./debs/Butterfly.deb
+Filename: ./debs/rootful/Butterfly.deb
 Size: 365030
 MD5sum: 3188c12284f117c09220345fdbe4953c
 SHA1: cd039ae00cea8dd61aa4302246300153f779663f
@@ -869,7 +869,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 538
 Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
-Filename: ./debs/ByeHomeBottomBarX.deb
+Filename: ./debs/rootful/ByeHomeBottomBarX.deb
 Size: 118970
 MD5sum: 1b1f5e7d3ecc644b5ecfc4e7af299a9d
 SHA1: 5d1cee2664ef8d3d8aaa897b87f31ba513ffdcb3
@@ -889,7 +889,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 701
 Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
-Filename: ./debs/ByeHomeBottomBarXRootless.deb
+Filename: ./debs/rootless/ByeHomeBottomBarXRootless.deb
 Size: 145468
 MD5sum: a3a5374b5373cd5f7f44e97f2c585e06
 SHA1: 0dc5a84b65021c913d1d74d81650f03585526e71
@@ -909,7 +909,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1116
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
-Filename: ./debs/CACloud.deb
+Filename: ./debs/rootful/CACloud.deb
 Size: 237852
 MD5sum: ccb14e1af6102946edfb5892aada187c
 SHA1: 7b9c6d49a8486a3c2358854e2af5d968e5c8fa8c
@@ -925,7 +925,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 1116
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
-Filename: ./debs/CACloudRootless.deb
+Filename: ./debs/rootful/CACloudRootless.deb
 Size: 237946
 MD5sum: 88a78c3240930bd4ba843e9ede60d8f2
 SHA1: d6824a230408e5c11c02f86865b2e91b428c76a6
@@ -942,7 +942,7 @@ Maintainer: @B6_7E
 Installed-Size: 7156
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/CarBridge.deb
+Filename: ./debs/rootful/CarBridge.deb
 Size: 1868666
 MD5sum: bafc36162cf40916249808ebd95dd9e9
 SHA1: 2121e3b10af6964ea22c9afb0b5982d3e794c1b5
@@ -959,7 +959,7 @@ Maintainer: @B6_7E
 Installed-Size: 7344
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/CarBridgeRootless.deb
+Filename: ./debs/rootless/CarBridgeRootless.deb
 Size: 1874320
 MD5sum: 7b31b041adb73a79c55235a12820f512
 SHA1: 803deb7a03de21f57916912d39243c28e562c280
@@ -975,7 +975,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 920
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
-Filename: ./debs/Cardculator.deb
+Filename: ./debs/rootful/Cardculator.deb
 Size: 223960
 MD5sum: b424f2c7b737ee39188a8ebf8d12e7fc
 SHA1: 0eb79d617f3e8092252234b1036c7b56581a62ea
@@ -991,7 +991,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 920
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
-Filename: ./debs/CardculatorRootless.deb
+Filename: ./debs/rootless/CardculatorRootless.deb
 Size: 223056
 MD5sum: 5c1451ef405801d491e77950a285b958
 SHA1: cdb07ee1be1c27976a660bba8f60bce4d7dd39d1
@@ -1007,7 +1007,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 150
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/CCVibration.deb
+Filename: ./debs/rootful/CCVibration.deb
 Size: 17756
 MD5sum: b58ec23cd70ea86724298042aaba5119
 SHA1: 3ad98c763944921b908ddb4464097419f56c2f71
@@ -1024,7 +1024,7 @@ Version: 0.0~beta5
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, cydia
-Filename: ./debs/CellDia.deb
+Filename: ./debs/rootful/CellDia.deb
 Size: 20078
 MD5sum: 4f4c7e6464c3eda24bfc2932abf019c0
 SHA1: c7f1fd6a5fcfc6d69eb1d2bbcec855c52a21fd34
@@ -1040,7 +1040,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 708
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Filename: ./debs/Central.deb
+Filename: ./debs/rootful/Central.deb
 Size: 388056
 MD5sum: 53ebe8458fbaadf6be7920683f921fea
 SHA1: fa9646274a18fb91c2af8c3e436d851cffcdb0d2
@@ -1056,7 +1056,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1092
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/Choicy.deb
+Filename: ./debs/rootful/Choicy.deb
 Size: 261702
 MD5sum: bf7e3256be98d63a103dd290aade3d18
 SHA1: 505756b990dbce4145bda8efa477342b0b32b0d9
@@ -1072,7 +1072,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 884
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/ChoicyRootless.deb
+Filename: ./debs/rootless/ChoicyRootless.deb
 Size: 169284
 MD5sum: 3295dc9f2d97f34a68518bcd45cdf0ff
 SHA1: fe650a7e9ecfa7e0fec39d285ee2c41895e45c13
@@ -1088,7 +1088,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 640
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.mrgcgamer.libgcuniversal, com.spark.libsparkapplist
-Filename: ./debs/Copypasta.deb
+Filename: ./debs/rootful/Copypasta.deb
 Size: 257230
 MD5sum: b7454f58384fa021be70e5f416153bd7
 SHA1: 94f061946ac930c9b0105c7273c45b9ee36cac84
@@ -1103,7 +1103,7 @@ Version: 1.1.16
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 11.0)
-Filename: ./debs/CrackerXI+.deb
+Filename: ./debs/rootful/CrackerXI+.deb
 Size: 9960984
 MD5sum: 49409152fd83a18d1ebe9381de9320d5
 SHA1: 43f8f2af192497ae2bb88762163136de71dd9293
@@ -1118,7 +1118,7 @@ Version: 4.0~beta10b
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
-Filename: ./debs/CrackTool4.deb
+Filename: ./debs/rootful/CrackTool4.deb
 Size: 2957396
 MD5sum: c26c50f10eae71a424728b2e7fd25b96
 SHA1: 3d1c45cdeeb88fc6f05a382938b9660434671a14
@@ -1133,7 +1133,7 @@ Version: 5.0~beta0
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
-Filename: ./debs/CrackTool5Rootless.deb
+Filename: ./debs/rootless/CrackTool5Rootless.deb
 Size: 1287916
 MD5sum: d5b4ff1699a56649091336c59642bbec
 SHA1: 26bccff7c5a5800a3673b3a41efe7bfb1395bdac
@@ -1150,7 +1150,7 @@ Maintainer: @B6_7E
 Installed-Size: 3356
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/Crane.deb
+Filename: ./debs/rootful/Crane.deb
 Size: 1112122
 MD5sum: 13f75d6e829e24e94e4dfe195db377c3
 SHA1: a2eca0cb1d5060ab0a78e2515635cefbc30a6534
@@ -1167,7 +1167,7 @@ Maintainer: @B6_7E
 Installed-Size: 3060
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/Cranerootless.deb
+Filename: ./debs/rootless/Cranerootless.deb
 Size: 864592
 MD5sum: f7b3aebc8087629979a5f5c3d04db8e9
 SHA1: 7da71279d93c7780c24d603d28d52cef6ec9b5b1
@@ -1183,7 +1183,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 724
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/Crystal.deb
+Filename: ./debs/rootful/Crystal.deb
 Size: 367914
 MD5sum: a304a869d5bdfdbc893910e489f78153
 SHA1: 204c1059ecfb7a6de09b621dfed8170729badbda
@@ -1199,7 +1199,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 150
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
-Filename: ./debs/CCVibrationRootless.deb
+Filename: ./debs/rootless/CCVibrationRootless.deb
 Size: 18368
 MD5sum: 8c6dfffc63f22f472fd2573538a0d0fb
 SHA1: 34473e73fff60a7fea299dd32be0e88703993167
@@ -1217,7 +1217,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1652
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: ./debs/CylinderReborn.deb
+Filename: ./debs/rootful/CylinderReborn.deb
 Size: 501308
 MD5sum: 50a295b6132423e015ce1497187da0dd
 SHA1: 610964ba4d125439c7ab78aa16054a4915c2c718
@@ -1234,7 +1234,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 1123
 Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader
-Filename: ./debs/CylinderRebornRootless.deb
+Filename: ./debs/rootless/CylinderRebornRootless.deb
 Size: 318652
 MD5sum: ef3860de78db4730232039de5f9de604
 SHA1: cc66deffa3626861c066ca20b4211edf6cd24c8b
@@ -1251,7 +1251,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 8
 Depends: firmware (>= 11.0)
-Filename: ./debs/DebStealer.deb
+Filename: ./debs/rootful/DebStealer.deb
 Size: 1022
 MD5sum: e0418f4ff3603a20cb87f4d6b51e0b8b
 SHA1: db701c07b35f35d653ad627ab880a824c3c3c43c
@@ -1267,7 +1267,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 8
 Depends: firmware (>= 11.0)
-Filename: ./debs/DebStealerRootless.deb
+Filename: ./debs/rootless/DebStealerRootless.deb
 Size: 1040
 MD5sum: db29f7ec5ba23f111369f1b98dbeb913
 SHA1: ed347731808e8ef220207be90babb3e2097d0c7b
@@ -1283,7 +1283,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/DeleteForeverXS.deb
+Filename: ./debs/rootful/DeleteForeverXS.deb
 Size: 9484
 MD5sum: 4f66bd2a4b5ef958906916b4285c9548
 SHA1: e2c80897eede057e46463a3c0988479278ad574c
@@ -1300,7 +1300,7 @@ Maintainer: @B6_7E
 Installed-Size: 5800
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, com.trappledestek.libkitten
 Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures
-Filename: ./debs/Diary.deb
+Filename: ./debs/rootful/Diary.deb
 Size: 3033510
 MD5sum: 32562e9480ef7e703ddb7b3a65ba50a2
 SHA1: 2d988bb465c66dbe6a84e5650b78cf6fde36fbed
@@ -1316,7 +1316,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 168
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/DisablePasteTips.deb
+Filename: ./debs/rootful/DisablePasteTips.deb
 Size: 4726
 MD5sum: 30afab61c1d65795becee22ef53fd663
 SHA1: 1072ec61cd05bc92dd7b7be6283df25be7e54b8d
@@ -1332,7 +1332,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 168
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/DisablePasteTipsRootless.deb
+Filename: ./debs/rootless/DisablePasteTipsRootless.deb
 Size: 4672
 MD5sum: 67e5005c16382d0dba51b4a2951b50d6
 SHA1: 0660aad4f15a7a8b27f3cef6a1cb67adda78718d
@@ -1347,7 +1347,7 @@ Version: 2.14.4k
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/DLEasy.deb
+Filename: ./debs/rootful/DLEasy.deb
 Size: 7416248
 MD5sum: 43ec9d042383fd92478ad7f7f20e4477
 SHA1: 874ffa5f3ccd7431f1ad07421384527bb80e2825
@@ -1362,7 +1362,7 @@ Version: 2.14.4k
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/DLEasyRootless.deb
+Filename: ./debs/rootless/DLEasyRootless.deb
 Size: 7342942
 MD5sum: 75807e6c0650a5b5b3195af6e66f3c88
 SHA1: 38b62f3e8d62b4bdbaef24d30414c9af9e72b1b1
@@ -1378,7 +1378,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1248
 Depends: dev.theos.orion14, firmware (>= 14.0), com.ginsu.libgscommon, preferenceloader
-Filename: ./debs/DockSearch.deb
+Filename: ./debs/rootful/DockSearch.deb
 Size: 234672
 MD5sum: 6c6e3b34d121ecf2b26e93c9e732b9b8
 SHA1: 1c8b84e0e68df07003b2eab0cbc6136dd5f1bbdd
@@ -1394,7 +1394,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1704
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, firmware (>=14.0), ws.hbang.alderis (>= 1.1)
-Filename: ./debs/Dr4w.deb
+Filename: ./debs/rootful/Dr4w.deb
 Size: 1050752
 MD5sum: 9ea977a175fb71c5f6299ae640b5a746
 SHA1: bfd88a7d60c4c6ad938fa431972a6bcce618e9b1
@@ -1410,7 +1410,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1048
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker
-Filename: ./debs/Dress.deb
+Filename: ./debs/rootful/Dress.deb
 Size: 364426
 MD5sum: 8de3f52874e328c6f13730c33ddfa967
 SHA1: c662161bda9ea27f443ce64a4dea4a19c3ba2c19
@@ -1426,7 +1426,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1668
 Depends: mobilesubstrate, preferenceloader, firmware(>=12.0)
-Filename: ./debs/DynamicPeninsula.deb
+Filename: ./debs/rootful/DynamicPeninsula.deb
 Size: 514610
 MD5sum: 0e8a9381fa8b58fd7840f01cf0e3646e
 SHA1: a2e1657aaf2bcb349bfd89787df2c31a595f21f8
@@ -1443,7 +1443,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 1684
 Depends: mobilesubstrate, preferenceloader, firmware(>=12.0)
-Filename: ./debs/DynamicPeninsulaRootless.deb
+Filename: ./debs/rootless/DynamicPeninsulaRootless.deb
 Size: 455020
 MD5sum: 62ce5a3e28aa90acfc60daec1a39d5fb
 SHA1: e5278f2b022ec212fd08595ae98bd473f6594fee
@@ -1461,7 +1461,7 @@ Maintainer: @B6_7E
 Installed-Size: 1180
 Depends: mobilesubstrate, firmware (>=11.0), org.thebigboss.libcolorpicker, com.opa334.ccsupport, xyz.itznebbs.libnebbs (>=1.6), ws.hbang.common
 Conflicts: com.junesiphone.lockpluspro
-Filename: ./debs/Edge.deb
+Filename: ./debs/rootful/Edge.deb
 Size: 649210
 MD5sum: eb0fa3c32e91db1da48ae76b9af97df3
 SHA1: 9f19d5a20f68a7df4f0962a0ee1a78f386976901
@@ -1478,7 +1478,7 @@ Maintainer: @B6_7E
 Installed-Size: 400
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.eneko
-Filename: ./debs/Eneko.deb
+Filename: ./debs/rootful/Eneko.deb
 Size: 51202
 MD5sum: 715846b1a663724cd3d1abb0552c5354
 SHA1: 66b261afc68997cfc9fbd076aa4c0607ad3b8850
@@ -1495,7 +1495,7 @@ Maintainer: @B6_7E
 Installed-Size: 400
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.eneko
-Filename: ./debs/EnekoRootless.deb
+Filename: ./debs/rootless/EnekoRootless.deb
 Size: 48846
 MD5sum: 235c8b15f7620698235600a061438e37
 SHA1: 2ea3cdf242c7991025680e0b8b88559b6154ce77
@@ -1511,7 +1511,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 8452
 Depends: mobilesubstrate, opencv
-Filename: ./debs/Enlighten.deb
+Filename: ./debs/rootful/Enlighten.deb
 Size: 3281688
 MD5sum: 12ac59abaf63f6e550c2aae476727150
 SHA1: d2b1c0448e03704cedb830c261b6546e5579bc19
@@ -1527,7 +1527,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 408
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
-Filename: ./debs/Erika.deb
+Filename: ./debs/rootful/Erika.deb
 Size: 141754
 MD5sum: 6ad34ab97dca0ae8baf300f4a708994a
 SHA1: 51de0ab6118169d03b1bc8a7eab09f4eaa9f4281
@@ -1543,7 +1543,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 368
 Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
-Filename: ./debs/ErikaRootless.deb
+Filename: ./debs/rootless/ErikaRootless.deb
 Size: 128614
 MD5sum: f533e9380621f46dc832eb0c42c642f6
 SHA1: 9c45171e849f46da92a206bd3c6c9703d394192e
@@ -1559,7 +1559,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 472
 Depends: mobilesubstrate
-Filename: ./debs/Ersatz.deb
+Filename: ./debs/rootful/Ersatz.deb
 Size: 70986
 MD5sum: b4026307a3d6179faf83d3d24575dcc9
 SHA1: 94f68c32482dcafe6578f9dc66056a37ccd4db93
@@ -1575,7 +1575,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 504
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/ErsatzRootless.deb
+Filename: ./debs/rootless/ErsatzRootless.deb
 Size: 74986
 MD5sum: d38dd6ffb3cb83123623cffa9061eff1
 SHA1: 61d6b14c43917fd6c1c2aa02a3122d1f3ae0e0b3
@@ -1591,7 +1591,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2148
 Depends: firmware (>=13.4), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/FancySelection.deb
+Filename: ./debs/rootful/FancySelection.deb
 Size: 624918
 MD5sum: 7fcb6af8094a4f594c18b59c959c7e34
 SHA1: f2933c021b73506e42b14aa28730e54bf04bf708
@@ -1609,7 +1609,7 @@ Maintainer: @B6_7E
 Installed-Size: 31815
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
-Filename: ./debs/FilzaFileManager.deb
+Filename: ./debs/rootful/FilzaFileManager.deb
 Size: 13910282
 MD5sum: 2d118a7a3bfbec76d89ae36c4469f44e
 SHA1: ddad3e0db0107557405d46ba1bddc8f3ee27feea
@@ -1630,7 +1630,7 @@ Maintainer: @B6_7E
 Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./debs/FilzaFileManager64-bit.deb
+Filename: ./debs/rootful/FilzaFileManager64-bit.deb
 Size: 8734244
 MD5sum: acf2df2c29c0ad70e7f146476bc73e54
 SHA1: 4e61c04be5aa38d117e7918f9fd9e97702f8f793
@@ -1647,7 +1647,7 @@ Maintainer: @B6_7E
 Installed-Size: 23200
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./debs/FilzaFileManager64-bitRotles.deb
+Filename: ./debs/rootless/FilzaFileManager64-bitRotles.deb
 Size: 8707346
 MD5sum: cabd6bd87d80c22cf8fa8efa36abe58e
 SHA1: 156ee1a2e43fb467dbcecae577e79caf919792cd
@@ -1664,7 +1664,7 @@ Maintainer: @B6_7E
 Installed-Size: 34948
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
-Filename: ./debs/FilzaFileManagerRootless.deb
+Filename: ./debs/rootless/FilzaFileManagerRootless.deb
 Size: 13936084
 MD5sum: 06a61bda3a172a3e30f979b1f9913acb
 SHA1: 67c85cd230dee8f32965bcab4158bb5078acc1f3
@@ -1680,7 +1680,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 812
 Depends: preferenceloader
-Filename: ./debs/FloatingDockXVI.deb
+Filename: ./debs/rootful/FloatingDockXVI.deb
 Size: 415444
 MD5sum: ba9b736ad2772a2abe661742338a4184
 SHA1: 8d23f48add8c6268de989f2809359142dac05012
@@ -1696,7 +1696,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 812
 Depends: preferenceloader
-Filename: ./debs/FloatingDockXVIRootless.deb
+Filename: ./debs/rootless/FloatingDockXVIRootless.deb
 Size: 415586
 MD5sum: 09e5fa4deb07e110297d378af009fdec
 SHA1: f6f2d354caa4b860f9e395d0007c3c8fc55cce95
@@ -1713,7 +1713,7 @@ Maintainer: @B6_7E
 Installed-Size: 252
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
 Provides: com.aditkamath.springy
-Filename: ./debs/Gif2AniV2.deb
+Filename: ./debs/rootful/Gif2AniV2.deb
 Size: 39604
 MD5sum: 61dbe72d8e1e958d73ea9b04868dbb84
 SHA1: 61ec257fbc5d1b11e8c37ec55a5e80caa3bd816d
@@ -1729,7 +1729,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1008
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: ./debs/Glow.deb
+Filename: ./debs/rootful/Glow.deb
 Size: 345692
 MD5sum: 8802cb89c1da8ca3395ff59885b8efe1
 SHA1: e97fffa96b8eeb729ba283aee9ab3842596e9736
@@ -1746,7 +1746,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 1008
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: ./debs/GlowRootless.deb
+Filename: ./debs/rootless/GlowRootless.deb
 Size: 345844
 MD5sum: 9c46c0692b2589049cd4da576ea24672
 SHA1: 43884eae13b3ed79388ce971ce73518b61413bb3
@@ -1762,7 +1762,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate
-Filename: ./debs/Gravitation.deb
+Filename: ./debs/rootful/Gravitation.deb
 Size: 104918
 MD5sum: 83c4ac70a745b523e5ead82d42ed5fca
 SHA1: 478da6ef5353e82b9a6d0e62bc79644c51300fce
@@ -1777,7 +1777,7 @@ Version: 0.7
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/Gravity.deb
+Filename: ./debs/rootful/Gravity.deb
 Size: 223624
 MD5sum: 7b3f0a92cc40d9ae16d9cc4ed5588c4a
 SHA1: 577a2209c170245799a5a9f96d2c7c90543aedbc
@@ -1794,7 +1794,7 @@ Maintainer: @B6_7E
 Installed-Size: 576
 Depends: mobilesubstrate
 Conflicts: com.eswick.harbor10
-Filename: ./debs/Harbor.deb
+Filename: ./debs/rootful/Harbor.deb
 Size: 126128
 MD5sum: 6ffb20fa9139e859084a9a75e78395a0
 SHA1: 458977f9e309867eb78fdaaa704cb1a3fae5f943
@@ -1810,7 +1810,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 202
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/Harbor2.deb
+Filename: ./debs/rootful/Harbor2.deb
 Size: 40596
 MD5sum: d975a16ee923a4d3c71d3cc1e8a8deff
 SHA1: 87e1e4f2a817831a466017ec60cf102d0ef38feb
@@ -1831,7 +1831,7 @@ Installed-Size: 395
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Recommends: com.eswick.iconlayoutmanager
 Conflicts: com.eswick.harbor2
-Filename: ./debs/Harbor3.deb
+Filename: ./debs/rootful/Harbor3.deb
 Size: 59510
 MD5sum: 7d33f5988e95f1f5d06993dc8d1055da
 SHA1: 3be69fe38fd0d3a6f3e776a529db7c2e47a91848
@@ -1850,7 +1850,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1760
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0), com.trappledestek.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.mrgcgamer.libgcuniversal
-Filename: ./debs/Heartlines.deb
+Filename: ./debs/rootful/Heartlines.deb
 Size: 1247508
 MD5sum: 79e9518a86d484d6a69d275e10c5f4cb
 SHA1: c95ce17f6e9bbf8fa79f8ec41999702255dd090b
@@ -1866,7 +1866,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), ws.hbang.common
 Conflicts: com.blakeboxberger.dockremover
-Filename: ./debs/Honey.deb
+Filename: ./debs/rootful/Honey.deb
 Size: 65532
 MD5sum: 09e0bd5ec3115aac1ac58a802ac4e7ac
 SHA1: 3ab5e4feb29cc2fb8181f737d693513f7e87961b
@@ -1882,7 +1882,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1323
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/hueBatterybar.deb
+Filename: ./debs/rootful/hueBatterybar.deb
 Size: 271862
 MD5sum: 31e0d62bc4fcdee7523cd513ec041fbe
 SHA1: 85651b208aa8d4d5e3517d59027e39d872f98406
@@ -1903,7 +1903,7 @@ Maintainer: @B6_7E
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/iCleanerPro.deb
+Filename: ./debs/rootful/iCleanerPro.deb
 Size: 3430154
 MD5sum: 82f2008e60f86e91f96673d56d0c37d7
 SHA1: 6890df2142e5e7ef67457f92bf23a352ef1470a0
@@ -1920,7 +1920,7 @@ Maintainer: @B6_7E
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/iCleanerProRootless.deb
+Filename: ./debs/rootless/iCleanerProRootless.deb
 Size: 1392858
 MD5sum: 69822336a3de13df106b39de24b793f3
 SHA1: 577510c2b0b0932dafd179c2156b77590fd4108d
@@ -1940,7 +1940,7 @@ Depends: mobilesubstrate
 Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix
 Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix
 Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix
-Filename: ./debs/IconAnus.deb
+Filename: ./debs/rootful/IconAnus.deb
 Size: 10434
 MD5sum: 65ce26ba1f631d7809ac8c6ae34523a6
 SHA1: 6ea7633580de8760e731721069a417051b262479
@@ -1959,7 +1959,7 @@ Maintainer: @B6_7E
 Installed-Size: 884
 Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), com.opa334.altlist
 Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, tw.hiraku.ikeywi3, tw.hiraku.ikeywi3p, com.tw3pole.exkey, gsc.ipad
-Filename: ./debs/iKeywi4.deb
+Filename: ./debs/rootful/iKeywi4.deb
 Size: 423724
 MD5sum: 5de99bacce4e84c586850ee280b35885
 SHA1: d18f5547a3ad7fc678ad41b6620893db6570a7fa
@@ -1974,7 +1974,7 @@ Version: 4.2.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: preferenceloader, mobilesubstrate, firmware (>= 11.0), com.opa334.altlist
-Filename: ./debs/iKeywi4Rootless.deb
+Filename: ./debs/rootless/iKeywi4Rootless.deb
 Size: 383344
 MD5sum: 63d96f06998973cc55c2ff0d14b60ada
 SHA1: 0a60c9e9b38467bf5a3cb4db066b902d1928e3e5
@@ -1990,7 +1990,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 3492
 Depends: firmware (>= 11.0)
-Filename: ./debs/injectipa.deb
+Filename: ./debs/rootful/injectipa.deb
 Size: 1338536
 MD5sum: 2cf17f630d3d37432d5ed59f487add52
 SHA1: dc3bab4ea142d506ab249d53e427311a71c5fab2
@@ -2006,7 +2006,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 3508
 Depends: firmware (>= 15.0)
-Filename: ./debs/injectipaRootless.deb
+Filename: ./debs/rootless/injectipaRootless.deb
 Size: 1361916
 MD5sum: 93b962cb53f7980d64f4f69b21ff5b38
 SHA1: f87f933aed9648d4a0ee4ecc7e7655bb459b12c5
@@ -2023,7 +2023,7 @@ Maintainer: @B6_7E
 Installed-Size: 1148
 Depends: mobilesubstrate, preferenceloader, applist(>=1.5.15), firmware(>=12.1)
 Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/InstaLauncher2.deb
+Filename: ./debs/rootful/InstaLauncher2.deb
 Size: 371496
 MD5sum: b168950ef822b202aa13272f4ad03ce8
 SHA1: 658d4243b720985bcf4a07c7c600072382112333
@@ -2040,7 +2040,7 @@ Maintainer: @B6_7E
 Installed-Size: 848
 Depends: mobilesubstrate
 Replaces: com.wyattgahm.shadowx
-Filename: ./debs/iota.deb
+Filename: ./debs/rootful/iota.deb
 Size: 500266
 MD5sum: 9407f1b5b64e7b9becd0b39690dfc739
 SHA1: 607e330edc32bf93c143c96f8213da88a412e5bf
@@ -2056,7 +2056,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 15312
 Depends: firmware (>= 13.5)
-Filename: ./debs/iRidium.deb
+Filename: ./debs/rootful/iRidium.deb
 Size: 6658254
 MD5sum: 3a743266a4796737d97874ad05fc98e8
 SHA1: f1f30f3fea777924dbaf46e8423fc05d19f4bac0
@@ -2076,7 +2076,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 524
 Depends: mobilesubstrate
-Filename: ./debs/iSnake.deb
+Filename: ./debs/rootful/iSnake.deb
 Size: 98844
 MD5sum: 6340e464c1e880c1dc1eb0ea200811d1
 SHA1: 924fee86cbbaa9a408fb08945b42f46fe59d6a6f
@@ -2092,7 +2092,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs/JodelEMPROVED.deb
+Filename: ./debs/rootful/JodelEMPROVED.deb
 Size: 47456
 MD5sum: 7b301067fef8cba503cc4f004e64b085
 SHA1: 30df60dd368ee5aeea1a8172b0470f2f5dd576e5
@@ -2108,7 +2108,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs/JodelEMPROVEDRootless.deb
+Filename: ./debs/rootless/JodelEMPROVEDRootless.deb
 Size: 47542
 MD5sum: 3825058318923528e7897e609b74b1c5
 SHA1: 284309d213d859e7de9b2a73b512935ccee2695a
@@ -2124,7 +2124,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1568
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.rpetrich.rocketbootstrap
-Filename: ./debs/Juin.deb
+Filename: ./debs/rootful/Juin.deb
 Size: 607170
 MD5sum: a65901d86f6f81255e748fc833fa9bde
 SHA1: 5b8b0dca6d3971e011b8d0dc65c8b0759a7cd70a
@@ -2140,7 +2140,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 956
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/KayokoRootless.deb
+Filename: ./debs/rootless/KayokoRootless.deb
 Size: 163918
 MD5sum: 987e6b160e4b268418109b436f531c89
 SHA1: ef712ce7182b2a9220d650916610612df139169d
@@ -2156,7 +2156,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 980
 Depends: dev.theos.orion14, firmware (>= 14.0), com.ginsu.libgscommon, ws.hbang.alderis (>= 1.1), preferenceloader
-Filename: ./debs/KBPro.deb
+Filename: ./debs/rootful/KBPro.deb
 Size: 211066
 MD5sum: f1e1d101759752ecddfacec8a4a59882
 SHA1: fd598898c464fa02eb090ab753c8d1bc417f628e
@@ -2172,7 +2172,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1456
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), dev.traurige.libkitten (>= 1.4)
-Filename: ./debs/Koi.deb
+Filename: ./debs/rootful/Koi.deb
 Size: 1071018
 MD5sum: eed04491ae484133f546158f31d8d673
 SHA1: baacd6d5c19a833220d8a80dc543e30ffa83fb9e
@@ -2188,7 +2188,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 1365
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: ./debs/LastLookRootless.deb
+Filename: ./debs/rootless/LastLookRootless.deb
 Size: 501098
 MD5sum: 948824d9abb5b7b3ffd779ba9b67a131
 SHA1: 9dc64b445969f18f5064851a330892ef917c3e89
@@ -2204,7 +2204,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 336
 Depends: mobilesubstrate
-Filename: ./debs/LetMeKnow.deb
+Filename: ./debs/rootful/LetMeKnow.deb
 Size: 32564
 MD5sum: 32e1e254a13db1f6361e214b4edb1808
 SHA1: ff684cdcd708c2d49e7687c67f322ca948c950a4
@@ -2220,7 +2220,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1708
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.3), com.mrgcgamer.libgcuniversal
-Filename: ./debs/Liddell.deb
+Filename: ./debs/rootful/Liddell.deb
 Size: 1276014
 MD5sum: 025efb0657a260e8a424465f148e5b18
 SHA1: bfa218235d49df9770551b275364aad0a43d31da
@@ -2236,7 +2236,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/LimneosCrack.deb
+Filename: ./debs/rootful/LimneosCrack.deb
 Size: 7800
 MD5sum: 99f109bbc8fa762149f128afb8ebb162
 SHA1: 01d075b95010b828b52841c67538e43cec9d6060
@@ -2252,7 +2252,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/LimneosCrackRootless.deb
+Filename: ./debs/rootless/LimneosCrackRootless.deb
 Size: 7932
 MD5sum: 9af2e19f19dbbbc835f53e2a2baab08b
 SHA1: a99058b05dd27c69875215df98d132f110d8fd09
@@ -2268,7 +2268,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 556
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/Lisa.deb
+Filename: ./debs/rootful/Lisa.deb
 Size: 139422
 MD5sum: dc362110d31d3443d9ae5e3273df00ea
 SHA1: 397dbd01c4dd756fb7aae38cbd78516453b86fa5
@@ -2287,7 +2287,7 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Filename: ./debs/Little12.deb
+Filename: ./debs/rootful/Little12.deb
 Size: 439348
 MD5sum: 23affa73ae313f42bd713af393d11658
 SHA1: c809b68ebf2f2c63bc76e2c3e291b1b079270de4
@@ -2304,7 +2304,7 @@ Maintainer: @B6_7E
 Installed-Size: 1816
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.pulandres.limneosos, ru.rejail.limneosos
-Filename: ./debs/LiveCallTranslatorRootless.deb
+Filename: ./debs/rootless/LiveCallTranslatorRootless.deb
 Size: 493948
 MD5sum: 3bc9b2cffa5598d365cecdf0c2c787b7
 SHA1: af16261c7bb14721dc1cbaf9d2605309cac8dc5a
@@ -2321,7 +2321,7 @@ Maintainer: @B6_7E
 Installed-Size: 1696
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.pulandres.limneosos, ru.rejail.limneosos
-Filename: ./debs/LiveCallTranslator.deb
+Filename: ./debs/rootful/LiveCallTranslator.deb
 Size: 531650
 MD5sum: 3bd6fc63ffe383b621a18ef17448d6db
 SHA1: fdcd3b05e19907300a081d4748c3f110145ee8ed
@@ -2337,7 +2337,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1052
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkcolourpicker, love.litten.libkitten (>= 1.1.1)
-Filename: ./debs/Lobelias.deb
+Filename: ./debs/rootful/Lobelias.deb
 Size: 616046
 MD5sum: 0adcd1d90bbeec7121f0dc66cf3ee838
 SHA1: ab8a3e20e0c62c7c844c68f67796974a693243b2
@@ -2352,7 +2352,7 @@ Version: 0.0~beta8
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/LockDroid.deb
+Filename: ./debs/rootful/LockDroid.deb
 Size: 203966
 MD5sum: 4894e306bda96241bbae365af20c059d
 SHA1: ae0a01c123c66a6270b44326211dc9dea952662b
@@ -2367,7 +2367,7 @@ Version: 0.0~beta8
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/LockDroidRootless.deb
+Filename: ./debs/rootless/LockDroidRootless.deb
 Size: 88492
 MD5sum: caa5ffec005d9ea5f5acdfacf232d0c4
 SHA1: e2f59fdf8b18ea4442e96d3e61581fe8e5d67829
@@ -2383,7 +2383,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 536
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/LockMaster.deb
+Filename: ./debs/rootful/LockMaster.deb
 Size: 121182
 MD5sum: 25b9741d183b9eae6adacb9f55051c8f
 SHA1: 3fc874eb01f83e628c0bc8341482dfc77138195b
@@ -2399,7 +2399,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 536
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/LockMasterRootless.deb
+Filename: ./debs/rootless/LockMasterRootless.deb
 Size: 121346
 MD5sum: e5f66db59ead10e1553c24e644bdc5e3
 SHA1: 9668b5425f901c2ad9af2fedef1ddedd9876cc0d
@@ -2415,7 +2415,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/LongKeys.deb
+Filename: ./debs/rootful/LongKeys.deb
 Size: 6726
 MD5sum: 5f203d2942c5da2a4dc1971c1e25eea2
 SHA1: 6ad07013ec94ef2796106cb6cd03d4b8b48ac9d0
@@ -2431,7 +2431,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 720
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten (>= 1.1.1), com.spark.libsparkcolourpicker
-Filename: ./debs/Lune.deb
+Filename: ./debs/rootful/Lune.deb
 Size: 304486
 MD5sum: 460d8984c0602e9648ae701f26e8c62a
 SHA1: ad78c03bc0b03e574c655e6c39ff7c845fd112f1
@@ -2447,7 +2447,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2840
 Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Filename: ./debs/Lynx.deb
+Filename: ./debs/rootful/Lynx.deb
 Size: 1647874
 MD5sum: ffcb419b59bd0ed5aab25140ecdcc5e3
 SHA1: 234e114e26b5824d9cf3845ff22a81df6c323ce6
@@ -2463,7 +2463,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2420
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: ./debs/Lynx2.deb
+Filename: ./debs/rootful/Lynx2.deb
 Size: 764168
 MD5sum: 128f7396ca5f91252d0abf81edb0ccf9
 SHA1: e514384882d02ea9918e68464586232b7fd298e1
@@ -2479,7 +2479,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 616
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/Minotaur.deb
+Filename: ./debs/rootful/Minotaur.deb
 Size: 224870
 MD5sum: ec92dd4fe64220ccfb4fcfd34c8f91cf
 SHA1: 050eca5debc1bb8bc58733aea52aada6cf2a6cca
@@ -2495,7 +2495,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
-Filename: ./debs/MoreComplicationsRootless.deb
+Filename: ./debs/rootless/MoreComplicationsRootless.deb
 Size: 62510
 MD5sum: 2803acbce0d36f906f106765ad9ada3a
 SHA1: f00fd871dc232ce97a5ef809cfde6e1a599f3fff
@@ -2511,7 +2511,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 297
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debs/MoreLinesNotifications.deb
+Filename: ./debs/rootful/MoreLinesNotifications.deb
 Size: 14026
 MD5sum: fe32f47ddd7a23335ab52da86a24b52a
 SHA1: 93f7df4eb6211ecdaeb550d6e49f3a6d4bc3fef5
@@ -2531,7 +2531,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 272
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
-Filename: ./debs/MTerminal.deb
+Filename: ./debs/rootful/MTerminal.deb
 Size: 95570
 MD5sum: 94a7952a02cb61dbf6146b87475ffe91
 SHA1: b92ca6474ec4125a2989f736b3d17e9abff40231
@@ -2547,7 +2547,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 272
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
-Filename: ./debs/MTerminalRootless.deb
+Filename: ./debs/rootless/MTerminalRootless.deb
 Size: 95650
 MD5sum: bcae3d42f7484027551d25019d8a6585
 SHA1: 160365b1e97a99318832b0d5424a0e904a023f0e
@@ -2563,7 +2563,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1312
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
-Filename: ./debs/Nita.deb
+Filename: ./debs/rootful/Nita.deb
 Size: 927092
 MD5sum: af77e70f6e3bd03d1ec13ab099ec8e01
 SHA1: 5e6902730fc16842717350a9de514161545405cd
@@ -2579,7 +2579,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1088
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis (>= 1.1), com.mrgcgamer.libgcuniversal
-Filename: ./debs/Notey.deb
+Filename: ./debs/rootful/Notey.deb
 Size: 303550
 MD5sum: ad121574945149dee4f646efe1cc674a
 SHA1: e2e464f26d92180fafdbde2689e3af0997f4a41d
@@ -2595,7 +2595,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 540
 Depends: mobilesubstrate
-Filename: ./debs/OneHandWizard2.deb
+Filename: ./debs/rootful/OneHandWizard2.deb
 Size: 79476
 MD5sum: 9c482150f0c7d3b38caf15c558dc44ef
 SHA1: cbe4da01a0044da483ab3bd1333116fd99912840
@@ -2610,7 +2610,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, com.spark.libsparkapplist
-Filename: ./debs/PencilBanner.deb
+Filename: ./debs/rootful/PencilBanner.deb
 Size: 395202
 MD5sum: b99b50df37de34a7ecdc6537bf0a9779
 SHA1: acb3b639d9d19800a57e95f5eafbe983af114a89
@@ -2626,7 +2626,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 168
 Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debs/PerfectCalc.deb
+Filename: ./debs/rootful/PerfectCalc.deb
 Size: 9884
 MD5sum: 3e2370affa9a956790b70dc0edf889b0
 SHA1: 76e8d1969683ac1b07d6442b22bec5194c89b577
@@ -2643,7 +2643,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Pre-Depends: firmware (>= 14.0)
 Depends: firmware (>=14.0), dpkg, ldid , bash, plutil | com.bingner.plutil
-Filename: ./debs/PermaSigneriOS.deb
+Filename: ./debs/rootful/PermaSigneriOS.deb
 Size: 4753084
 MD5sum: d0916099e7f730fd3e126ca6cd66d9a6
 SHA1: ccbd2621c4b879b1c3acdc2386e5f7f8de7ecde2
@@ -2662,7 +2662,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 624
 Depends: mobilesubstrate
-Filename: ./debs/PFPViewer.deb
+Filename: ./debs/rootful/PFPViewer.deb
 Size: 271730
 MD5sum: f9630b34ab351c443c811935fa9d81c8
 SHA1: 55223121f34ed1d0f6b9cd3b4948ff588730804b
@@ -2678,7 +2678,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 624
 Depends: mobilesubstrate
-Filename: ./debs/PFPViewerRootless.deb
+Filename: ./debs/rootless/PFPViewerRootless.deb
 Size: 271818
 MD5sum: 16da7695d998d46d4d107608f5e4d7b7
 SHA1: c506ca40429265378b768087819f4b708e6fdbf0
@@ -2694,7 +2694,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 604
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
-Filename: ./debs/PinAnim.deb
+Filename: ./debs/rootful/PinAnim.deb
 Size: 133438
 MD5sum: 844bd6d3bd4c6339712e4318371eac20
 SHA1: f5e8f2b4f6c60836e161307596a868c5d2c553eb
@@ -2710,7 +2710,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 604
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
-Filename: ./debs/PinAnimRootless.deb
+Filename: ./debs/rootless/PinAnimRootless.deb
 Size: 133552
 MD5sum: c295fcdcd1371bc25df9ee4d303e0ce6
 SHA1: 729536f88214fc29a1bfc09a1f285d654b23cc7f
@@ -2727,7 +2727,7 @@ Maintainer: @B6_7E
 Installed-Size: 724
 Depends: mobilesubstrate, preferenceloader, firmware(>= 11.0), com.opa334.ccsupport
 Conflicts: com.yourepo.ikghd.pmp
-Filename: ./debs/PMP.deb
+Filename: ./debs/rootful/PMP.deb
 Size: 111672
 MD5sum: de2c54c25532a76097863196b768058e
 SHA1: c56215256581b497d7b7951bec198eec599f5af5
@@ -2749,7 +2749,7 @@ Installed-Size: 792
 Depends: mobilesubstrate, firmware(>= 15.0), com.opa334.ccsupport
 Conflicts: pro.ikghd.pmp
 Replaces: pro.ikghd.pmp
-Filename: ./debs/PMPRootless.deb
+Filename: ./debs/rootless/PMPRootless.deb
 Size: 122666
 MD5sum: 910b29ff0c982cf6d8296c190c62589e
 SHA1: 1b98e297101b37cda39653b1fa6ea1568f876832
@@ -2769,7 +2769,7 @@ Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
-Filename: ./debs/PowerSelectorRootless.deb
+Filename: ./debs/rootless/PowerSelectorRootless.deb
 Size: 358664
 MD5sum: 7b43438570438cb70b057a3f77fef678
 SHA1: 85cc9ea61e91b9071e9d9c9635e60e2aec5aaac9
@@ -2790,7 +2790,7 @@ Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
-Filename: ./debs/PowerSelector.deb
+Filename: ./debs/rootful/PowerSelector.deb
 Size: 374682
 MD5sum: 03cae95eff5fb4570b9d9fcb2074355e
 SHA1: 59d93be1add7bceea3a4eee8c44676de941b83af
@@ -2810,7 +2810,7 @@ Installed-Size: 464
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
 Replaces: com.ichitaso.primalfolder2
-Filename: ./debs/PrimalFolder2.deb
+Filename: ./debs/rootful/PrimalFolder2.deb
 Size: 73534
 MD5sum: 2479dba43cae885ffab118f56f663cdf
 SHA1: 74cd36691000fcbed75addca4ee825f5da4a431f
@@ -2830,7 +2830,7 @@ Installed-Size: 464
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
 Replaces: com.ichitaso.primalfolder2
-Filename: ./debs/PrimalFolder2Rootless.deb
+Filename: ./debs/rootless/PrimalFolder2Rootless.deb
 Size: 70176
 MD5sum: 511e67486b3b5e2f64aba08e70ec3fff
 SHA1: cce5a26150f9199e5c8e78f58e6aba3f0af930b4
@@ -2848,7 +2848,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
 Conflicts: xyz.royalapps.realkeys
-Filename: ./debs/ProKeys.deb
+Filename: ./debs/rootful/ProKeys.deb
 Size: 136020
 MD5sum: 78444227190d65342a88895dbd07a726
 SHA1: bcba0c690c7d26cc3ef63f1954a5c7a239a5a5a6
@@ -2864,7 +2864,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 3232
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: ./debs/Prysm.deb
+Filename: ./debs/rootful/Prysm.deb
 Size: 17415804
 MD5sum: 9f37f06893732e77d51cadba0aa1c060
 SHA1: c7e252a48598fe1545e31d7c1dfd9dfcfa47d960
@@ -2880,7 +2880,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2688
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
-Filename: ./debs/Puck.deb
+Filename: ./debs/rootful/Puck.deb
 Size: 1825814
 MD5sum: 09a0e22acc2599889228dd9c0ff916ed
 SHA1: cb145f2689fdf0a93dc7393ce873e69247644cab
@@ -2897,7 +2897,7 @@ Maintainer: @B6_7E
 Installed-Size: 2440
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/PullOverProRootless.deb
+Filename: ./debs/rootless/PullOverProRootless.deb
 Size: 974708
 MD5sum: 4176e6fc2f407cac01c2ff59f4067e94
 SHA1: fca673ad515b6d492e6d1666a3d0633bc1c2d533
@@ -2913,7 +2913,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/PullOverPro.deb
+Filename: ./debs/rootful/PullOverPro.deb
 Size: 495628
 MD5sum: c39e151371b2faf9be2a671e1cc7535f
 SHA1: 5274366b3761a8dd435814e3d947f31ace73bd43
@@ -2928,7 +2928,7 @@ Version: 2.6
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debs/ReachPlayer.deb
+Filename: ./debs/rootful/ReachPlayer.deb
 Size: 152140
 MD5sum: 3df9dce17b5c7033f7163a67ed82fc0a
 SHA1: 66b75c306e685187676f4394d3b1ddb51fa40a62
@@ -2946,7 +2946,7 @@ Version: 2.6
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debs/ReachPlayerRootless.deb
+Filename: ./debs/rootless/ReachPlayerRootless.deb
 Size: 152316
 MD5sum: 078418d1aedd04874da753598a30d5f1
 SHA1: 2383ecf5708b3436b32e66302d3b66fa53b5d08a
@@ -2966,7 +2966,7 @@ Maintainer: @B6_7E
 Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
-Filename: ./debs/RecordPause.deb
+Filename: ./debs/rootful/RecordPause.deb
 Size: 19300
 MD5sum: 0828e3eaf18f38e9a4ed4274f20f484b
 SHA1: b87cfac5462234938d96b8de641ecf496e039a1e
@@ -2983,7 +2983,7 @@ Maintainer: @B6_7E
 Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
-Filename: ./debs/RecordPauseRootless.deb
+Filename: ./debs/rootless/RecordPauseRootless.deb
 Size: 12978
 MD5sum: 2d567d94d07084f7c6fbdec2a129422c
 SHA1: 1b03bff0a4fa2e920277cd5f536cefe403c666b8
@@ -3000,7 +3000,7 @@ Maintainer: no5up + Kanji
 Installed-Size: 2664
 Depends: mobilesubstrate
 Conflicts: com.wyattgahm-kanji.shadowx
-Filename: ./debs/Relicloader.deb
+Filename: ./debs/rootful/Relicloader.deb
 Size: 1305334
 MD5sum: 7b4986ab00576748b3475b9efc287a61
 SHA1: 470ae5e62a74bece6c8763076c816bb3f3f53730
@@ -3016,7 +3016,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 9.0)
 Conflicts: com.matchstic.reprovision
-Filename: ./debs/ReProvisionReborn.deb
+Filename: ./debs/rootful/ReProvisionReborn.deb
 Size: 16789288
 MD5sum: 863ef249a97473b5fa2f24ca3948018b
 SHA1: 08a0a7f6902dce1218200c92c7d3b2885dcbb2c6
@@ -3034,7 +3034,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 680
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
-Filename: ./debs/RGBoard.deb
+Filename: ./debs/rootful/RGBoard.deb
 Size: 324730
 MD5sum: aceeb740c0d6ee66a7ef50fbce8e6210
 SHA1: 848f03c0f25e7b5fbb0740c97852f95a68a63893
@@ -3050,7 +3050,7 @@ Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/RGBoardRootless.deb
+Filename: ./debs/rootless/RGBoardRootless.deb
 Size: 633000
 MD5sum: ada8718003f30fdfbb02f8e38a9c72a6
 SHA1: b7e993fc66ddc3f4d03a0600fec909961e25e168
@@ -3066,7 +3066,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/RocketforInstagram.deb
+Filename: ./debs/rootful/RocketforInstagram.deb
 Size: 2290778
 MD5sum: c81d15e56bb3e6d969a62d17ae57ef07
 SHA1: 474b1d9f38ddada81c8a1bbd951eaa37c7c1845e
@@ -3083,7 +3083,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/RocketforInstagramRootless.deb
+Filename: ./debs/rootless/RocketforInstagramRootless.deb
 Size: 2291664
 MD5sum: ea4cb87183176cc14c18afce06634a07
 SHA1: 7baad1af5c8e599d5bbecf9e2cfc29738219c2c2
@@ -3100,7 +3100,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2668
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/Rose.deb
+Filename: ./debs/rootful/Rose.deb
 Size: 563694
 MD5sum: 67c414200256ceb57b78528d4a762f74
 SHA1: d2352ec8212ceea1e0c868b0b91dbb2ff84b9800
@@ -3116,7 +3116,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 612
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, love.litten.libkitten
-Filename: ./debs/SafariWallpaper.deb
+Filename: ./debs/rootful/SafariWallpaper.deb
 Size: 253028
 MD5sum: ba91ddc7aac55fdcf8cce15e3ce27c3a
 SHA1: fbd9bfbf3f4c9e10878b1d475635f1e581d3f4d2
@@ -3132,7 +3132,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 524
 Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
-Filename: ./debs/Satella.deb
+Filename: ./debs/rootful/Satella.deb
 Size: 147392
 MD5sum: a246ced6d9a9d566bfb2ab4c4cb3c32d
 SHA1: ec90cbd4e4e9083034acea30c440d4fb2fce2a59
@@ -3148,7 +3148,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 488
 Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
-Filename: ./debs/SatellaRootless.deb
+Filename: ./debs/rootless/SatellaRootless.deb
 Size: 141112
 MD5sum: 6f016d5e31d8e03516b083e4d79e8d86
 SHA1: a5b9c2262b2fee4197c16a2476103d27d43e6162
@@ -3164,7 +3164,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 752
 Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
-Filename: ./debs/Sentinel.deb
+Filename: ./debs/rootful/Sentinel.deb
 Size: 96654
 MD5sum: 59ce042b7cb32b5250d4a96bc12d791e
 SHA1: 1d8cae0ec780e3ce6fcb67e07701640f90d80912
@@ -3181,7 +3181,7 @@ Maintainer: @B6_7E
 Installed-Size: 540
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: ./debs/SettingsRevamp.deb
+Filename: ./debs/rootful/SettingsRevamp.deb
 Size: 139566
 MD5sum: f49b7e0d1901c655d9db0976f255dd6c
 SHA1: d836f2e0e3ff665c8b014be3b51dfe2a71cf359e
@@ -3203,7 +3203,7 @@ Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
 Replaces: me.jjolano.shadow.beta
 Provides: me.jjolano.shadow.beta
-Filename: ./debs/Shadow.deb
+Filename: ./debs/rootful/Shadow.deb
 Size: 356458
 MD5sum: 5122272ded3cdcce6eabbca7881f0f53
 SHA1: 755539a61beb6973d8b35bd9ca23f4599fd21162
@@ -3219,7 +3219,7 @@ Architecture: iphoneos-arm
 Maintainer: no5up x Kanji
 Installed-Size: 340
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/ShadowX.deb
+Filename: ./debs/rootful/ShadowX.deb
 Size: 107112
 MD5sum: cb531d3d2cc1177fe2bdf814410a0cbf
 SHA1: a000ab94c03901a65cc262a0b58b50b6ceb668a7
@@ -3235,7 +3235,7 @@ Architecture: iphoneos-arm
 Maintainer: no5up x Kanji
 Installed-Size: 336
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/ShadowX12.deb
+Filename: ./debs/rootful/ShadowX12.deb
 Size: 106516
 MD5sum: b803a8c19f40b6eaeade61c54ea48e89
 SHA1: f09e81a1473ce1112c92d257535e3464d1ac1d03
@@ -3251,7 +3251,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2128
 Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
-Filename: ./debs/ShortLook.deb
+Filename: ./debs/rootful/ShortLook.deb
 Size: 1367840
 MD5sum: 0cf8e8fc045248884abef9152a726c1d
 SHA1: 58c89a64c8d2f86858d21e93ec3802980e669db1
@@ -3267,7 +3267,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 2128
 Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
-Filename: ./debs/ShortLookRootless.deb
+Filename: ./debs/rootless/ShortLookRootless.deb
 Size: 1364532
 MD5sum: 14e28957f0734409bcadb98bcb8fbb00
 SHA1: e23cf257032b5700ec9d4fd07ae84158ecab4a53
@@ -3286,7 +3286,7 @@ Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | 
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/Shuffle.deb
+Filename: ./debs/rootful/Shuffle.deb
 Size: 605656
 MD5sum: 7c2e0c6cbac68acfa90d41e76f7deb4c
 SHA1: 9d0d801f1f3df1ec4db4475209cafd1a6d98b5d3
@@ -3323,7 +3323,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 892
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
-Filename: ./debs/SITUMPro.deb
+Filename: ./debs/rootful/SITUMPro.deb
 Size: 478758
 MD5sum: 8cbaa0e8fafe21090d6c99b85ab8bb35
 SHA1: af1aaa28c74755418370b0ba986032893d63e5a2
@@ -3339,7 +3339,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 2200
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), firmware(>= 12.2) | org.swift.libswift (>= 5.0)
-Filename: ./debs/Six(LS).deb
+Filename: ./debs/rootful/Six(LS).deb
 Size: 1588302
 MD5sum: 7d42c9f94b97a82303039622702f26d6
 SHA1: ed1e66c11d786c795a5777f4f14df3dbcc61b418
@@ -3355,7 +3355,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1115
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/SkinnySettings.deb
+Filename: ./debs/rootful/SkinnySettings.deb
 Size: 211952
 MD5sum: a452d0b9c1550eb705ab8e79511dc699
 SHA1: ff27917dc9c71a34ab6aeafafa2e541e04fee3b9
@@ -3375,7 +3375,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs/SlowMo.deb
+Filename: ./debs/rootful/SlowMo.deb
 Size: 22524
 MD5sum: 9d69ee6956c9eebb3ee5fd64027405aa
 SHA1: 193e9a39746c9ff47dd0e2a35299440782bbfc74
@@ -3392,7 +3392,7 @@ Maintainer: @B6_7E
 Installed-Size: 1840
 Depends: mobilesubstrate, firmware(>=12.1)
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Filename: ./debs/Snapper2.deb
+Filename: ./debs/rootful/Snapper2.deb
 Size: 706708
 MD5sum: daf59f5cdc04cafdfef715755a044246
 SHA1: ee695c143121e820693554e65a2ae9c176afd7ce
@@ -3425,7 +3425,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 676
 Depends: mobilesubstrate
-Filename: ./debs/SnapSniper.deb
+Filename: ./debs/rootful/SnapSniper.deb
 Size: 320398
 MD5sum: a0389e0671b29ee329b9392a527ba21f
 SHA1: 56e53181ae60ac7c4861c12456d2260f95e9a5c9
@@ -3441,7 +3441,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 560
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/SneakyCam.deb
+Filename: ./debs/rootful/SneakyCam.deb
 Size: 143226
 MD5sum: 051f0e2fedcb10bba4814be90410932c
 SHA1: b221ff64b94b2190b78dec600211b106deb33553
@@ -3458,7 +3458,7 @@ Maintainer: @B6_7E
 Installed-Size: 560
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.bekes-505.github.io.sneakycam
-Filename: ./debs/SneakyCamRootless.deb
+Filename: ./debs/rootless/SneakyCamRootless.deb
 Size: 138456
 MD5sum: 3ef6fa86163a530a300f202c8001bdf5
 SHA1: 9dd3deae87be85112f3b6561c31d46e4c6cb69af
@@ -3476,7 +3476,7 @@ Maintainer: @B6_7E
 Installed-Size: 700
 Depends: mobilesubstrate (>= 0.9.5000), com.spark.libsparkapplist, ws.hbang.common (>= 1.11), preferenceloader
 Conflicts: com.devvix.nicho1asdev.spore
-Filename: ./debs/Spore.deb
+Filename: ./debs/rootful/Spore.deb
 Size: 227812
 MD5sum: 549ccb6cff910aeb91bdfd92ed1991df
 SHA1: 13df8c22fb2d6f84b17c991e6b911b3b8f76711d
@@ -3492,7 +3492,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 682
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./debs/SpringAnimations.deb
+Filename: ./debs/rootful/SpringAnimations.deb
 Size: 95470
 MD5sum: a7c81c65e3cdd3f6d030ad369009395e
 SHA1: fa4d4b0b63910c20dd04fce524afb7a560f98d61
@@ -3513,7 +3513,7 @@ Maintainer: @B6_7E
 Installed-Size: 2912
 Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport, ws.hbang.common
 Conflicts: com.elias.spy
-Filename: ./debs/Spy2.deb
+Filename: ./debs/rootful/Spy2.deb
 Size: 1433504
 MD5sum: ab0607dc380525b0ab5efffb2acf0051
 SHA1: 860a490528cf6fe8b63ecf2f80d362af7c59ba0a
@@ -3530,7 +3530,7 @@ Maintainer: @B6_7E
 Installed-Size: 540
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: ./debs/SettingsRevampRootless.deb
+Filename: ./debs/rootless/SettingsRevampRootless.deb
 Size: 139862
 MD5sum: 89e29d2963decfc1d154406f0030edf1
 SHA1: 8d7955f11c4c576e32c305319a196ca580a028ea
@@ -3545,7 +3545,7 @@ Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.spark.libsparkcolourpicker
-Filename: ./debs/StickyNote.deb
+Filename: ./debs/rootful/StickyNote.deb
 Size: 134322
 MD5sum: a0264419c0838e9ddd358b618d6672f8
 SHA1: 7b6520565736aaf7c4387b730920e04bdd16da02
@@ -3559,7 +3559,7 @@ Package: com.bekes-505.github.io.substiarootless
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Filename: ./debs/SubstiaRootless.deb
+Filename: ./debs/rootless/SubstiaRootless.deb
 Size: 17994
 MD5sum: d0b065a758696fca47c9affb85e668c0
 SHA1: 31907e4c0b6a0b5f3bd75cd90baf7a7ecf2c5847
@@ -3579,7 +3579,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 656
 Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/SwipeExtenderX.deb
+Filename: ./debs/rootful/SwipeExtenderX.deb
 Size: 138060
 MD5sum: ddce9d397d34c4e3a96f3ca0d8ab1e60
 SHA1: 9079e8d8ce20e2686d5eaf57e115ea084e24733f
@@ -3595,7 +3595,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 656
 Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/SwipeExtenderXRootless.deb
+Filename: ./debs/rootless/SwipeExtenderXRootless.deb
 Size: 144912
 MD5sum: 5e476d06a959d8ea573d3f02f8cad481
 SHA1: dd00e8a234f19093570166b5ec2da3fd7719b007
@@ -3612,7 +3612,7 @@ Maintainer: @B6_7E
 Installed-Size: 556
 Depends: mobilesubstrate, com.spark.libsparkapplist, com.rpetrich.rocketbootstrap, firmware (>=13.0)
 Conflicts: com.d11z.textyle
-Filename: ./debs/Textyle2.deb
+Filename: ./debs/rootful/Textyle2.deb
 Size: 117046
 MD5sum: 7293e00d4505ab8c24406f0908e60e86
 SHA1: aaa1ef6475f234bc847ba8bce7a817187a3a88b8
@@ -3627,7 +3627,7 @@ Version: 1.87.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/TikTokDark.deb
+Filename: ./debs/rootful/TikTokDark.deb
 Size: 211644
 MD5sum: b1ba3796debf0d03e9ab321f95a92713
 SHA1: 5454216143fc90da24bba905582b798213130b67
@@ -3643,7 +3643,7 @@ Version: 1.87.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/TikTokDarkRootless.deb
+Filename: ./debs/rootless/TikTokDarkRootless.deb
 Size: 211702
 MD5sum: 33417b80da98eab3625f68852f14f00c
 SHA1: a8700570801d0e9bf500e459273e4117712586ac
@@ -3660,7 +3660,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 420
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
-Filename: ./debs/TikTokGod.deb
+Filename: ./debs/rootful/TikTokGod.deb
 Size: 86430
 MD5sum: b91c4dea78c6f3050da4bf3140b97886
 SHA1: 5098b49b3223ba6064b2edac859f15b92b370618
@@ -3676,7 +3676,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.17), com.creaturesurvive.libcscolorpicker
 Conflicts: com.miro.tranzlo
-Filename: ./debs/Tranzlo.deb
+Filename: ./debs/rootful/Tranzlo.deb
 Size: 2557928
 MD5sum: 1cac3dc9848d9bb46947f80dd4179beb
 SHA1: b11cdaaaf626c1d4421a6cdc308cb00004c9dc59
@@ -3691,7 +3691,7 @@ Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker | com.hackyouriphone.libcscolorpicker
-Filename: ./debs/TranzloOld.deb
+Filename: ./debs/rootful/TranzloOld.deb
 Size: 1456548
 MD5sum: 03662426b06e06b477c66537b4f3e7a9
 SHA1: 2f28e9662398540a59daa698b8fb8dd0d58fa6ac
@@ -3706,7 +3706,7 @@ Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
-Filename: ./debs/TrollPadRootless.deb
+Filename: ./debs/rootless/TrollPadRootless.deb
 Size: 9714
 MD5sum: 98c924663f26a275c54e63c6be8d47f0
 SHA1: 516e62ee7e880cfead3166072ac55ab110eac139
@@ -3721,7 +3721,7 @@ Version: 2.0.9
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 4300
-Filename: ./debs/TrollStoreHelper.deb
+Filename: ./debs/rootful/TrollStoreHelper.deb
 Size: 2283750
 MD5sum: 4492ff5c415789f8f5441330e309f037
 SHA1: 59ecc4baa70d3a72594561deeab85536c1485638
@@ -3736,7 +3736,7 @@ Version: 2.0.9
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 4300
-Filename: ./debs/TrollStoreHelperRootless.deb
+Filename: ./debs/rootless/TrollStoreHelperRootless.deb
 Size: 2283896
 MD5sum: 97d836464f3103d633a8911847e969ab
 SHA1: 19bd178b4cbde7093ff8a8c1d5aa76efbbdbf6af
@@ -3752,7 +3752,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 136
 Depends: mobilesubstrate, oldabi
-Filename: ./debs/TrustEvaluatorRootless.deb
+Filename: ./debs/rootless/TrustEvaluatorRootless.deb
 Size: 4332
 MD5sum: 7ded46e2ff62b7bbd56e3ace82914008
 SHA1: 8423937419f1c3db7ad069bd8ba30bd416b173d1
@@ -3769,7 +3769,7 @@ Maintainer: @B6_7E
 Installed-Size: 232
 Depends: dimentio (>=99) | com.0x7ff.dimentio (>=2.0.0)
 Conflicts: co.dynastic.TSSsaver
-Filename: ./debs/TSSSaver.deb
+Filename: ./debs/rootful/TSSSaver.deb
 Size: 65906
 MD5sum: e8cac32868b415e571fb6cde582fea18
 SHA1: 17d120c37fa475c758546e5d91cba16612dd398c
@@ -3785,7 +3785,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/Turkey.deb
+Filename: ./debs/rootful/Turkey.deb
 Size: 15262
 MD5sum: b770f5d1b79b188c01ca87c555c2207e
 SHA1: fa590c1c884c47e104f49f254994034b3c237657
@@ -3802,7 +3802,7 @@ Maintainer: @B6_7E
 Installed-Size: 528
 Depends: mobilesubstrate
 Conflicts: com.restiveconch.actionbar,com.udevs.dockx
-Filename: ./debs/UnderDock.deb
+Filename: ./debs/rootful/UnderDock.deb
 Size: 81128
 MD5sum: 46b3a1643ed4686a560dca037b68b364
 SHA1: 700805bc96339e1635ada62212227be1492d2992
@@ -3819,7 +3819,7 @@ Maintainer: @B6_7E
 Installed-Size: 528
 Depends: mobilesubstrate
 Conflicts: com.restiveconch.actionbar,com.udevs.dockx
-Filename: ./debs/UnderDockRootless.deb
+Filename: ./debs/rootless/UnderDockRootless.deb
 Size: 81284
 MD5sum: 2b0142818a66016fe15bae62b1e71c02
 SHA1: 0113b91a570fc86bfcfa5c12e1578cabf00cde5d
@@ -3835,7 +3835,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 406
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
-Filename: ./debs/UserscriptManager.deb
+Filename: ./debs/rootful/UserscriptManager.deb
 Size: 38570
 MD5sum: 392736d701dd7cb058a0a7a361c7f09d
 SHA1: 162ef521644bfe16c01618372bac8067954e770a
@@ -3855,7 +3855,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1416
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/Violet.deb
+Filename: ./debs/rootful/Violet.deb
 Size: 424000
 MD5sum: 13d09161aef85462eeabd7a772d2f5c0
 SHA1: 53e021c1c26224d7598e28cc5cbca3f602c35a3d
@@ -3872,7 +3872,7 @@ Maintainer: @B6_7E
 Installed-Size: 1420
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/VoiceChangerXSRootless.deb
+Filename: ./debs/rootless/VoiceChangerXSRootless.deb
 Size: 448050
 MD5sum: ca75f571ed48c64efc7e5034ab1d5675
 SHA1: abb1178ee11ec8475c609b3c29e455b96090abae
@@ -3890,7 +3890,7 @@ Maintainer: @B6_7E
 Installed-Size: 1420
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/VoiceChangerXS.deb
+Filename: ./debs/rootful/VoiceChangerXS.deb
 Size: 449788
 MD5sum: 1b50190e227305a36aa91773832826e8
 SHA1: 3a2c2b2693af8af0b9a494888654b0580f9f1095
@@ -3907,7 +3907,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/Watched.deb
+Filename: ./debs/rootful/Watched.deb
 Size: 8902
 MD5sum: 0240edbf364a70a01559c9a9d0c76e80
 SHA1: 563fda1e58e6fd22f11ab664c382b9ae5e0a43c8
@@ -3923,7 +3923,7 @@ Architecture: iphoneos-arm64e
 Maintainer: @B6_7E
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/WatchedRootHide.deb
+Filename: ./debs/roothide/WatchedRootHide.deb
 Size: 8932
 MD5sum: cf7bf0cdd94ca898a0654c709fa91f59
 SHA1: 9636951c241cd2dc91112d4465854a7b7df2332d
@@ -3939,7 +3939,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/WatchedRootless.deb
+Filename: ./debs/rootless/WatchedRootless.deb
 Size: 8982
 MD5sum: c3cd4a19dc9f88da290944a27c16ab11
 SHA1: c4336aefcd432358f0735437e2b356b2c7ace53d
@@ -3956,7 +3956,7 @@ Maintainer: @B6_7E
 Installed-Size: 6772
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.17), com.muirey03.libmryipc
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/Watusi3forWhatsApp.deb
+Filename: ./debs/rootful/Watusi3forWhatsApp.deb
 Size: 2647488
 MD5sum: 95308b16d534345d247e6383986dcdfd
 SHA1: bdbaa3a01a799948e0f2e4fb01404a7e510a5f33
@@ -3973,7 +3973,7 @@ Maintainer: @B6_7E
 Installed-Size: 6604
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitoolsrootless (>= 2.4.17)
 Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/Watusi3forWhatsAppRootless.deb
+Filename: ./debs/rootless/Watusi3forWhatsAppRootless.deb
 Size: 2572846
 MD5sum: fc4440c9b2e9a55247b2fde1549767b4
 SHA1: 5fa8852527b69622dba700076b2e5f31092c3e51
@@ -3989,7 +3989,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
-Filename: ./debs/WhatsappRevael.deb
+Filename: ./debs/rootful/WhatsappRevael.deb
 Size: 1430752
 MD5sum: 525cf4dcca2c952db56fadda5bf2c1d1
 SHA1: 6ae611d6016a92057ecbab0adcd063d5b1dca5ed
@@ -4007,7 +4007,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
-Filename: ./debs/WhatsappRevaelRootless.deb
+Filename: ./debs/rootless/WhatsappRevaelRootless.deb
 Size: 1430894
 MD5sum: edc4b8108ba1b87c84339d34d03018a7
 SHA1: be6afec61eb72a24c07d1dc22c2f2e8045bafd5f
@@ -4025,7 +4025,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 7296
 Depends: mobilesubstrate
-Filename: ./debs/wickedOld.deb
+Filename: ./debs/rootful/wickedOld.deb
 Size: 3964330
 MD5sum: 90d76c0282d84bb18504ad21e6e1814f
 SHA1: a2163f286583573200ac456c0bf9337d2cfb4b4f
@@ -4040,7 +4040,7 @@ Version: 12.77.0.42-1+debug
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate
-Filename: ./debs/WikPlus.deb
+Filename: ./debs/rootful/WikPlus.deb
 Size: 358106
 MD5sum: 6ecbc69efd857b8a15e97d36a86024b0
 SHA1: 37f86b52e1d28654ee26ea06bf564f985b513526
@@ -4056,7 +4056,7 @@ Version: 12.77.0.42-1+debug
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate
-Filename: ./debs/WikPlusRootless.deb
+Filename: ./debs/rootless/WikPlusRootless.deb
 Size: 351004
 MD5sum: 75754397eea09264bfb15b6905a5757d
 SHA1: 00a721f04f1bebe3f3b872ff0282db30bf59007a
@@ -4073,7 +4073,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 12212
 Depends: mobilesubstrate, firmware (>= 5.0)
-Filename: ./debs/Wolf.deb
+Filename: ./debs/rootful/Wolf.deb
 Size: 3959248
 MD5sum: cd9f331ab6a2af8e3cb57558850fc564
 SHA1: f8343c302619106fab59db6bdde6cbeafdf46d72
@@ -4093,7 +4093,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 564
 Depends: ellekit, file, odcctools, ldid, oldabi | cy+cpu.arm64, firmware (>= 15.0)
-Filename: ./debs/Xinamine.deb
+Filename: ./debs/rootful/Xinamine.deb
 Size: 119784
 MD5sum: 2faa432af928c805fba1e148af4cd249
 SHA1: c9a3f6b88f226f26c57435c2cb72f0d69fdc18e0
@@ -4109,7 +4109,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
 Conflicts: com.cunstuck.xline
-Filename: ./debs/XLine.deb
+Filename: ./debs/rootful/XLine.deb
 Size: 243076
 MD5sum: 6d3df27efec2c73732d7001d6bcb2b89
 SHA1: 629c519986f7400cfbe4e27c729149f7f1a5431a
@@ -4128,7 +4128,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: ./debs/YouTubeReborn.deb
+Filename: ./debs/rootful/YouTubeReborn.deb
 Size: 11988178
 MD5sum: b7ef908c0aa0a66865315692c93dbe95
 SHA1: d08786254793d8dba040784c89d7252775aff2a0
@@ -4147,7 +4147,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: ./debs/YouTubeRebornRootless.deb
+Filename: ./debs/rootless/YouTubeRebornRootless.deb
 Size: 11988212
 MD5sum: e9be724d702b0c2d8e35d80b77b31911
 SHA1: a0123325136a583580c74ac64a54b5e317b5f6b9
@@ -4163,7 +4163,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 328
 Depends: mobilesubstrate
-Filename: ./debs/YTLite.deb
+Filename: ./debs/rootful/YTLite.deb
 Size: 98666
 MD5sum: c1b9e678476929b9baea905809938fda
 SHA1: 99e47bc99ed3d6cd9c9e81c0159b11ac77cffc83
@@ -4179,7 +4179,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 328
 Depends: mobilesubstrate
-Filename: ./debs/YTLiteRootless.deb
+Filename: ./debs/rootless/YTLiteRootless.deb
 Size: 98758
 MD5sum: 90d5fc4e9bc6c0d858590b26c3184877
 SHA1: 31f27bb3ae145409af91ff3504b0338ca3ff56ad
@@ -4195,7 +4195,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 5280
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.peterdev.libpddokdo, com.mrgcgamer.libgcuniversal
-Filename: ./debs/Yuna.deb
+Filename: ./debs/rootful/Yuna.deb
 Size: 3544562
 MD5sum: ae9f645be289e4283e70bd5a80d2a42a
 SHA1: 44cf87be8d6610c91f820d8ad10e65c7ef44ddcd
@@ -4211,7 +4211,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 10996
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
-Filename: ./debs/Zetsu.deb
+Filename: ./debs/rootful/Zetsu.deb
 Size: 9989810
 MD5sum: abdba6060158c52e0d99724c89700b83
 SHA1: f7b40f65c10e476a233f520493bcaf7b8f08150d
@@ -4228,7 +4228,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 11004
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
-Filename: ./debs/ZetsuRootless.deb
+Filename: ./debs/rootless/ZetsuRootless.deb
 Size: 9990186
 MD5sum: 6650a377e7af61240926ebd2f7abf152
 SHA1: b53b81573373cc0fd26f2079cbb4d26959b7969b
@@ -4244,7 +4244,7 @@ Version: 0.1.0-beta1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: firmware (>= 14.0)
-Filename: ./debs/ZomigleRootless.deb
+Filename: ./debs/rootless/ZomigleRootless.deb
 Size: 21016
 MD5sum: 1808e0723964543bfa5965795fcb0fe0
 SHA1: c947b473e5b165389b9d08c153d1a5d5717ea0a4
@@ -4260,7 +4260,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 728
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/Ants.deb
+Filename: ./debs/rootful/Ants.deb
 Size: 124590
 MD5sum: 2fadfd5961c326c165d68e736c239ed0
 SHA1: 0426121e82cc642f602b91ba36070106bb1317a1
@@ -4276,7 +4276,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 1480
 Depends: mobilesubstrate
-Filename: ./debs/BHTikTokRootless.deb
+Filename: ./debs/rootless/BHTikTokRootless.deb
 Size: 625054
 MD5sum: d64fc5bbfbd01b9069c4e5e506e46ed8
 SHA1: 49ff8f902fc687caa196c27388bd21837e46c6a2
@@ -4292,7 +4292,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 960
 Pre-Depends: firmware (>= 7.0)
-Filename: ./debs/libcscolorpicker.deb
+Filename: ./debs/rootful/libcscolorpicker.deb
 Size: 306696
 MD5sum: 25ab7c0e7bf1cf06947ec59d43b9c2bb
 SHA1: e04d45d909396579167d136ea859e25a98fde684
@@ -4309,7 +4309,7 @@ Architecture: iphoneos-arm
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 10.0), darwintools
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
-Filename: ./debs/WatusiTools.deb
+Filename: ./debs/rootful/WatusiTools.deb
 Size: 5979310
 MD5sum: 28b35f8f449d98066336011f7d6a3c03
 SHA1: 3cc3d0ee433a2e115b5407c4e33f8fd4aea7dd38
@@ -4326,7 +4326,7 @@ Architecture: iphoneos-arm64
 Maintainer: Fouad Raheb <support@fouadraheb.com>
 Depends: firmware (>= 10.0), darwintools
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
-Filename: ./debs/WatusiToolsRootless.deb
+Filename: ./debs/rootless/WatusiToolsRootless.deb
 Size: 6028136
 MD5sum: d02e3f9f0f92d8eee530891418748c65
 SHA1: 9b861c8cba277de2005f05abd4bcd73d313d1fb1
@@ -4343,7 +4343,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 316
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
-Filename: ./debs/libhdev.deb
+Filename: ./debs/rootful/libhdev.deb
 Size: 76748
 MD5sum: 1ad3b18aa6fbddde14ae485cef667a17
 SHA1: ee0dfd098b418df5ce41ee48411372a6fc6ae0d3
@@ -4359,7 +4359,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 1216
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/Escape.deb
+Filename: ./debs/rootful/Escape.deb
 Size: 826920
 MD5sum: 1da34b908338febbbb8aa4c0315ad895
 SHA1: 611d65ffe701b5eb6e5cc6e57ddb0df872b7ec4c
@@ -4375,7 +4375,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 807
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./debs/Anilaunch.deb
+Filename: ./debs/rootful/Anilaunch.deb
 Size: 244512
 MD5sum: 65c9167b3561af2087176b2f21757dd4
 SHA1: 642ee207b2492ddaf288b0df82ffad98b91554fe
@@ -4394,7 +4394,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 924
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/Kayoko.deb
+Filename: ./debs/rootful/Kayoko.deb
 Size: 174436
 MD5sum: dc894fcb081c5ccd8b6da2528ff2e3ea
 SHA1: de5aff2646415f7cd451f3c14d5e924a7a1c07cc
@@ -4410,7 +4410,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 4604
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/CopyLog.deb
+Filename: ./debs/rootful/CopyLog.deb
 Size: 2122496
 MD5sum: 6656afabc03cae2f57dbf7bb4e748f16
 SHA1: 75eee0714e044174d5a77cc1de5f1d1240a7efac
@@ -4426,7 +4426,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: mobilesubstrate
 Conflicts: dev.zero.wicked
-Filename: ./debs/wickedRootless.deb
+Filename: ./debs/rootless/wickedRootless.deb
 Size: 3909276
 MD5sum: f0bf68e9d46fca6267f1d623d216d983
 SHA1: e296e6d9c7dcce88c83c8c2b66d7e3a0bb1ad398
@@ -4442,7 +4442,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: mobilesubstrate
 Conflicts: dev.zero.wicked
-Filename: ./debs/wicked.deb
+Filename: ./debs/rootful/wicked.deb
 Size: 4329354
 MD5sum: 521e19b836f72edf12e47e864a4df1b4
 SHA1: 1a845d00623b41979810bc3de932357db94da63e
@@ -4458,7 +4458,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 332
 Depends: mobilesubstrate
-Filename: ./debs/libbulletin.deb
+Filename: ./debs/rootful/libbulletin.deb
 Size: 61140
 MD5sum: 7d60f99edd86c7e223f8439c4b2e5263
 SHA1: ea0972f94c94ea2d6b167743cfd107a8ea0aa27d
@@ -4474,7 +4474,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 348
 Depends: mobilesubstrate
-Filename: ./debs/libbulletinRootless.deb
+Filename: ./debs/rootless/libbulletinRootless.deb
 Size: 57428
 MD5sum: 8057add76e7f8aa5d1bfd80af36aefc7
 SHA1: af971dd2e85ba7d23a98c302d3ad81c5003bdcf2
@@ -4490,7 +4490,7 @@ Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/SimpleActivationActions.deb
+Filename: ./debs/rootful/SimpleActivationActions.deb
 Size: 9424
 MD5sum: 2fd64b88944b8b35a379e3935c6b1706
 SHA1: 2970f10d052f17f2020e5b7e295e5a57df309a38
@@ -4507,7 +4507,7 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/SimpleActivationActionsRootless.deb
+Filename: ./debs/rootless/SimpleActivationActionsRootless.deb
 Size: 10678
 MD5sum: 164bff0e68f202e1e0aa857bc8925519
 SHA1: 62ffb8355ee2e8ce82f72886e013c65994705413
@@ -4526,14 +4526,14 @@ Installed-Size: 392
 Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
-Filename: ./debs/libcolorpicker.deb
-Size: 112616
-MD5sum: 17cbc2a3376366becec4aa77077b254a
-SHA1: 765b09d981fa6b1f8a98a01801ece852df07d3b8
-SHA256: 8ef89b29149bebf56c4bee15bf807498eb55b45fce3271682629c46ed77f78dc
-Section: System
+Filename: ./debs/rootless/libcolorpickerRootless.deb
+Size: 112610
+MD5sum: e63e9b13e98a6f2135f86c1ee84f574e
+SHA1: a89f8cedd73180d9c3060f58e1b05266dd75e159
+SHA256: e520868b4d8bdcf0ae3a5701ae010d97bc5007806610e9e95a57fd63f1da0eb6
+Section: Tweaks
 Description: An awesome library of some sort!!
 Tag: role::developer
 Author: BekEs - بيكاس
-Name: Z.libcolorpicker (Unofficial)
+Name: Z.libcolorpicker Rootless
 
