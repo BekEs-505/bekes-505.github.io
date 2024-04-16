@@ -15,15 +15,15 @@ Author: BekEs - بيكاس
 Name: BHTwitter
 
 Package: com.bekes-505.github.io.AlDente
-Version: 0.1-1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 5.0)
 Filename: ./debs/rootful/AlDente.deb
-Size: 2448216
-MD5sum: bc274d9a8becc90a19475fb541cd32b0
-SHA1: 00d2d3650edc3837a7825fbfc07d68744513f59c
-SHA256: 1d2a1c8fd411c03a7d21447f885b711aadf6e2887648186a267f07837bd65e2d
+Size: 2282728
+MD5sum: 19f51dd3d550567772ea54bf0319d013
+SHA1: 89342bab12dab1032a15ef12821839946fcf2841
+SHA256: 69957aa08fb5421c5a65260f4d113b032cd755ef398653cb4110f0a1520e9287
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : وقوف الشحن عند نسبة معينة لتجنب نقص عمر البطارية و تزيد في عمر البطارية
@@ -219,35 +219,35 @@ Author: BekEs - بيكاس
 Name: Akacia
 
 Package: com.bekes-505.github.io.amber
-Version: 1.2.0
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 368
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
 Filename: ./debs/rootful/Amber.deb
-Size: 17866
-MD5sum: 48f269437807cf6eddf97b616ff90f60
-SHA1: 3d8baf3d36fbedf39f6c1abd2249efd6e5b16d16
-SHA256: 5fac914c19383196b9a6a7e6c358688c85100bfa6e0c193e8f210310051949fc
+Size: 18462
+MD5sum: ad59af44d0e708a310d2dd664a646b4f
+SHA1: 09f4902d959eb19a35553c2f222db86806f08607
+SHA256: d68642a7fbae8423d33e51613bfedf8b5f754d42df9b16ca1fb192c11198bc16
 Section: Tweaks
 Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
 Author: BekEs - بيكاس
 Name: Amber
 
 Package: com.bekes-505.github.io.amberrootless
-Version: 1.2.0
+Version: 1.2.1
 Architecture: iphoneos-arm64
-Maintainer: PoomSmart
+Maintainer: @B6_7E
 Installed-Size: 368
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 14.0)
 Filename: ./debs/rootless/AmberRootless.deb
-Size: 18050
-MD5sum: 6837e61e311ef890d493c69af6f918d0
-SHA1: 503951cbcb178901d212f404dd280be52d7fdbbc
-SHA256: 897600dff9e67aa16eedd8fbb5fda5cabc45f120f973ae95a2bd155b0a7146ae
+Size: 18584
+MD5sum: a8a2b71af0058c9853143e1843e98e12
+SHA1: 0baf277f61423b9d33587d8f28fc2b89ada32764
+SHA256: f14fcad3bae2e1072cebf81cdf248a91c7d38c39b7eabe1bf133ee5bf7346a3a
 Section: Tweaks
 Description: اداة وظيفتها : تغيير لون الفلاش الاصفر عوضاُ عن الابيض
-Author: PoomSmart
+Author: BekEs - بيكاس
 Name: Amber Rootless
 
 Package: com.bekes-505.github.io.amonglock
@@ -510,6 +510,22 @@ Priority: optional
 Description: اداة وظيفتها : ابل ستور بلس لارجاع التطبيقات على اصدارات قديمھ ♡♡ ‏♯̶!.
 Author: BekEs - بيكاس
 Name: AppStore++
+
+Package: com.bekes-505.github.io.appstorerotles
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>=10.0), oldabi
+Filename: ./debs/rootless/AppStore++Rootless.deb
+Size: 16985452
+MD5sum: 4585236b555777cb4cf2a3851c82d7f7
+SHA1: c6c69b0db3e7826b42e0fb8642b3bfae76db8000
+SHA256: 653c884a7482663e8bb70da9208e2e81bdebea6f6c22e9d98092cce27d4b06a2
+Section: Tweaks
+Description: اداة وظيفتها : ابل ستور بلس لارجاع التطبيقات على اصدارات قديمھ
+Author: BekEs - بيكاس
+Name: AppStore++ Rootless
+Tags: compatible_min::ios10.0
 
 Package: com.bekes-505.github.io.astolfo
 Version: 1.2
@@ -4085,6 +4101,26 @@ Tag: purpose::extension
 Author: BekEs - بيكاس
 Dev: lema
 Name: Wolf
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.bekes-505.github.io.wolfrootless
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 12212
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debs/rootless/WolfRootless.deb
+Size: 3901326
+MD5sum: 661b8d1b65379c9d3db8a9f1ab3ce4ca
+SHA1: c1937aa5d258cd2ce1d0d2bfdf1c61c98927c9f0
+SHA256: 4b6301ca98456ce782a2e9a98c43d3db84bbf1296ac2955a3da71c1584120ba5
+Section: Tweaks
+Priority: optional
+Description: اداة وظيفتها : فيسبوك بلس حفظ الفيديو والصور ومنع الاعلانات تعطيل انك شفت الخاص تعطيل معرفة انك تكتب، تعطيل انك ما شفت الاستوري، تعطيل التقدم التلقائي في الاستوري
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: lema
+Name: Wolf Rootless
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.bekes-505.github.io.xinamine
