@@ -682,6 +682,22 @@ Dev: crazymind90
 Name: AVTools
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bekes-505.github.io.avtoolsrootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 204
+Depends: firmware (>= 13.0),mobilesubstrate, cm90.crossoveripc
+Filename: ./debs/rootless/AVToolsRootless.deb
+Size: 24896
+MD5sum: e64c926767f2ceb7685a46b7379e367d
+SHA1: 1a289c00f8d1b23226ac70f8224262ea8b7ce058
+SHA256: 4b7be0273a942e20f89f413c9360585c5a8bd01c4ac09c9b22613e3cc2d319f7
+Section: Tweaks
+Description: اداة وظيفتها : تقديم المقطع في المشغل الايفون الاساسي من 15 ثانية الي اي وقت تضعه انت وفيه ميزة اغلاق تحرك الجوال وقفل على حسب الاتجاه
+Author: BekEs - بيكاس
+Name: AVTools Rootless
+
 Package: com.bekes-505.github.io.backrunner
 Version: 0.1.7
 Architecture: iphoneos-arm
