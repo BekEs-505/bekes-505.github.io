@@ -762,32 +762,32 @@ Author: BekEs - بيكاس
 Name: Bfdecrypt Rootless
 
 Package: com.bekes-505.github.io.bhinsta
-Version: 0.0.1
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 408
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/rootful/BHinsta.deb
-Size: 111896
-MD5sum: 601c67a10f244294bd43eacb292a0bd8
-SHA1: 4bac4baefe0ca89e3660f9c08d49c5570052e31a
-SHA256: 1ebe4be4508d944ed665eb708e9f87171ecba770dbcdfdca621f128ae7cd3566
+Installed-Size: 652
+Depends: mobilesubstrate
+Filename: ./debs/rootful/BHInsta.deb
+Size: 220126
+MD5sum: 7ba8e6b8adc266540fe814ef2d069f02
+SHA1: a138adcb56949c91eb7a7d533e0904162d653220
+SHA256: 78149f693b872cf031f4773a2be850a0ef15b9cd733efe19784a8733726ab97a
 Section: Tweaks
 Description: اداة وظيفتها : انستقرام بلس لحفظ المقاطع ونسخ الوصف وتعليقات ومميزات كثيره
 Author: BekEs - بيكاس
 Name: BHInsta
 
 Package: com.bekes-505.github.io.bhinstarootless
-Version: 0.0.1
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 408
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/rootless/BHinstaRootless.deb
-Size: 111988
-MD5sum: 3ebdcaa42869f323eb4c3040cf7788e0
-SHA1: 7c02531087081ce819aab8f552294ab70744789b
-SHA256: 7b26863a66d4cea6a61af454931de0617ef2f9d0b0296be00f534cba2876d1f0
+Installed-Size: 652
+Depends: mobilesubstrate
+Filename: ./debs/rootless/BHInstaRootless.deb
+Size: 220090
+MD5sum: a522e417c4ce9351cec308cba237db6c
+SHA1: 53aa5d11de52fbe52c9aec765341e1103ed7ede5
+SHA256: 3fc5c77cb4465240f781ed4e34a76d40204a1738a4954d88ea954fc7c2bf1167
 Section: Tweaks
 Description: اداة وظيفتها : انستقرام بلس لحفظ المقاطع ونسخ الوصف وتعليقات ومميزات كثيره
 Author: BekEs - بيكاس
@@ -1420,6 +1420,36 @@ Description: اداة وظيفتها : تضيف لك شريط في الدوك ا
 Author: BekEs - بيكاس
 Name: DockSearch
 
+Package: com.bekes-505.github.io.doodle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: preferenceloader
+Filename: ./debs/rootful/Doodle.deb
+Size: 3628126
+MD5sum: 180617d039563fef8cbe51d647cd3927
+SHA1: 4264a9e93dbd55d631b7d09e271ef588bceebf6a
+SHA256: 10709e26d978180fd72f519e84b3ea1af6e7f620f0ffeb43af8ca62ff35c3d91
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بتغيير طريقة فتح قفل الشاشة عبر الرسم على الشاشة تقدر تحدد شكل
+Author: BekEs - بيكاس
+Name: Doodle
+
+Package: com.bekes-505.github.io.doodlerootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: preferenceloader
+Filename: ./debs/rootless/DoodleRootless.deb
+Size: 3630098
+MD5sum: 83f1a524396e2a0a6d4a02ce32092200
+SHA1: aa3b050718f0fc4651cf717598f2288fbf6698ec
+SHA256: ae91ec605cd7d5bc46b71ca9ba54531a5224e5322c4c5628c70507baeab464f8
+Section: Tweaks
+Description: اداة وظيفتها : تسمح لك بتغيير طريقة فتح قفل الشاشة عبر الرسم على الشاشة تقدر تحدد شكل الرسمة من الاعدادت
+Author: BekEs - بيكاس
+Name: Doodle Rootless
+
 Package: com.bekes-505.github.io.dr4w
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -1706,6 +1736,22 @@ Description: اداه وظيفتها : لتصفح ملفات الايفون وا
 Author: BekEs - بيكاس
 Name: Filza File Manager Rootless
 
+Package: com.bekes-505.github.io.fixpay14
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 436
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/ApplePayiOS14.deb
+Size: 32476
+MD5sum: 5f7a203acc2d9b7d777dba15e8c32100
+SHA1: e2e85d997f2ed20e92b2f3d60e1c7cd185773c75
+SHA256: b812e91107f820f286d49d849c94f200ca0e6804bcfcc8b0f261526b1711fcc8
+Section: Tweaks
+Description: اداة وظيفتها : تخطي تحديث النظام لتشغيل بطايق الصراف في الجوال
+Author: BekEs - بيكاس
+Name: Apple Pay iOS 14
+
 Package: com.bekes-505.github.io.floatingdockxvi
 Version: 1.9
 Architecture: iphoneos-arm
@@ -1737,6 +1783,40 @@ Section: Tweaks
 Description: اداة وظيفتها : جلب ميزة وشكل الدوك السفلي الموجود في اجهزة الايباد الى الايفون
 Author: BekEs - بيكاس
 Name: FloatingDockXVI Rootless
+
+Package: com.bekes-505.github.io.fouackoff104033
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 280
+Depends: mobilesubstrate
+Replaces: com.bekes-505.github.io.fouackoff147162
+Filename: ./debs/rootful/FouadCrack.deb
+Size: 71228
+MD5sum: 674b66f6dd645dfff49e9011c75dfe29
+SHA1: bfc9cdd648c5aae1f76a0a6da119a591642e9a17
+SHA256: a8f5f5f1e9fe56a9cde4be7c839790f41ec13fc4f95ed68c3279187e1e5db83d
+Section: Tweak
+Description: اداة وظيفتها : كراك جميع ادوات الواتساب لفتح جميع المميزات
+Author: BekEs - بيكاس
+Name: Fouad Crack
+
+Package: com.bekes-505.github.io.fouackorootless
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 280
+Depends: mobilesubstrate
+Replaces: com.bekes-505.github.io.fouackoff147162
+Filename: ./debs/rootless/FouadCrackRootless.deb
+Size: 76114
+MD5sum: 72a9dd2e4df7d94154e3c60e44946bbb
+SHA1: 5211ad9969a9d747740b74ec91b4913cf3677fd4
+SHA256: f718f9d619e4caffc1ea4e8f98d645a6949d0b08f7f49dacde6e9aefa7587525
+Section: Tweak
+Description: اداة وظيفتها : كراك جميع ادوات الواتساب لفتح جميع المميزات
+Author: BekEs - بيكاس
+Name: Fouad Crack Rootless
 
 Package: com.bekes-505.github.io.gif2ani2
 Version: 2.1
@@ -3093,16 +3173,16 @@ Author: BekEs - بيكاس
 Name: RGBoard Rootless
 
 Package: com.bekes-505.github.io.rocket
-Version: 3.8.24
+Version: 3.8.27
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/rootful/RocketforInstagram.deb
-Size: 2290778
-MD5sum: c81d15e56bb3e6d969a62d17ae57ef07
-SHA1: 474b1d9f38ddada81c8a1bbd951eaa37c7c1845e
-SHA256: b9aac4e4933dcbd50f3adefb49363e52e73ec4bff0021257d675cf5e7ae000e7
+Size: 2292710
+MD5sum: 6ce74a57cff2e7730f771613b9f8e189
+SHA1: e3f29fe3d8839a6556562e3132953ee4c70a4adc
+SHA256: 725022bf8fd8707908c71e1144e06d4a89e4d473298939a4b925a2053443fc61
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -3110,16 +3190,16 @@ Author: BekEs - بيكاس
 Name: Rocket for Instagram
 
 Package: com.bekes-505.github.io.rocketrootless
-Version: 3.8.24
+Version: 3.8.27
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/rootless/RocketforInstagramRootless.deb
-Size: 2291664
-MD5sum: ea4cb87183176cc14c18afce06634a07
-SHA1: 7baad1af5c8e599d5bbecf9e2cfc29738219c2c2
-SHA256: 86affa2a7bd2538e6c2a09074e25886920ec9180114fcb4915687735915f218d
+Filename: ./debs/rootless/RocketForInstagramRootless.deb
+Size: 2293796
+MD5sum: e29e87c7218b954be07ecb4c6ffbb478
+SHA1: 10880320016105caad4bc42ab3c0b2c644d15eff
+SHA256: c67ea8a7e375f06430af600b748a7884a794bac163ac542d116455d9d85f436a
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -3189,6 +3269,21 @@ Section: Tweaks
 Description: اداة وظيفتها : الشراء من داخل التطبيقات والالعاب
 Author: BekEs - بيكاس
 Name: Satella Rootless
+
+Package: com.bekes-505.github.io.scinstarootless
+Version: 0.4.1-1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/rootless/SCInstaRootless.deb
+Size: 973900
+MD5sum: a2722ea244dcf325b6818c84dc114658
+SHA1: 036d12c526b1c4c663d6568ec32af1eb338e3f91
+SHA256: ba4cb41a4d3c7dedab5cf30e9e1eeacda4098986a24bf4e732fe242942914d79
+Section: Tweaks
+Description: اداة وظيفتها : انستقرام بلس لحفظ وحذف الاعلانات ونسخ مميزات كثيره
+Author: BekEs - بيكاس
+Name: SCInsta Rootless
 
 Package: com.bekes-505.github.io.sentinel
 Version: 1.3.2
@@ -3466,6 +3561,21 @@ Section: Tweaks
 Description: اداة وظيفتها : سناب بلس حفظ رفع فتح مميزات المدفوعه وتغير الموقع والكثير
 Author: BekEs - بيكاس
 Name: SnapSniper
+
+Package: com.bekes-505.github.io.snapsniperotles
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate
+Filename: ./debs/rootless/SniperForSnapchatRootless.deb
+Size: 322484
+MD5sum: 005aa6bc8c30e4ff0877412567eb87e8
+SHA1: 07a11e9623ba8181f30d8bc79654c8e51b18ead5
+SHA256: 77570ffc7c2b6865c108107ee706073571482e4d49a082848ecbfae1b01d053b
+Section: Tweaks
+Description: اداة وظيفتها : سناب بلس لتنزيل والرفع والتخفي وحظر الاعلانات والمميزات كثيره
+Author: BekEs - بيكاس
+Name: Sniper For Snapchat Rootless
 
 Package: com.bekes-505.github.io.sneakycam
 Version: 2.0.6
@@ -3880,6 +3990,21 @@ Author: BekEs - بيكاس
 Dev: teunstrik
 Name: Userscript Manager
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.bekes-505.github.io.varcleanrootless
+Version: 0.7
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>= 15.0)
+Filename: ./debs/rootless/varCleanRootless.deb
+Size: 763300
+MD5sum: 5ccc8289f43602beeacc4628009f75a3
+SHA1: 8a4cf45ad84a86d8c2bf424d4a228ecabadd17ab
+SHA256: 28db5b029a9354f7fdf8f363b902167287dfccb6e4c841b23bff123c384369fb
+Section: Tweaks
+Description: RootHide's varClean Feature for rootless JB's by Wajih AL-Mehdhar
+Author: BekEs - بيكاس
+Name: varClean Rootless
 
 Package: com.bekes-505.github.io.violet
 Version: 1.6-4+debug
