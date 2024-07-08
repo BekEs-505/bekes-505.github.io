@@ -762,32 +762,32 @@ Author: BekEs - بيكاس
 Name: Bfdecrypt Rootless
 
 Package: com.bekes-505.github.io.bhinsta
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 652
+Installed-Size: 648
 Depends: mobilesubstrate
 Filename: ./debs/rootful/BHInsta.deb
-Size: 220126
-MD5sum: 7ba8e6b8adc266540fe814ef2d069f02
-SHA1: a138adcb56949c91eb7a7d533e0904162d653220
-SHA256: 78149f693b872cf031f4773a2be850a0ef15b9cd733efe19784a8733726ab97a
+Size: 223872
+MD5sum: 346dbd98b150b5b452a03c203490eb1d
+SHA1: 2e18dfe6a0d8e18e948eda94cac93a9f49139772
+SHA256: 1f2cf29e46b91ca0006e93eced8201cdd85e3dd1bdb1ca80b227adbf09421801
 Section: Tweaks
 Description: اداة وظيفتها : انستقرام بلس لحفظ المقاطع ونسخ الوصف وتعليقات ومميزات كثيره
 Author: BekEs - بيكاس
 Name: BHInsta
 
 Package: com.bekes-505.github.io.bhinstarootless
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 652
+Installed-Size: 648
 Depends: mobilesubstrate
 Filename: ./debs/rootless/BHInstaRootless.deb
-Size: 220090
-MD5sum: a522e417c4ce9351cec308cba237db6c
-SHA1: 53aa5d11de52fbe52c9aec765341e1103ed7ede5
-SHA256: 3fc5c77cb4465240f781ed4e34a76d40204a1738a4954d88ea954fc7c2bf1167
+Size: 223766
+MD5sum: 6b33be181f6e7457180ef966f9c3e7ba
+SHA1: 1770395b26066e013d466ae6b565bac673d90216
+SHA256: 470daa1dc96f76c165b84ac7bd9e7dd1750e0e1da0a1c7208328819f6ca06db6
 Section: Tweaks
 Description: اداة وظيفتها : انستقرام بلس لحفظ المقاطع ونسخ الوصف وتعليقات ومميزات كثيره
 Author: BekEs - بيكاس
@@ -2277,6 +2277,40 @@ Section: Tweaks
 Description: اداة وظيفتها : تستغل المساحة الفارغة في اسفل لوحة المفاتيح بإضافة الاختصارات تحديد و لصق و نسخ للنص 
 Author: BekEs - بيكاس
 Name: KBPro
+
+Package: com.bekes-505.github.io.keyboardtools
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 601
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/KeyboardTools.deb
+Size: 177016
+MD5sum: 5a2f9c9ea09342386a256d388bf2f719
+SHA1: 352e14e0f024c512e8f6ed9e68351f6d46453801
+SHA256: ac7c67a9259d7da916f86485f4ea905137d5c9340b5898c1f5e56da05dc904ad
+Section: Tweaks
+Description: اداة وظيفتها : تستبدل لك خيارت التنبؤو بالكيبورد الى خيارات النسخ واللصق وتحديد الكل
+Tag: purpose::extension, compatible::ios13
+Author: BekEs - بيكاس
+Dev: BekEs - بيكاس
+Name: KeyboardTools
+
+Package: com.bekes-505.github.io.keyboardtoolsrotles
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/KeyboardToolsRootless.deb
+Size: 11930
+MD5sum: 559b27fcdc98860ef9115b0660df9d72
+SHA1: 11e9405bdaab7ada69b92523672dc3074386dbe7
+SHA256: c502b8b646ba758d5ab469433167c81ea6f6827d3eaa40cae31f62a81168665f
+Section: Tweaks
+Description: اداة وظيفتها : تستبدل لك خيارت التنبؤو بالكيبورد الى خيارات النسخ واللصق وتحديد الكل
+Author: BekEs - بيكاس
+Name: KeyboardTools Rootless
 
 Package: com.bekes-505.github.io.koi
 Version: 1.1.7-ok15
