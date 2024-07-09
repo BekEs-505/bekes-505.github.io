@@ -30,6 +30,42 @@ Description: اداة وظيفتها : وقوف الشحن عند نسبة مع�
 Author: BekEs - بيكاس
 Name: AlDente
 
+Package: com.bekes-505.github.io.Flex3beta
+Version: 1:3~Beta98
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/rootful/Flex3Beta.deb
+Size: 14346650
+MD5sum: 82cbd7adb2cda024b820258f57d5bd9c
+SHA1: e019d80682f928efc8ad583acf800557e0272442
+SHA256: 291e8a56b4c2340b426b8d4ee1685e6ae45db9d68708bdc78bf0e8c16e66c262
+Section: Tweaks
+Description: اداة وظيفتها : لعمل هاكات وتخطيات وتهكير العاب وتطبيقات واشياء كثيره
+Author: BekEs - بيكاس
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: com.bekes-505.github.io.Flex3betarootles
+Version: 1:3~Beta56
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog
+Filename: ./debs/rootless/Flex3BetaRootless.deb
+Size: 24386538
+MD5sum: 8daa548547d01f3628a73963a4c31d4f
+SHA1: 03154e060db29ed10bf807d61bd4ec017bcf1940
+SHA256: d90539a01d183d4dd68ee62c08b5108946a782a54415eebdbb315010c5af294f
+Section: Tweaks
+Description: اداة وظيفتها : لعمل هاكات وتخطيات وتهكير العاب وتطبيقات واشياء كثيره
+Author: BekEs - بيكاس
+Name: Flex 3 Beta Rootless
+Recommended: com.rpetrich.rocketbootstrap
+
 Package: com.bekes-505.github.io.a-font
 Version: 1.10
 Architecture: iphoneos-arm
@@ -4055,6 +4091,40 @@ Section: Tweaks
 Description: اداة وظيفتها : تمكنك من عرض صورة الاغنية في مركز التحكم و شاشة القفل و الشاشة الرئيسية مع امكانية التحكم بها
 Author: BekEs - بيكاس
 Name: Violet
+
+Package: com.bekes-505.github.io.vnodebypass
+Version: 0.2.9
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 256
+Depends: firmware (>= 12.0)
+Filename: ./debs/rootful/VnodeBypass.deb
+Size: 74264
+MD5sum: 3b418782465a76d0fb078c7a230a5f27
+SHA1: 355c21d3257479fbe4343f70c14e756e84fc2035
+SHA256: 5804c876546b901714e4f3459adb66fdf0a54efa2f62476695a4c8da829b26bd
+Section: Tweaks
+Description: اداة وظيفتها : تخطي الجلبريك على تطبيق البنوك والالعاب والتطبيقات
+Tag: role::hacker, compatible::ios12, compatible::ios13, compatible::ios14
+Author: BekEs - بيكاس
+Name: vnodebypass
+
+Package: com.bekes-505.github.io.vnodebypassrotles
+Version: 0.4.2.W
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 532
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/rootless/VnodeBypassRootless.deb
+Size: 128432
+MD5sum: 17da086bd54d17f736b0cee286b85570
+SHA1: ff21693739b80310b1d6f07c74919950da7a39d0
+SHA256: 23ce3a6c75c9fd247bbd7f5d3efdab639f76d6e252ba50567fcd6476afae956a
+Section: Tweaks
+Description: اداة وظيفتها : تخطي الجلبريك على تطبيق البنوك والالعاب والتطبيقات
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: BekEs - بيكاس
+Name: Vnodebypass Rootless
 
 Package: com.bekes-505.github.io.voicechangerotles
 Version: 2.4-3
