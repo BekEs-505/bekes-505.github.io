@@ -1822,6 +1822,21 @@ Description: اداه وظيفتها : لتصفح ملفات الايفون وا
 Author: BekEs - بيكاس
 Name: Filza File Manager Rootless
 
+Package: com.bekes-505.github.io.filzascriptdev
+Version: 2.0
+Architecture: all
+Maintainer: @B6_7E
+Depends: dpkg, ldid, file, odcctools, com.bingner.plutil
+Filename: ./debs/FilzaScripts.deb
+Size: 18252
+MD5sum: 88fbc7c17390fdcb3cd9242c77147abf
+SHA1: bcc3cbcbe7bdde8f9c5af81577e849eb7883261d
+SHA256: f8df9bd3f92cf9fefa4b05fcb8d8b86ec828090e8272bf4cf0a0e5eeb384a2e3
+Section: Tweaks
+Description: اداة وظيفتها : سكربتات لفيلزا وامر مهمه لفل روت و الروثليس لتحويل ادوات والكثير
+Author: BekEs - بيكاس
+Name: Filza Scripts
+
 Package: com.bekes-505.github.io.fixpay14
 Version: 0.0.4
 Architecture: iphoneos-arm
