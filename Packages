@@ -14,6 +14,22 @@ Description: اداة وظيفتها : تويتر بلس مميزاته تتيح
 Author: BekEs - بيكاس
 Name: BHTwitter
 
+Package: com.bekes-505.github.io.6rbpatch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/rootful/Patch6rb.deb
+Size: 4582
+MD5sum: 79ffc2912fe83d50ba03b72eb7571998
+SHA1: 5666a432dba5da7ecc523000b7730d9d0168fa6d
+SHA256: bf91c8311c927a3087aaccc4d6dc6ff03f0f262457d16582ccb208550d24590a
+Section: Tweaks
+Description: اداة وظيفتها : حذف الاعلانات من تطبيق طرب
+Author: BekEs - بيكاس
+Name: Patch 6rb
+
 Package: com.bekes-505.github.io.AlDente
 Version: 1.1
 Architecture: iphoneos-arm
@@ -29,6 +45,24 @@ Priority: optional
 Description: اداة وظيفتها : وقوف الشحن عند نسبة معينة لتجنب نقص عمر البطارية و تزيد في عمر البطارية
 Author: BekEs - بيكاس
 Name: AlDente
+
+Package: com.bekes-505.github.io.Flex3beta
+Version: 1:3~Beta75
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/rootful/Flex3BetaPalera1nRootful.deb
+Size: 14725136
+MD5sum: d5f8ee8306084bfe5e9a9c0edd7d5473
+SHA1: 08deb04197d0f57f2e9afb31181725b7518fbdf9
+SHA256: f4765b7fb260241da53196bc799891c233c99c9cbb9bd33b4d0962d513644d87
+Section: Tweaks
+Description: اداة وظيفتها : لعمل هاكات وتخطيات وتهكير العاب وتطبيقات واشياء كثيره
+Author: BekEs - بيكاس
+Name: Flex 3 Beta Palera1n Rootful
+Recommended: com.rpetrich.rocketbootstrap
 
 Package: com.bekes-505.github.io.Flex3beta
 Version: 1:3~Beta98
@@ -1149,6 +1183,22 @@ Section: Tweaks
 Description: اداة وظيفتها : تعطيل ادوات من تطبيقات تقوم اختيار الاداه من تطبيق ويتم تعطيل الاداة ولا يمكن تشغيل داخل تطبيق
 Author: BekEs - بيكاس
 Name: Choicy Rootless
+
+Package: com.bekes-505.github.io.clicflyerpatch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/rootful/PatchClicFlyer.deb
+Size: 4280
+MD5sum: 4b55676117b360e052c666e921893f66
+SHA1: 00ec95ca5237e6cb4e6b50c59ef483070fb64625
+SHA256: 64b7d50465fcc39b26cb46f7e904fd7559ea78297c73ed509d927da0aaf95b72
+Section: Tweaks
+Description: اداة وظيفتها : حذف الاعلانات من تطبيق كليك فلاير
+Author: BekEs - بيكاس
+Name: Patch ClicFlyer
 
 Package: com.bekes-505.github.io.copypasta
 Version: 1.3.4
