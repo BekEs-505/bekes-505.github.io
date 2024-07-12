@@ -30,6 +30,22 @@ Description: اداة وظيفتها : حذف الاعلانات من تطبيق
 Author: BekEs - بيكاس
 Name: Patch 6rb
 
+Package: com.bekes-505.github.io.6rbpatchrootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 104
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/rootless/Patch6rbRootless.deb
+Size: 4662
+MD5sum: ccab0d577ec1ed053fd91a3ed20a21dc
+SHA1: bdedf1422eff97f8b268b76c3b9a62190a6f6e53
+SHA256: 33a5d7e9f64a26c3a4d5c80f0b8ad26f8e47664020758742bebc7b4f94f0ad65
+Section: Tweaks
+Description: اداة وظيفتها : حذف الاعلانات من تطبيق طرب
+Author: BekEs - بيكاس
+Name: Patch 6rb Rootless
+
 Package: com.bekes-505.github.io.AlDente
 Version: 1.1
 Architecture: iphoneos-arm
@@ -1199,6 +1215,22 @@ Section: Tweaks
 Description: اداة وظيفتها : حذف الاعلانات من تطبيق كليك فلاير
 Author: BekEs - بيكاس
 Name: Patch ClicFlyer
+
+Package: com.bekes-505.github.io.clicflyerpatchrootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 104
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/rootless/PatchClicflyerRootless.deb
+Size: 4352
+MD5sum: fac7733d5e44ee452e8661c380b96b8e
+SHA1: d8ce82335346b934c31e39e957a56c2d77060dec
+SHA256: 0c4aeadef2c5d1f069ef11a1a9d01cb2a8d940666457a23f318d0782c910c5dc
+Section: Tweaks
+Description: اداة وظيفتها : حذف الاعلانات من تطبيق كليك فلاير
+Author: BekEs - بيكاس
+Name: Patch ClicFlyer Rootless
 
 Package: com.bekes-505.github.io.copypasta
 Version: 1.3.4
