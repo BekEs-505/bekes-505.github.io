@@ -4158,10 +4158,11 @@ Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/TitCockRootless.deb
-Size: 37794
-MD5sum: c9dc6f1ac2e73c2e2a19ce832db9947c
-SHA1: d2f698143e734336921f92def38978a9166cffb4
-SHA256: b1d733906062b22f913f14a0dc718c862bb5cc9b2ee50e68a00384aa444aa7c1
+Size: 37812
+MD5sum: 09c992424ab11d8c08d7ee78afebe61d
+SHA1: cd564ffa3e5871d5629510818a8cd3f9828e8c5a
+SHA256: 220236df7ee514ee170ae32427c4dd02b22e7c6f948be48d100d970ffa0b633b
+Section: Tweaks
 Description: اداة وظيفتها : تيك توك بلس خفيفه بدون اعدادات تحميل من التيك التوك لاتظهر لك أي بثوث مباشره وتخفي الاعلانات
 Author: BekEs - بيكاس
 Name: TitCock Rootless
@@ -4183,6 +4184,24 @@ Priority: optional
 Description: اداة وظيفتها : تغيير الالوان بداخل تطبيق الاعدادات و تغيير لون لوحة المفاتيح بالاعدادات و مع امكانية تغيير مسمى الاعدادات لي اسم تختارة
 Author: BekEs - بيكاس
 Name: TOPsettings
+
+Package: com.bekes-505.github.io.translation
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/rootful/Translation.deb
+Size: 174702
+MD5sum: 4b26a0e98504a41d1909f753e74f43b8
+SHA1: 38e941b93412b2751fb84c36b2017e40babd9e85
+SHA256: 3dbd0af34701bca2fc7af7a0dbabf1359e726078d4ab23fed2090932f66643cd
+Section: Tweaks
+Description: اداة وظيفتها : ترجمة النصوص من اي مكان ومن اي تطبيق في الجهاز الى اللغة العربية او غيرها من اللغات ايضاً بامكانك نسخ الترجمة
+Tag: purpose::extension
+Author: BekEs - بيكاس
+Dev: skypain
+Name: Translation
 
 Package: com.bekes-505.github.io.tranzlo
 Version: 3.5
@@ -4547,16 +4566,16 @@ Author: BekEs - بيكاس
 Name: Watusi 3 for WhatsApp Rootless
 
 Package: com.bekes-505.github.io.whatsapprevael
-Version: 10.22-1+debug
+Version: 10.23-1+debug
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/rootful/WhatsappRevael.deb
-Size: 1430752
-MD5sum: 525cf4dcca2c952db56fadda5bf2c1d1
-SHA1: 6ae611d6016a92057ecbab0adcd063d5b1dca5ed
-SHA256: a436bfa9a66e2567151d8d66fdd50cb256d390b44d5e31bbebe602cb3df645b4
+Size: 1523892
+MD5sum: 17ab6b913426ba86dbb5359310bdfd5c
+SHA1: 5caf4566a7a7d745e68b25036f66f1dcf5863b61
+SHA256: b0f9ba08bc5ffb141d5bd57172f2a4cfb62d3b64212265e2c03af3e5693ea5b8
 Section: Tweaks
 Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
@@ -4564,17 +4583,17 @@ Author: BekEs - بيكاس
 Name: Whatsapp Revael
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.bekes-505.github.io.whatsapprotless
-Version: 10.22-1+debug
+Package: com.bekes-505.github.io.whatsapprevaelrotles
+Version: 10.23-1+debug
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: org.thebigboss.whatsapprevaelrootless
 Filename: ./debs/rootless/WhatsappRevaelRootless.deb
-Size: 1430894
-MD5sum: edc4b8108ba1b87c84339d34d03018a7
-SHA1: be6afec61eb72a24c07d1dc22c2f2e8045bafd5f
-SHA256: b15a65ca5b5f287b94742f72e032c9b411e218009f66256e4e6af59c52a89929
+Size: 1524044
+MD5sum: e031998503f212ad2854291a95a5c4d6
+SHA1: 104ab4ab4367435d6f7ec6c263b713678b2745a1
+SHA256: 7f525257e0577ead4031f3cdc0eab0002a02a8c64187f796709f0b92c73f6928
 Section: Tweaks
 Description: اداة وظيفتها : مميزات للواتس اخفاء الاتصال و اخفاء القراءة و ارسال مقطع طويل بالستوري بدون قص تعطيك الكثير من المميزات في تطبيق الواتساب وات ساب بلس
 Tag: purpose::extension
@@ -4741,32 +4760,32 @@ Author: BekEs - بيكاس
 Name: YouTube Reborn Rootless
 
 Package: com.bekes-505.github.io.ytlite
-Version: 2.6.3
+Version: 4.0.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 328
+Installed-Size: 15596
 Depends: mobilesubstrate
 Filename: ./debs/rootful/YTLite.deb
-Size: 98666
-MD5sum: c1b9e678476929b9baea905809938fda
-SHA1: 99e47bc99ed3d6cd9c9e81c0159b11ac77cffc83
-SHA256: 4a78a9938938695732af76493ad3ab40aa69afdad8d7b3bfca8b0ba3f76fcd84
+Size: 7695984
+MD5sum: 7f62034abc4d71760e64f4f3a760ca4b
+SHA1: 987003447a1ce78f7d86af28413c6f006c884747
+SHA256: 5e8d6269af28bc0e0d616041b6deffe0f9e04fca2308486319c628cb6309fef9
 Section: Tweaks
 Description: اداة وظيفتها : يوتيوب بلس حذف الاعلانات والتشغيل في الخلفيه ومميزات اخفاء وحفظ ونسخ
 Author: BekEs - بيكاس
 Name: YTLite
 
 Package: com.bekes-505.github.io.ytliterootless
-Version: 2.6.3
+Version: 4.0.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 328
+Installed-Size: 15596
 Depends: mobilesubstrate
 Filename: ./debs/rootless/YTLiteRootless.deb
-Size: 98758
-MD5sum: 90d5fc4e9bc6c0d858590b26c3184877
-SHA1: 31f27bb3ae145409af91ff3504b0338ca3ff56ad
-SHA256: 328ba83df6972adc6c8d04ad76aecea3743936c03a98bc4b49c2c100b95c0025
+Size: 7695772
+MD5sum: 9648a2ed04ea31bff06ed330340d7a90
+SHA1: c185fc74a9cf79e5a2bffd6429c0986df5019cd5
+SHA256: 777c3698bf4691bbc283ac22f6703ed1ccded99090b3d38735c82f797139cc5f
 Section: Tweaks
 Description: اداة وظيفتها : يوتيوب بلس حذف الاعلانات والتشغيل في الخلفيه ومميزات اخفاء وحفظ ونسخ
 Author: BekEs - بيكاس
@@ -4789,16 +4808,16 @@ Author: BekEs - بيكاس
 Name: Yuna
 
 Package: com.bekes-505.github.io.zetsu
-Version: 1.5
+Version: 1.6.2
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 10996
+Installed-Size: 11997
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
 Filename: ./debs/rootful/Zetsu.deb
-Size: 9989810
-MD5sum: abdba6060158c52e0d99724c89700b83
-SHA1: f7b40f65c10e476a233f520493bcaf7b8f08150d
-SHA256: 4dcadfb32dfa4f0c0784852af0023da341cb74bd1a8e2ab7a10c2f5345997e10
+Size: 10444894
+MD5sum: bf133ab1cfa925830a6b5b37c3422be4
+SHA1: 25f479ae3c84fa2528c4adaaf2f9688ea06a0e5c
+SHA256: 2de0a8d9eb467e7498cb5311716acd69f9466fa19f9a7dd555e3b5c79635ae25
 Section: Tweaks
 Description: اداة وظيفتها : تمكنك من فتح اكثر من تطبيق على شكل نوافذ مع امكانية تصفحهم في وقت واحد
 Tag: compatible_min::ios15.0
@@ -4806,16 +4825,16 @@ Author: BekEs - بيكاس
 Name: Zetsu
 
 Package: com.bekes-505.github.io.zetsurootless
-Version: 1.5
+Version: 1.6.2
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 11004
+Installed-Size: 12005
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
 Filename: ./debs/rootless/ZetsuRootless.deb
-Size: 9990186
-MD5sum: 6650a377e7af61240926ebd2f7abf152
-SHA1: b53b81573373cc0fd26f2079cbb4d26959b7969b
-SHA256: 02184b694ee67941f38be8ba55d72afa6a24fc7515c98edda8f6782165f104f4
+Size: 10445306
+MD5sum: 18defd0c2b4cd9a811566aa6b07ade0e
+SHA1: 1cc5970ef41538638b9b4b24eb67aa2e1c8274ae
+SHA256: ac5ece8bd67e2bb4414466edbef17a3f5cca8a217b44b58adbf0f57a9139f735
 Section: Tweaks
 Description: اداة وظيفتها : تمكنك من فتح اكثر من تطبيق على شكل نوافذ مع امكانية تصفحهم في وقت واحد
 Tag: compatible_min::ios15.0
@@ -5119,4 +5138,22 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Author: BekEs - بيكاس
 Name: Z.libcolorpicker Rootless
+
+Package: ru.rejail.tetherme8
+Version: 2.1.1k
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 23050
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/rootful/TetherMeforiOS8+.deb
+Size: 11412750
+MD5sum: b4caf22382b392c668cb5fe955c9ff0c
+SHA1: a4817bb0f85c2d34e254346ab8a63df3279335f7
+SHA256: 469989cd3630678cd3f48ef8cf74a166e8b6d8d691ff347b8767b1c94952fac8
+Section: Tweaks
+Description: اداة وظيفتها : عند فتح نقطة الاتصال في الايفون يتم تحويلها الى راوتر بمعنى اذا احد شبك معك على نقطة الاتصال كانه شابك على راوتر خارجي وتكون الشبكه قوية
+Author: BekEs - بيكاس
+Name: TetherMe for iOS 8+
 
