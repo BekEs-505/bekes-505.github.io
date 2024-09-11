@@ -784,6 +784,53 @@ Description: اداة وظيفتها : تقديم المقطع في المشغل
 Author: BekEs - بيكاس
 Name: AVTools Rootless
 
+Package: com.bekes-505.github.io.background15rootless
+Version: 0.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Depends: mobilesubstrate, com.opa334.ccsupport
+Conflicts: jp.akusio.backgrounderaction15
+Replaces: jp.akusio.backgrounderaction15
+Provides: jp.akusio.backgrounderaction15 (= 0.1.0)
+Filename: ./debs/rootless/BackgrounderAction15CCSupportRootless.deb
+Size: 17282
+MD5sum: 29c3288120f8e32a22047dbc78aa0675
+SHA1: 407d8d1fd79de7b71baa97dfe6a942090b191768
+SHA256: f5e8d13a9bf19d325ddf8223a1a0f2fc3a76a20ca2ba92abafd8c4670633a4e6
+Section: Tweaks
+Description: اداة وظيفتها : تشغيل اي مقطع فيديو او صوت في الخلفيه من اليوتيوب وتويتر والانستقرام واتساب، والبوم الصور
+Author: BekEs - بيكاس
+Name: BackgrounderAction15 CCSupport Rootless
+
+Package: com.bekes-505.github.io.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Filename: ./debs/rootful/BackgrounderAction2forCCSupport.deb
+Size: 16178
+MD5sum: bf1c6c061604a229c8bb781281d74567
+SHA1: cd0260efc3eedff999cbc809edd09a8403fca03f
+SHA256: 582fa9e85fbe613bb8c5ced5a678afed9bf4815ea2c0a2cceb7adb51d9517f9e
+Section: Tweaks
+Description: اداة وظيفتها : تشغيل اي مقطع فيديو او صوت في الخلفيه من اليوتيوب وتويتر والانستقرام واتساب، والبوم الصور
+Author: BekEs - بيكاس
+Name: BackgrounderAction2 for CCSupport
+
+Package: com.bekes-505.github.io.backgrounderaction15
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/rootful/BackgrounderAction15CCSupport.deb
+Size: 31356
+MD5sum: 627868d3462418f0c1dcf2e3595fbd08
+SHA1: e04f5be31cdbcd35459714fc5dae87afaa63bff2
+SHA256: fc5399f7abe299369ead3167bd145425411f44a7ec9a9d1f3e1c356f100d08f2
+Section: Tweaks
+Description: اداة وظيفتها : تشغيل اي مقطع فيديو او صوت في الخلفيه من اليوتيوب وتويتر والانستقرام واتساب، والبوم الصور
+Author: BekEs - بيكاس
+Name: BackgrounderAction15 CCSupport
+
 Package: com.bekes-505.github.io.backrunner
 Version: 0.1.7
 Architecture: iphoneos-arm
@@ -1934,35 +1981,35 @@ Author: BekEs - بيكاس
 Name: FloatingDockXVI Rootless
 
 Package: com.bekes-505.github.io.fouackoff104033
-Version: 1.0.1
+Version: 2.0.0
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 280
+Installed-Size: 560
 Depends: mobilesubstrate
-Replaces: com.bekes-505.github.io.fouackoff147162
+Replaces: xyz.cypwn.getfouaded
 Filename: ./debs/rootful/FouadCrack.deb
-Size: 71228
-MD5sum: 674b66f6dd645dfff49e9011c75dfe29
-SHA1: bfc9cdd648c5aae1f76a0a6da119a591642e9a17
-SHA256: a8f5f5f1e9fe56a9cde4be7c839790f41ec13fc4f95ed68c3279187e1e5db83d
-Section: Tweak
+Size: 123862
+MD5sum: 31757dd78c33e630f95248d9c39cdd30
+SHA1: 6414e5a7296082a1b20b356fd3276e090585fc05
+SHA256: 09a4a416ac061bc74cfdcf37198fff16fa168d3313ed0d1e03c546feb66bad8a
+Section: Tweaks
 Description: اداة وظيفتها : كراك جميع ادوات الواتساب لفتح جميع المميزات
 Author: BekEs - بيكاس
 Name: Fouad Crack
 
 Package: com.bekes-505.github.io.fouackorootless
-Version: 1.0.1
+Version: 2.0.0
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 280
+Installed-Size: 560
 Depends: mobilesubstrate
-Replaces: com.bekes-505.github.io.fouackoff147162
+Replaces: xyz.cypwn.getfouaded
 Filename: ./debs/rootless/FouadCrackRootless.deb
-Size: 76114
-MD5sum: 72a9dd2e4df7d94154e3c60e44946bbb
-SHA1: 5211ad9969a9d747740b74ec91b4913cf3677fd4
-SHA256: f718f9d619e4caffc1ea4e8f98d645a6949d0b08f7f49dacde6e9aefa7587525
-Section: Tweak
+Size: 129124
+MD5sum: d2c09b323d49dcf2a2ed57c5b2346b3e
+SHA1: 9de396fe47eb68ef37ed64674f019bdf9be2f170
+SHA256: 19e3ba273e78df9e1e22fc1f6226ba7c7f9a915834473c1990d647a1e3bcff57
+Section: Tweaks
 Description: اداة وظيفتها : كراك جميع ادوات الواتساب لفتح جميع المميزات
 Author: BekEs - بيكاس
 Name: Fouad Crack Rootless
@@ -2047,6 +2094,22 @@ Section: Tweaks
 Description: اداة وظيفتها : هز الجوال جعل ايقونات الشاشة الرئيسية تتحرك
 Author: BekEs - بيكاس
 Name: Gravity
+
+Package: com.bekes-505.github.io.harbi
+Version: 3.0.0
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>=14.0.0)
+Filename: ./debs/rootful/Harbi.deb
+Size: 8573180
+MD5sum: 5d88079eadef2f6d23f79f1a7c3a1d04
+SHA1: d10629c0bb023323fc4f44d9b2a959221a62945f
+SHA256: 3bf1d6608e474ec52f5c80399385838ea7cf943b9016e1fa58244ab02c7a5753
+Section: Tweaks
+Description: تطبيق ثغرة التيك توك اليوزر بالعربي او زخرفه او رموز
+Author: BekEs - بيكاس
+Name: Harbi
+Tags: compatible_min::ios14.0.0
 
 Package: com.bekes-505.github.io.harbor10
 Version: 1.1.6
@@ -3399,16 +3462,16 @@ Author: BekEs - بيكاس
 Name: RGBoard Rootless
 
 Package: com.bekes-505.github.io.rocket
-Version: 3.8.27
+Version: 3.8.29
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/rootful/RocketforInstagram.deb
-Size: 2292710
-MD5sum: 6ce74a57cff2e7730f771613b9f8e189
-SHA1: e3f29fe3d8839a6556562e3132953ee4c70a4adc
-SHA256: 725022bf8fd8707908c71e1144e06d4a89e4d473298939a4b925a2053443fc61
+Size: 2291782
+MD5sum: b08bf87954c0cd84c2dd50cd2f3b45e8
+SHA1: a88659439d85f759002324a8cb0d953d305982b1
+SHA256: 5210d32a72179debc051f9747eb9be648f01beccf6e2f34a5c3c619ac658900b
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -3416,16 +3479,16 @@ Author: BekEs - بيكاس
 Name: Rocket for Instagram
 
 Package: com.bekes-505.github.io.rocketrootless
-Version: 3.8.27
+Version: 3.8.29
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
 Installed-Size: 6588
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/rootless/RocketForInstagramRootless.deb
-Size: 2293796
-MD5sum: e29e87c7218b954be07ecb4c6ffbb478
-SHA1: 10880320016105caad4bc42ab3c0b2c644d15eff
-SHA256: c67ea8a7e375f06430af600b748a7884a794bac163ac542d116455d9d85f436a
+Filename: ./debs/rootless/RocketforInstagramRootless.deb
+Size: 2292768
+MD5sum: eb006543d7669b5b879d71c5b7168f52
+SHA1: 37ac4bfa37768e6e772ddc708cf69f4edd01b401
+SHA256: d01c8e50afcf7f395100b19f5b8d3e89b2938ee7bf7b7b946f7bf2928d737ae0
 Section: Tweaks
 Priority: optional
 Description: اداة وظيفتها : انستقرام بلس لتحميل وحفظ واخفاء الظهور ومميزات كثيرة
@@ -3613,6 +3676,28 @@ Section: Tweaks
 Description: اداة وظيفتها : اخفاء الجلبريك عن التطبيقات والبنوك ومنع كشف الجلبريك التفعيل من الاعدادات
 Author: BekEs - بيكاس
 Name: Shadow
+
+Package: com.bekes-505.github.io.shadowrootless
+Version: 3.7.6
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 1076
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: ./debs/rootless/ShadowRootless.deb
+Size: 170352
+MD5sum: e3e1ef06087eaf8f6345e4c995d21d65
+SHA1: 4dda0f1532c65b4f0a3f1be24f15a04d9912fc31
+SHA256: 4a2547174c930b8b24d4b775971268a3a76af27d2145c94ea6c191c33950fdc8
+Section: Tweaks
+Description: اداة وظيفتها : اخفاء الجلبريك عن التطبيقات والبنوك ومنع كشف الجلبريك التفعيل من الاعدادات
+Author: BekEs - بيكاس
+Name: Shadow Rootless
 
 Package: com.bekes-505.github.io.shadowx
 Version: 2.0.2
@@ -3884,6 +3969,38 @@ Description: اداة وظيفتها : تصوير الخفي بدون علم ا�
 Author: BekEs - بيكاس
 Name: SneakyCam Rootless
 Sponsor: BekEs - بيكاس
+
+Package: com.bekes-505.github.io.snipertool
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, ws.hbang.common (>= 1.17)
+Filename: ./debs/rootful/SniperTool.deb
+Size: 36870
+MD5sum: 246c8230fa03e29c3d71b975802b0113
+SHA1: b9b0882cef8c5f61f96897f54dac3a3de0e75f0c
+SHA256: 3599508362ad867ff3ebf4be2113423ffde4c3082b2de1e4757eef8feff07153
+Section: Tweaks
+Description: اداة وظيفتها : أداة لإزالة الإعلانات من التطبيقات حدد التطبيق الذي تريد منع الإعلانات
+Author: BekEs - بيكاس
+Name: SniperTool
+
+Package: com.bekes-505.github.io.snipertoolrootless
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 364
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/SniperToolRootless.deb
+Size: 44918
+MD5sum: e388ae84942096cfa000ae01f1515661
+SHA1: de17dd9d44d79025804b7c3af7d8ebad2db9b40e
+SHA256: bd4734eb49aa50c790e6a0a4d6d0d2687db9278664b5756d3be1710befb7674c
+Section: Tweaks
+Description: اداة وظيفتها : أداة لإزالة الإعلانات من التطبيقات حدد التطبيق الذي تريد منع الإعلانات
+Author: BekEs - بيكاس
+Name: SniperTool Rootless
 
 Package: com.bekes-505.github.io.spore
 Version: 1.0.2
@@ -4250,30 +4367,62 @@ Author: BekEs - بيكاس
 Name: TrollPad Rootless
 
 Package: com.bekes-505.github.io.trollstorehelper
-Version: 2.0.9
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 4300
+Installed-Size: 4400
 Filename: ./debs/rootful/TrollStoreHelper.deb
-Size: 2283750
-MD5sum: 4492ff5c415789f8f5441330e309f037
-SHA1: 59ecc4baa70d3a72594561deeab85536c1485638
-SHA256: a37c118a7e245cb670b094d6b1354d48c31735fe5c21cdea318169d3f70ea8b2
+Size: 2332332
+MD5sum: 44cc751ff1337f5ceed889525e81756f
+SHA1: 56d9d0e8a18ac6e198dc6729e7fb3f19acdb388a
+SHA256: 1b4f9915363207c48c0221486751041d64a41a8545889fd7c92404ae87a07c62
 Section: Tweaks
 Description: ادوات وظيفتها : توقيع التطبيقات بشهادة لا نهايه مدى الحياة
 Author: BekEs - بيكاس
 Name: TrollStore Helper
 
-Package: com.bekes-505.github.io.trollstorerotles
-Version: 2.0.9
+Package: com.bekes-505.github.io.trollstorelite
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 608
+Depends: ldid
+Filename: ./debs/rootful/TrollStoreLite.deb
+Size: 257560
+MD5sum: 75b4036505426d39353d7f9371549a6a
+SHA1: b8f51341a6f853819bf2ba813b386ef17767396a
+SHA256: f9358c0806105e38a69d83c1d3ec65671ba5d52a48460e84fe37a0a4df8a7b61
+Section: Applications
+Description: ادوات وظيفتها : توقيع التطبيقات بشهادة لا نهايه مدى الحياة
+Author: BekEs - بيكاس
+Name: TrollStore Lite
+
+Package: com.bekes-505.github.io.trollstoreliterootless
+Version: 2.1
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 4300
+Installed-Size: 608
+Depends: ldid
+Filename: ./debs/rootless/TrollStoreLiteRootless.deb
+Size: 257562
+MD5sum: 079b51f3ec0000e135529b6ea627893c
+SHA1: 62040bee66c1be681b60c93ef8e33b0f0af8e40a
+SHA256: faff6d63177d2042dc2df3e26dff87f6b768624c906fddbcccd554114c061825
+Section: Tweaks
+Description: ادوات وظيفتها : توقيع التطبيقات بشهادة لا نهايه مدى الحياة
+Author: BekEs - بيكاس
+Name: TrollStore Lite Rootless
+
+Package: com.bekes-505.github.io.trollstorerotles
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: @B6_7E
+Installed-Size: 4400
 Filename: ./debs/rootless/TrollStoreHelperRootless.deb
-Size: 2283896
-MD5sum: 97d836464f3103d633a8911847e969ab
-SHA1: 19bd178b4cbde7093ff8a8c1d5aa76efbbdbf6af
-SHA256: 4cf39e9f947975cc1689a92fd678076d35b641a31ae4790800563470b9087d50
+Size: 2332444
+MD5sum: 2b8bfcc50dd9b0d45179cd000be5f696
+SHA1: ece4075bda1528bf7f38ec02c6d27df800bb6f97
+SHA256: 6121ba1839989d450004412ffc86ce01f02e55c6bc4e148f1f344d48357bc48c
 Section: Tweaks
 Description: ادوات وظيفتها : توقيع التطبيقات بشهادة لا نهايه مدى الحياة
 Author: BekEs - بيكاس
@@ -4483,6 +4632,22 @@ Author: BekEs - بيكاس
 Mainlibmd5: 95b043ad4be47413b25c80f465cb2c32
 Name: VoiceChanger XS
 
+Package: com.bekes-505.github.io.wasnipertool
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 640
+Depends: mobilesubstrate
+Filename: ./debs/rootful/‎WASniperTool.deb
+Size: 340812
+MD5sum: eb47f83baaf637c6607651b30815f1a9
+SHA1: 247efacf15ba22fc4603627c3440b07700ab8ba7
+SHA256: 6391352bf5157b815f5d92e90eb625c9c13786efa7c67a7155712ff5b75361da
+Section: Tweaks
+Description: اداة وظيفتها : وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ
+Author: BekEs - بيكاس
+Name: ‎WASniperTool
+
 Package: com.bekes-505.github.io.watched
 Version: 1.1-8+debug
 Architecture: iphoneos-arm
@@ -4532,34 +4697,34 @@ Author: BekEs - بيكاس
 Name: Watched Rootless
 
 Package: com.bekes-505.github.io.watusi3
-Version: 1.2.14
+Version: 1.2.40
 Architecture: iphoneos-arm
 Maintainer: @B6_7E
-Installed-Size: 6772
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.17), com.muirey03.libmryipc
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Installed-Size: 7176
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33), com.muirey03.libmryipc
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi
 Filename: ./debs/rootful/Watusi3forWhatsApp.deb
-Size: 2647488
-MD5sum: 95308b16d534345d247e6383986dcdfd
-SHA1: bdbaa3a01a799948e0f2e4fb01404a7e510a5f33
-SHA256: 7d00233c702f43df7ac3fb49c99858798bc08c0dfd86749c32bab78212833b55
+Size: 2831460
+MD5sum: ea1d7c4d7f4e549dd3fcbf23f13f464e
+SHA1: 1e3715d795b4f98d1f534fce9ee42086c082b87b
+SHA256: 18e644bec4165de3e55333549ba895f51d03ed8eb9115745d31c6b93196e8e61
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
 Name: Watusi 3 for WhatsApp
 
 Package: com.bekes-505.github.io.watusi3rootless
-Version: 1.2.14
+Version: 1.2.40
 Architecture: iphoneos-arm64
 Maintainer: @B6_7E
-Installed-Size: 6604
-Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitoolsrootless (>= 2.4.17)
-Conflicts: com.fouadraheb.watusi, org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Installed-Size: 6660
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Conflicts: com.fouadraheb.watusi, com.f0u4d.watusi, org.thebigboss.watusi
 Filename: ./debs/rootless/Watusi3forWhatsAppRootless.deb
-Size: 2572846
-MD5sum: fc4440c9b2e9a55247b2fde1549767b4
-SHA1: 5fa8852527b69622dba700076b2e5f31092c3e51
-SHA256: aa53c3fc4eb83d447888aad90c744e29f4f5c8c897a40158c66475ae45bc55d7
+Size: 2550616
+MD5sum: eb5e2b5e7129a5e13d5151bb9384042a
+SHA1: 0a56b8decdb4dea56470a7108710fa4cc31e6dd2
+SHA256: 4f5c3fd78c56b2feb1d76591ad7efbda0fa8217f2dddc2a76f81f1d4c9a2de64
 Section: Tweaks
 Description: اداة وظيفتها : واتسي وات ساب بلس فيها مميزات كثيره للواتس النسخھ الجديدھ بممزات جديدھ مثلاً تجميد الظهور تحميل من الستوري وغيرھ
 Author: BekEs - بيكاس
@@ -4906,38 +5071,36 @@ Author: BekEs - بيكاس
 Name: Z.libCSColorPicker
 
 Package: com.f0u4d.watusitools
-Version: 2.4.18
-Architecture: iphoneos-arm
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 10.0), darwintools
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
-Filename: ./debs/rootful/WatusiTools.deb
-Size: 5979310
-MD5sum: 28b35f8f449d98066336011f7d6a3c03
-SHA1: 3cc3d0ee433a2e115b5407c4e33f8fd4aea7dd38
-SHA256: 6a65c884ccb95d47243bd906b4d4c484ea07988ffbe02f2c2673efa5b838102b
-Section: Tweaks
-Description: Library for Watusi and WhatsApp tweaks
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-Name: WatusiTools
-
-Package: com.f0u4d.watusitoolsrootless
-Version: 2.4.18
+Version: 2.4.35
 Architecture: iphoneos-arm64
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 10.0), darwintools
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Maintainer: @B6_7E
+Depends: firmware (>= 12.0)
+Conflicts: org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
 Filename: ./debs/rootless/WatusiToolsRootless.deb
-Size: 6028136
-MD5sum: d02e3f9f0f92d8eee530891418748c65
-SHA1: 9b861c8cba277de2005f05abd4bcd73d313d1fb1
-SHA256: f2ef1e7e2aa81c87ef58db74bbcd94502a284ce1310c93bdaaaa162e65dc062d
+Size: 6170136
+MD5sum: 81faeb29d9f94a5a251654ca76931111
+SHA1: b11cf63c6069c8b9f1f8b62bc656f0a2b690ae64
+SHA256: da5b4ce60ac039d9588d688e3832614bb098bef34c3f435599cba73785ecf9e9
 Section: Tweaks
-Description: Library for Watusi and WhatsApp tweaks
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+Description: Library for Watusi, Regram and other tweaks
+Author: BekEs - بيكاس
 Name: WatusiTools Rootless
+
+Package: com.f0u4d.watusitools
+Version: 2.4.35
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Depends: firmware (>= 12.0)
+Conflicts: org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/rootful/WatusiTools.deb
+Size: 6121012
+MD5sum: d9514ddc40a51dc5d1abdd39e3e38c66
+SHA1: 4ecb7b19afb21bbc505981681131d06b2abd6938
+SHA256: 3c91fd6d02bc56bf06009559cdd46accace7068385bed93e98a0e197317b82f2
+Section: Tweaks
+Description: Library for Watusi, Regram and other tweaks
+Author: BekEs - بيكاس
+Name: WatusiTools
 
 Package: com.haoict.libhdev
 Version: 4.8.1
@@ -5138,6 +5301,23 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Author: BekEs - بيكاس
 Name: Z.libcolorpicker Rootless
+
+Package: re.frida.server
+Version: 15.1.14
+Architecture: iphoneos-arm
+Maintainer: @B6_7E
+Installed-Size: 55992
+Conflicts: re.frida.server64
+Filename: ./debs/rootful/Frida.deb
+Size: 24845456
+MD5sum: 1e582b6ee30fca778adbf1dfe0e7cd83
+SHA1: 3b18b1583d1d4372d8f15c9ae26533c2d21796b4
+SHA256: b8a1641eeea20b49e57cfd166b4f74ffd86c93db64885f9fd2451e529b59d45b
+Section: Tweaks
+Priority: optional
+Description: Inject JavaScript to explore iOS apps over USB.
+Author: BekEs - بيكاس
+Name: Frida
 
 Package: ru.rejail.tetherme8
 Version: 2.1.1k
